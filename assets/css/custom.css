@@ -82,20 +82,20 @@ button#submit {
 
 @media only screen and (min-width: 480px) {
   body {
-    font-size: 30px;
+    font-size: 500%;
+  }
+  
+  h1, h2 {
+    font-size: 180%;
   }
 
   .main-panel {
     top: 0;
-    /*width: 100%*/
-  }
-
-  .panel {
-    width: 50%;
+    width: 100%
   }
 
   .container {
-    /*width: 100%;*/
+    width: 100%;
   }
 
   .display-text {
@@ -103,8 +103,10 @@ button#submit {
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    /*width: 100%;*/
+    width: 100%;
     margin-bottom: 0;
+    padding: 30px;
+    height: 300px;
   }
 
   textarea.answer {
@@ -112,8 +114,10 @@ button#submit {
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    /*width: 100%;*/
+    width: 100%;
     margin-top: 0;
+    padding: 20px;
+    height: 300px;
   }
 
   button#submit {
@@ -121,7 +125,11 @@ button#submit {
     right: 0;
     margin-left: auto;
     margin-right: auto;
-    /*width: 100%;*/
-    font-size: 30px;
+    width: 100%;
+    font-size: 100%;
+  }
+
+  img.navbar-brand {
+    height: 100px;
   }
 }
