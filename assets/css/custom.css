@@ -87,11 +87,15 @@ button#submit {
 
   .main-panel {
     top: 0;
-    width: 100%
+    /*width: 100%*/
+  }
+
+  .panel {
+    width: 50%;
   }
 
   .container {
-    width: 100%;
+    /*width: 100%;*/
   }
 
   .display-text {
@@ -99,7 +103,7 @@ button#submit {
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
+    /*width: 100%;*/
     margin-bottom: 0;
   }
 
@@ -108,7 +112,7 @@ button#submit {
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
+    /*width: 100%;*/
     margin-top: 0;
   }
 
@@ -117,7 +121,7 @@ button#submit {
     right: 0;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
+    /*width: 100%;*/
     font-size: 30px;
   }
 }
