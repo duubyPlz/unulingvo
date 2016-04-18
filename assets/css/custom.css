@@ -80,7 +80,7 @@ button#submit {
   right: 40px;
 }
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (min-width: 480px) {
   .main-panel {
     width: 100%;
     margin: 0;
