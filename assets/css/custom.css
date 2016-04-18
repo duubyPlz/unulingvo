@@ -79,3 +79,36 @@ button#submit {
   position: relative;
   right: 40px;
 }
+
+@media only screen and (max-device-width: 480px) {
+  .main-panel {
+    width: 100%;
+    margin: 0;
+  }
+
+  .display-text {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-bottom: 0;
+  }
+
+  textarea.answer {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-top: 0;
+  }
+
+  button#submit {
+    display: block;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+}
