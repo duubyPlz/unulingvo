@@ -1,0 +1,81 @@
+body {
+  /*font-family: 'Varela Round', sans-serif;*/
+  font-family: 'Dosis', sans-serif;
+  font-size: 18px;
+  background-color: #e9e9e9;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Dosis', sans-serif;
+}
+
+.main-panel {
+  position: relative;
+  top: 120px;
+  text-align: center;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.panel {
+  -webkit-box-shadow: 0 0 30px rgba(0,0,0,0.08);
+  -moz-box-shadow: 0 0 30px rgba(0,0,0,0.08);
+  box-shadow: 0 0 30px rgba(0,0,0,0.08);
+}
+
+.display-text {
+  cursor: default;
+  display: inline-block;
+  line-height: 26px;
+  -webkit-box-shadow: 0 0 8px rgba(0,0,0,0.12);
+  -moz-box-shadow: 0 0 8px rgba(0,0,0,0.12);
+  box-shadow: 0 0 8px rgba(0,0,0,0.12);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  text-align: left;
+  padding: 15px 20px 20px 19px;
+  min-height: 100px;
+  width: 300px;
+  margin: 30px;
+}
+
+textarea.answer {
+  margin: 30px;
+  overflow: hidden;
+  word-wrap: break-word;
+  resize: none;
+  min-height: 100px;
+  width: 300px;
+  border-radius: 10px;
+  -webkit-box-shadow: 0 0 8px rgba(0,0,0,0.12);
+  -moz-box-shadow: 0 0 8px rgba(0,0,0,0.12);
+  box-shadow: 0 0 8px rgba(0,0,0,0.12);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border: 1px solid #ebebeb;
+  /*padding: 15px 20px 20px 19px;*/
+  padding: 8px 10px;
+}
+
+img.navbar-brand {
+  height: 60px;
+  padding: 10px 5px 5px 40px;
+}
+
+.btn {
+  border-radius: 100px;
+  min-width: 150px;
+}
+
+button.btn-green {
+  background: #7eb530;
+  color: #fff;
+  border-color: #7eb530;
+}
+
+button#submit {
+  position: relative;
+  right: 40px;
+}
