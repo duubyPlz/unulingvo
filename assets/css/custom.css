@@ -81,9 +81,17 @@ button#submit {
 }
 
 @media only screen and (min-width: 480px) {
+  body {
+    font-size: 24px;
+  }
+
   .main-panel {
+    top: 0;
+    width: 100%
+  }
+
+  .container {
     width: 100%;
-    margin: 0;
   }
 
   .display-text {
