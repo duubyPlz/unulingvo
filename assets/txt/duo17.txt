@@ -15,8 +15,8 @@
     O: Li estas mia nevo.
     E: He is my nephew.
 
-    E: Ŝi volas sendi leteron al siaj gepatroj.
-    O: She wants to send a letter to her parents.
+    O: Ŝi volas sendi leteron al siaj gepatroj.
+    E: She wants to send a letter to her parents.
 
     O: Patro kaj filo.
     E: Father and son.
