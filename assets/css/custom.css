@@ -84,7 +84,7 @@ button#submit {
   min-width: 815px;
 }
 
-.mobile {
+.media {
   color: blue;
 }
 
@@ -142,14 +142,14 @@ button#submit {
     height: 100px;
   }
 
-  .mobile {
+  .media {
     color: green;
   }
 }
 
 @media screen and (min-device-width: 481px)
               and (max-device-width: 768px) {
-  .mobile {
+  .media {
     color: red;
   }
 
