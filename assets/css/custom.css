@@ -116,6 +116,14 @@ select#contents {
   width: 300px;
 }
 
+#arrow {
+  position: absolute;
+  display:inline;
+  color: orange;
+  top: 120px;
+  left: 395px;
+}
+
 @media screen and (max-device-width: 768px)
               and (orientation: portrait) {
   body {
