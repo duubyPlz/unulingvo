@@ -6,9 +6,9 @@ if (!$.isNumeric(selectedModule)) {
 // a) Parse
 parse(selectedModule);
 
+var correctEO = "";
 // b) Display
 setTimeout(function () {
-    console.log("now: " + Object.keys(hash).length);
     display();
 }, 1000);
 
@@ -16,20 +16,24 @@ setTimeout(function () {
 // 2. If module is changed, reparse & display
 $('select#contents').change(function() {
     selectedModule = $('select#contents').val();
-    console.log("change " + selectedModule);
+    // console.log("change " + selectedModule);
     if (!$.isNumeric(selectedModule)) {
         $.error("Selected module isn't a valid one: " + selectedModule);
     }
     parse(selectedModule);
     setTimeout(function () {
-        console.log("now: " + Object.keys(hash).length);
         display();
     }, 1000);
 });
 
-// 3. Check results, see if input field is correct
-
-
+// 3. Logic - check results, see if input field is correct
+$('button#checking').on('click', logic);
+$('textarea#answer').keydown(function (e) {
+    if (e.keyCode == 13) {
+        e.preventDefault();
+        logic();
+    }
+})
 
 // Subroutines
 function parse(module) {
@@ -57,13 +61,39 @@ function parse(module) {
 
 function display() {
     var length = Object.keys(hash).length;
-    console.log(length);
+    // console.log(length);
     var index = Math.floor((Math.random() * (length - 1)) + 0);
     console.log("random: " + index);
 
     var keys = Object.keys(hash);
     var wantedEng = keys[index];
-    var wantedEsp = hash[wantedEng];
-    console.log(wantedEng + ' ' + wantedEsp);
+    correctEO = hash[wantedEng];
+    // console.log(wantedEng + ' ' + correctEO);
     $('.display-text').html(wantedEng);
+}
+
+function logic() {
+    var inputString = $('textarea#answer').val();
+    var sanitisedString = inputString.replace(/[^a-zA-Z0-9_\-.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ]/g, "");
+    var simplifiedEO = correctEO.replace(/[.?!,:]/g, "").toLowerCase();
+    var simplifiedString = sanitisedString.replace(/[.?!,:]/g, "").toLowerCase();
+    if (simplifiedEO === simplifiedString) {
+        // console.log("correct");
+        $('textarea#answer').addClass('correct');
+        // display new one
+        setTimeout(function () {
+            display();
+            $('textarea#answer').val('');
+            $('textarea#answer').removeClass('correct');
+        }, 1000);
+    } else {
+        // console.log("incorrect " + simplifiedString + " " + simplifiedEO);
+        // Change to correct answer
+        $('textarea#answer').addClass('incorrect');
+        $('textarea#answer').val(correctEO);
+        setTimeout(function() {
+            $('textarea#answer').removeClass('incorrect');
+            $('textarea#answer').val('');
+        }, 3000);
+    }
 }

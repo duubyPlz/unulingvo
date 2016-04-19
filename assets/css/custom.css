@@ -1,7 +1,7 @@
 body {
   /*font-family: 'Varela Round', sans-serif;*/
   font-family: 'Dosis', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   background-color: #e9e9e9;
 }
 
@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 30px;
 }
 
-textarea.answer {
+textarea#answer {
   margin: 30px;
   overflow: hidden;
   word-wrap: break-word;
@@ -57,6 +57,30 @@ textarea.answer {
   -moz-border-radius: 10px;
   border: 2px solid #ebebeb;
   padding: 8px 10px;
+}
+
+textarea#answer.correct {
+  border: 2px solid #7eb530;
+  color: #7eb530;
+  -webkit-box-shadow: 0 0 8px rgba(126,181,48,0.4);
+  -moz-box-shadow: 0 0 8px rgba(126,181,48,0.4);
+  box-shadow: 0 0 8px rgba(126,181,48,0.4);
+}
+
+textarea#answer.correct {
+  border: 2px solid #7eb530;
+  color: #7eb530;
+  -webkit-box-shadow: 0 0 8px rgba(126,181,48,0.4);
+  -moz-box-shadow: 0 0 8px rgba(126,181,48,0.4);
+  box-shadow: 0 0 8px rgba(126,181,48,0.4);
+}
+
+textarea#answer.incorrect {
+  border: 2px solid #dd381d;
+  color: #dd381d;
+  -webkit-box-shadow: 0 0 8px rgba(221,56,29,0.4);
+  -moz-box-shadow: 0 0 8px rgba(221,56,29,0.4);
+  box-shadow: 0 0 8px rgba(221,56,29,0.4);
 }
 
 img.navbar-brand {
@@ -125,6 +149,15 @@ select#contents {
   left: 395px;
 }
 
+div.popup {
+  height: 50px;
+  padding: 13px;
+  width: 100px;
+  color: white;
+  border-radius: 100px;
+  display: none;
+}
+
 @media screen and (max-device-width: 768px)
               and (orientation: portrait) {
   body {
@@ -156,7 +189,7 @@ select#contents {
     line-height: 100%;
   }
 
-  textarea.answer {
+  textarea#answer {
     display: block;
     position: relative;
     margin-left: auto;
@@ -229,7 +262,7 @@ select#contents {
     height: 150px;
   }
 
-  textarea.answer {
+  textarea#answer {
     display: block;
     position: relative;
     margin-left: auto;

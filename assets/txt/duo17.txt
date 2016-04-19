@@ -46,7 +46,7 @@
     O: Mia edzo prezentas ŝin al ni.
     E: My husband introduces her to us.
 
-    O: Ĝemelojn havas la samajn gepatrojn.
+    O: Ĝemeloj havas la samajn gepatrojn.
     E: Twins have the same parents.
 
     O: Niaj du filinoj dormas en la sama ĉambro.
