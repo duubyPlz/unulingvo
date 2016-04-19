@@ -88,8 +88,8 @@ button#submit {
   color: blue;
 }
 
-@media screen and (min-device-width: 0px)
-              and (max-device-width: 321px) {
+@media screen and (max-device-width: 768px)
+              and (orientation: portrait) {
   body {
     font-size: 500%;
   }
@@ -147,8 +147,8 @@ button#submit {
   }
 }
 
-@media screen and (min-device-width: 322px)
-              and (max-device-width: 481px) {
+@media screen and (max-device-width: 768px)
+              and (orientation: landscape) {
   .media {
     color: red;
   }
