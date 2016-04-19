@@ -17,8 +17,9 @@ parse(selectedModule);
 
 // 2. Display
 setTimeout(function () {
+    console.log("now: " + Object.keys(hash).length);
     display();
-});
+}, 2000);
 
 
 // If module is changed
@@ -30,8 +31,9 @@ $('select#contents').change(function() {
     }
     parse(selectedModule);
     setTimeout(function () {
+        console.log("now: " + Object.keys(hash).length);
         display();
-    });
+    }, 2000);
 });
 
 function parse(module) {
