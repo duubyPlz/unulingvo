@@ -136,3 +136,6 @@
 
     O: Kiu volas manĝi tiun pomon?
     E: Who wants to eat that apple?
+
+    O: Instruistoj ofte havas demandojn, sed infanoj ne ofte havas respondojn.
+    E: Teachers often have questions, but children don't often have answers.
