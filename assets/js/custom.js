@@ -87,7 +87,7 @@ function logic() {
             display();
             $('textarea#answer').val('');
             $('textarea#answer').removeClass('correct');
-        }, 1000);
+        }, 700);
     } else {
         // console.log("incorrect " + simplifiedString + " " + simplifiedEO);
         // Change to correct answer
