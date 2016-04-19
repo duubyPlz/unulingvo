@@ -256,6 +256,10 @@ footer.footer {
     top: 0;
     left: 0;
   }
+
+  footer.footer {
+    top: 0;
+  }
 }
 
 @media screen and (max-device-width: 768px)
@@ -332,5 +336,9 @@ footer.footer {
     position: relative;
     top: 0;
     left: 0;
+  }
+
+  footer.footer {
+    top: 0;
   }
 }
