@@ -105,7 +105,7 @@
     O: Ĉu vi havas prageavojn?
     E: Do you have great-grandparents?
 
-    E: La gepatroj de mia edzo estas miaj bogepatroj.
+    O: La gepatroj de mia edzo estas miaj bogepatroj.
     E: The parents of my husband are my parents-in-law.
 
     O: La edzo de mia fratino estas mia bofrato.
