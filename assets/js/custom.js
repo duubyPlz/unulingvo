@@ -36,22 +36,25 @@ $('select#contents').change(function() {
 
 function parse(module) {
     hash = new Object();
-    console.log("enter");
     var fileName = 'assets/txt/duo' + module + '.txt';
-    $.get(fileName, function(data) {
-        // Break result into line by line
-        var lines = data.split("\n");
-        var currentEsperanto = "";
-        for (var i=0; i<lines.length; i++) {
-            var current = lines[i];
-            if (matchesEO = current.match(/\ {4}O:.*$/)) { // EO
-                currentEsperanto = matchesEO[0].replace(/\ {4}O:\ /, "");
-            } else if (matchesEN = current.match(/\ {4}E:.*$/)) { // EN
-                var english = matchesEN[0].replace(/\ {4}E:\ /, "");
-                hash[english] = currentEsperanto;
+    try {
+        $.get(fileName, function(data) {
+            // Break result into line by line
+            var lines = data.split("\n");
+            var currentEsperanto = "";
+            for (var i=0; i<lines.length; i++) {
+                var current = lines[i];
+                if (matchesEO = current.match(/\ {4}O:.*$/)) { // EO
+                    currentEsperanto = matchesEO[0].replace(/\ {4}O:\ /, "");
+                } else if (matchesEN = current.match(/\ {4}E:.*$/)) { // EN
+                    var english = matchesEN[0].replace(/\ {4}E:\ /, "");
+                    hash[english] = currentEsperanto;
+                }
             }
-        }
-    }, 'text');
+        }, 'text');
+    } catch (e) {
+        console.warn(e);
+    }
 }
 
 function display() {
