@@ -97,6 +97,14 @@ button.btn-green {
   background: #7eb530;
   color: #fff;
   border-color: #7eb530;
+  font-size: 75%;
+}
+
+button#skip {
+  background: #ccc;
+  border-color: #ccc;
+  margin-right: 5px;
+  min-width: 80px;
 }
 
 button#submit {
