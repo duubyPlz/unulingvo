@@ -85,7 +85,7 @@ button#submit {
 }
 
 @media screen and (min-device-width: 0px)
-              and (max-device-width: 320px) {
+              and (max-device-width: 480px) {
   body {
     font-size: 500%;
   }
@@ -139,8 +139,8 @@ button#submit {
   }
 }
 
-@media screen and (min-device-width: 321px)
-              and (max-device-width: 480px) {
+@media screen and (min-device-width: 481px)
+              and (max-device-width: 768px) {
   body {
     font-size: 320%;
   }
