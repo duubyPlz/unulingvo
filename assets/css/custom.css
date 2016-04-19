@@ -9,6 +9,16 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Dosis', sans-serif;
 }
 
+a.link-orange {
+    color: #f18a41;
+}
+
+a.link-orange:hover,
+a.link-orange:focus {
+    color: #d8793a;
+    text-decoration: none;
+}
+
 .main-panel {
   position: relative;
   top: 120px;
@@ -164,6 +174,14 @@ div.popup {
   color: white;
   border-radius: 100px;
   display: none;
+}
+
+footer.footer {
+    text-align: center;
+    color: #777;
+    font-size: 80%;
+    position: relative;
+    top: 320px;
 }
 
 @media screen and (max-device-width: 768px)
