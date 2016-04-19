@@ -1,6 +1,3 @@
-// == TO DO LIST ==
-// * typing in #answer after incorrect negates timer, clears it straight away
-
 // 1. Parse & display text of selected module
 var selectedModule = $('select#contents').val();
 if (!$.isNumeric(selectedModule)) {
@@ -19,7 +16,6 @@ setTimeout(function () {
 // 2. If module is changed, reparse & display
 $('select#contents').change(function() {
     selectedModule = $('select#contents').val();
-    // console.log("change " + selectedModule);
     if (!$.isNumeric(selectedModule)) {
         $.error("Selected module isn't a valid one: " + selectedModule);
     }
@@ -32,9 +28,11 @@ $('select#contents').change(function() {
 // 3. Logic - check results, see if input field is correct
 $('button#checking').on('click', logic);
 $('textarea#answer').keydown(function (e) {
-    if (e.keyCode == 13) {
+    if (e.keyCode == 13)  {
         e.preventDefault();
-        logic();
+        if (!$('textarea#answer').hasClass('incorrect') && !$('textarea#answer').hasClass('correct')) {
+            logic();
+        }
     }
 })
 
@@ -69,12 +67,10 @@ function parse(module) {
 
 function display() {
     var length = Object.keys(hash).length;
-    // console.log(length);
     var index = Math.floor((Math.random() * (length - 1)) + 0);
     var keys = Object.keys(hash);
     var wantedEng = keys[index];
     correctEO = hash[wantedEng];
-    // console.log(wantedEng + ' ' + correctEO);
     $('.display-text').html(wantedEng);
 }
 
@@ -84,7 +80,7 @@ function logic() {
     var simplifiedEO = correctEO.replace(/[.?!,:]/g, "").toLowerCase();
     var simplifiedString = sanitisedString.replace(/[.?!,:]/g, "").toLowerCase();
     if (simplifiedEO === simplifiedString) {
-        // console.log("correct");
+        // console.log("correct " + simplifiedString + " " + simplifiedEO);
         $('textarea#answer').addClass('correct');
         // display new one
         setTimeout(function () {
@@ -97,9 +93,21 @@ function logic() {
         // Change to correct answer
         $('textarea#answer').addClass('incorrect');
         $('textarea#answer').val(correctEO);
+
+        // if keypress, then clear straight away
+        $('textarea#answer').keydown(function(e) {
+            if ($('textarea#answer').hasClass('incorrect') && (e.keyCode != 13)) {
+                $('textarea#answer').removeClass('incorrect');
+                $('textarea#answer').val('');
+            }
+        });
+
+        // else wait for timer
         setTimeout(function() {
-            $('textarea#answer').removeClass('incorrect');
-            $('textarea#answer').val('');
+            if ($('textarea#answer').hasClass('incorrect')) {
+                $('textarea#answer').removeClass('incorrect');
+                $('textarea#answer').val('');
+            }
         }, 3000);
     }
 }

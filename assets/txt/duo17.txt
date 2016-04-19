@@ -64,8 +64,8 @@
     O: Mi amas mian koramikon.
     E: I love my boyfriend.
 
-    O: There are three people in the room.
-    E: Estas tri homoj en la ĉambro.
+    O: Estas tri homoj en la ĉambro.
+    E: There are three people in the room.
 
     O: Li estas aliulo, ne estas mia koramiko.
     E: He is someone else, not my boyfriend.
