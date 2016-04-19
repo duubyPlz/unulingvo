@@ -19,7 +19,7 @@ parse(selectedModule);
 setTimeout(function () {
     console.log("now: " + Object.keys(hash).length);
     display();
-}, 2000);
+}, 1000);
 
 
 // If module is changed
@@ -33,7 +33,7 @@ $('select#contents').change(function() {
     setTimeout(function () {
         console.log("now: " + Object.keys(hash).length);
         display();
-    }, 2000);
+    }, 1000);
 });
 
 function parse(module) {
