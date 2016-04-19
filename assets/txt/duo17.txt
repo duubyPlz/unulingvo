@@ -42,7 +42,8 @@
     O: Ŝi loĝas kun ŝia familio.
     E: She lives with her family.
 
-    O: La onklinoj rigardas al la bebo.
+    // or "La onklinoj rigardas al la bebo."
+    O: La onklinoj rigardas la bebon.
     E: The aunts are looking at the baby.
 
     O: Mia onklino trinkas akvon.
@@ -83,7 +84,8 @@
     O: Ĉu vi havas du koramikoj?
     E: Do you have two boyfriends?
 
-    O: Mia koramikino rigardas al mi.
+    // or "Mia koramikino rigardas al mi."
+    O: Mia koramikino rigardas min.
     E: My girlfriend looks at me.
 
     O: Mi volas paroli pri miaj amikoj.
