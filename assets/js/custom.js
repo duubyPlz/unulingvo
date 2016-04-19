@@ -1,3 +1,6 @@
+// == TO DO LIST ==
+// * typing in #answer after incorrect negates timer, clears it straight away
+
 // 1. Parse & display text of selected module
 var selectedModule = $('select#contents').val();
 if (!$.isNumeric(selectedModule)) {
