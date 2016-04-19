@@ -71,8 +71,6 @@ function display() {
     var length = Object.keys(hash).length;
     // console.log(length);
     var index = Math.floor((Math.random() * (length - 1)) + 0);
-    console.log("random: " + index);
-
     var keys = Object.keys(hash);
     var wantedEng = keys[index];
     correctEO = hash[wantedEng];
