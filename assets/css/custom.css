@@ -80,7 +80,12 @@ button#submit {
   right: 40px;
 }
 
-@media only screen and (min-width: 480px) {
+.navbar {
+  min-width: 815px;
+}
+
+@media screen and (min-device-width: 0px)
+              and (max-device-width: 320px) {
   body {
     font-size: 500%;
   }
@@ -131,5 +136,60 @@ button#submit {
 
   img.navbar-brand {
     height: 100px;
+  }
+}
+
+@media screen and (min-device-width: 321px)
+              and (max-device-width: 480px) {
+  body {
+    font-size: 320%;
+  }
+  
+  h1, h2 {
+    font-size: 140%;
+  }
+
+  .main-panel {
+    top: 0;
+    width: 100%
+  }
+
+  .container {
+    width: 100%;
+  }
+
+  .display-text {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-bottom: 0;
+    padding: 30px;
+    height: 180px;
+  }
+
+  textarea.answer {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-top: 0;
+    padding: 20px;
+    height: 180px;
+  }
+
+  button#submit {
+    display: block;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    font-size: 100%;
+  }
+
+  img.navbar-brand {
+    height: 70px;
   }
 }
