@@ -81,7 +81,7 @@
     O: Li volas prezenti min al vi.
     E: He wants to introduce me to you.
 
-    O: Ĉu vi havas du koramikoj?
+    O: Ĉu vi havas du koramikojn?
     E: Do you have two boyfriends?
 
     // or "Mia koramikino rigardas al mi."
