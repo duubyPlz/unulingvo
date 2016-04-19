@@ -77,6 +77,15 @@ textarea#answer.correct {
   box-shadow: 0 0 8px rgba(126,181,48,0.4);
 }
 
+textarea#answer:focus {
+  outline: none;
+  -webkit-box-shadow: 0 0 20px #92e2ff;
+  -moz-box-shadow: 0 0 20px #92e2ff;
+  box-shadow: 0 0 20px #92e2ff;
+  border: 2px solid #1caff6;
+  background: #fff;
+}
+
 textarea#answer.correct {
   border: 2px solid #7eb530;
   color: #7eb530;

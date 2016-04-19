@@ -79,6 +79,15 @@
     O: Mia koramikino rigardas min.
     E: My girlfriend looks at me.
 
+    O: Mi volas paroli pri miaj amikoj.
+    E: I want to speak about my friends.
+
+    O: Mi volas prezenti amikon al vi.
+    E: I want to introduce a friend to you.
+
+    O: Li volas vidi viajn amikojn.
+    E: He wants to see your friends.
+
 > Three
     O: Mia familio: Paĉjo, panjo, mi kaj la bebo.
     E: My family: Dad, Mum, me and the baby.
@@ -118,3 +127,6 @@
 
     O: Panjo kaj paĉjo estas geedzoj.
     E: Mum and dad are spouses.
+
+    O: Ĉu vi havas praavinon?
+    E: Do you have a great-grandmother?
