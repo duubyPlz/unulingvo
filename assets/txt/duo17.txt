@@ -67,7 +67,6 @@
     O: There are three people in the room.
     E: Estas tri homoj en la ĉambro.
 
-    // or "Li estas iu alia, ..."
     O: Li estas aliulo, ne estas mia koramiko.
     E: He is someone else, not my boyfriend.
 
