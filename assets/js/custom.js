@@ -41,7 +41,6 @@ function parse(module) {
     var fileName = 'assets/txt/duo' + module + '.txt';
     try {
         $.get(fileName, function(data) {
-            console.log(data);
             // Break result into line by line
             var lines = data.split("\n");
             var currentEsperanto = "";
