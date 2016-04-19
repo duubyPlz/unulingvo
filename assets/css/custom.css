@@ -89,7 +89,7 @@ button#submit {
 }
 
 @media screen and (min-device-width: 0px)
-              and (max-device-width: 480px) {
+              and (max-device-width: 320px) {
   body {
     font-size: 500%;
   }
@@ -147,8 +147,8 @@ button#submit {
   }
 }
 
-@media screen and (min-device-width: 481px)
-              and (max-device-width: 768px) {
+@media screen and (min-device-width: 321px)
+              and (max-device-width: 480px) {
   .media {
     color: red;
   }
