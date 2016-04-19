@@ -1,19 +1,19 @@
 == Family ==
 > One
-    E: Mi ne havas onklojn en mia familio.
-    O: I don't have uncles in my family.
+    O: Mi ne havas onklojn en mia familio.
+    E: I don't have uncles in my family.
 
-    E: La filoj de la familio amas la bebon.
-    O: The sons of the family love the baby.
+    O: La filoj de la familio amas la bebon.
+    E: The sons of the family love the baby.
 
-    E: Ĉu vi havas gefratojn?
-    O: Do you have siblings?
+    O: Ĉu vi havas gefratojn?
+    E: Do you have siblings?
 
-    E: Kiom da gekuzoj vi havas?
-    O: How many cousins do you have?
+    O: Kiom da gekuzoj vi havas?
+    E: How many cousins do you have?
 
-    E: Li estas mia nevo.
-    O: He is my nephew.
+    O: Li estas mia nevo.
+    E: He is my nephew.
 
     E: Ŝi volas sendi leteron al siaj gepatroj.
     O: She wants to send a letter to her parents.
