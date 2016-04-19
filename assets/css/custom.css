@@ -84,6 +84,10 @@ button#submit {
   min-width: 815px;
 }
 
+.mobile {
+  color: blue;
+}
+
 @media screen and (min-device-width: 0px)
               and (max-device-width: 480px) {
   body {
@@ -137,10 +141,18 @@ button#submit {
   img.navbar-brand {
     height: 100px;
   }
+
+  .mobile {
+    color: green;
+  }
 }
 
 @media screen and (min-device-width: 481px)
               and (max-device-width: 768px) {
+  .mobile {
+    color: red;
+  }
+
   body {
     font-size: 320%;
   }
