@@ -186,11 +186,11 @@ select#contents {
 @media screen and (max-device-width: 768px)
               and (orientation: landscape) {
   body {
-    font-size: 320%;
+    font-size: 280%;
   }
   
   h1, h2 {
-    font-size: 140%;
+    font-size: 120%;
   }
 
   .main-panel {
@@ -210,7 +210,7 @@ select#contents {
     width: 100%;
     margin-bottom: 0;
     padding: 30px;
-    height: 180px;
+    height: 150px;
   }
 
   textarea.answer {
@@ -221,7 +221,7 @@ select#contents {
     width: 100%;
     margin-top: 0;
     padding: 20px;
-    height: 180px;
+    height: 150px;
   }
 
   button#submit {
@@ -238,14 +238,18 @@ select#contents {
   }
 
   .form-control {
-    height: 100px;
-    font-size: 90%;
+    height: 50px;
+    font-size: 80%;
   }
 
   div#contents {
     top: 0;
     left: 75px;
     margin-bottom: 20px;
-    margin-top: 30px;
+    margin-top: 20px;
+  }
+
+  select#contents {
+    width: 350px;
   }
 }
