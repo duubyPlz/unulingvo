@@ -37,9 +37,7 @@ $('textarea#answer').keydown(function (e) {
 
 // > Skip button clicked
 $('button#skip').on('click', function() {
-    setTimeout(function () {
-        display();
-    }, 1000);
+    display();
 });
 
 // Subroutines
