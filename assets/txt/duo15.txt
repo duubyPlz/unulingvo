@@ -108,7 +108,7 @@
     E: My parents go where they want.
 
     O: Kies libro estas tiu?
-    E: Whose book is this?
+    E: Whose book is that?
 
     O: Kies estas tio?
     E: Whose is that?
