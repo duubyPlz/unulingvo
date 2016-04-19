@@ -1,0 +1,91 @@
+== Countries ==
+> One
+    O: Kiom da virinoj loĝas en Francio?
+    E: How many women live in France?
+
+    O: Francio kaj Italio estas en Eŭropo.
+    E: France and Italy are in Europe.
+
+    O: Kie loĝas la italoj?
+    E: Where do the Italians live?
+
+    O: Italoj kaj francoj estas eŭropanoj.
+    E: Italians and Frenchmen are Europeans.
+
+    O: Mi ŝatas eŭropajn landojn.
+    E: I like european countries.
+
+    O: Kie estas via lando?
+    E: Where is your country?
+
+    O: Francio estas lando en Eŭropo.
+    E: France is a country in Europe.
+
+> Two
+    O: Multaj germanoj trinkas bieron.
+    E: Many germans drink beer.
+
+    O: Multaj usonanoj loĝas en Germanio.
+    E: Many Americans live in Germany.
+
+    O: Italoj vizitas la eŭropan kongreson.
+    E: Italians visit the European congress.
+
+    O: Ni amas Usonon!
+    E: We love USA!
+
+    O: Mi iras el la domo.
+    E: I am going out of the house.
+
+    O: Mi venas el malgranda lando.
+    E: I come from a small country.
+
+    O: Germano vizitas usonanon en Usono.
+    E: A German visits an American in USA.
+
+> Three
+    O: Brazilo estas granda lando en Sud-Ameriko.
+    E: Brazil is a big country in South America.
+
+    O: Ĉu Aŭstralio estas kontinento?
+    E: Is Australia a continent?
+
+    O: Kanado kaj Rusio estas grandaj landoj.
+    E: Canada and Russia are big countries.
+
+    O: Usono, Kanado, kaj Meksiko estas en Nord-Ameriko.
+    E: USA, Canada and Mexico are in North America.
+
+    O: Meksikanoj parolas la hispanan.
+    E: Mexicans speak Spanish.
+
+    O: Aŭstralio estas granda lando.
+    E: Australia is a big country.
+
+    O: En Rusio homoj parolas la rusan.
+    E: In Russia people speak Russian.
+
+    O: Ni parolas la anglan en aŭstralio.
+    E: We speak English in Australia.
+
+    O: Ĉu vi venas el Sud-Ameriko?
+    E: Does he come from South America?
+
+> Four
+    O: Afriko kaj Azio estas grandaj kontinentoj.
+    E: Africa and Asia are big continents.
+
+    O: Japanio kaj Ĉinio estas landoj en Azio.
+    E: Japan and China are countries in Asia.
+
+    O: Li denove vojaĝas al Afriko.
+    E: He is again travelling to Africa.
+
+    O: Sofia parolas la polan kaj la ĉeĥan.
+    E: Sofia speaks Polish and Czech.
+
+    O: Ĉu vi loĝas en Pollando, en Eŭropo?
+    E: Do you live in Poland, in Europe?
+
+    O: Multaj japanoj en Japanio parolas Esperanton.
+    E: Many Japanese in Japan speak Esperanto.

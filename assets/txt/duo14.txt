@@ -1,0 +1,89 @@
+== Infinitive ==
+> One
+    O: Mi povas fari kafon.
+    E: I can make coffee.
+
+    O: Mi volas havi mian vespermanĝon.
+    E: I want to have my dinner.
+
+    O: Vi ne povas manĝi monon.
+    E: You can't eat money.
+
+    O: Ŝi ŝatas porti mallongajn jupojn.
+    E: She likes to wear short skirts.
+
+    O: Mi povas iri.
+    E: I can go.
+
+    O: Ĉu vi havas monon?
+    E: Do you have money?
+
+    O: Li havas pli da mono, ol li bezonas.
+    E: He has more money than he needs.
+
+    O: Li bezonas manĝi pli.
+    E: He needs to eat more.
+
+    O: Li ne povas havi tion.
+    E: He can't have that.
+
+    O: Li volas manĝi unu kilogramon da tomatoj.
+    E: He wants to eat one kilogram of tomatoes.
+
+    O: Ni volas fari kukon.
+    E: We want to make a cake.
+
+    O: Li ŝatas havi monon.
+    E: He likes having money.
+
+    O: Kiel mi povas helpi vin?
+    E: How can I help you?
+
+    O: Kion vi faras estas grava.
+    E: What you do is important.
+
+    O: Vi povas iri!
+    E: You can go!
+
+> Two
+    O: Li konas nek min, nek vin.
+    E: He knows neither me nor you.
+
+    O: Mi ne scias kion aĉeti.
+    E: I don't know what to buy.
+
+    O: Ĉu vi povas helpi min, mi petas?
+    E: Can you help me, please?
+
+    O: Ĉu tio estas vera?
+    E: Is this true?
+
+    O: Vi estas granda helpo por mi.
+    E: You are a big help for me.
+
+    O: Mi petas helpon.
+    E: I ask for help.
+
+    O: Mi ne konas ŝin, nek volas koni ŝin.
+    E: I don't know her, nor do I want to know her.
+
+    O: Ili nek petas helpon, nek ili volas ĝin.
+    E: They neither asked for help, nor do they want it.
+
+    O: Ĉu tio estas vera rozo?
+    E: Is that a real rose?
+
+    O: Li ne volas porti ĉapelojn.
+    E: He doesn't want to wear hats.
+
+    O: Mi konas la tri knabinojn.
+    E: I know the three girls.
+
+    O: Bonvolu helpi min!
+    E: Please help me!
+    
+    O: Mi bezonas scii la veron.
+    E: I need to know the truth.
+
+    O: Kion vi volas aĉeti?
+    E: What do you want to buy?

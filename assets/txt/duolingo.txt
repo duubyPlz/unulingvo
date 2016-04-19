@@ -1,0 +1,1580 @@
+=======================
+== Table of Contents ==
+=======================
+> i. Basics One
+> ii. Basics Two
+> iii. Phrases
+> iv. Accusative
+> v. Languages
+> vi. Colors
+> vii. Plurals
+> viii. Da/De
+> ix. Animals
+> x. Possessives
+> xi. Countries
+> xii. Food
+> xiii. Clothing
+> xiv. Infinitive
+> xv. Questions
+> xvi. Verbs Present
+> xvii. Family
+
+== Basics One ==
+> One
+    O: Mi ne estas vi.
+    E: I am not you.
+
+    O: Mi estas knabo.
+    E: I am a boy.
+
+    O: Mi estas la viro!
+    E: I am the man!
+
+    O: Vi estas knabo, ne viro.
+    E: You are a boy, not a man.
+
+    O: La viro.
+    E: The man.
+
+> Two
+    O: Li estas viro.
+    E: He is a man.
+
+    O: Li kantas.
+    E: He sings.
+
+    O: La viro kaj la virino kantas.
+    E: The man and the woman sing.
+
+    O: Ŝi kaj la knabino kantas.
+    E: She and the girl sing.
+
+    O: Vi kaj mi ludas.
+    E: You and I play.
+
+> Three
+    O: La bona knabo laboras multe.
+    E: The good boy works a lot.
+
+    O: Ĝi dormas.
+    E: It sleeps.
+
+    O: Knabino aŭ virino.
+    E: A girl or a woman.
+
+    O: Ĝi falas.
+    E: It falls.
+
+    O: La knabino laboras multe.
+    E: The girl works a lot.
+
+    O: Knabino falas.
+    E: A girl falls.
+
+    O: Ĝi estas bona.
+    E: It is good.
+
+    O: Viro aŭ virino.
+    E: A man or a woman.
+
+    O: Mi dormas multe.
+    E: I sleep a lot.
+
+    O: La bona knabino kantas multe.
+    E: The good girl sings a lot.
+
+    O: Li aŭ ŝi laboras.
+    E: He or she works.
+
+    O: Knabino falas.
+    E: A girl falls.
+
+== Basics Two ==
+> One
+    O: La kafejo estas en la malbona parko.
+    E: The café is in the bad park.
+
+    O: Ĉu la parko estas granda?
+    E: Is the park big?
+
+    O: Ĉu la knabino estas bela?
+    E: Is the girl beautiful?
+
+    O: Bela virino estas en la kafejo.
+    E: A beautiful woman is in the café.
+
+    O: La granda kafo estas malbona.
+    E: The large coffee is bad.
+
+    O: Granda, bela virino estas en la parko.
+    E: A large, beautiful woman is in the park.
+
+    O: La kafejo estas bela.
+    E: The café is beautiful.
+
+> Two
+    O: Ni iras al la parko.
+    E: We go to the park.
+
+    O: Ĉu la tago estas varma?
+    E: Is the day hot?
+
+    O: Ĉu la knabino dancas rapide?
+    E: Does the girl dance fast?
+
+    O: Knabino dancas rapide.
+    E: A girl dances quickly.
+
+    O: Ĉu ŝi iras al la granda parko?
+    E: Is she going to the big park?
+
+    O: La tago estas varma.
+    E: The day is hot.
+
+    O: La bebo ne laboras.
+    E: The baby does not work.
+
+    O: Ni ludas en la parko.
+    E: We are playing in the park.
+
+    O: Ni iras al la parko.
+    E: We go to the park.
+
+> Three
+    O: La nokto estas tre longa.
+    E: The night is very long.
+
+    O: La malbela parko estas malgranda.
+    E: The ugly park is small.
+
+    O: Ili malrapide kantas.
+    E: They slowly sing.
+
+    O: La tago estas malvarma.
+    E: The day is cold.
+
+    O: La nokto estas tre malvarma.
+    E: The night is very cold.
+
+    O: Ili laboras multe.
+    E: They work a lot.
+
+    O: La viro dancas malrapide.
+    E: The man dances slowly.
+
+== Phrases ==
+> One
+    O: Saluton!
+    E: Hello!
+
+    O: Jes.
+    E: Yes.
+
+    O: Dankon!
+    E: Thank you!
+
+    O: Kiu estas vi?
+    E: Who are you?
+
+    O: Bonvolu ne!
+    E: Please no!
+
+    O: Sofia estas virino.
+    E: Sofia is a woman.
+
+    O: Dankon, kara!
+    E: Thank you, dear!
+
+    O: Jes, poste.
+    E: Yes, later.
+
+    O: Ĝis poste!
+    E: See you later!
+
+> Two
+    O: Bonan matenon, kiel vi fartas?
+    E: Good morning, how are you?
+
+    O: Adamo fartas bone.
+    E: Adamo is doing well.
+
+    O: Bonvenon, komencanto!
+    E: Welcome, beginner!
+
+    O: Sofia diras "Ĝis poste!"
+    E: Sofia says "See you later!"
+
+    O: Bonan tagon kaj bonvenon!
+    E: Good day and welcome!
+
+    O: Bonan tagon!
+    E: Good day!
+
+    O: Bonvenon!
+    E: Welcome!
+
+    O: Mi estas komencanto.
+    E: I am a beginner.
+
+    O: Bonan matenon!
+    E: Good morning!
+
+    O: La komencanto diras "Saluton!"
+    E: The beginner says "Hello!"
+
+    O: Adamo estas komencanto.
+    E: Adamo is a beginner.
+
+    O: Bonan tagon, knaboj!
+    E: Good day, boys!
+
+> Three
+    O: Bonan nokton!
+    E: Good night!
+ 
+    O: Nedankinde!
+    E: You're welcome!
+
+    O: Pardonon, mi dormas.
+    E: Excuse me, I am sleeping.
+
+    O: Bonan vesperon, kara!
+    E: Good evening, dear!
+
+    O: Mi pardonpetas.
+    E: I am sorry.
+
+    O: Ĝis la revido, kara!
+    E: See you later, dear!
+
+== Accusative ==
+> One
+    O: Ĉu vi amas ŝin aŭ min?
+    E: Do you love her or me?
+
+    O: Ŝi amas lin kaj min!
+    E: She loves him and me!
+
+    O: Vi kisas ŝin!
+    E: You kiss her!
+
+    O: Ili renkontas lin.
+    E: They meet him.
+
+    O: Vi kisas la viron!
+    E: You kiss the man!
+
+    O: Li renkontas ŝin kaj falas.
+    E: He meets her and falls.
+
+> Two
+    O: Mi amas vin!
+    E: I love you!
+
+    O: Ni manĝas.
+    E: We eat.
+
+    O: Ŝi kaj vi trinkas.
+    E: She and you drink.
+
+    O: La viro trinkas kafon en la kafejo.
+    E: The man drinks coffee in the café.
+
+    O: Mi trinkas akvon.
+    E: I drink water.
+
+    O: La knabo manĝas pomon.
+    E: The boy eats an apple.
+
+    O: Ni manĝas panon en la kafejo.
+    E: We eat bread in the café.
+
+    O: Mi manĝas pomon.
+    E: I eat an apple.
+
+    O: La virino trinkas kafon kaj akvon.
+    E: The woman drinks coffee and water.
+
+> Three
+    O: Ŝi ŝatas ĉokoladon.
+    E: She likes chocolate.
+
+    O: Ili trinkas bongustan lakton.
+    E: They drink delicious milk.
+
+    O: Ŝi amas nin.
+    E: She loves us.
+
+    O: La pomo kaj la kuko.
+    E: The apple and the cake.
+
+    O: Ili havas panon.
+    E: They have bread.
+
+    O: La lakto estas malbona.
+    E: The milk is bad.
+
+> Four
+    O: Mi ne trinkas ĝin en la domo.
+    E: I don't drink it in the house.
+
+    O: Ni vidas la leteron kaj ŝatas ĝin.
+    E: We see the letter and like it.
+
+    O: Mi vidas la libron kaj legas ĝin.
+    E: I see the book and read it.
+
+    O: Mi ŝatas ĝin.
+    E: I like it.
+
+    O: La letero estas en la domo.
+    E: The letter is in the house.
+
+    O: La libro estas granda.
+    E: The book is big.
+
+    O: Ili legas en la domo.
+    E: They read in the house.
+
+    O: Li kaj ŝi legas leteron.
+    E: He and she read a letter.
+
+    O: Knabino ŝatas la leteron.
+    E: A girl likes the letter.
+
+== Languages ==
+> One
+    O: Vi lernas Esperanton rapide!
+    E: You learn Esperanto quickly!
+
+    O: Mi iomete parolas Esperanton.
+    E: I speak a little Esperanto.
+
+    O: La bebo diras vorton al ŝi.
+    E: The baby says a word to her.
+
+    O: Ili parolas Esperanton kaj la anglan.
+    E: They speak Esperanto and english.
+
+    O: Esperanto estas bona lingvo.
+    E: Esperanto is a good language.
+
+    O: Ili lernas anglan vorton.
+    E: They learn an english word.
+
+    O: Esperanto estas tre facila, ĉu ne?
+    E: Esperanto is very easy, isn't it?
+
+    O: Vi lernas Esperanton rapide!
+    E: You learn Esperanto quickly!
+
+    O: Mi iomete parolas Esperanton.
+    E: I speak a little Esperanto.
+
+> Two
+    O: Ili skribas en la germana.
+    E: They write in german.
+
+    O: Kiel oni diras "Saluton" en la franca?
+    E: How does one say "Hello" in French?
+
+    O: La hispana lingvo ne estas facila.
+    E: Spanish is not an easy language.
+
+    O: Mi legas la italan iomete.
+    E: I read a little Italian.
+
+    O: Ili diras, ke vi estas bela.
+    E: They say that you are beautiful.
+
+    O: Ĉu vi parolas la hispanan?
+    E: Do you speak Spanish?
+
+== Colors ==
+> One
+    O: Ĉu ĝi estas blua aŭ verda?
+    E: Is it blue or green?
+
+    O: Ĉu la flago estas ruĝa aŭ blua?
+    E: Is the flag red or blue?
+
+    O: La kolorblinda viro ne ludas.
+    E: The colourblind man does not play.
+
+    O: La kolora estas bela.
+    E: The colour is beautiful.
+
+    O: Li ludas multe kaj ankaŭ mi ludas multe.
+    E: He plays a lot and also I play a lot.
+
+    O: La akvo ne estas ruĝa.
+    E: The water is not red.
+
+    O: Mi havas verdan domon.
+    E: I have a green house.
+
+> Two
+    O: Ĝi ne estas bruna, ĝi estas griza.
+    E: It is not brown, it is grey.
+
+    O: Ili ŝatas blankan panon kaj ili ŝatas nigran panon.
+    E: They like white bread and they like black bread.
+
+    O: La flago estas ruĝa, blanka kaj blua.
+    E: The flag is red, white and blue.
+
+    O: Mi ne ŝatas grizan akvon.
+    E: I don't like grey water.
+
+    O: La domo estas bruna.
+    E: The house is brown.
+
+> Three
+    O: La floro estas rozkolora.
+    E: The flower is pink.
+
+    O: Ĝi estas oranĝkolora, ĉu ne?
+    E: It is orange, isn't it?
+
+    O: La libro estas oranĝkolora, violkolora kaj flava.
+    E: The book is orange, violet and yellow.
+
+    O: La esperanta flago estas verda kaj blanka.
+    E: The Esperanto flag is green and white.
+
+    O: La rozo estas rozkolora.
+    E: The rose is pink.
+
+== Plurals ==
+> One
+    O: Ili estas belaj leteroj.
+    E: They are beautiful letters.
+
+    O: Adamo kaj Sofia estas bonaj personoj.
+    E: Adamo and Sofia are good people.
+
+    O: Ni estas viroj kaj patroj.
+    E: We are men and fathers.
+
+    O: La longaj tagoj estas belaj.
+    E: The long days are beautiful.
+
+    O: Ni estas knaboj.
+    E: We are boys.
+
+    O: La tagoj estas tre longaj, ĉu ne?
+    E: The days are very long, aren't they?
+
+    O: Li trinkas bonan akvon.
+    E: He drinks good water.
+
+> Two
+    O: Vortaroj estas gravaj.
+    E: Dictionaries are important.
+
+    O: Ili manĝas grandajn pomojn.
+    E: They eat big apples.
+
+    O: Ni estas knabinoj.
+    E: We are girls.
+
+    O: Sofia kaj Adamo estas Esperantistoj.
+    E: Sofia and Adamo are Esperanto speakers.
+
+    O: Pomoj estas bonaj.
+    E: Apples are good.
+
+    O: Mi legas gravajn leterojn.
+    E: I read important letters.
+
+    O: Estas grava tago en la parko.
+    E: It is an important day in the park.
+
+    O: Ni manĝas bonajn pomojn.
+    E: We eat good apples.
+
+> Three
+    O: Avoj estas homoj.
+    E: Grandfathers are people.
+
+    O: La gepatroj havas tri knabinojn.
+    E: The parents have three girls.
+
+    O: La du gepatroj estas la patro kaj la patrino.
+    E: The two parents are the father and the mother.
+
+    O: Kvar virinoj trinkas kafon en la kafejo.
+    E: Four women drink coffee in the café.
+
+    O: La blua flago havas unu koloron.
+    E: The blue flag has one colour.
+
+    O: Li estas komencanto, sed li lernas rapide.
+    E: He is a beginner, but he learns quickly.
+
+== Da/De ==
+> One
+    O: Ili trinkas bongustan kafon.
+    E: They drink delicious coffee.
+
+    O: La kolora de la vino estas ruĝa.
+    E: The colour of the wine is red.
+
+    O: Li donas al ni lakton.
+    E: He gives us milk.
+
+    O: Estas multe da teo en la taso.
+    E: There is a lot of tea in the cup.
+
+    O: Mi havas glason da vino.
+    E: I have a glass of wine.
+
+    O: Ĉu ŝi trinkas glason da akvo?
+    E: Is she drinking a glass of water?
+
+> Two
+    O: La paĝo havas multe da frazoj.
+    E: The page has a lot of sentences.
+
+    O: Unu litro ne estas multe.
+    E: One litre is not a lot.
+
+    O: Unu kilogramo da pano estas multe.
+    E: One kilogram of bread is a lot.
+
+    O: Ŝi mendas tason da teo.
+    E: She orders a cup of tea.
+
+    O: Kiom da pomoj vi havas?
+    E: How many apples do you have?
+
+    O: Kiom vi aĝas?
+    E: How old are you?
+
+    O: Mi ŝatas tomatojn.
+    E: I like tomatoes.
+
+== Animals ==
+> One
+    O: Kunikloj havas multe da idoj.
+    E: Rabbits have a lot of offspring.
+
+    O: La koko estas besto kaj vivas.
+    E: The chicken is an animal and lives.
+
+    O: Homoj estas mamuloj.
+    E: People are mammals.
+
+    O: Bovinoj kaj ĉevaloj estas mamuloj.
+    E: Cows and horses are mammals.
+
+    O: Ĉu la ĉevalo havas idojn?
+    E: Does the horse have offspring?
+
+    O: Infanoj trinkas lakton.
+    E: Children drink milk.
+
+> Two
+    O: La abelo estas malgranda insekto.
+    E: The bee is a small insect.
+
+    O: Ĉu araneoj flugas?
+    E: Do spiders fly?
+
+    O: Duo ŝatas infanoj.
+    E: Duo likes children.
+
+    O: Duo ne estas azeno, sed strigo.
+    E: Duo is not a donkey, but an owl.
+
+    O: La muŝo estas insekto.
+    E: The fly is an insect.
+
+> Three
+    O: La ĉevalo havas belan voston.
+    E: The horse has a beautiful tail.
+
+    O: Krokodilo ne estas aligatoro.
+    E: A crocodile is not an alligator.
+
+    O: La malgrandaj knabinoj estas belaj.
+    E: The small girls are beautiful.
+
+    O: Ĉu birdoj demetas ovojn?
+    E: Do birds lay eggs?
+
+    O: Ĉu aligatoroj demetas ovojn?
+    E: Do alligators lay eggs?
+
+> Four
+    O: Ili kaptas fiŝojn.
+    E: They catch fish.
+
+    O: Viroj ŝatas porkojn.
+    E: Men like pigs.
+
+    O: La belaj katoj vidas la grandajn hundojn.
+    E: The beautiful cats see the big dogs.
+
+    O: Strigoj estas noktaj bestoj.
+    E: Owls are nocturnal animals.
+
+    O: La fiŝo estas en la akvo.
+    E: The fish is in the water.
+
+    O: Niaj strigoj ne estas malvarmaj.
+    E: Our owls are not cold.
+
+> Five
+    O: Infanoj ŝatas hundidojn kaj katidojn.
+    E: Children like puppies and kittens.
+
+    O: Ĉu estas ŝafo aŭ ŝafido?
+    E: Is it a sheep or a lamb?
+
+    O: Musoj kaj fiŝoj estas malgrandaj bestoj.
+    E: Mice and fish are small animals.
+
+    O: Mi fartas bone, ĉar mi havas anason.
+    E: I am doing well, because I have a duck.
+
+    O: La kato manĝas musojn.
+    E: The cat eats mice.
+
+    O: Mi amas katidojn!
+    E: I love kittens!
+
+== Possessives ==
+> One
+    O: Lia nomo ne estas Sofia.
+    E: His name is not Sofia.
+
+    O: Li estas en ŝia hejmo.
+    E: He is in her home.
+
+    O: Kio estas via nomo?
+    E: What is your name?
+
+    O: Tio estas ĝia hejmo.
+    E: That is its home.
+
+    O: Mia patrino estas bela.
+    E: My mother is beautiful.
+
+    O: Kio estas tio?
+    E: What is that?
+
+    O: Viaj pomoj estas tre belaj.
+    E: Your apples are very beautiful.
+
+> Two
+    O: En nia hejmo estas granda mapo.
+    E: In our home is a big map.
+
+    O: Ilia biero estas bongusta.
+    E: Their beer is delicious.
+
+    O: Tio estas, kion mi vidas.
+    E: That is what I see.
+
+    O: Sofia, kio estas la adreso de via hejmo?
+    E: Sofia, what is the address of your home?
+
+    O: Ni havas nur unu hejmo.
+    E: We have only one home.
+
+    O: Ilia hejmo estas bela, ĉu ne?
+    E: Their home is beautiful, isn't it?
+
+    O: Via urso trinkas bieron.
+    E: Your bear drinks beer.
+
+    O: Ĉu vi venas el Sud-Ameriko?
+    E: Does he come from South America?
+
+== Countries ==
+> One
+    O: Kiom da virinoj loĝas en Francio?
+    E: How many women live in France?
+
+    O: Francio kaj Italio estas en Eŭropo.
+    E: France and Italy are in Europe.
+
+    O: Kie loĝas la italoj?
+    E: Where do the Italians live?
+
+    O: Italoj kaj francoj estas eŭropanoj.
+    E: Italians and Frenchmen are Europeans.
+
+    O: Mi ŝatas eŭropajn landojn.
+    E: I like european countries.
+
+    O: Kie estas via lando?
+    E: Where is your country?
+
+    O: Francio estas lando en Eŭropo.
+    E: France is a country in Europe.
+
+> Two
+    O: Multaj germanoj trinkas bieron.
+    E: Many germans drink beer.
+
+    O: Multaj usonanoj loĝas en Germanio.
+    E: Many Americans live in Germany.
+
+    O: Italoj vizitas la eŭropan kongreson.
+    E: Italians visit the European congress.
+
+    O: Ni amas Usonon!
+    E: We love USA!
+
+    O: Mi iras el la domo.
+    E: I am going out of the house.
+
+    O: Mi venas el malgranda lando.
+    E: I come from a small country.
+
+    O: Germano vizitas usonanon en Usono.
+    E: A German visits an American in USA.
+
+> Three
+    O: Brazilo estas granda lando en Sud-Ameriko.
+    E: Brazil is a big country in South America.
+
+    O: Ĉu Aŭstralio estas kontinento?
+    E: Is Australia a continent?
+
+    O: Kanado kaj Rusio estas grandaj landoj.
+    E: Canada and Russia are big countries.
+
+    O: Usono, Kanado, kaj Meksiko estas en Nord-Ameriko.
+    E: USA, Canada and Mexico are in North America.
+
+    O: Meksikanoj parolas la hispanan.
+    E: Mexicans speak Spanish.
+
+    O: Aŭstralio estas granda lando.
+    E: Australia is a big country.
+
+    O: En Rusio homoj parolas la rusan.
+    E: In Russia people speak Russian.
+
+    O: Ni parolas la anglan en aŭstralio.
+    E: We speak English in Australia.
+
+> Four
+    O: Afriko kaj Azio estas grandaj kontinentoj.
+    E: Africa and Asia are big continents.
+
+    O: Japanio kaj Ĉinio estas landoj en Azio.
+    E: Japan and China are countries in Asia.
+
+    O: Li denove vojaĝas al Afriko.
+    E: He is again travelling to Africa.
+
+    O: Sofia parolas la polan kaj la ĉeĥan.
+    E: Sofia speaks Polish and Czech.
+
+    O: Ĉu vi loĝas en Pollando, en Eŭropo?
+    E: Do you live in Poland, in Europe?
+
+    O: Multaj japanoj en Japanio parolas Esperanton.
+    E: Many Japanese in Japan speak Esperanto.
+
+== Food ==
+> One
+    O: Duo ne manĝas kokaĵon.
+    E: Duo doesn't eat chicken.
+
+    O: Mi ŝatas la guston de ĉokolado.
+    E: I like the taste of chocolate.
+
+    O: Kunikloj ŝatas karotojn.
+    E: Rabbits like carrots.
+
+    O: Bonan apetiton!
+    E: Good appetite!
+
+    O: Mi ŝatas kafon pli ol vinon.
+    E: I like coffee more than wine.
+
+    O: Ĉu vi havas sandviĉon?
+    E: Do you have a sandwich?
+
+    O: La tomata supo gustas bone.
+    E: The tomato soup tastes good.
+
+    O: Karoto estas oranĝkolora.
+    E: A carrot is orange.
+
+    O: La patro manĝas bonan viandon.
+    E: The father eats good meat.
+
+> Two
+    O: Dankon por la bongusta matenmanĝo!
+    E: Thank you for the delicious breakfast!
+
+    O: Ne estas butero sur mia pano.
+    E: There is no butter on my bread.
+
+    O: Jen la domo!
+    E: Here is the house!
+
+    O: Mi ŝatas fiŝaĵon en la supo.
+    E: I like fish in the soup.
+
+    O: Mi amas kafon kun lakto.
+    E: I love coffee with milk.
+
+    O: La telero estas blanka.
+    E: The plate is white.
+
+    O: Estas fiŝaĵo kaj legomoj sur la telero.
+    E: There are fish and vegetables on the plate.
+
+> Three
+    O: Legomoj bongustas.
+    E: Vegetables are delicious.
+
+    O: La manĝaĵo kaj trinkaĵo bongustas.
+    E: The food and drink taste good.
+
+    O: Mi manĝas la manĝon kun fromaĝo.
+    E: I eat the meal with cheese.
+
+    O: Ĉu vi havas iom da fromaĝo?
+    E: Do you have some cheese?
+
+    O: Suko ne estas manĝaĵo, sed trinkaĵo.
+    E: Juice is not food, but a drink.
+
+    O: Sofia trinkas iom da suko.
+    E: Sofia drinks some juice.
+
+> Four
+    O: Jes, mi havas porkaĵon kaj mi donas al vi ĉiom.
+    E: Yes, I have pork, and I am giving you all of it.
+
+    O: Mi ne manĝas picojn, ĉar ili estas malbonaj.
+    E: I don't eat pizzas because they are bad.
+
+    O: La urso ŝatas la vegetaranon.
+    E: The bear likes the vegetarian.
+
+    O: Jen la tagmanĝo!
+    E: Here is the lunch!
+
+    O: Ĉu ili manĝas malbonajn fruktojn?
+    E: Do they eat bad fruit?
+
+    O: Frago estas frukto.
+    E: A strawberry is a fruit.
+
+    O: La pico ne estas blua.
+    E: The pizza is not blue.
+
+    O: Ĉu ili tagmanĝas?
+    E: Are they eating lunch?
+
+    O: Legomoj kun salo estas bongustaj.
+    E: Vegetables with salt are delicious.
+
+    O: Ĉu vi estas vegetarano, aŭ ĉu vi manĝas viandon?
+    E: Are you a vegetarian, or do you eat meat?
+
+    O: La anaso manĝas la fragon.
+    E: The duck eats the strawberry.
+
+    O: Salo ne malbonas.
+    E: Salt is not bad.
+
+    O: Ĉu vi manĝas salon?
+    E: Do you eat salt?
+
+    O: Mi ŝatas fragojn kun ĉokolado.
+    E: I like strawberries with chocolate.
+
+    O: Porkaĵo estas pli bongusta ol bovaĵo.
+    E: Pork is more delicious than beef.
+
+> Five
+    O: Ĉu ili vespermanĝas kune?
+    E: Are they eating dinner together?
+
+    O: Mi iras sen vi.
+    E: I go without you.
+
+    O: Mi tiom amas vin!
+    E: I love you that much!
+
+    O: Li estas mia gasto.
+    E: He is my guest.
+
+    O: Ili ŝatas pastaĵojn multe.
+    E: They like pasta a lot.
+
+    O: La restoracio havas pastaĵojn kaj picojn.
+    E: The restaurant has pastas and pizzas.
+
+    O: Tiom da bovaĵo estas bona.
+    E: That much beef is good.
+
+    O: La restoracio havas tiom da gastoj.
+    E: The restaurant has so many guests.
+
+    O: La restoracio tiom malvarmas.
+    E: The restaurant is so cold.
+
+> Six
+    O: La kelnero servas la vespermanĝon.
+    E: The waiter serves the dinner.
+
+    O: Ni gustumas teon.
+    E: We taste tea.
+
+    O: Ĉu vi aĉetas fruktojn aŭ legomojn?
+    E: Are you buying fruits or vegetables?
+
+    O: Kelneroj kaj kelnerinoj laboras kune en la restoracio.
+    E: Waiters and waitresses work together in the restaurant.
+
+    O: Ni legas la menuon de la restoracio.
+    E: We are reading the restaurant's menu.
+
+    O: La kelnerino donas al la infano menuon.
+    E: The waitress gives the child a menu.
+
+> Seven
+    O: Glacio malvarmas.
+    E: Ice is cold.
+
+    O: Mi tre ŝatas dolĉan ananason.
+    E: I really like a sweet pineapple.
+
+    O: Ili aĉetas oranĝojn kaj vendas sukon.
+    E: They buy oranges and sell juice.
+
+    O: Iom da sukero estas pli ol neniom.
+    E: A little bit of sugar is more than none.
+
+    O: La fragoj estas dolĉaj.
+    E: The strawberries are sweet.
+
+    O: Ŝi vendas pli da kokaĵo ol fiŝaĵo.
+    E: She sells more chicken than fish.
+
+    O: Ananaso bone gustas.
+    E: Pineapple tastes good.
+
+> Eight
+    O: Ili vendas multe da spicoj kaj oleoj.
+    E: They sell a lot of spices and oils.
+
+    O: Ĉu estas iom da graso sur la viando?
+    E: Is there a little fat on the meat?
+
+    O: Mi havas bonajn receptojn.
+    E: I have good recipes.
+
+    O: Nia vespermanĝo odoras bone.
+    E: Our dinner smells good.
+
+    O: Ŝi miksas dolĉan lakton kaj ĉokoladon.
+    E: She mixes sweet milk and chocolate.
+
+    O: Mi ŝatas blankan rizon.
+    E: I like white rice.
+
+== Clothing ==
+> One
+    O: Kion vi havas en via poŝo?
+    E: What do you have in your pocket?
+
+    O: Kiom ofte vi trinkas bieron?
+    E: How often do you drink beer?
+
+    O: La jupo estas mallonga.
+    E: The skirt is short.
+
+    O: Kion vi portas en la somero?
+    E: What do you wear in the summer?
+
+    O: Li portas pantalonon.
+    E: He wears pants.
+
+    O: Mia pantalono ne havas poŝojn.
+    E: My pants don't have pockets.
+
+> Two
+    O: Liaj vestaĵoj estas nigraj.
+    E: His clothes are black.
+
+    O: La robo estas blua kaj nigra.
+    E: The dress is blue and black.
+
+    O: La granda ĉemizo estas blanka.
+    E: The big shirt is white.
+
+    O: Mi bezonas ŝuojn.
+    E: I need shoes.
+
+    O: Ĉu bestoj portas vestaĵojn?
+    E: Do animals wear clothes?
+
+    O: Lia granda ĉapelo estas bruna.
+    E: His big hat is brown.
+
+    O: Lia granda mantelo estas bruna.
+    E: His big coat is brown.
+
+    O: Li bezonas ŝuojn, sed ne robon.
+    E: He needs shoes, but not a dress.
+
+    O: La ĉevalo manĝas mian mantelon.
+    E: The horse is eating my coat.
+
+> Three
+    O: Mi portas ŝtrumpetojn, ne ŝtrumpojn.
+    E: I wear socks, not stockings.
+
+    O: Ĉu vi havas propran pupon?
+    E: Do you have your own doll?
+
+    O: Via jupo mojosas!
+    E: Your skirt is cool!
+
+    O: Ŝia jupo havas tri butonojn.
+    E: Her skirt has three buttons.
+
+    O: Kion vi kudras?
+    E: What are you sewing?
+
+    O: Ĉu via pupo havas robon?
+    E: Does your doll have a dress?
+
+    O: Ŝi kudras ĉemizon.
+    E: She is sewing a shirt.
+
+    O: Esperantistoj portas mojosajn ĉemizojn.
+    E: Esperanto speakers are wearing cool shirts.
+
+    O: Nia avo ne portas mojosajn vestaĵojn.
+    E: Our grandfather does not wear cool clothes.
+
+    O: Infanoj ofte havas pupojn.
+    E: Children often have dolls.
+
+    O: La virino ne portas jupon, sed robon.
+    E: The woman doesn't wear a skirt, but a dress.
+
+    O: Miaj propraj ŝtrumpetoj estas blankaj.
+    E: My own socks are white.
+
+    O: Ĉu via propra ĉemizo havas butonojn?
+    E: Does your own shirt have buttons?
+
+== Infinitive ==
+> One
+    O: Mi povas fari kafon.
+    E: I can make coffee.
+
+    O: Mi volas havi mian vespermanĝon.
+    E: I want to have my dinner.
+
+    O: Vi ne povas manĝi monon.
+    E: You can't eat money.
+
+    O: Ŝi ŝatas porti mallongajn jupojn.
+    E: She likes to wear short skirts.
+
+    O: Mi povas iri.
+    E: I can go.
+
+    O: Ĉu vi havas monon?
+    E: Do you have money?
+
+    O: Li havas pli da mono, ol li bezonas.
+    E: He has more money than he needs.
+
+    O: Li bezonas manĝi pli.
+    E: He needs to eat more.
+
+    O: Li ne povas havi tion.
+    E: He can't have that.
+
+    O: Li volas manĝi unu kilogramon da tomatoj.
+    E: He wants to eat one kilogram of tomatoes.
+
+    O: Ni volas fari kukon.
+    E: We want to make a cake.
+
+    O: Li ŝatas havi monon.
+    E: He likes having money.
+
+    O: Kiel mi povas helpi vin?
+    E: How can I help you?
+
+    O: Kion vi faras estas grava.
+    E: What you do is important.
+
+    O: Vi povas iri!
+    E: You can go!
+
+> Two
+    O: Li konas nek min, nek vin.
+    E: He knows neither me nor you.
+
+    O: Mi ne scias kion aĉeti.
+    E: I don't know what to buy.
+
+    O: Ĉu vi povas helpi min, mi petas?
+    E: Can you help me, please?
+
+    O: Ĉu tio estas vera?
+    E: Is this true?
+
+    O: Vi estas granda helpo por mi.
+    E: You are a big help for me.
+
+    O: Mi petas helpon.
+    E: I ask for help.
+
+    O: Mi ne konas ŝin, nek volas koni ŝin.
+    E: I don't know her, nor do I want to know her.
+
+    O: Ili nek petas helpon, nek ili volas ĝin.
+    E: They neither asked for help, nor do they want it.
+
+    O: Ĉu tio estas vera rozo?
+    E: Is that a real rose?
+
+    O: Li ne volas porti ĉapelojn.
+    E: He doesn't want to wear hats.
+
+    O: Mi konas la tri knabinojn.
+    E: I know the three girls.
+
+    O: Bonvolu helpi min!
+    E: Please help me!
+    
+    O: Mi bezonas scii la veron.
+    E: I need to know the truth.
+
+    O: Kion vi volas aĉeti?
+    E: What do you want to buy?
+
+== Questions ==
+> One
+    O: Kiu estas tie?
+    E: Who is there?
+
+    O: Tiu ĉi lando havas bonan kafon.
+    E: This country has good coffee.
+
+    O: Kiam ŝi manĝas oranĝojn?
+    E: When does she eat oranges?
+
+    O: Ĉi tiuj aŭtoj estas bonaj.
+    E: These cars are good.
+
+    O: Kiu trinkas sukon kun glacio?
+    E: Who drinks juice with ice?
+
+    O: Kiu estas vi?
+    E: Who are you?
+
+    O: Kiu estas ĉi tiu virino, kiu dormas ĉi tie?
+    E: Who is this woman who sleeps here?
+
+    O: Kiu estas tie?
+    E: Who is there?
+
+    O: Kiom da litroj da akvo estas tie?
+    E: How many litres of water is there?
+
+    O: Kiam vi dancas kune?
+    E: When do you dance together?
+
+    O: Mi ne scias, kiu li estas.
+    E: I don't know who he is.
+
+    O: Kie estas mia aŭto? Ĝi ne estas tie.
+    E: Where is my car? It is not there.
+
+    O: Ĉu tiu estas la via aŭ la mia?
+    E: Is that yours or mine?
+
+    O: Kiam li legas ĵurnalon?
+    E: When does he read a newspaper?
+
+    O: Ĉu jes aŭ ne?
+    E: Yes or no?
+
+    O: Ni loĝas tie ĉi.
+    E: We live here.
+
+    O: Tiu malgranda besto estas kuniklo.
+    E: That small animal is a rabbit.
+
+    O: Kiun koloron havas la aŭto, kiun li volas aĉeti?
+    E: What is the color of the car he wants to buy?
+
+> Two
+    O: Ili demandas, kaj ni respondas.
+    E: They ask and we answer.
+
+    O: Kial ne?
+    E: Why not?
+
+    O: Kio estas ĉi tiu afero?
+    E: What is this thing?
+
+    O: Vi ne scias kion diri.
+    E: You don't know what to say.
+
+    O: Ili demandas nin pri niaj gepatroj.
+    E: They ask us about our parents.
+
+    O: La afero ne estas grava.
+    E: The thing isn't important.
+
+    O: Ĉu vi povas respondi la leteron?
+    E: Can you reply to the letter?
+
+    O: Pri kio ni parolas?
+    E: What are we talking about?
+
+    O: Tio ne estas via afero.
+    E: That is not your thing.
+
+    O: Pri kio vi parolas?
+    E: What are you talking about?
+
+    O: Ĉu vi povas diri al mi, kial vi faras tion?
+    E: Can you tell me why you are doing that?
+
+    O: Li skribas libron pri Francio.
+    E: He writes a book about France.
+
+    O: Kial ne mendi pli da picoj?
+    E: Why not order more pizzas?
+
+> Three
+    O: Ĉu vi scias la respondon?
+    E: Do you know the answer?
+
+    O: La demando de la instruisto estas tre facila.
+    E: The teacher's question is very easy.
+
+    O: Miaj gepatroj iras kien ili volas.
+    E: My parents go where they want.
+
+    O: Kies libro estas tiu?
+    E: Whose book is this?
+
+    O: Kies estas tio?
+    E: Whose is that?
+
+    O: Io estas en la domo. Ĉu vi vidas ĝin?
+    E: Something is in the house. Do you see it?
+
+    O: La instruisto havas mapon.
+    E: The teacher has a map.
+    
+    O: La respondo ne estas facila.
+    E: The answer is not easy.
+
+    O: Kien Sofia iras?
+    E: Where is Sofia going?
+
+    O: Ŝi demandas al mi, ĉu mi havas panon
+    E: She asks me whether I have bread.
+
+    O: Kies aŭto estas tiu?
+    E: Whose car is that?
+
+    O: Kien Adamo iras? Li iras al Ĉinio.
+    E: Where is Adamo going? He is going to China.
+
+    O: Kiu volas manĝi tiun pomon?
+    E: Who wants to eat that apple?
+
+== Verbs Present ==
+> One
+    O: Bonvolu ne fermi viajn pordojn.
+    E: Please don't close your doors.
+
+    O: Ili devas labori, ĉar ili bezonas monon.
+    E: They have to work because they need money.
+
+    O: Ĉu vi pensas, kion mi pensas?
+    E: Are you thinking what I'm thinking?
+
+    O: Se vi volas.
+    E: If you want.
+
+    O: Ni ŝanĝas la vortojn en la libro.
+    E: We change the words in the book.
+
+    O: Se vi devas labori, vi devas labori.
+    E: If you have to work, you have to work.
+
+    O: Mi komprenas tion bone!
+    E: I understand that well.
+
+    O: Ĉu vi sendas leteron al via avo?
+    E: Are you sending a letter to your grandfather?
+
+    O: Ŝi volas sendi leteron.
+    E: She wants to send a letter.
+
+    O: Ŝi ŝanĝas vin.
+    E: She changes you.
+
+    O: Mi pensas, ke la jupo ne estas bela.
+    E: I think that the skirt isn't beautiful.
+
+    O: Ili ne devas fermi la pordon.
+    E: They don't have to close the door.
+
+    O: La urso havas laboron.
+    E: The bear has a job.
+
+    O: Vegetaranoj pensas, ke viando estas malbona.
+    E: Vegetarians think that meat is bad.
+
+    O: Kion vi ne komprenas.
+    E: What do you not understand?
+
+> Two
+    O: Ni provas studi Esperanton.
+    E: We are trying to study Esperanto.
+
+    O: Sofia ĉiam pravas.
+    E: Sofia's always right.
+
+    O: Bonvolu doni la pomon al mi.
+    E: Please give me the apple.
+
+    O: Ĉu mi rajtas iri al Eŭropo?
+    E: Do I have the right to go to Europe?
+
+    O: Bonvolu malfermi la pordon.
+    E: Please open the door.
+
+    O: Vi pravas.
+    E: You are right.
+
+    O: Vi malpravas.
+    E: You are wrong.
+
+    O: Bonvolu rigardi min.
+    E: Please look at mi.
+
+    O: Mi studas multe.
+    E: I study a lot.
+
+    O: Mi ĉiam volas provi.
+    E: I always want to try.
+
+    O: Mi ne rajtas manĝi kukon.
+    E: I am not allowed to eat cake.
+
+    O: Li rajtas manĝi bone.
+    E: He is allowed to eat well.
+
+    O: Li provas studi.
+    E: He tries to study.
+
+    O: La gepatroj ne ĉiam malpravas.
+    E: The parents aren't always wrong.
+
+    O: Mi pensas, ke mi devas malfermi ĝin.
+    E: I think that I have to open it.
+
+    O: Mi rajtas havi bonan laboron.
+    E: I am entitled to have a good job.
+
+    O: Mi volas doni al vi mian glason da vino.
+    E: I want to give you my glass of wine.
+
+> Three
+    O: La hundo staras, ĉar ĝi ne volas kuri.
+    E: The dog is standing because it doesn't want to run.
+
+    O: Ni aŭskultas tion.
+    E: We listen to that.
+
+    O: Ŝia kafo enhavas lakton.
+    E: Her coffee contains milk.
+
+    O: Mi bezonas vian subskribon.
+    E: I need your signature.
+
+    O: Ni ŝatas sidi kune en la restoracio.
+    E: We like to sit together in the restaurant.
+
+    O: Kie vi ŝatas sidi?
+    E: Where do you like to sit?
+
+    O: Mi povas vidi du hundojn.
+    E: I can see two dogs.
+
+    O: Ĉu vi volas kuri kun mi?
+    E: Do you want to run with me?
+
+    O: Li ne aŭskultas.
+    E: He is not listening.
+
+    O: Kie ili staras?
+    E: Where are they standing?
+
+    O: Mi volas manĝi pomojn, ĉar ili enhavas akvon.
+    E: I want to eat apples, because they contain water.
+
+    O: Mi ŝatas kuri rapide.
+    E: I like to run fast.
+
+    O: Vi ŝatas vidi bestojn.
+    E: You like to see animals.
+
+    O: Vi devas subskribi vian leteron.
+    E: You have to sign your letter.
+
+    O: Karotoj enhavas sukeron.
+    E: Carrots contain sugar.
+
+    O: Ĉu vi subskribas la du leterojn?
+    E: Are you signing the two letters?
+
+> Four
+    O: Ŝi memoras la feliĉajn tagojn.
+    E: She remembers the happy days.
+
+    O: Mirinde!
+    E: Amazing!
+
+    O: Mi ne havas monon por telefoni al vi.
+    E: I don't have money to call you.
+
+    O: Li montras monon al ili.
+    E: He shows money to them.
+
+    O: Vi esperas, ke li scias.
+    E: You hope that he knows.
+
+    O: Mi esperas, ke vi volas tion.
+    E: I hope you want that.
+
+    O: Via libro estas mirinda!
+    E: You book is amazing!
+
+    O: Ili ĉiam estas feliĉaj.
+    E: They are always happy.
+
+    O: Ĉu vi memoras?
+    E: Do you remember?
+
+    O: Li ĉiam portas ĉapelojn.
+    E: He always wears hats.
+
+    O: Se vi estas feliĉa, ankaŭ mi estas feliĉa.
+    E: If you are happy, I am also happy.
+
+    O: Ŝi ofte telefonas al miaj gepatroj.
+    E: She often calls my parents.
+
+    O: Ĉu vi povas montri al mi la ĉevalon?
+    E: Can you show me the horse?
+
+    O: Li esperas vidi vin.
+    E: He hopes to see you.
+
+    O: Mi esperas tion.
+    E: I hope so.
+
+> Five
+    O: Vi timas iri sola.
+    E: You are afraid of going alone.
+
+    O: Ŝi ne agas tiel bone kiel vi.
+    E: She doesn't act as good as you.
+
+    O: Mi dankas vin.
+    E: I thank you.
+
+    O: Li ne zorgas.
+    E: He doesn't worry.
+
+    O: Mi volas akcepti ĝin.
+    E: I want to accept it.
+
+    O: Sola, sola, sola.
+    E: Alone, alone, alone.
+
+    O: Kie ni komencas?
+    E: Where do we start?
+
+    O: Ŝi ne estas tiel bela kiel mi.
+    E: She isn't as pretty as I am.
+
+    O: Li timas la hundon.
+    E: He is scared of the dog.
+
+    O: Vi agas rapide.
+    E: You act fast.
+
+    O: Mi akceptas, ke tio estas vera.
+    E: I accept that that is true.
+
+    O: Mi volas agi kiel vi.
+    E: I want to act like you.
+
+    O: Mi volas danki vin.
+    E: I want to thank you.
+
+    O: Li komencas studi Esperanton.
+    E: He starts studying Esperanto.
+
+    O: Li ne povas akcepti la veron.
+    E: He can't accept the truth.
+
+> Six
+    O: Mi volas fini la laboron.
+    E: I want to finish the work.
+
+    O: Vi devas atendi ŝin.
+    E: You have to wait for her.
+
+    O: Mi fidas al vi.
+    E: I trust you.
+
+    O: La necesejo estas malgranda.
+    E: The bathroom is small.
+
+    O: Li ofte pardonas rapide.
+    E: He often forgives quickly.
+
+    O: Mi pardonas vin.
+    E: I forgive you.
+
+    O: Vi ne volas uzi ĝin.
+    E: You don't want to use it.
+
+    O: Kie estas la necesejo?
+    E: Where is the bathroom?
+
+    O: La knabino finas manĝi la pomon.
+    E: The girl finishes eating the apple.
+
+    O: Li atendas nin.
+    E: He waits for us.
+
+    O: Ĉu mi povas fidi al ŝi?
+    E: Can I trust her?
+
+    O: Ĉu vi povas atendi?
+    E: Can you wait?
+
+    O: Mi ne fidas iliajn vortojn.
+    E: I don't trust their words.

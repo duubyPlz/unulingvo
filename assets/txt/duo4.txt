@@ -1,0 +1,94 @@
+== Accusative ==
+> One
+    O: Ĉu vi amas ŝin aŭ min?
+    E: Do you love her or me?
+
+    O: Ŝi amas lin kaj min!
+    E: She loves him and me!
+
+    O: Vi kisas ŝin!
+    E: You kiss her!
+
+    O: Ili renkontas lin.
+    E: They meet him.
+
+    O: Vi kisas la viron!
+    E: You kiss the man!
+
+    O: Li renkontas ŝin kaj falas.
+    E: He meets her and falls.
+
+> Two
+    O: Mi amas vin!
+    E: I love you!
+
+    O: Ni manĝas.
+    E: We eat.
+
+    O: Ŝi kaj vi trinkas.
+    E: She and you drink.
+
+    O: La viro trinkas kafon en la kafejo.
+    E: The man drinks coffee in the café.
+
+    O: Mi trinkas akvon.
+    E: I drink water.
+
+    O: La knabo manĝas pomon.
+    E: The boy eats an apple.
+
+    O: Ni manĝas panon en la kafejo.
+    E: We eat bread in the café.
+
+    O: Mi manĝas pomon.
+    E: I eat an apple.
+
+    O: La virino trinkas kafon kaj akvon.
+    E: The woman drinks coffee and water.
+
+> Three
+    O: Ŝi ŝatas ĉokoladon.
+    E: She likes chocolate.
+
+    O: Ili trinkas bongustan lakton.
+    E: They drink delicious milk.
+
+    O: Ŝi amas nin.
+    E: She loves us.
+
+    O: La pomo kaj la kuko.
+    E: The apple and the cake.
+
+    O: Ili havas panon.
+    E: They have bread.
+
+    O: La lakto estas malbona.
+    E: The milk is bad.
+
+> Four
+    O: Mi ne trinkas ĝin en la domo.
+    E: I don't drink it in the house.
+
+    O: Ni vidas la leteron kaj ŝatas ĝin.
+    E: We see the letter and like it.
+
+    O: Mi vidas la libron kaj legas ĝin.
+    E: I see the book and read it.
+
+    O: Mi ŝatas ĝin.
+    E: I like it.
+
+    O: La letero estas en la domo.
+    E: The letter is in the house.
+
+    O: La libro estas granda.
+    E: The book is big.
+
+    O: Ili legas en la domo.
+    E: They read in the house.
+
+    O: Li kaj ŝi legas leteron.
+    E: He and she read a letter.
+
+    O: Knabino ŝatas la leteron.
+    E: A girl likes the letter.
