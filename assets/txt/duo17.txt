@@ -42,6 +42,12 @@
     O: Ŝi loĝas kun ŝia familio.
     E: She lives with her family.
 
+    O: La onklinoj rigardas al la bebo.
+    E: The aunts are looking at the baby.
+
+    O: Mia onklino trinkas akvon.
+    E: My aunt drinks water.
+
 > Two
     O: Mia edzo prezentas ŝin al ni.
     E: My husband introduces her to us.
@@ -67,7 +73,8 @@
     O: Estas tri homoj en la ĉambro.
     E: There are three people in the room.
 
-    O: Li estas aliulo, ne estas mia koramiko.
+    // or "Li estas iu alia, ..."
+    O: Li estas aliulo, ne mia koramiko.
     E: He is someone else, not my boyfriend.
 
     O: Li volas prezenti min al vi.
@@ -76,7 +83,7 @@
     O: Ĉu vi havas du koramikoj?
     E: Do you have two boyfriends?
 
-    O: Mia koramikino rigardas min.
+    O: Mia koramikino rigardas al mi.
     E: My girlfriend looks at me.
 
     O: Mi volas paroli pri miaj amikoj.
@@ -87,6 +94,38 @@
 
     O: Li volas vidi viajn amikojn.
     E: He wants to see your friends.
+
+    O: Mi prezentas mian koramikon al vi.
+    E: I introduce my boyfriend to you.
+
+    O: Li volas paroli kun vi pri via koramikino.
+    E: He wants to talk to you about your girlfriend.
+
+    O: Kie en Eŭropo loĝas via amikino?
+    E: Where in Europe does your friend live?
+
+    O: Kiom da ĉambroj estas en la domo?
+    E: How many rooms are in the house?
+
+    O: Nia domo enhavas kvar ĉambrojn.
+    E: Our house contains four rooms.
+
+    O: Ŝi dancas en sia ĉambro.
+    E: She dances in her room.
+
+    // or "Ŝi estas edzino de alia persono."
+    O: Ŝi montras al ni nian ĉambron.
+    E: She shows us our room.
+
+    O: Ŝi estas la edzino de aliulo.
+    E: She is somebody else's wife.
+
+    O: Jen niaj ĝemelaj infanoj!
+    E: Here are our twin kids!
+
+    // or "Ĉu veras, ke li havas ĝemelon?"
+    O: Ĉu estas vere, ke li havas ĝemelon?
+    E: Is it true that he has a twin?
 
 > Three
     O: Mia familio: Paĉjo, panjo, mi kaj la bebo.
@@ -130,3 +169,9 @@
 
     O: Ĉu vi havas praavinon?
     E: Do you have a great-grandmother?
+
+    O: La avino aĉetas pantalonon por sia nepo.
+    E: The grandmother buys pants for her grandson.
+
+    O: Tiu knabo estas mia nepo.
+    E: This boy is my grandson.
