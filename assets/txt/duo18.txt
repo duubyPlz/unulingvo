@@ -1,3 +1,63 @@
 == Objects ==
 > One
+    1 Tiu telefono estas poŝtelefono.
+    2 That phone is a mobile phone.
+
+    1 Ankaŭ brakhorloĝoj estas horloĝoj.
+    2 Watches, also, are clocks.
+
+    1 Mi bezonas baterion por mia brakhorloĝo.
+    2 I need a battery for my watch.
+
+    1 Mi serĉas miajn okulvitrojn.
+    2 I am looking for my glasses.
+
+    1 Mi legas libron sur la ekrano de mia komputilo.
+    2 I read a book on the screen of my computer.
+
+    1 Ĉu ankaŭ vi serĉas viajn okulvitrojn?
+    2 Are you also looking for your glasses?
+
+> Two
+    1 Ĉu vi volas la sakon aŭ la korbon?
+    2 Do you want the bag or the basket?
+
+    1 Kie oni trovas la sapon?
+    2 Where does one find the soap?
+
+    1 Ĉu tiu pulvoro estas sapo?
+    2 Is this powder soap?
+
+    1 Li ne trovas la lampon en la kesto.
+    2 He doesn't find the lamp in the chest.
+
+    1 Mia avo ŝatas tiun pulvoron.
+    2 My grandfather likes this powder.
+
+    1 Kio estas en kiu kesto?
+    2 What is in that chest?
+
+> Three
+    1 Tiu maŝino estas motoro.
+    2 That machine is a motor.
+
+    1 Ĉi tiu rado funkcias bone.
+    2 This wheel works well.
+
+    1 Mi legas pri tiu objecto en la gazeto.
+    2 I am reading about that object in the newspaper.
+
+    1 Mi legas nur senpagajn gazetojn.
+    2 I only read free newspapers.
+
+    1 Ni devas ŝanĝi la radojn.
+    2 We need to change the wheels.
+
+    1 Ĝi ne funkcias.
+    2 It doesn't work.
+
+    1 Mia laboro ne senpagas.
+    2 My work is not free.
+
+> Four
     

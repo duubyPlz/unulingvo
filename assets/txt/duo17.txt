@@ -115,10 +115,10 @@
     O: Ŝi dancas en sia ĉambro.
     E: She dances in her room.
 
-    // or "Ŝi estas edzino de alia persono."
     O: Ŝi montras al ni nian ĉambron.
     E: She shows us our room.
 
+    // or "Ŝi estas edzino de alia persono."
     O: Ŝi estas la edzino de aliulo.
     E: She is somebody else's wife.
 
@@ -128,6 +128,9 @@
     // or "Ĉu veras, ke li havas ĝemelon?"
     O: Ĉu estas vere, ke li havas ĝemelon?
     E: Is it true that he has a twin?
+
+    O: Ĉu vi ŝatas la samajn aferojn?
+    E: Do you like the same things?
 
 > Three
     O: Mia familio: Paĉjo, panjo, mi kaj la bebo.
@@ -177,3 +180,6 @@
 
     O: Tiu knabo estas mia nepo.
     E: This boy is my grandson.
+
+    O: La nepinoj vizitas siajn geavojn.
+    E: The granddaughters visit their grandparents.
