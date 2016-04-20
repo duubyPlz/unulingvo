@@ -211,7 +211,7 @@
     O: Sed tio estas nur peco da plasto!
     E: But that is only a piece of plastic!
 
-    O: Ne dankon, mi preferas pecon da kukon.
+    O: Ne dankon, mi preferas pecon da kuko.
     E: No thanks, I prefer a piece of cake.
 
 > Six
