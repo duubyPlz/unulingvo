@@ -1,12 +1,12 @@
 body {
-  /*font-family: 'Dosis', sans-serif;*/
-  font-family: 'museo-sans-rounded', sans-serif;
-  font-size: 15px;
+  /*font-family: 'Varela Round', sans-serif;*/
+  font-family: 'Dosis', sans-serif;
+  font-size: 18px;
   background-color: #e9e9e9;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'museo-sans-rounded', sans-serif;
+  font-family: 'Dosis', sans-serif;
 }
 
 a.link-orange {
@@ -116,7 +116,7 @@ button.btn-green {
   background: #7eb530;
   color: #fff;
   border-color: #7eb530;
-  font-size: 85%;
+  font-size: 75%;
 }
 
 button#skip {
@@ -173,7 +173,7 @@ select#contents {
   vertical-align: center;
   position: absolute;
   top: 120px;
-  left: 393px;
+  left: 395px;
 }
 
 div.popup {
@@ -351,5 +351,3 @@ footer.footer {
     top: 0;
   }
 }
-
-
