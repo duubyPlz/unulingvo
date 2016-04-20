@@ -104,7 +104,7 @@
     E: He wants to talk to you about your girlfriend.
 
     O: Kie en Eŭropo loĝas via amikino?
-    E: Where in Europe does your friend live?
+    E: Where in Europe does your (female) friend live?
 
     O: Kiom da ĉambroj estas en la domo?
     E: How many rooms are in the house?
