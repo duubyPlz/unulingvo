@@ -26,7 +26,13 @@ $('select#contents').change(function() {
 });
 
 // 3. Logic - check results, see if input field is correct
-$('button#checking').on('click', logic);
+// a) Click 'check' button
+$('button#checking').on('click', function() {
+    if (!$('textarea#answer').hasClass('incorrect') && !$('textarea#answer').hasClass('correct')) {
+        logic();
+    }
+});
+// b) Press 'enter' key
 $('textarea#answer').keydown(function (e) {
     if (e.keyCode == 13)  {
         e.preventDefault();
