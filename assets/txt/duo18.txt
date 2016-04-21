@@ -30,7 +30,7 @@
     O: Kie estas miaj okulvitroj?
     E: Where are my glasses?
 
-    O: Mi ŝerĉas bonan komputilon.
+    O: Mi serĉas bonan komputilon.
     E: I am looking for a good computer.
 
     O: Ĉu vi vidas miajn okulvitrojn?
@@ -50,7 +50,7 @@
     E: Where does one find the soap?
 
     O: Ĉu tiu pulvoro estas sapo?
-    E: Is this powder soap?
+    E: Is that powder soap?
 
     O: Li ne trovas la lampon en la kesto.
     E: He doesn't find the lamp in the chest.
@@ -126,7 +126,7 @@
     E: That object is a machine.
 
 > Four
-    O: La arbo has foliojn kaj radikojn.
+    O: La arbo havas foliojn kaj radikojn.
     E: The tree has leaves and roots.
 
     O: Mono ne kreskas sur arboj.
