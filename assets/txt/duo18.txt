@@ -199,7 +199,7 @@
     O: La kato ludas per la fadeno.
     E: The cat plays with the thread.
 
-    O: Ni bezonas nigran fadenon.
+    O: Mi bezonas nigran fadenon.
     E: I need black thread.
 
     O: Kies skribilo estas ĉi tiu?
