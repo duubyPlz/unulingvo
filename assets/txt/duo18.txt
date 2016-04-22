@@ -24,7 +24,7 @@
     O: Mia poŝtelefono havas ekranon.
     E: My mobile phone has a screen.
 
-    O: Lia brakhorloĝon havas ekranon kaj pomon.
+    O: Lia brakhorloĝo havas ekranon kaj pomon.
     E: His watch has a screen and an apple.
 
     O: Kie estas miaj okulvitroj?
@@ -92,7 +92,7 @@
     O: Ĉi tiu rado funkcias bone.
     E: This wheel works well.
 
-    O: Mi legas pri tiu objecto en la gazeto.
+    O: Mi legas pri tiu objekto en la gazeto.
     E: I am reading about that object in the newspaper.
 
     O: Mi legas nur senpagajn gazetojn.
