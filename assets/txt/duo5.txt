@@ -24,7 +24,7 @@
     O: Vi lernas Esperanton rapide!
     E: You learn Esperanto quickly!
 
-    O: Ili ne multe lernas.
+    O: Ili ne lernas multe.
     E: They don't learn a lot.
 
     O: La angla ne estas facila lingvo.
