@@ -45,6 +45,9 @@
     O: Kion vi ne komprenas.
     E: What do you not understand?
 
+    O: Se vi parolas angle, mi ne povas kompreni tion.
+    E: If you speak English, I can't understand that?
+
 > Two
     O: Ni provas studi Esperanton.
     E: We are trying to study Esperanto.
@@ -96,6 +99,12 @@
 
     O: Mi volas doni al vi mian glason da vino.
     E: I want to give you my glass of wine.
+
+    O: Ĉu mi malpravas?
+    E: Am I wrong?
+
+    O: Jes, vi pravas.
+    E: Yes, you're correct.
 
 > Three
     O: La hundo staras, ĉar ĝi ne volas kuri.
@@ -192,6 +201,9 @@
     O: Mi esperas tion.
     E: I hope so.
 
+    O: Ili montras la fruktojn al la musoj.
+    E: They show the fruits to the mice.
+
 > Five
     O: Vi timas iri sola.
     E: You are afraid of going alone.
@@ -238,6 +250,9 @@
     O: Li ne povas akcepti la veron.
     E: He can't accept the truth.
 
+    O: Bonvolu ne rigardi min tiel.
+    E: Please don't look at me like that.
+
 > Six
     O: Mi volas fini la laboron.
     E: I want to finish the work.
@@ -277,3 +292,9 @@
 
     O: Mi ne fidas iliajn vortojn.
     E: I don't trust their words.
+
+    O: Ĉu vi finas vian laboron?
+    E: Are you finishing your work?
+
+    O: Vi devas labori pli, se vi volas havi pli da mono.
+    E: You have to work more, if you want more money.

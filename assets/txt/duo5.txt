@@ -24,8 +24,32 @@
     O: Vi lernas Esperanton rapide!
     E: You learn Esperanto quickly!
 
-    O: Mi iomete parolas Esperanton.
-    E: I speak a little Esperanto.
+    O: Ili ne multe lernas.
+    E: They don't learn a lot.
+
+    O: La angla ne estas facila lingvo.
+    E: English is not an easy language.
+
+    O: Mi manĝas iomete.
+    E: I eat a little bit.
+
+    O: Mi lernas la hispanan.
+    E: I am learning Spanish.
+
+    O: La angla estas lingvo.
+    E: English is a language.
+
+    O: La angla vorto ne estas facila.
+    E: The english word is not easy.
+
+    O: Ĉu vi parolas la hispanan?
+    E: Do you speak Spanish?
+
+    O: Mi lernas lingvon kaj ĝi ne estas facila.
+    E: I am learning a language and it is not easy.
+
+    O: Ni lernas iomete.
+    E: We learn a bit.
 
 > Two
     O: Ili skribas en la germana.
@@ -35,7 +59,7 @@
     E: How does one say "Hello" in French?
 
     O: La hispana lingvo ne estas facila.
-    E: Spanish is not an easy language.
+    E: The Spanish language is not easy.
 
     O: Mi legas la italan iomete.
     E: I read a little Italian.
@@ -45,3 +69,9 @@
 
     O: Ĉu vi parolas la hispanan?
     E: Do you speak Spanish?
+
+    O: Oni diras, ke la franca estas bela.
+    E: One says that French is beautiful.
+
+    O: Ĉu vi parolas la italan, la francan, la hispanan aŭ la germanan?
+    E: Do you speak Italian, French, Spanish or German?

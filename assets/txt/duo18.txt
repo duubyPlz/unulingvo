@@ -214,6 +214,9 @@
     O: Ne dankon, mi preferas pecon da kuko.
     E: No thanks, I prefer a piece of cake.
 
+    O: La objekto, kiun mi havas, estas skribilo.
+    E: The object that I have is a pen.
+
 > Six
     O: Kuleroj estas pli belaj ol forkoj.
     E: Spoons are more beautiful than forks.

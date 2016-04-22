@@ -18,6 +18,15 @@
     O: Li renkontas ŝin kaj falas.
     E: He meets her and falls.
 
+    O: Viro kisas virinon.
+    E: A man kisses a woman.
+
+    O: La virino kisas la viron.
+    E: The woman kisses the man.
+
+    O: Ili renkontas la viron.
+    E: They meet the man.
+
 > Two
     O: Mi amas vin!
     E: I love you!
@@ -46,6 +55,9 @@
     O: La virino trinkas kafon kaj akvon.
     E: The woman drinks coffee and water.
 
+    O: La virino havas bongustan ĉokoladon.
+    E: The woman has delicious chocolate.
+
 > Three
     O: Ŝi ŝatas ĉokoladon.
     E: She likes chocolate.
@@ -64,6 +76,9 @@
 
     O: La lakto estas malbona.
     E: The milk is bad.
+
+    O: La ĉokolada kuko estas bongusta.
+    E: The chocolate cake is delicious.
 
 > Four
     O: Mi ne trinkas ĝin en la domo.
@@ -92,3 +107,15 @@
 
     O: Knabino ŝatas la leteron.
     E: A girl likes the letter.
+
+    O: Mi ŝatas ilin.
+    E: I like them.
+
+    O: Ŝi amas viron kaj li amas virinon.
+    E: She loves a man and he loves a woman.
+
+    O: Mi vidas la pomon.
+    E: I see the apple.
+
+    O: La ĵurnalo estas granda.
+    E: The newspaper is big.
