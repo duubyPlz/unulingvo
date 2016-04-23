@@ -27,7 +27,7 @@
     O: La knabo vidas la bebon.
     E: The boy sees the baby.
 
-    O: Mia kuzino estas la fratino de mia onklino.
+    O: Mia kuzino estas la filino de mia onklino.
     E: My cousin is the daughter of my aunt.
 
     O: La gefratoj ofte ludas kun siaj kuzoj.
