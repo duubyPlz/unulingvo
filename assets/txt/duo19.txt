@@ -1,0 +1,293 @@
+== Prepositions ==
+> One
+    O: Pomo estas sub la tablo.
+    E: An apple is under the table.
+
+    O: Mi estas hejme.
+    E: I am at home.
+
+    O: Ŝi iras tra la parko.
+    E: She goes through the park.
+
+    O: Dankon pro via helpo.
+    E: Thank you for your help.
+
+    O: Ĉu vi staras apud li?
+    E: Are you standing next to him?
+
+    O: Lia domo estas trans la strato.
+    E: His house is across the street.
+
+    O: Mi venas pro vi!
+    E: I come because of you!
+
+    O: Ili vidas hundojn trans la strato.
+    E: They see dogs across the street.
+
+    O: Homoj tra la lando parolas Esperanton.
+    E: People throughout the country speak Esperanto.
+
+    O: Mia hundo staras apud mi.
+    E: My dog stands next to me.
+
+    O: Ili ĉiam kuras en la stratoj.
+    E: They always run in the streets.
+
+    O: La kato estas sub la seĝo.
+    E: The cat is under the chair.
+
+    O: Ŝi dankas al la patrino pro la manĝo.
+    E: She thanks the mother for the meal.
+
+    O: Mi vojaĝas tra Germanio ĝis Pollando.
+    E: I travel through Germany as far as Poland.
+
+    O: La kato sidas apud la hundo.
+    E: The cat sits next to the dog.
+
+    O: Kial vi iras hejmen?
+    E: Why are you going home?
+
+    O: Trans la strato estas blanka domo.
+    E: Across the street is a white house.
+
+    O: Estas hundo sub la tablo kaj kato sub la seĝo.
+    E: There is a dog under the table and a cat under the chair.
+
+    O: Vi iras tra la domo.
+    E: You are going through the house.
+
+    O: Dankon pro via respondo.
+    E: Thanks for your answer.
+
+    O: Miaj geavoj ĉiam sidas hejme apud la tablo.
+    E: My grandparents always sit at home next to the table.
+
+    O: Homoj tra la mondo parolas Esperanton.
+    E: People around the world speak Esperanto.
+
+    O: La pomo estas for de la telero.
+    E: The apple is far from the plate.
+
+> Two
+    O: La ĉielo estas super la tero.
+    E: The sky is above the earth.
+
+    O: Ni marŝas rapide hejmen.
+    E: We walk quickly home.
+
+    O: Sofia verŝas teon en la tason.
+    E: Sofia is pouring tea into the cup.
+
+    O: La koloroj de la ĉielarko.
+    E: The colours of the rainbow.
+
+    O: La malgranda knabino ofte saltas en la domo.
+    E: The small girl often jumps in the house.
+
+    O: Kial vi iras hejmen?
+    E: Why are you going home?
+
+    O: Bonvolu ŝuti iom da sukero en mian kafon.
+    E: Please pour some sugar into my coffee.
+
+    O: Bonvolu verŝi lakton en mian kafon.
+    E: Please pour milk into my coffee.
+
+    O: Mi ne povas vidi la ĉielon.
+    E: I can't see the sky.
+
+    O: Adamo ĉiam Ŝutas multe da sukero en sian teon.
+    E: Adamo always pours lots of sugar into his tea.
+
+    O: La birdo flugas super nia domo.
+    E: The bird flies above our house.
+
+    O: La ĉielo estas blua.
+    E: The sky is blue.
+
+    O: Kie estas la ĉielarko?
+    E: Where is the rainbow?
+
+    O: Lia onklo ĉiam ŝutas multe da salo sur la viandon.
+    E: His uncle always pours lots of salt onto the meat.
+
+    O: Li marŝas kiel anaso.
+    E: He walks like a duck.
+
+    O: Adamo ofte verŝas akvon en glasojn.
+    E: Adamo often pours water into glasses.
+
+    O: Blua birdo saltas sur la tablon.
+    E: A blue bird jumps onto the table.
+
+    O: La lampo estas super la tablo.
+    E: The lamp is above the table.
+
+    O: Ilia patrino estas bona.
+    E: Their mother is good.
+
+    O: Sofia metas fragojn sur teleron.
+    E: Sofia is putting strawberries onto a plate.
+
+    O: Kial ŝi ĉiam metas la kato sur la seĝo?
+    E: Why does she always put the cat on the chair?
+
+    O: Ĉu aligatoro metas ovojn?
+    E: Does an alligator lay eggs?
+
+    O: Bonvolu ŝuti iom da sukero en mian kafon.
+    E: Please pour some sugar into my coffee.
+
+    O: Adamo ĉiam ŝutas multe da sukero en sian teon.
+    E: Adamo always pours lots of sugar into his tea.
+
+    O: La birdo demetas malgrandan ovon.
+    E: The bird lays a small egg.
+
+    O: Bluaj birdoj flugas super la ĉielarko.
+    E: Blue birds fly above the rainbow.
+
+> Three
+    O: Ŝi loĝas for de ĉi tie.
+    E: She lives far away from here.
+
+    O: La knabino staras malantaŭ sia fratino.
+    E: The girl stands behind her sister.
+
+    O: Mi atendas vin antaŭ via domo.
+    E: I am waiting for you in front of your house.
+
+    O: Mi sidas ĉe la tablo.
+    E: I sit at the table.
+
+    O: Kiom da steloj estas en la ĉielo?
+    E: How many stars are in the sky?
+
+    O: Ili iras for.
+    E: They go away.
+
+    O: Inter la manĝoj ni trinkas.
+    E: Between the meals we drink.
+
+    O: Kiom da homoj vivas en nia mondo?
+    E: How many people live in our world?
+    
+    O: Ni vidas la ĉielon malantaŭ la domo
+    E: We see the sky behind the house.
+
+    O: Usono estas lando inter Meksiko kaj Kanado.
+    E: USA is a country between Mexico and Canada.
+
+    O: La krokodilo atendas malantaŭ la pordo.
+    E: The crocodile waits behind the door.
+
+    O: Mi sidas malantaŭ miaj gepatroj.
+    E: I sit behind my parents.
+
+    O: Vi iras antaŭ mi.
+    E: You go before me.
+
+    O: Ni vidas verdan stelon sur la flago.
+    E: We see a green star on the flag.
+
+    O: Ĉu vi vidas la belan lunon inter la arboj?
+    E: Do you see the beautiful moon between the trees?
+
+    O: Nia verda flago enhavas stelon.
+    E: Our green flag contains a star.
+
+    O: Bonvenon ĉe ni!
+    E: Welcome to our home!
+
+    O: Ili sidas antaŭ la pordo.
+    E: They sit in front of the door.
+
+    O: La seĝo staras inter ni.
+    E: The chair is standing between us.
+
+    O: Ĉe vi mi fartas bone.
+    E: At your place I am doing well.
+
+> Four
+    O: La suno brilas.
+    E: The sun is shining.
+
+    O: Ni trinkas ĉion krom akvo.
+    E: We drink everything except for water.
+
+    O: La hundoj atendas ekster la domo.
+    E: The dogs wait outside of the house.
+
+    O: Li ne estas kontraŭ ni.
+    E: He is not against us.
+
+    O: Ĉu vi vidas la sunon?
+    E: Do you see the sun?
+
+    O: Ni estas ekster nia lando.
+    E: We are outside of our country.
+
+    O: Suno, luno kaj steloj.
+    E: Sun, moon and stars.
+
+    O: Kiam Tero estas inter la suno kaj la luno, ni ne povas vidi la lunon brili.
+    E: When Earth is between the sun and the moon, we can't see the moon shine.
+
+    O: Ili parolas ekster mia ĉambro.
+    E: They speak outside my room.
+
+    O: Lakto helpas kontraŭ ĉio malbona.
+    E: Milk helps against everything bad.
+
+    O: Sofia ŝatas bestojn, krom aligatoroj.
+    E: Sofia likes animals, except alligators.
+
+    O: Those grandfathers are against everything.
+    E: Tiuj avoj estas kontraŭ ĉio.
+
+ > Five
+    O: Laŭ mi, la vetero estas bona.
+    E: In my opinion, the weather is good.
+
+    O: Malgraŭ lia opinio, ŝi lernas multe da lingvoj.
+    E: Despite his opinion, she is learning many languages.
+
+    O: Kvankam mi komprenas vian peton, mi ne povas doni al vi monon.
+    E: Although I understand your request, I can't give you money.
+
+    O: Ĉu vi volas iri anstataŭ mi?
+    E: Do you want to go instead of me?
+
+    O: Kiom da seĝoj estas ĉirkaŭ la tablo?
+    E: How many chairs are around the table?
+
+    O: La infanoj kuras preter la granda arbo.
+    E: The children run past the big tree.
+
+    O: Li vojaĝas ĉirkaŭ la mondo.
+    E: He travels around the world.
+
+    O: Kvankam la vetero estas malbona, la infanoj ludas ekster la domo.
+    E: Although the weather is bad, the children play outside the house.
+
+    O: Mi faras ĝin laŭ via peto.
+    E: I do it per your request.
+
+    O: Tio estas lia opinio.
+    E: This is his opinion.
+
+    O: Malgraŭ la bona vetero, mi estas ĉi tie.
+    E: Despite the good weather, I am here.
+
+    O: Li iras preter nia domo al la restoracio.
+    E: He goes past our house to the restaurant.
+
+    O: La mondo estas malgranda.
+    E: The world is small.
+
+    O: Li lernas la rusan anstataŭ la franca.
+    E: He learns Russian instead of French.
+
+    O: Kvankam mi ne volas manĝi viandon, mi manĝas ĝin.
+    E: Although I don't want to eat meat, I eat it.

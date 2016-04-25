@@ -15,6 +15,9 @@
     O: La viro.
     E: The man.
 
+    O: Mi ne estas viro.
+    E: I am not a man.
+
 > Two
     O: Li estas viro.
     E: He is a man.
@@ -30,6 +33,15 @@
 
     O: Vi kaj mi ludas.
     E: You and I play.
+
+    O: La knabino.
+    E: The girl.
+
+    O: Li ludas kaj ŝi kantas.
+    E: He plays and she sings.
+
+    O: Viro kaj virino ludas.
+    E: A man and a woman play.
 
 > Three
     O: La bona knabo laboras multe.
@@ -67,3 +79,6 @@
 
     O: Knabino falas.
     E: A girl falls.
+
+    O: La viro ne laboras.
+    E: The man doesn't work.

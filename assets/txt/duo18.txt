@@ -42,6 +42,9 @@
     O: Ŝi ŝanĝas la baterion de brakhorloĝo.
     E: She changes the battery of a watch.
 
+    O: Mia poŝtelefono havas ekranon.
+    E: My mobile phone has a screen.
+
 > Two
     O: Ĉu vi volas la sakon aŭ la korbon?
     E: Do you want the bag or the basket?
@@ -84,6 +87,9 @@
 
     O: Ŝia patro trovas la lampon en la korbo.
     E: Her father finds the lamp in the basket.
+
+    O: Bonvolu uzi la sapon kun akvo!
+    E: Please use the soap with water!
 
 > Three
     O: Tiu maŝino estas motoro.
