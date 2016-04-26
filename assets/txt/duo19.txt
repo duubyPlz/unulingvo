@@ -130,8 +130,8 @@
     O: Sofia metas fragojn sur teleron.
     E: Sofia is putting strawberries onto a plate.
 
-    O: Kial ŝi ĉiam metas la kato sur la seĝo?
-    E: Why does she always put the cat on the chair?
+    O: Kial ŝi ĉiam metas la katon sur la seĝon?
+    E: Why does she always put the cat onto the chair?
 
     O: Ĉu aligatoro metas ovojn?
     E: Does an alligator lay eggs?
@@ -147,6 +147,9 @@
 
     O: Bluaj birdoj flugas super la ĉielarko.
     E: Blue birds fly above the rainbow.
+
+    O: Ĉu vi vidas la muson, kiu saltas de la tablo sur la seĝon?
+    E: Do you see the mouse which is jumping from the table onto the chair?
 
 > Three
     O: Ŝi loĝas for de ĉi tie.
