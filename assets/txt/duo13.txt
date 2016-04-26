@@ -46,6 +46,18 @@
     O: La ĉevalo manĝas mian mantelon.
     E: The horse is eating my coat.
 
+    O: Vi ofte portas vian mantelon.
+    E: You often wear your coat.
+
+    O: Ili havas mantelojn kaj ĉapelojn.
+    E: They have coats and hats.
+
+    O: Ĉu vi bezonas ĉapelon?
+    E: Do you need a hat?
+
+    O: Mia ĉapelo estas ruĝa.
+    E: My hat is red.
+
 > Three
     O: Mi portas ŝtrumpetojn, ne ŝtrumpojn.
     E: I wear socks, not stockings.
@@ -85,3 +97,9 @@
 
     O: Ĉu via propra ĉemizo havas butonojn?
     E: Does your own shirt have buttons?
+
+    O: Strumpojn ne havas butonojn.
+    E: Stockings don't have buttons.
+
+    O: Virinoj ofte portas ŝtrumpojn.
+    E: Women often wear stockings.

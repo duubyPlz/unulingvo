@@ -49,6 +49,9 @@
     O: Estas fiŝaĵo kaj legomoj sur la telero.
     E: There are fish and vegetables on the plate.
 
+    O: La sukero kaj la butero estas por nia kuko.
+    E: The sugar and the butter is for your cake.
+
 > Three
     O: Legomoj bongustas.
     E: Vegetables are delicious.
@@ -113,6 +116,8 @@
 
     O: Porkaĵo estas pli bongusta ol bovaĵo.
     E: Pork is more delicious than beef.
+
+    O: Ĉu vi manĝas ĉiom?
 
 > Five
     O: Ĉu ili vespermanĝas kune?

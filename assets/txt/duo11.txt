@@ -89,3 +89,6 @@
 
     O: Multaj japanoj en Japanio parolas Esperanton.
     E: Many Japanese in Japan speak Esperanto.
+
+    O: Nia patrino venas el Ĉeĥio.
+    E: Our mother comes from Czech Republic.
