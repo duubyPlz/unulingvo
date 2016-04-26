@@ -272,7 +272,7 @@
     E: Although the weather is bad, the children play outside the house.
 
     O: Mi faras ĝin laŭ via peto.
-    E: I do it per your request.
+    E: I do it according to your request.
 
     O: Tio estas lia opinio.
     E: This is his opinion.
