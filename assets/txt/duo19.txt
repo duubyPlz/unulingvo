@@ -36,8 +36,8 @@
     O: La kato estas sub la seĝo.
     E: The cat is under the chair.
 
-    O: Ŝi dankas al la patrino pro la manĝo.
-    E: She thanks the mother for the meal.
+    O: Ŝi dankas al lia patrino pro la manĝo.
+    E: She thanks his mother for the meal.
 
     O: Mi vojaĝas tra Germanio ĝis Pollando.
     E: I travel through Germany as far as Poland.
