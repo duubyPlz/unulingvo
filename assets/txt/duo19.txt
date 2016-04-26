@@ -243,8 +243,8 @@
     O: Sofia ŝatas bestojn, krom aligatoroj.
     E: Sofia likes animals, except alligators.
 
-    O: Those grandfathers are against everything.
-    E: Tiuj avoj estas kontraŭ ĉio.
+    O: Tiuj avoj estas kontraŭ ĉio.
+    E: Those grandfathers are against everything.
 
  > Five
     O: Laŭ mi, la vetero estas bona.
