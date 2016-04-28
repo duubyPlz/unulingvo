@@ -1,3 +1,7 @@
+
+// TODO:
+// arrow switches to v if media
+
 // 1. Parse & display text of selected module
 var selectedModule = $('select#contents').val();
 if (!$.isNumeric(selectedModule)) {
