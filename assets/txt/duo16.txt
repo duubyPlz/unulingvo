@@ -48,6 +48,9 @@
     O: Se vi parolas angle, mi ne povas kompreni tion.
     E: If you speak English, I can't understand that?
 
+    O: Ŝi pensas, ke ŝi vidas grandajn insektojn.
+    E: She thinks that she sees big insects.
+
 > Two
     O: Ni provas studi Esperanton.
     E: We are trying to study Esperanto.
@@ -204,6 +207,12 @@
     O: Ili montras la fruktojn al la musoj.
     E: They show the fruits to the mice.
 
+    O: Ili ne povas telefoni al ni.
+    E: They can't call us.
+
+    O: Esperanto estas mirinda lingvo, ĉu ne?
+    E: Esperanto is a wonderful language, isn't it?
+
 > Five
     O: Vi timas iri sola.
     E: You are afraid of going alone.
@@ -253,6 +262,9 @@
     O: Bonvolu ne rigardi min tiel.
     E: Please don't look at me like that.
 
+    O: Bonvolu ne zorgi.
+    E: Please don't worry.
+
 > Six
     O: Mi volas fini la laboron.
     E: I want to finish the work.
@@ -298,3 +310,6 @@
 
     O: Vi devas labori pli, se vi volas havi pli da mono.
     E: You have to work more, if you want more money.
+
+    O: Bonvolu pardoni min.
+    E: Please forgive me.

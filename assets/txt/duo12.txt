@@ -166,6 +166,9 @@
     O: La kelnerino donas al la infano menuon.
     E: The waitress gives the child a menu.
 
+    O: Mi gustumas la manĝaĵon.
+    E: I taste the food.
+
 > Seven
     O: Glacio malvarmas.
     E: Ice is cold.

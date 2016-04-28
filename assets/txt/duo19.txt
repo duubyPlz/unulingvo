@@ -69,6 +69,9 @@
     O: La pomo estas for de la telero.
     E: The apple is far from the plate.
 
+    O: Vojaĝo tra Kanado estas longa.
+    E: Travelling through Canada is long.
+
 > Two
     O: La ĉielo estas super la tero.
     E: The sky is above the earth.
