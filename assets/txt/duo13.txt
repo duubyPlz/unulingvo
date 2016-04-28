@@ -98,7 +98,7 @@
     O: Ĉu via propra ĉemizo havas butonojn?
     E: Does your own shirt have buttons?
 
-    O: Strumpojn ne havas butonojn.
+    O: Ŝtrumpojn ne havas butonojn.
     E: Stockings don't have buttons.
 
     O: Virinoj ofte portas ŝtrumpojn.
