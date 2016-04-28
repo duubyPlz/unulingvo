@@ -163,7 +163,7 @@ div#contents {
 }
 
 select#contents {
-  width: 300px;
+  width: 400px;
 }
 
 #arrow {
@@ -338,7 +338,7 @@ footer.footer {
   }
 
   select#contents {
-    width: 350px;
+    width: 450px;
   }
 
   #arrow {
