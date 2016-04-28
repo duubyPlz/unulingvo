@@ -1,296 +1,363 @@
 == Past & Future ==
 > One
-    1 Morgaŭ ni manĝos fragojn.
-    2 Tomorrow we will eat strawberries.
+    O: Morgaŭ ni manĝos fragojn.
+    E: Tomorrow we will eat strawberries.
 
-    1 Li manĝis panon kaj trinkis akvon.
-    2 He ate bread and drank water.
+    O: Li manĝis panon kaj trinkis akvon.
+    E: He ate bread and drank water.
 
-    1 Kiam mi aŭdas birdojn, mi volas aŭdi pli.
-    2 When I hear birds, I want to hear more.
+    O: Kiam mi aŭdas birdojn, mi volas aŭdi pli.
+    E: When I hear birds, I want to hear more.
 
-    1 Ĉu vi volas danci ĉi tiun dancon kun mi?
-    2 Do you want to dance this dance with me?
+    O: Ĉu vi volas danci ĉi tiun dancon kun mi?
+    E: Do you want to dance this dance with me?
 
-    1 Ŝi aŭdos nin, kiam ni iros.
-    2 She will hear us when we go.
+    O: Ŝi aŭdos nin, kiam ni iros.
+    E: She will hear us when we go.
 
-    1 Morgaŭ mi manĝos fruktojn.
-    2 Tomorrow I will eat fruit.
+    O: Morgaŭ mi manĝos fruktojn.
+    E: Tomorrow I will eat fruit.
 
-    1 Kion vi faros, kiam vi vidos la krokodilon?
-    2 What will you do when you see the crocodile?
+    O: Kion vi faros, kiam vi vidos la krokodilon?
+    E: What will you do when you see the crocodile?
 
-    1 Ĉu vi trinkas multe da lakto?
-    2 Did you drink a lot of milk?
+    O: Ĉu vi trinkas multe da lakto?
+    E: Did you drink a lot of milk?
 
-    1 Kies amiko faris la laboron?
-    2 Whose friend did the work?
+    O: Kies amiko faris la laboron?
+    E: Whose friend did the work?
 
-    1 La hundo trinkos akvon en la parko.
-    2 The dog will drink water in the park.
+    O: La hundo trinkos akvon en la parko.
+    E: The dog will drink water in the park.
 
-    1 Ŝi vidos min en la parko.
-    2 She will see me in the park.
+    O: Ŝi vidos min en la parko.
+    E: She will see me in the park.
 
-    1 Kiam ili iros al Italio?
-    2 When will they go to Italy?
+    O: Kiam ili iros al Italio?
+    E: When will they go to Italy?
 
-    1 Kiam ŝi iros al Francio, ŝi manĝas bone.
-    2 When she went to France, she ate well.
+    O: Kiam ŝi iros al Francio, ŝi manĝas bone.
+    E: When she went to France, she ate well.
 
-    1 Hodiaŭ mi volas danci.
-    2 Today I want to dance.
+    O: Hodiaŭ mi volas danci.
+    E: Today I want to dance.
+
+    O: Morgaŭ la knabino volos trinki lakton.
+    E: Tomorrow the girl will want to drink milk.
+
+    O: Ni aŭdis vin en la ĉambro.
+    E: We heard you in the room.
 
 > Two
-    1 Mi helpos vin lerni.
-    2 I will help you learn.
+    O: Mi helpos vin lerni.
+    E: I will help you learn.
 
-    1 Hieraŭ li diris al mi, ke li amas min.
-    2 Yesterday he told me that he loves me.
+    O: Hieraŭ li diris al mi, ke li amas min.
+    E: Yesterday he told me that he loves me.
 
-    1 Vi parolos Esperanton kun mi.
-    2 You will speak Esperanto with me.
+    O: Vi parolos Esperanton kun mi.
+    E: You will speak Esperanto with me.
 
-    1 Mi ne ŝatas vojaĝi sola.
-    2 I don't like travelling alone.
+    O: Mi ne ŝatas vojaĝi sola.
+    E: I don't like travelling alone.
 
-    1 Mi ŝatis paroli la francan.
-    2 I liked speaking French.
+    O: Mi ŝatis paroli la francan.
+    E: I liked speaking French.
 
-    1 Li ne respondis mian demandon.
-    2 He didn't answer my question.
+    O: Li ne respondis mian demandon.
+    E: He didn't answer my question.
 
-    1 La instruistoj vojaĝos al Germanio.
-    2 The teachers will travel to Germany.
+    O: La instruistoj vojaĝos al Germanio.
+    E: The teachers will travel to Germany.
 
-    1 Ĉu vi diris "dankon" al ili?
-    2 Did you say "thanks" to them?
+    O: Ĉu vi diris "dankon" al ili?
+    E: Did you say "thanks" to them?
 
-    1 Kiam vi diros al li, ĉu vi amas lin?
-    2 When will you tell him whether you love him?
+    O: Kiam vi diros al li, ĉu vi amas lin?
+    E: When will you tell him whether you love him?
 
-    1 Kiam ŝi respondos?
-    2 When will she answer?
+    O: Kiam ŝi respondos?
+    E: When will she answer?
 
-    1 Mi vojaĝis per aŭto.
-    2 I travelled by car.
+    O: Mi vojaĝis per aŭto.
+    E: I travelled by car.
 
-    1 Mi diris, ke mi volas la veron!
-    2 I said that I want the truth!
+    O: Mi diris, ke mi volas la veron!
+    E: I said that I want the truth!
 
-    1 Ili parolos pri ni.
-    2 They will talk about us.
+    O: Ili parolos pri ni.
+    E: They will talk about us.
+
+    O: Mia edzino diris al mi, ke ŝi ŝatas manĝi kukon.
+    E: My wife told me that she likes eating cake.
+
+    O: La bonaj amikoj lernis Esperanton kune.
+    E: The good friends learnt Esperanto together.
+
+    O: Mi helpos miajn gepatrojn.
+    E: I will help my parents.
+
+    O: Ĉu vi provas lerni Esperanton?
+    E: Are you trying to learn Esperanto?
+
+    O: Miaj okulvitroj helpis min vidi.
+    E: My glasses helped me see.
 
 > Three
-    1 Li volis instrui la francan.
-    2 He wanted to teach French.
+    O: Li volis instrui la francan.
+    E: He wanted to teach French.
 
-    1 Mi sciis tro multe.
-    2 I knew too much.
+    O: Mi sciis tro multe.
+    E: I knew too much.
 
-    1 Hodiaŭ mi laboras. Morgaŭ mi ludos.
-    2 Today I work. Tomorrow I will play.
+    O: Hodiaŭ mi laboras. Morgaŭ mi ludos.
+    E: Today I work. Tomorrow I will play.
 
-    1 Vi ne demandis.
-    2 You didn't ask.
+    O: Vi ne demandis.
+    E: You didn't ask.
 
-    1 Ĉu vi trovis vian katon hieraŭ?
-    2 Did you find your cat yesterday?
+    O: Ĉu vi trovis vian katon hieraŭ?
+    E: Did you find your cat yesterday?
 
-    1 Mi volis manĝi fragojn hieraŭ.
-    2 I wanted to eat strawberries yesterday.
+    O: Mi volis manĝi fragojn hieraŭ.
+    E: I wanted to eat strawberries yesterday.
 
-    1 Kiun vi uzos?
-    2 Which will you use?
+    O: Kiun vi uzos?
+    E: Which will you use?
 
-    1 Mi pensas, ke vi uzis tro multe da salo.
-    2 I think that you used too much salt.
+    O: Mi pensas, ke vi uzis tro multe da salo.
+    E: I think that you used too much salt.
 
-    1 Mi esperas, ke ili trovos la monon.
-    2 I hope that they will find the money.
+    O: Mi esperas, ke ili trovos la monon.
+    E: I hope that they will find the money.
 
-    1 Mi sciis tion.
-    2 I knew that.
+    O: Mi sciis tion.
+    E: I knew that.
 
-    1 Vi ne scios kion fari.
-    2 You won't know what to do.
+    O: Vi ne scios kion fari.
+    E: You won't know what to do.
 
-    1 Ŝi ŝatas ludi kun la ŝafido.
-    2 She likes playing with the lamb.
+    O: Ŝi ŝatas ludi kun la ŝafido.
+    E: She likes playing with the lamb.
 
-    1 Li ne ludos morgaŭ.
-    2 He won't play tomorrow.
+    O: Li ne ludos morgaŭ.
+    E: He won't play tomorrow.
 
-    1 Ni ludis pli bone.
-    2 We played better.
+    O: Ni ludis pli bone.
+    E: We played better.
 
-    1 Mi demandos al li.
-    2 I will ask him.
+    O: Mi demandos al li.
+    E: I will ask him.
+
+    O: Mi ludis kun mia frato.
+    E: I played with my brother.
 
 > Four
-    1 Antaŭe mi studis la italan. Hodiaŭ mi parolas ĝin.
-    2 Before, I studied Italian. Today I speak it.
+    O: Antaŭe mi studis la italan. Hodiaŭ mi parolas ĝin.
+    E: Before, I studied Italian. Today I speak it.
 
-    1 La hundoj memoris lin, kaj estis feliĉaj vidi lin.
-    2 The dogs remembered him, and were happy to see him.
+    O: La hundoj memoris lin, kaj estis feliĉaj vidi lin.
+    E: The dogs remembered him, and were happy to see him.
 
-    1 Antaŭe mi manĝis por vivi. Nun mi vivas por manĝi.
-    2 Before, I ate to live. Now, I live to eat.
+    O: Antaŭe mi manĝis por vivi. Nun mi vivas por manĝi.
+    E: Before, I ate to live. Now, I live to eat.
 
-    1 Kio okazis?
-    2 What happened?
+    O: Kio okazis?
+    E: What happened?
 
-    1 Ili devas veni al Francio.
-    2 They have to come to France.
+    O: Ili devas veni al Francio.
+    E: They have to come to France.
 
-    1 Ili rigardos la belajn bestojn.
-    2 They will look at the beautiful animals.
+    O: Ili rigardos la belajn bestojn.
+    E: They will look at the beautiful animals.
 
-    1 Nun ni estas amikoj.
-    2 Now we are friends.
+    O: Nun ni estas amikoj.
+    E: Now we are friends.
 
-    1 Li sciis kie estis sia skribilo.
-    2 He knew where his pen was.
+    // or lia
+    O: Li sciis kie estis sia skribilo.
+    E: He knew where his pen was.
 
-    1 Ŝi estos feliĉa en Eŭropo.
-    2 She will be happy in Europe.
+    O: Ŝi estos feliĉa en Eŭropo.
+    E: She will be happy in Europe.
 
-    1 Karoto povas esti blanka.
-    2 A carrot can be white.
+    O: Karoto povas esti blanka.
+    E: A carrot can be white.
 
-    1 Antaŭe mi studis la francan. Nun mi parolas ĝin.
-    2 Before, I studied French. Now I speak it.
+    O: Antaŭe mi studis la francan. Nun mi parolas ĝin.
+    E: Before, I studied French. Now I speak it.
 
-    1 Ĉu vi memoris la lakton?
-    2 Did you remember the milk?
+    O: Ĉu vi memoris la lakton?
+    E: Did you remember the milk?
 
-    1 Kial vi volas esti granda?
-    2 Why do you want to be big?
+    O: Kial vi volas esti granda?
+    E: Why do you want to be big?
 
-    1 Kie ni vivos, kiam la Tero estas tro varma?
-    2 Where will we live, when the Earth is too hot?
+    O: Kie ni vivos, kiam la Tero estas tro varma?
+    E: Where will we live, when the Earth is too hot?
 
-    1 Vi ĉiam parolis pri viaj infanoj.
-    2 You always spoke about your children.
+    O: Vi ĉiam parolis pri viaj infanoj.
+    E: You always spoke about your children.
 
-    1 Kiam mi estis infano, mi komprenas la hispanan, la italan kaj la francan.
-    2 When I was a kid, I understood Spanish, Italian and French.
+    O: Kiam mi estis infano, mi komprenas la hispanan, la italan kaj la francan.
+    E: When I was a kid, I understood Spanish, Italian and French.
+
+    O: Ni rigardis la horloĝon por scii kiel ĝi funkcias.
+    E: We looked at the clock to know how it works.
+
+    O: Kiam vi studis la anglan?
+    E: When did you study English?
+
+    O: Ŝi rigardis lin, ĉar li estas bela.
+    E: She looked at him because he is handsome.
+
+    O: Kio okazas?
+    E: What's up?
+
+    O: Kio okazos morgaŭ?
+    E: What will happen tomorrow?
+
+    O: Hieraŭ, hodiaŭ, morgaŭ.
+    E: Yesterday, today, tomorrow.
 
 > Five
-    1 Mi ne povis dormi.
-    2 I couldn't sleep.
+    O: Mi ne povis dormi.
+    E: I couldn't sleep.
 
-    1 Post tiu kiso, ĉu vi amas min?
-    2 After this kiss, do you love me?
+    O: Post tiu kiso, ĉu vi amas min?
+    E: After this kiss, do you love me?
 
-    1 Post kiam mi laboris, mi dormis.
-    2 After I worked, I slept.
+    O: Post kiam mi laboris, mi dormis.
+    E: After I worked, I slept.
 
-    1 Miaj gepatroj havis verdan domon.
-    2 My parents had a green house.
+    O: Miaj gepatroj havis verdan domon.
+    E: My parents had a green house.
 
-    1 La patro de la familio decidis rapide.
-    2 The father of the family decided quickly.
+    O: La patro de la familio decidis rapide.
+    E: The father of the family decided quickly.
 
-    1 Morgaŭ li skribos rapide.
-    2 Tomorrow he will write quickly.
+    O: Morgaŭ li skribos rapide.
+    E: Tomorrow he will write quickly.
 
-    1 Mi ne povas ami lin.
-    2 I can't love him.
+    O: Mi ne povas ami lin.
+    E: I can't love him.
 
-    1 Mi ne povos vivi sen kuko.
-    2 I can't live without cake.
+    O: Mi ne povos vivi sen kuko.
+    E: I can't live without cake.
 
-    1 Kiam ili dormos?
-    2 When will they sleep?
+    O: Kiam ili dormos?
+    E: When will they sleep?
 
-    1 Ĉu via koramiko laboros morgaŭ?
-    2 Will your boyfriend work tomorrow?
+    O: Ĉu via koramiko laboros morgaŭ?
+    E: Will your boyfriend work tomorrow?
 
-    1 Ili ne povas vivi sen komputiloj.
-    2 They can't live without computers.
+    O: Ili ne povas vivi sen komputiloj.
+    E: They can't live without computers.
 
-    1 Kion li skribis?
-    2 What did he write?
+    O: Kion li skribis?
+    E: What did he write?
 
-    1 Ni havos grandan apetiton.
-    2 We will have a big appetite.
+    O: Ni havos grandan apetiton.
+    E: We will have a big appetite.
 
-    1 Ŝi amas nin.
-    2 She loves us.
+    O: Ŝi amas nin.
+    E: She loves us.
 
-    1 La knabo skribis multajn vortojn.
-    2 The boy write a lot of words.
+    O: La knabo skribis multajn vortojn.
+    E: The boy write a lot of words.
+
+    O: Kiam vi havos krokodilon?
+    E: When will you have a crocodile?
 
 > Six
-    1 Pluvas.
-    2 It is raining.
+    O: Pluvas.
+    E: It is raining.
 
-    1 Ĉu vi donas kukon al viaj infanoj?
-    2 Will you give cake to your children?
+    O: Ĉu vi donas kukon al viaj infanoj?
+    E: Will you give cake to your children?
 
-    1 Miaj geavoj ŝatas legi longajn librojn.
-    2 My grandparents like reading long books.
+    O: Miaj geavoj ŝatas legi longajn librojn.
+    E: My grandparents like reading long books.
 
-    1 Kiam vi komencis studi Esperanton?
-    2 When did you start studying Esperanto?
+    O: Kiam vi komencis studi Esperanton?
+    E: When did you start studying Esperanto?
 
-    1 Ĉu neĝos morgaŭ?
-    2 Will it snow tomorrow?
+    O: Ĉu neĝos morgaŭ?
+    E: Will it snow tomorrow?
 
-    1 Mi prenas kun mi la grandan libron.
-    2 I am taking with me the big book.
+    O: Mi prenas kun mi la grandan libron.
+    E: I am taking with me the big book.
 
-    1 Mi ne forgesos.
-    2 I won't forget.
+    O: Mi ne forgesos.
+    E: I won't forget.
 
-    1 Kiam vi komprenos nin?
-    2 When will you understand us?
+    O: Kiam vi komprenos nin?
+    E: When will you understand us?
 
-    1 Mia amiko donis al mi pomon.
-    2 My friend gave me an apple.
+    O: Mia amiko donis al mi pomon.
+    E: My friend gave me an apple.
 
-    1 Kion vi legos morgaŭ?
-    2 What will you read tomorrow?
+    O: Kion vi legos morgaŭ?
+    E: What will you read tomorrow?
 
-    1 Morgaŭ mia kuzo kaj mi komencos labori.
-    2 Tomorrow my cousin and I will start working.
+    O: Morgaŭ mia kuzo kaj mi komencos labori.
+    E: Tomorrow my cousin and I will start working.
 
-    1 Hieraŭ mia filino legis mallongan libron.
-    2 Yesterday my daughter read a short book.
+    O: Hieraŭ mia filino legis mallongan libron.
+    E: Yesterday my daughter read a short book.
+
+    O: Mia amikinon laboras multe, sed ne ŝatis sian laboron.
+    E: My friend worked a lot, but didn't like her work.
+
+    O: Ni komencas lerni Esperanton.
+    E: We start to learn Esperanto.
 
 > Seven
-    1 Mi tenos vian sakon.
-    2 I will hold your bag.
+    O: Mi tenos vian sakon.
+    E: I will hold your bag.
 
-    1 Ĉu vi scipovas paroli Esperanton?
-    2 Do you know how to speak Esperanto?
+    O: Ĉu vi scipovas paroli Esperanton?
+    E: Do you know how to speak Esperanto?
 
-    1 Ni ne rompis la radon.
-    2 We didn't break the wheel.
+    O: Ni ne rompis la radon.
+    E: We didn't break the wheel.
 
-    1 Kie vi kaŝos tion?
-    2 Where will you hide that?
+    O: Kie vi kaŝos tion?
+    E: Where will you hide that?
 
-    1 Vi povas lasi tion.
-    2 You can leave that.
+    O: Vi povas lasi tion.
+    E: You can leave that.
 
-    1 Ŝi ligis la poŝtelefono al la komputilo.
-    2 She connected the mobile phone to the computer.
+    O: Ŝi ligis la poŝtelefono al la komputilo.
+    E: She connected the mobile phone to the computer.
 
-    1 Post la laboro ni tre soifis.
-    2 After the work we were very thirsty.
+    O: Post la laboro ni tre soifis.
+    E: After the work we were very thirsty.
 
-    1 La kato punis la katidon ĉar ĝi kisis la muson.
-    2 The cat punished the kitten because it kissed the mouse.
+    O: La kato punis la katidon ĉar ĝi kisis la muson.
+    E: The cat punished the kitten because it kissed the mouse.
 
-    1 Li rompis sian okulvitrojn.
-    2 He broke his glasses.
+    O: Li rompis sian okulvitrojn.
+    E: He broke his glasses.
 
     // or sciis kiel
-    1 Mia praavino scipovis kudri robojn.
-    2 My great-grandmother knew how to sew dresses.
+    O: Mia praavino scipovis kudri robojn.
+    E: My great-grandmother knew how to sew dresses.
 
-    1 Sofia scipovas kiel legi la ĉinan, ĉu ne?
-    2 Sofia knows how to read Chinese, doesn't she?
+    O: Sofia scipovas kiel legi la ĉinan, ĉu ne?
+    E: Sofia knows how to read Chinese, doesn't she?
+
+    O: Mi tenis la florojn.
+    E: I held the flowers.
+
+    O: Li kaŝis la monon.
+    E: He hid the money.
+
+    O: Mia patrino kisas mian malgrandan fratinon.
+    E: My mother kissed my little sister.
+
+    O: Ĉu vi kisos vian koramikon?
+    E: Will you kiss your boyfriend?
+
+    O: Li soifas aŭdi sian hejman lingvon.
+    E: He thirsts to hear his home language.
