@@ -44,7 +44,7 @@ a.link-orange:focus {
   -moz-border-radius: 10px;
   border-radius: 10px;
   text-align: left;
-  padding: 15px 20px 20px 19px;
+  padding: 12px 15px;
   border: 1px solid #ebebeb;
   height: 100px;
   width: 300px;
@@ -218,9 +218,9 @@ footer.footer {
     margin-right: auto;
     width: 100%;
     margin-bottom: 0;
-    padding: 30px;
+    padding: 30px 40px;
     height: 300px;
-    line-height: 100%;
+    line-height: 120%;
   }
 
   textarea#answer {
@@ -296,8 +296,9 @@ footer.footer {
     margin-right: auto;
     width: 100%;
     margin-bottom: 0;
-    padding: 30px;
+    padding: 24px 30px;
     height: 150px;
+    line-height: 120%;
   }
 
   textarea#answer {
