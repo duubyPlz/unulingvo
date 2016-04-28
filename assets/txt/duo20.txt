@@ -344,7 +344,7 @@
     O: Mia praavino scipovis kudri robojn.
     E: My great-grandmother knew how to sew dresses.
 
-    O: Sofia scipovas kiel legi la ĉinan, ĉu ne?
+    O: Sofia scipovas legi la ĉinan, ĉu ne?
     E: Sofia knows how to read Chinese, doesn't she?
 
     O: Mi tenis la florojn.
