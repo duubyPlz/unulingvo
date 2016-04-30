@@ -264,7 +264,7 @@
     E: She loves us.
 
     O: La knabo skribis multajn vortojn.
-    E: The boy write a lot of words.
+    E: The boy wrote many words.
 
     O: Kiam vi havos krokodilon?
     E: When will you have a crocodile?
