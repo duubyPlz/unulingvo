@@ -199,7 +199,7 @@
     O: Vi ĉiam parolis pri viaj infanoj.
     E: You always spoke about your children.
 
-    O: Kiam mi estis infano, mi komprenas la hispanan, la italan kaj la francan.
+    O: Kiam mi estis infano, mi komprenis la hispanan, la italan kaj la francan.
     E: When I was a kid, I understood Spanish, Italian and French.
 
     O: Ni rigardis la horloĝon por scii kiel ĝi funkcias.
