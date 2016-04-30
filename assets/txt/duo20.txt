@@ -225,7 +225,7 @@
     E: I couldn't sleep.
 
     O: Post tiu kiso, ĉu vi amas min?
-    E: After this kiss, do you love me?
+    E: After that kiss, do you love me?
 
     O: Post kiam mi laboris, mi dormis.
     E: After I worked, I slept.
