@@ -21,7 +21,7 @@
     O: Kion vi faros, kiam vi vidos la krokodilon?
     E: What will you do when you see the crocodile?
 
-    O: Ĉu vi trinkas multe da lakto?
+    O: Ĉu vi trinkis multe da lakto?
     E: Did you drink a lot of milk?
 
     O: Kies amiko faris la laboron?
