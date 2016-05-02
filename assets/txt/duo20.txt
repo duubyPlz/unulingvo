@@ -307,7 +307,7 @@
     O: Hieraŭ mia filino legis mallongan libron.
     E: Yesterday my daughter read a short book.
 
-    O: Mia amikino laboras multe, sed ne ŝatis sian laboron.
+    O: Mia amikino laboris multe, sed ne ŝatis sian laboron.
     E: My friend worked a lot, but didn't like her work.
 
     O: Ni komencas lerni Esperanton.
