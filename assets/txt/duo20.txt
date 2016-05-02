@@ -263,6 +263,7 @@
     O: Ŝi amas nin.
     E: She loves us.
 
+    // or "..multe da vortoj"
     O: La knabo skribis multajn vortojn.
     E: The boy wrote many words.
 
@@ -337,7 +338,7 @@
     O: La kato punis la katidon ĉar ĝi kisis la muson.
     E: The cat punished the kitten because it kissed the mouse.
 
-    O: Li rompis sian okulvitrojn.
+    O: Li rompis siajn okulvitrojn.
     E: He broke his glasses.
 
     // or sciis kiel
@@ -353,7 +354,7 @@
     O: Li kaŝis la monon.
     E: He hid the money.
 
-    O: Mia patrino kisas mian malgrandan fratinon.
+    O: Mia patrino kisis mian malgrandan fratinon.
     E: My mother kissed my little sister.
 
     O: Ĉu vi kisos vian koramikon?
