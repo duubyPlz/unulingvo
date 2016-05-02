@@ -274,7 +274,7 @@
     O: Pluvas.
     E: It is raining.
 
-    O: Ĉu vi donas kukon al viaj infanoj?
+    O: Ĉu vi donos kukon al viaj infanoj?
     E: Will you give cake to your children?
 
     O: Miaj geavoj ŝatas legi longajn librojn.
