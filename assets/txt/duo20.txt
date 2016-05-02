@@ -36,7 +36,7 @@
     O: Kiam ili iros al Italio?
     E: When will they go to Italy?
 
-    O: Kiam ŝi iris al Francio, ŝi manĝas bone.
+    O: Kiam ŝi iris al Francio, ŝi manĝis bone.
     E: When she went to France, she ate well.
 
     O: Hodiaŭ mi volas danci.
