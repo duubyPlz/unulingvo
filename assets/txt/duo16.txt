@@ -59,7 +59,7 @@
     E: Sofia's always right.
 
     O: Bonvolu doni la pomon al mi.
-    E: Please give me the apple.
+    E: Please give the apple to me.
 
     O: Ĉu mi rajtas iri al Eŭropo?
     E: Do I have the right to go to Europe?
