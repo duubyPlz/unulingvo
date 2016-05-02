@@ -193,7 +193,7 @@
     O: Kial vi volas esti granda?
     E: Why do you want to be big?
 
-    O: Kie ni vivos, kiam la Tero estas tro varma?
+    O: Kie ni vivos, kiam la Tero estos tro varma?
     E: Where will we live, when the Earth is too hot?
 
     O: Vi ĉiam parolis pri viaj infanoj.
