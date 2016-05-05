@@ -329,7 +329,7 @@
     O: Vi povas lasi tion.
     E: You can leave that.
 
-    O: Ŝi ligis la poŝtelefono al la komputilo.
+    O: Ŝi ligis la poŝtelefonon al la komputilo.
     E: She connected the mobile phone to the computer.
 
     O: Post la laboro ni tre soifis.

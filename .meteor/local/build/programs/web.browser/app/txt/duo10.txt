@@ -1,0 +1,44 @@
+== Possessives ==
+> One
+    O: Lia nomo ne estas Sofia.
+    E: His name is not Sofia.
+
+    O: Li estas en ŝia hejmo.
+    E: He is in her home.
+
+    O: Kio estas via nomo?
+    E: What is your name?
+
+    O: Tio estas ĝia hejmo.
+    E: That is its home.
+
+    O: Mia patrino estas bela.
+    E: My mother is beautiful.
+
+    O: Kio estas tio?
+    E: What is that?
+
+    O: Viaj pomoj estas tre belaj.
+    E: Your apples are very beautiful.
+
+> Two
+    O: En nia hejmo estas granda mapo.
+    E: In our home is a big map.
+
+    O: Ilia biero estas bongusta.
+    E: Their beer is delicious.
+
+    O: Tio estas, kion mi vidas.
+    E: That is what I see.
+
+    O: Sofia, kio estas la adreso de via hejmo?
+    E: Sofia, what is the address of your home?
+
+    O: Ni havas nur unu hejmo.
+    E: We have only one home.
+
+    O: Ilia hejmo estas bela, ĉu ne?
+    E: Their home is beautiful, isn't it?
+
+    O: Via urso trinkas bieron.
+    E: Your bear drinks beer.

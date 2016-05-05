@@ -1,0 +1,211 @@
+== Food ==
+> One
+    O: Duo ne manĝas kokaĵon.
+    E: Duo doesn't eat chicken.
+
+    O: Mi ŝatas la guston de ĉokolado.
+    E: I like the taste of chocolate.
+
+    O: Kunikloj ŝatas karotojn.
+    E: Rabbits like carrots.
+
+    O: Bonan apetiton!
+    E: Good appetite!
+
+    O: Mi ŝatas kafon pli ol vinon.
+    E: I like coffee more than wine.
+
+    O: Ĉu vi havas sandviĉon?
+    E: Do you have a sandwich?
+
+    O: La tomata supo gustas bone.
+    E: The tomato soup tastes good.
+
+    O: Karoto estas oranĝkolora.
+    E: A carrot is orange.
+
+    O: La patro manĝas bonan viandon.
+    E: The father eats good meat.
+
+> Two
+    O: Dankon por la bongusta matenmanĝo!
+    E: Thank you for the delicious breakfast!
+
+    O: Ne estas butero sur mia pano.
+    E: There is no butter on my bread.
+
+    O: Jen la domo!
+    E: Here is the house!
+
+    O: Mi ŝatas fiŝaĵon en la supo.
+    E: I like fish in the soup.
+
+    O: Mi amas kafon kun lakto.
+    E: I love coffee with milk.
+
+    O: La telero estas blanka.
+    E: The plate is white.
+
+    O: Estas fiŝaĵo kaj legomoj sur la telero.
+    E: There are fish and vegetables on the plate.
+
+    O: La sukero kaj la butero estas por nia kuko.
+    E: The sugar and the butter is for your cake.
+
+> Three
+    O: Legomoj bongustas.
+    E: Vegetables are delicious.
+
+    O: La manĝaĵo kaj trinkaĵo bongustas.
+    E: The food and drink taste good.
+
+    O: Mi manĝas la manĝon kun fromaĝo.
+    E: I eat the meal with cheese.
+
+    O: Ĉu vi havas iom da fromaĝo?
+    E: Do you have some cheese?
+
+    O: Suko ne estas manĝaĵo, sed trinkaĵo.
+    E: Juice is not food, but a drink.
+
+    O: Sofia trinkas iom da suko.
+    E: Sofia drinks some juice.
+
+> Four
+    O: Jes, mi havas porkaĵon kaj mi donas al vi ĉiom.
+    E: Yes, I have pork, and I am giving you all of it.
+
+    O: Mi ne manĝas picojn, ĉar ili estas malbonaj.
+    E: I don't eat pizzas because they are bad.
+
+    O: La urso ŝatas la vegetaranon.
+    E: The bear likes the vegetarian.
+
+    O: Jen la tagmanĝo!
+    E: Here is the lunch!
+
+    O: Ĉu ili manĝas malbonajn fruktojn?
+    E: Do they eat bad fruit?
+
+    O: Frago estas frukto.
+    E: A strawberry is a fruit.
+
+    O: La pico ne estas blua.
+    E: The pizza is not blue.
+
+    O: Ĉu ili tagmanĝas?
+    E: Are they eating lunch?
+
+    O: Legomoj kun salo estas bongustaj.
+    E: Vegetables with salt are delicious.
+
+    O: Ĉu vi estas vegetarano, aŭ ĉu vi manĝas viandon?
+    E: Are you a vegetarian, or do you eat meat?
+
+    O: La anaso manĝas la fragon.
+    E: The duck eats the strawberry.
+
+    O: Salo ne malbonas.
+    E: Salt is not bad.
+
+    O: Ĉu vi manĝas salon?
+    E: Do you eat salt?
+
+    O: Mi ŝatas fragojn kun ĉokolado.
+    E: I like strawberries with chocolate.
+
+    O: Porkaĵo estas pli bongusta ol bovaĵo.
+    E: Pork is more delicious than beef.
+
+    O: Ĉu vi manĝas ĉiom?
+
+> Five
+    O: Ĉu ili vespermanĝas kune?
+    E: Are they eating dinner together?
+
+    O: Mi iras sen vi.
+    E: I go without you.
+
+    O: Mi tiom amas vin!
+    E: I love you that much!
+
+    O: Li estas mia gasto.
+    E: He is my guest.
+
+    O: Ili ŝatas pastaĵojn multe.
+    E: They like pasta a lot.
+
+    O: La restoracio havas pastaĵojn kaj picojn.
+    E: The restaurant has pastas and pizzas.
+
+    O: Tiom da bovaĵo estas bona.
+    E: That much beef is good.
+
+    O: La restoracio havas tiom da gastoj.
+    E: The restaurant has so many guests.
+
+    O: La restoracio tiom malvarmas.
+    E: The restaurant is so cold.
+
+> Six
+    O: La kelnero servas la vespermanĝon.
+    E: The waiter serves the dinner.
+
+    O: Ni gustumas teon.
+    E: We taste tea.
+
+    O: Ĉu vi aĉetas fruktojn aŭ legomojn?
+    E: Are you buying fruits or vegetables?
+
+    O: Kelneroj kaj kelnerinoj laboras kune en la restoracio.
+    E: Waiters and waitresses work together in the restaurant.
+
+    O: Ni legas la menuon de la restoracio.
+    E: We are reading the restaurant's menu.
+
+    O: La kelnerino donas al la infano menuon.
+    E: The waitress gives the child a menu.
+
+    O: Mi gustumas la manĝaĵon.
+    E: I taste the food.
+
+> Seven
+    O: Glacio malvarmas.
+    E: Ice is cold.
+
+    O: Mi tre ŝatas dolĉan ananason.
+    E: I really like a sweet pineapple.
+
+    O: Ili aĉetas oranĝojn kaj vendas sukon.
+    E: They buy oranges and sell juice.
+
+    O: Iom da sukero estas pli ol neniom.
+    E: A little bit of sugar is more than none.
+
+    O: La fragoj estas dolĉaj.
+    E: The strawberries are sweet.
+
+    O: Ŝi vendas pli da kokaĵo ol fiŝaĵo.
+    E: She sells more chicken than fish.
+
+    O: Ananaso bone gustas.
+    E: Pineapple tastes good.
+
+> Eight
+    O: Ili vendas multe da spicoj kaj oleoj.
+    E: They sell a lot of spices and oils.
+
+    O: Ĉu estas iom da graso sur la viando?
+    E: Is there a little fat on the meat?
+
+    O: Mi havas bonajn receptojn.
+    E: I have good recipes.
+
+    O: Nia vespermanĝo odoras bone.
+    E: Our dinner smells good.
+
+    O: Ŝi miksas dolĉan lakton kaj ĉokoladon.
+    E: She mixes sweet milk and chocolate.
+
+    O: Mi ŝatas blankan rizon.
+    E: I like white rice.

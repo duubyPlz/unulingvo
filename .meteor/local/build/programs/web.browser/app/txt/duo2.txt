@@ -1,0 +1,72 @@
+== Basics Two ==
+> One
+    O: La kafejo estas en la malbona parko.
+    E: The café is in the bad park.
+
+    O: Ĉu la parko estas granda?
+    E: Is the park big?
+
+    O: Ĉu la knabino estas bela?
+    E: Is the girl beautiful?
+
+    O: Bela virino estas en la kafejo.
+    E: A beautiful woman is in the café.
+
+    O: La granda kafo estas malbona.
+    E: The large coffee is bad.
+
+    O: Granda, bela virino estas en la parko.
+    E: A large, beautiful woman is in the park.
+
+    O: La kafejo estas bela.
+    E: The café is beautiful.
+
+> Two
+    O: Ni iras al la parko.
+    E: We go to the park.
+
+    O: Ĉu la tago estas varma?
+    E: Is the day hot?
+
+    O: Ĉu la knabino dancas rapide?
+    E: Does the girl dance fast?
+
+    O: Knabino dancas rapide.
+    E: A girl dances quickly.
+
+    O: Ĉu ŝi iras al la granda parko?
+    E: Is she going to the big park?
+
+    O: La tago estas varma.
+    E: The day is hot.
+
+    O: La bebo ne laboras.
+    E: The baby does not work.
+
+    O: Ni ludas en la parko.
+    E: We are playing in the park.
+
+    O: Ni iras al la parko.
+    E: We go to the park.
+
+> Three
+    O: La nokto estas tre longa.
+    E: The night is very long.
+
+    O: La malbela parko estas malgranda.
+    E: The ugly park is small.
+
+    O: Ili malrapide kantas.
+    E: They slowly sing.
+
+    O: La tago estas malvarma.
+    E: The day is cold.
+
+    O: La nokto estas tre malvarma.
+    E: The night is very cold.
+
+    O: Ili laboras multe.
+    E: They work a lot.
+
+    O: La viro dancas malrapide.
+    E: The man dances slowly.
