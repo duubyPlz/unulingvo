@@ -270,6 +270,9 @@
     O: Kiam vi havos krokodilon?
     E: When will you have a crocodile?
 
+    O: Ni manĝis, antaŭ ol li alvenis.
+    E: We ate before he arrived.
+
 > Six
     O: Pluvas.
     E: It is raining.

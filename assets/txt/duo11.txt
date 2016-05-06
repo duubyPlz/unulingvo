@@ -21,6 +21,9 @@
     O: Francio estas lando en Eŭropo.
     E: France is a country in Europe.
 
+    O: Italoj manĝas bone.
+    E: Italians eat well.
+
 > Two
     O: Multaj germanoj trinkas bieron.
     E: Many germans drink beer.
@@ -42,6 +45,15 @@
 
     O: Germano vizitas usonanon en Usono.
     E: A German visits an American in USA.
+
+    O: La kongreso estas en Eŭropo.
+    E: The congress is en Europe.
+
+    O: Kie vi loĝas en Germanio?
+    E: Where do you live in Germany?
+
+    O: Iliaj gepatroj venas el Usono.
+    E: Their parents come from USA.
 
 > Three
     O: Brazilo estas granda lando en Sud-Ameriko.
@@ -92,3 +104,6 @@
 
     O: Nia patrino venas el Ĉeĥio.
     E: Our mother comes from Czech Republic.
+
+    O: En Pollando, poloj parolas la polan.
+    E: In Poland, Poles speak Polish.

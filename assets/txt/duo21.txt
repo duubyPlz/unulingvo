@@ -1,0 +1,244 @@
+== Numbers ==
+> One
+    O: Nia domo enhavas ses pordojn.
+    E: Our house contains six doors.
+
+    O: Vi ne bezonas sep aŭtojn!
+    E: You don't need seven cars!
+
+    O: Estas ok katoj en la ĉambro.
+    E: There are eight cats in the room.
+
+    O: Unu, du, tri, kvar, kvin.
+    E: One, two, three, four, five.
+
+    O: Ni havas ok aŭ naŭ tagojn.
+    E: We have eight or nine days.
+
+    O: Sep estas unu pli ol ses.
+    E: Seven is one more than six.
+
+    O: Kvin kaj kvin estas dek.
+    E: Five and five is ten.
+
+    O: Ses, sep, ok, naŭ, dek.
+    E: Six, seven, eight, nine, ten.
+
+    O: Ili vidas ses bestojn.
+    E: They see six animals.
+
+    O: La kuniklo havas ses idojn.
+    E: The rabbit has six children.
+
+> Two
+    O: Ni vidas dudek hundojn.
+    E: We see twenty dogs.
+
+    O: Mi ne havas kvindek gefratojn.
+    E: I don't have fifty siblings.
+
+    O: Tiu ĉambro povas enhavi okdek homojn.
+    E: That room can contain eighty people.
+
+    O: Sepdek unu estas malpli ol naŭdek.
+    E: Seventy-one is less than ninety.
+
+    O: Tridek tri estas malpli ol kvindek du.
+    E: Thirty-three is less than fifty two.
+
+    O: Tridek kaj kvardek estas sepdek.
+    E: Thirty and forty is seventy.
+
+    O: Dudek, tridek, kvardek, kvindek, sesdek, sepdek, okdek, naŭdek.
+    E: Twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety.
+
+    O: Okdek tri ne estas malpli ol sesdek kvar.
+    E: Eighty-three is not less than sixty-four.
+
+    O: Naŭdek estas pli ol kvardek.
+    E: Ninety is more than forty.
+
+> Three
+    O: Bona, pli bona, la plej bona.
+    E: Good, better, the best.
+
+    O: Nulo, unu, du, tri, kvar, kvin, ses, sep, ok kaj naŭ estas la dek ciferoj.
+    E: Zero, one, two, three, four, five, six, seven, eight and nine are the ten digits.
+
+    O: Mi volas manĝi mil pomojn.
+    E: I want to eat one thousand apples.
+
+    O: Ni ŝatas nombrojn kaj ni lernas ilin.
+    E: We like numbers and we learn them.
+
+    O: Dek, cent, mil, miliono, miliardo.
+    E: Ten, a hundred, a thousand, a million, a billion.
+
+    O: Miliardo estas multe pli ol miliono.
+    E: A billion is much more than a million.
+
+    O: La cifero nulo estas la plej bela, ĉu ne?
+    E: The digit zero is the most beautiful, isn't it?
+
+    O: Sepcent, okcent, naŭcent.
+    E: Seven hundred, eight hundred, nine hundred.
+
+    O: Kiu estas la numero de tiu kanto?
+    E: What is the number of that song?
+
+    O: Mi mendis la lastan libron.
+    E: I ordered the last book.
+
+    O: Kio falis?
+    E: What fell?
+
+    O: La kvanto estas malgranda.
+    E: The quantity is small.
+
+    // quantity "metro" is -n'd
+    O: La granda aligatoro estas du metrojn longa.
+    E: The big alligator is two metres long.
+
+    O: Tiu fadeno estas unu metron longa.
+    E: This thread is one metre long.
+
+    O: La dua libro estas la mia.
+    E: The second book is mine.
+
+    // or the word "vendejo"
+    O: La butiko vendas manĝaĵon kaj trinkaĵon.
+    E: The shop sells food and drink.
+
+    O: Unua, dua, tri, kvara, kvina.
+    E: First, second, third, fourth, fifth.
+
+    O: Ŝi havas de ses ĝis ok butikojn.
+    E: She has from six to eight shops.
+
+    O: La vico de arboj falis.
+    E: The line of trees fell.
+
+    O: Unu miliardo estas pli granda nombro ol nulo.
+    E: One billion is a bigger number than zero.
+
+    O: Cent, mil kaj miliono estas tri nombroj; miliono estas la plej granda.
+    E: A hundred, a thousand and a million are three numbers; million is the largest.
+
+    O: Ducent tridek kvar ne estas cifero, sed estas nombro kun tri ciferoj.
+    E: Two hundred and thirty-four is not a digit, but is a number with three digits.
+
+    O: Li iras ĝis la butiko.
+    E: He goes as far as the shop.
+
+    O: Estas via vico.
+    E: It's your turn.
+
+    O: Cent pomoj estas granda kvanto.
+    E: One hundred apples is a large quantity.
+
+    O: Ni mendis grandan kvanton da pano.
+    E: We ordered a large quantity of bread.
+
+    O: La adreso enhavas la numeron de la domo.
+    E: The address contains the house number.
+
+    O: Kiun kanton vi plej ŝatas?
+    E: Which song do you like most?
+
+    O: La lasta numero de la gazeto estas tre bona.
+    E: The last issue of the newspaper is very good.
+
+    O: Ŝi estas la dua filino en la familio.
+    E: She is the second daughter in the family.
+
+    O: La tri arbo estas pli verda ol la kvara kaj la knvina.
+    E: The third tree is greener than the fourth and the fifth.
+
+> Four
+    O: Duono de la ĉokolada kuko estas sufiĉa.
+    E: Half of the chocolate cake is enough.
+
+    O: Mia filino lernas pri onoj.
+    E: My daughter is learning about fractions.
+
+    O: Ĉu vi volas la dekan libron?
+    E: Do you want the tenth book?
+
+    O: La sepa infano en nia familio estas knabo.
+    E: The seventh child in our family is a boy.
+
+    O: La plejparto da francoj trinkas vinon.
+    E: The majority of the French drink wine.
+
+    O: Plejparto de la francoj trinkas vinon.
+    E: A majority of the the French drink wine.
+
+    O: Nulo estas la sesa cifero en miliono.
+    E: Zero is the sixth digit in one million.
+
+    O: Sesa, sepa, oka, naŭa, deka.
+    E: Sixth, seventh, eighth, ninth, tenth.
+
+    O: Deksesa, deksepa, dekoka, deknaŭa.
+    E: Sixteenth, seventeenth, eighteenth, nineteenth.
+
+    O: Tio sufiĉas.
+    E: That's enough.
+
+    O: Li ne komprenas onojn.
+    E: He doesn't understand fractions.
+
+    O: Ni bezonas duonon de la ovoj.
+    E: We need half of the eggs.
+
+    O: Dek estas ono de sesdek.
+    E: Ten is a fraction of sixty.
+
+    O: Dek-unua, dek-dua, dek-tria, dek-kvara, dek-kvina.
+    E: Eleventh, twelfth, thirteenth, fourteenth, fifteenth.
+
+> Five
+    O: Ŝia brakhorloĝo kostas sesdek dolarojn.
+    E: Her watch costs sixty dollars.
+
+    O: Ili kostas po tri eŭroj.
+    E: They cost three euros each.
+
+    O: Tri kvaronoj estas la averaĝo de duono kaj unu.
+    E: Three quarters is the average of half and one.
+
+    O: Kio estas la prezo de tiu horloĝo?
+    E: What is the price of this watch?
+
+    O: Dek estas dekono de cent.
+    E: Ten is a tenth of one hundred.
+
+    O: Triono de tricent estas cent.
+    E: A third of three hundred is one hundred.
+
+    O: Triono estas pli granda ol kvarono.
+    E: A third is larger than a quarter.
+
+    O: Kio estas la averaĝo de dek kvar kaj dek ok?
+    E: What is the average of fourteen and eighteen?
+
+    O: Kiom estas du trionoj de tridek?
+    E: How much is two thirds of thirty?
+
+    O: La gepatroj mendis po du libroj por siaj tri infanoj.
+    E: The parents ordered two books each for their three children.
+
+    O: Mi volas ŝanĝi miajn dolarojn en eŭrojn.
+    E: I want to change my dollars into euros.
+
+    O: Dekono de la miliono estas cent mil.
+    E: A tenth of one million is one hundred thousand.
+
+    O: Kiom da dolaroj vi havas?
+    E: How many dollars do you have?
+
+    O: La prezo de la katido estas tridek eŭroj.
+    E: The price of the kitten is thirty euros.
+
+    O: La averaĝo de kvindek kaj sepdek estas sesdek.
+    E: The average of fifty and seventy is sixty.
