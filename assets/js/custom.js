@@ -90,9 +90,9 @@ function display() {
 
 function logic() {
     var inputString = $('textarea#answer').val();
-    var sanitisedString = inputString.replace(/[^a-zA-Z0-9_\-.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ]/g, "");
-    var simplifiedEO = correctEO.replace(/[.?!,:"]/g, "").toLowerCase();
-    var simplifiedString = sanitisedString.replace(/[.?!,:"]/g, "").toLowerCase();
+    var sanitisedString = inputString.replace(/[^a-zA-Z0-9_\-.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ]/g, ""); // whitelist
+    var simplifiedEO = correctEO.replace(/[.?!,:;"]/g, "").toLowerCase(); // blacklist
+    var simplifiedString = sanitisedString.replace(/[.?!,:"]/g, "").toLowerCase(); // blacklist
     if (simplifiedEO === simplifiedString) {
         // console.log("correct " + simplifiedString + " " + simplifiedEO);
         $('textarea#answer').addClass('correct');
