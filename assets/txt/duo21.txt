@@ -100,7 +100,7 @@
     E: The big alligator is two metres long.
 
     O: Tiu fadeno estas unu metron longa.
-    E: This thread is one metre long.
+    E: That thread is one metre long.
 
     O: La dua libro estas la mia.
     E: The second book is mine.
@@ -109,7 +109,7 @@
     O: La butiko vendas manĝaĵon kaj trinkaĵon.
     E: The shop sells food and drink.
 
-    O: Unua, dua, tri, kvara, kvina.
+    O: Unua, dua, tria, kvara, kvina.
     E: First, second, third, fourth, fifth.
 
     O: Ŝi havas de ses ĝis ok butikojn.
@@ -151,7 +151,7 @@
     O: Ŝi estas la dua filino en la familio.
     E: She is the second daughter in the family.
 
-    O: La tri arbo estas pli verda ol la kvara kaj la knvina.
+    O: La tria arbo estas pli verda ol la kvara kaj la knvina.
     E: The third tree is greener than the fourth and the fifth.
 
 > Four
