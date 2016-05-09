@@ -171,7 +171,7 @@
     E: The majority of the French drink wine.
 
     O: Plejparto de la francoj trinkas vinon.
-    E: A majority of the the French drink wine.
+    E: A majority of the French drink wine.
 
     O: Nulo estas la sesa cifero en miliono.
     E: Zero is the sixth digit in one million.
