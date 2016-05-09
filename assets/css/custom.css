@@ -2,6 +2,7 @@ body {
   font-family: 'Dosis', sans-serif;
   font-size: 18px;
   background-color: #e9e9e9;
+  /*background-color: orange;*/
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -18,6 +19,12 @@ a.link-orange:focus {
     text-decoration: none;
 }
 
+a.link-blue:hover,
+a.link-blue:focus {
+    color: #1caff6;
+    text-decoration: none;
+}
+
 .main-panel {
   position: relative;
   top: 120px;
@@ -25,12 +32,14 @@ a.link-orange:focus {
   width: 800px;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 20px;
 }
 
 .panel {
-  -webkit-box-shadow: 0 0 30px rgba(0,0,0,0.08);
+/*  -webkit-box-shadow: 0 0 30px rgba(0,0,0,0.08);
   -moz-box-shadow: 0 0 30px rgba(0,0,0,0.08);
-  box-shadow: 0 0 30px rgba(0,0,0,0.08);
+  box-shadow: 0 0 30px rgba(0,0,0,0.08);*/
+  /*background-color: rgba(255,255,255,0.97);*/
 }
 
 .display-text {
@@ -52,6 +61,7 @@ a.link-orange:focus {
 }
 
 textarea#answer {
+  background-color: rgba(255,255,255,0);
   margin: 30px;
   overflow: hidden;
   word-wrap: break-word;
@@ -77,12 +87,12 @@ textarea#answer.correct {
 }
 
 textarea#answer:focus {
+  background-color: rgba(255,255,255,0.1);
   outline: none;
   -webkit-box-shadow: 0 0 20px #92e2ff;
   -moz-box-shadow: 0 0 20px #92e2ff;
   box-shadow: 0 0 20px #92e2ff;
   border: 2px solid #1caff6;
-  background: #fff;
 }
 
 textarea#answer.correct {
@@ -101,7 +111,7 @@ textarea#answer.incorrect {
   box-shadow: 0 0 8px rgba(221,56,29,0.4);
 }
 
-img.navbar-brand {
+img.logo {
   height: 60px;
   padding: 10px 5px 5px 40px;
 }
@@ -130,27 +140,56 @@ button#submit {
   right: 40px;
 }
 
+.select-round select {
+  outline: none;
+  border: none;
+  color: #555;
+  background: transparent;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1em;
+  padding: 7px 45px 7px 15px;
+  -webkit-appearance: none;
+  -moz-appearance: window;
+  overflow: hidden;
+  text-indent: .01px;
+  text-overflow: '';
+  white-space: nowrap;
+  cursor: pointer;
+  display: block;
+  width: 100%;
+}
+
+.select-round {
+  position: relative;
+  margin: 0 5px;
+  /*border: 2px solid white;*/
+  /*background-color: rgba(255,255,255,0.9);*/
+  background-color: white;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  display: inline-block;
+  vertical-align: middle;
+/*  -webkit-box-shadow: 0 0 8px rgba(0,0,0,0.12);
+  -moz-box-shadow: 0 0 8px rgba(0,0,0,0.12);
+  box-shadow: 0 0 8px rgba(0,0,0,0.12);*/
+}
+
+.select-round:after {
+  content:">";
+  transform: rotate(90deg);
+  display:inline-block;
+  position: relative;
+  right: 12px;
+  /*color: orange;*/
+  color: #555;
+}
+
+
 .navbar {
   min-width: 815px;
   border-bottom: 0px;
-}
-
-.form-control {
-  display: block;
-  width: 100%;
-  height: 45px;
-  font-size: 15px;
-  line-height: 1.42857143;
-  color: #2c3e50;
-  background-color: #ffffff;
-  background-image: none;
-  border: 2px solid #dce4ec;
-  border-radius: 4px;
-  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
-  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
-  -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
-  -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
-  transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
 }
 
 div#contents {
@@ -186,6 +225,7 @@ div.popup {
 
 footer.footer {
     text-align: center;
+    /*color: white;*/
     color: #777;
     font-size: 80%;
     position: relative;
@@ -243,13 +283,20 @@ footer.footer {
     font-size: 100%;
   }
 
-  img.navbar-brand {
+  img.logo {
     height: 100px;
   }
 
-  .form-control {
-    height: 100px;
-    font-size: 75%;
+  label.select-round {
+    width: 500px;
+    bottom: 10px;
+    padding: 5px;
+  }
+
+  select#contents {
+    width: 450px;
+    font-size: 90%;
+    display: inline;
   }
 
   div#contents {
@@ -263,6 +310,8 @@ footer.footer {
     position: relative;
     top: 0;
     left: 0;
+    display:inline-block;
+    transform: rotate(90deg);
   }
 
   footer.footer {
@@ -321,13 +370,12 @@ footer.footer {
     font-size: 100%;
   }
 
-  img.navbar-brand {
+  img.logo {
     height: 70px;
   }
 
-  .form-control {
-    height: 50px;
-    font-size: 80%;
+  select#contents {
+    font-size: 90%;
   }
 
   div#contents {
@@ -345,6 +393,8 @@ footer.footer {
     position: relative;
     top: 0;
     left: 0;
+    display:inline-block;
+    transform: rotate(90deg);
   }
 
   footer.footer {
