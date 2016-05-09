@@ -28,7 +28,7 @@
     E: They see six animals.
 
     O: La kuniklo havas ses idojn.
-    E: The rabbit has six children.
+    E: The rabbit has six offspring.
 
 > Two
     O: Ni vidas dudek hundojn.
