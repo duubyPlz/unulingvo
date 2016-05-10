@@ -152,6 +152,9 @@
     O: Mi ludis kun mia frato.
     E: I played with my brother.
 
+    O: Mi uzis mian vortaron multe.
+    E: I used my dictionary a lot.
+
 > Four
     O: Antaŭe mi studis la italan. Hodiaŭ mi parolas ĝin.
     E: Before, I studied Italian. Today I speak it.
@@ -200,7 +203,7 @@
     E: You always spoke about your children.
 
     O: Kiam mi estis infano, mi komprenis la hispanan, la italan kaj la francan.
-    E: When I was a kid, I understood Spanish, Italian and French.
+    E: When I was a child, I understood Spanish, Italian and French.
 
     O: Ni rigardis la horloĝon por scii kiel ĝi funkcias.
     E: We looked at the clock to know how it works.
@@ -219,6 +222,12 @@
 
     O: Hieraŭ, hodiaŭ, morgaŭ.
     E: Yesterday, today, tomorrow.
+
+    O: Ĉu ni memoros morgaŭ?
+    E: Will we remember tomorrow?
+
+    O: Kiam mi estis infano, mi ĉiam helpis mian fratinon.
+    E: When I was a child, I always helped my sister.
 
 > Five
     O: Mi ne povis dormi.
@@ -273,6 +282,15 @@
     O: Ni manĝis, antaŭ ol li alvenis.
     E: We ate before he arrived.
 
+    O: Li devas decidi kion studi.
+    E: He has to decide what to study.
+
+    O: Li ne amis sian antaŭan edzinon.
+    E: He didn't love his former wife.
+
+    O: Kiu decidos?
+    E: Who will decide?
+
 > Six
     O: Pluvas.
     E: It is raining.
@@ -315,6 +333,12 @@
 
     O: Ni komencas lerni Esperanton.
     E: We start to learn Esperanto.
+
+    O: La infanoj ludis en la neĝo.
+    E: The children played in the snow.
+
+    O: Neĝas multe hodiaŭ.
+    E: It's snowing a lot today.
 
 > Seven
     O: Mi tenos vian sakon.

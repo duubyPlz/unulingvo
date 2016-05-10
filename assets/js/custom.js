@@ -1,5 +1,6 @@
 // TODO:
 // * alternative answers
+// * dropdown to bootstrap
 
 // 0. Init
 // toggle all tooltips
