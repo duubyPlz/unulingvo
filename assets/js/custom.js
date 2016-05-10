@@ -46,7 +46,8 @@ $('textarea#answer').keydown(function (e) {
     }
 })
 
-// > Skip button clicked
+// 4. Skipping current
+// > a) Click 'skip' button
 $('button#skip').on('click', function() {
     // clear input field & makes it normal again
     $('textarea#answer').val('');
@@ -56,6 +57,17 @@ $('button#skip').on('click', function() {
     // then display next text
     display();
 });
+
+// b) Press '`' key
+$('textarea#answer').keydown(function (e) {
+    if (e.keyCode == 192)  {
+        e.preventDefault();
+        $('textarea#answer').val('');
+        $('textarea#answer').removeClass('correct');
+        $('textarea#answer').removeClass('incorrect');
+        display();
+    }
+})
 
 // > If we're displaying mobile css, change '>' to 'v'
 
