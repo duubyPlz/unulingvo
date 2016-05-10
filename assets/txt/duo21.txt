@@ -151,7 +151,7 @@
     O: Ŝi estas la dua filino en la familio.
     E: She is the second daughter in the family.
 
-    O: La tria arbo estas pli verda ol la kvara kaj la knvina.
+    O: La tria arbo estas pli verda ol la kvara kaj la kvina.
     E: The third tree is greener than the fourth and the fifth.
 
 > Four
