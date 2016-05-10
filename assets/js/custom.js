@@ -91,7 +91,8 @@ function display() {
 function logic() {
     var inputString = $('textarea#answer').val();
     var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ]/g, ""); // whitelist
-    var simplifiedEO = correctEO.replace(/[.?!,:";\-]/g, "").toLowerCase().trim(); // blacklist
+    var intermediateEO = correctEO.replace(/\-/g, " ");
+    var simplifiedEO = intermediateEO.replace(/[.?!,:";]/g, "").toLowerCase().trim(); // blacklist
     var simplifiedString = sanitisedString.replace(/[.?!,:"]/g, "").toLowerCase().trim(); // blacklist
     if (simplifiedEO === simplifiedString) {
         // console.log("correct " + simplifiedString + " " + simplifiedEO);

@@ -80,7 +80,7 @@
     O: Ni parolas la anglan en aŭstralio.
     E: We speak English in Australia.
 
-    O: Ĉu vi venas el Sud-Ameriko?
+    O: Ĉu li venas el Sud-Ameriko?
     E: Does he come from South America?
 
 > Four
