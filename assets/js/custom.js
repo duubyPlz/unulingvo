@@ -48,8 +48,10 @@ $('textarea#answer').keydown(function (e) {
 
 // > Skip button clicked
 $('button#skip').on('click', function() {
-    // clear input field
+    // clear input field & makes it normal again
     $('textarea#answer').val('');
+    $('textarea#answer').removeClass('correct');
+    $('textarea#answer').removeClass('incorrect');
 
     // then display next text
     display();
