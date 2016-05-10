@@ -1,6 +1,11 @@
-
 // TODO:
-// arrow switches to v if media
+// * alternative answers
+
+// 0. Init
+// toggle all tooltips
+$(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+})
 
 // 1. Parse & display text of selected module
 var selectedModule = $('select#contents').val();

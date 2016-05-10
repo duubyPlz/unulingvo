@@ -140,6 +140,17 @@ button#submit {
   right: 40px;
 }
 
+.tooltip-inner {
+  border-radius: 30px;
+  background-color: rgba(0,0,0,0.8);
+  position: relative;
+  top: 3px;
+}
+
+.tooltip.top .tooltip-arrow {
+  display: none;
+}
+
 .select-round select {
   outline: none;
   border: none;
