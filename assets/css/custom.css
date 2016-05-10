@@ -197,7 +197,6 @@ button#submit {
   color: #555;
 }
 
-
 .navbar {
   min-width: 815px;
   border-bottom: 0px;
@@ -294,6 +293,10 @@ footer.footer {
     font-size: 100%;
   }
 
+  .tooltip-inner {
+    display: none;
+  }
+
   img.logo {
     height: 100px;
   }
@@ -379,6 +382,10 @@ footer.footer {
     margin-right: auto;
     width: 100%;
     font-size: 100%;
+  }
+
+  .tooltip-inner {
+    display: none;
   }
 
   img.logo {
