@@ -208,7 +208,7 @@
     E: Three quarters is the average of half and one.
 
     O: Kio estas la prezo de tiu horloĝo?
-    E: What is the price of this watch?
+    E: What is the price of this clock?
 
     O: Dek estas dekono de cent.
     E: Ten is a tenth of one hundred.
