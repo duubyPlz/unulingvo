@@ -3,7 +3,7 @@
     O: Ili trinkas bongustan kafon.
     E: They drink delicious coffee.
 
-    O: La kolora de la vino estas ruĝa.
+    O: La koloro de la vino estas ruĝa.
     E: The colour of the wine is red.
 
     O: Li donas al ni lakton.

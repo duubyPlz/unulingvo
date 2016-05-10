@@ -9,7 +9,7 @@
     O: La kolorblinda viro ne ludas.
     E: The colourblind man does not play.
 
-    O: La kolora estas bela.
+    O: La koloro estas bela.
     E: The colour is beautiful.
 
     O: Li ludas multe kaj ankaŭ mi ludas multe.
