@@ -48,6 +48,10 @@ $('textarea#answer').keydown(function (e) {
 
 // > Skip button clicked
 $('button#skip').on('click', function() {
+    // clear input field
+    $('textarea#answer').val('');
+
+    // then display next text
     display();
 });
 
