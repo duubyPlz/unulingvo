@@ -1,6 +1,7 @@
 // TODO:
 // * alternative answers
 // * dropdown to bootstrap
+// * populate older topics w/ more data
 
 // 0. Init
 // toggle all tooltips
