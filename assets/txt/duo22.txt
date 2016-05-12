@@ -7,7 +7,7 @@
     2 Time flies.
 
     1 Mi foje timas hundojn.
-    2 I sometimes am afraid of dogs.
+    2 I am sometimes afraid of dogs.
 
     1 Mi ĵus skribis tiujn vortojn.
     2 I just wrote those words.
@@ -15,3 +15,21 @@
     1 Mateno estas antaŭ tagmezo.
     2 Morning is before noon.
     
+    1 Foje ni pravas kaj foje ni malpravas.
+    2 Sometimes we're right and sometimes we're wrong.
+
+    1 La noktoj estas longaj.
+    2 The nights are long.
+
+    1 Ni respondos kiam ni havos tempon.
+    2 We will respond when we have time.
+
+    1 Ni estis en Ĉinio du fojojn.
+    2 We were in China twice.
+
+    1 Ĉu vi memoras la feliĉan tempon?
+    2 Do you remember the happy time?
+
+    1 Mia avo diras, ke li volas tempon anstataŭ mono.
+    2 My grandfather says that he wants time instead of money.
+
