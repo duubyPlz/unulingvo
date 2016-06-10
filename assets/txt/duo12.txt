@@ -49,7 +49,7 @@
     O: Estas fiŝaĵo kaj legomoj sur la telero.
     E: There are fish and vegetables on the plate.
 
-    O: La sukero kaj la butero estas por nia kuko.
+    O: La sukero kaj la butero estas por via kuko.
     E: The sugar and the butter is for your cake.
 
 > Three
