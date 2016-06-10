@@ -83,7 +83,7 @@
     O: Sepcent, okcent, naŭcent.
     E: Seven hundred, eight hundred, nine hundred.
 
-    O: Kiu estas la numero de tiu kanto?
+    O: Kio estas la numero de tiu kanto?
     E: What is the number of that song?
 
     O: Mi mendis la lastan libron.
@@ -179,7 +179,7 @@
     O: Sesa, sepa, oka, naŭa, deka.
     E: Sixth, seventh, eighth, ninth, tenth.
 
-    O: Deksesa, deksepa, dekoka, deknaŭa.
+    O: Dek-sesa, dek-sepa, dek-oka, dek-naŭa.
     E: Sixteenth, seventeenth, eighteenth, nineteenth.
 
     O: Tio sufiĉas.
@@ -208,7 +208,7 @@
     E: Three quarters is the average of half and one.
 
     O: Kio estas la prezo de tiu horloĝo?
-    E: What is the price of this clock?
+    E: What is the price of that clock?
 
     O: Dek estas dekono de cent.
     E: Ten is a tenth of one hundred.
@@ -231,7 +231,7 @@
     O: Mi volas ŝanĝi miajn dolarojn en eŭrojn.
     E: I want to change my dollars into euros.
 
-    O: Dekono de la miliono estas cent mil.
+    O: Dekono de miliono estas cent mil.
     E: A tenth of one million is one hundred thousand.
 
     O: Kiom da dolaroj vi havas?
