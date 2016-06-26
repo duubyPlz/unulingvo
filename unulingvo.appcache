@@ -1,7 +1,8 @@
 CACHE MANIFEST
-# 2016-06-27, <automate this w/ zsh alias, or when pushing>
+# v0.22
 /unulingvo/assets/css/custom.css
 /unulingvo/assets/img/favicon.ico
+/unulingvo/assets/img/logo.png
 /unulingvo/assets/js/custom.js
 /unulingvo/index.html
 

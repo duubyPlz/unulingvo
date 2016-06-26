@@ -80,10 +80,10 @@ $('textarea#answer').keydown(function (e) {
 function parse(module) {
     hash = new Object();
     var fileName = 'assets/txt/duo' + module + '.txt';
-    console.log(fileName);
+    // console.log(fileName);
     try {
         $.get(fileName, function(data) {
-            console.log(data);
+            // console.log(data);
             // Break result into line by line
             var lines = data.split("\n");
             var currentEsperanto = "";
