@@ -1,7 +1,7 @@
 CACHE MANIFEST
 # 2016-06-27, <automate this w/ zsh alias, or when pushing>
-/assets/css/custom.css
-/assets/img/favicon.ico
-/assets/js/custom.js
-/index.html
-/assets/txt/*
+/unulingvo/assets/css/custom.css
+/unulingvo/assets/img/favicon.ico
+/unulingvo/assets/js/custom.js
+/unulingvo/index.html
+/unulingvo/assets/txt/*

@@ -76,9 +76,6 @@ $('textarea#answer').keydown(function (e) {
     }
 })
 
-// > If we're displaying mobile css, change '>' to 'v'
-
-
 // Subroutines
 function parse(module) {
     hash = new Object();
