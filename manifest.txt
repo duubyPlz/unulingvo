@@ -1,0 +1,6 @@
+CACHE MANIFEST
+# 2016-06-27, <automate this w/ zsh alias>
+/assets/css/custom.css
+/assets/img/favicon.ico
+/assets/js/custom.js
+/index.html
