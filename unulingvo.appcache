@@ -6,6 +6,8 @@ CACHE MANIFEST
 /unulingvo/assets/js/custom.js
 /unulingvo/index.html
 
+/unulingvo/bootstrap3/css/bootstrap.css
+/unulingvo/jquery/jquery-1.10.2.js
 /unulingvo/jquery/jquery-ui.custom.min.js
 /unulingvo/bootstrap3/js/bootstrap.js
 
