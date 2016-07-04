@@ -1,5 +1,7 @@
 // TODO:
 // * alternative answers
+//     * implement parsing of custom regex [|]
+//     * collect alternate translations
 // * dropdown to bootstrap
 // * populate older topics w/ more data
 

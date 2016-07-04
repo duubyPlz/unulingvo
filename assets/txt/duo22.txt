@@ -33,5 +33,209 @@
     1 Mia avo diras, ke li volas tempon anstataŭ mono.
     2 My grandfather says that he wants time instead of money.
 
+    1 Ĉu via bebo iam dormas?
+    2 Does your baby ever sleep?
+
 > Two
-    1 
+    1 Merkredo estas tago de la semajno.
+    2 Wednesday is a day of the week.
+
+    1 Lundo kaj mardo.
+    2 Monday and Tuesday.
+
+    1 Ĵaŭdo kaj vendredo.
+    2 Thursday and Friday.
+
+    1 Decidu tuj!
+    2 Decide now!
+
+    1 Estas du minutoj post la kvina.
+    2 It is two minutes after five.
+
+    1 Kiom da jaroj vi havas?
+    2 How old are you?
+
+    1 Ĵaŭde mi ĉiam manĝas en la sama restoracio.
+    2 On Thursday, I always eat in the same restaurant.
+
+    1 Who has the menus?
+    2 Kiu havas la menuojn?
+
+> Three
+    1 Multaj homoj ne laboras sabate kaj dimanĉe.
+    2 Many people don't work on Saturday and Sunday.
+
+    1 Horo, tago, semajno, monato, jaro.
+    2 Hour, day, week, month, year.
+
+    1 Januaro estas la unua monato de la jaro, kaj februaro la dua.
+    2 January is the first month of the year, and February is the second.
+
+    1 Ni povas telefoni senpage semajnfine.
+    2 We can call for free on weekend.
+
+    1 Mi iras al la preĝejo dimanĉe.
+    2 I go to the church on Sunday.
+
+    1 Kioma horo estas?
+    2 What time is it?
+
+    1 Mi amas semajnfinojn!
+    2 I love weekends!
+
+> Four
+    1 Estas mia dudeka naskiĝtago.
+    2 It is my twentieth birthday.
+
+    1 En julio kaj aŭgusto estas somero en Rusio.
+    2 In July and August is summer in Russia.
+
+    1 Majo, junio, julio, aŭgusto.
+    2 May, June, July, August.
+
+    1 Januaro, Februaro, Marto, Aprilo, Majo, Junio.
+    2 January, February, March, April, May, June.
+
+    1 Kio estas via aĝo?
+    2 What is your age?
+
+    1 Skribu vian aĝon.
+    2 Write your age.
+
+    1 La dudeka de aprilo estas ŝia naskiĝtago.
+    2 The twentieth of april is her birthday.
+
+> Five
+    1 Ĉu vi povos viziti nin en oktobro?
+    2 Are you able to visit us in October?
+
+    1 Aprilo, junio, septembro kaj novembro havas tridek tagojn.
+    2 April, June, September and November have thirty days.
+
+    1 Ni havas multajn kalendarojn en nia domo.
+    2 We have many calendars in our house.
+
+    1 Tiun gravan gazeton mi aĉetas monate.
+    # "monate" = "monthly", "ĉiumonate" = "every month"
+    2 That important newspaper I buy each month.
+
+    1 Ĉi-semajne ni iros al Francio.
+    2 This week we will go to France.
+
+    1 Julio, aŭgusto, septembro, oktobro, novembro, decembro.
+    2 July, August, September, October, November, December.
+
+    1 Pasintmonate mia bofrato vojaĝis al Aŭstralio.
+    2 Last month my brother-in-law travelled to Australia.
+
+    1 Printempo estas unu el la kvar sezonoj.
+    2 Spring is one of the four seasons.
+
+    1 Somero, aŭtuno, vintro, printempo.
+    2 Summer, autumn, winter, spring.
+
+    1 La luno brilas dum la nokto.
+    2 The moon shines during the night.
+
+    1 La fino de la jaro estas en decembro.
+    2 The end of the year is in December.
+
+    1 Ni manĝas kukon tiam.
+    2 We eat cake then.
+
+    1 Aŭtuno estas bela sezono.
+    2 Autumn is a beautiful season.
+
+    1 Ne estas nubo en la ĉielo.
+    2 There is no cloud in the sky.
+
+    1 Ĝis tiam.
+    # See you then.
+    2 Until then.
+
+    1 Li laboras dum la nokto.
+    2 He works during the night.
+
+    1 Kiun koloron havas la nubo?
+    # Which colour does the cloud have?
+    2 What colour is the cloud?
+
+> Seven
+    1 Novjaro estas la plej grava festo por ili.
+    #2 New [Year|Year's] is the most important [festivity|holiday] for them.
+    2 New Year's is the most important holiday for them.
+
+    1 Ni estas en la dudek-unua jarcento.
+    2 We are in the twenty-first century.
+
+    1 Mi neniam manĝas viandon.
+    2 I never eat meat.
+
+    1 En Aŭstralio la somero komenciĝas en decembro.
+    2 In Australia the summer starts in December.
+
+    1 Mi estas en mia sesa jardeko.
+    2 I am in my sixth decade.
+
+    1 Mi volas ĉiam festi la novjaron kun miaj amikoj.
+    2 I always want to celebrate New Year's with my friends.
+
+    1 Estas dek jardekoj en jarcento.
+    2 There are ten decades in a century.
+
+    1 Kiel vi festos la novjaron?
+    2 How will you celebrate the New Year's?
+
+> Eight
+    1 Mi renkontos vin ĉe la trajno.
+    2 I will meet you at the train.
+
+    1 Li alvenis tridek sekundojn pli frue ol mi.
+    2 He arrived thirty seconds earlier than me.
+
+    1 Ekde kiam?
+    2 Since when?
+
+    1 Mi laboros tiun posttagmezon.
+    2 I will work that afternoon.
+
+    1 Pardonon, mi bezonas momenton.
+    2 Sorry, I need a moment.
+
+    1 Ni renkontos vin posttagmeze.
+    2 We will meet you in the afternoon.
+    
+    1 Estas sesdek sekundoj en minuto.
+    2 There are sixty seconds in a minute.
+
+    1 Lia kuzo alvenis je la deka.
+    2 His cousin arrived at ten.
+
+> Nine
+    1 Mi estas kvardek-jara.
+    2 I am forty years old.
+
+    1 Kelkfoje neĝas en marto en nia lando.
+    2 Sometimes it snows in March in our country.
+
+    1 Ni iris al la preĝejo samtempe.
+    2 We went to the church at the same time.
+
+    1 Adamo havas tri-jaraĝan filon.
+    2 Adam has a three-year-old son.
+
+    1 Mi tuj revenos!
+    # I will be right back!
+    2 I will return immediately!
+
+    1 Mia bofrato estas tridek-naŭ-jara.
+    2 My brother-in-law is thirty-nine.
+
+    1 Mi kelkfoje vizitas mian avon dimanĉe.
+    2 I sometimes visit my grandfather on Sundays.
+
+    1 Ŝi estos dudek-jara post tri monatoj.
+    2 She will be twenty years old in three months.
+
+    1 Je kioma horo viaj geavoj revenos?
+    2 At what time will your grandparents return?
