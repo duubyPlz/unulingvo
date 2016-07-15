@@ -1,241 +1,471 @@
 == Dates and Time ==
 > One
-    1 Mi ŝatas la matenon pli ol la nokton.
-    2 I like the morning more than the night.
+    O: Mi ŝatas la matenon pli ol la nokton.
+    E: I like the morning more than the night.
 
-    1 Tempo flugas.
-    2 Time flies.
+    O: Tempo flugas.
+    E: Time flies.
 
-    1 Mi foje timas hundojn.
-    2 I am sometimes afraid of dogs.
+    O: Mi foje timas hundojn.
+    E: I am sometimes afraid of dogs.
 
-    1 Mi ĵus skribis tiujn vortojn.
-    2 I just wrote those words.
+    O: Mi ĵus skribis tiujn vortojn.
+    E: I just wrote those words.
 
-    1 Mateno estas antaŭ tagmezo.
-    2 Morning is before noon.
+    O: Mateno estas antaŭ tagmezo.
+    E: Morning is before noon.
     
-    1 Foje ni pravas kaj foje ni malpravas.
-    2 Sometimes we're right and sometimes we're wrong.
+    O: Foje ni pravas kaj foje ni malpravas.
+    E: Sometimes we're right and sometimes we're wrong.
 
-    1 La noktoj estas longaj.
-    2 The nights are long.
+    O: La noktoj estas longaj.
+    E: The nights are long.
 
-    1 Ni respondos kiam ni havos tempon.
-    2 We will respond when we have time.
+    O: Ni respondos kiam ni havos tempon.
+    # We will answer when we have time.
+    E: We will respond when we have time.
 
-    1 Ni estis en Ĉinio du fojojn.
-    2 We were in China twice.
+    # Ni estis en Ĉinio dufoje.
+    O: Ni estis en Ĉinio du fojojn.
+    E: We were in China twice.
 
-    1 Ĉu vi memoras la feliĉan tempon?
-    2 Do you remember the happy time?
+    O: Ĉu vi memoras la feliĉan tempon?
+    E: Do you remember the happy time?
 
-    1 Mia avo diras, ke li volas tempon anstataŭ mono.
-    2 My grandfather says that he wants time instead of money.
+    O: Mia avo diras, ke li volas tempon anstataŭ mono.
+    E: My grandfather says that he wants time instead of money.
 
-    1 Ĉu via bebo iam dormas?
-    2 Does your baby ever sleep?
+    O: Ĉu via bebo iam dormas?
+    E: Does your baby ever sleep?
+
+    O: Mi devas aĉeti kafejon iam.
+    E: I need to buy a café sometime.
+
+    O: Ĉu ili iam manĝas je tagmezo?
+    E: Do they ever eat at noon?
 
 > Two
-    1 Merkredo estas tago de la semajno.
-    2 Wednesday is a day of the week.
+    O: Merkredo estas tago de la semajno.
+    E: Wednesday is a day of the week.
 
-    1 Lundo kaj mardo.
-    2 Monday and Tuesday.
+    O: Lundo kaj mardo.
+    E: Monday and Tuesday.
 
-    1 Ĵaŭdo kaj vendredo.
-    2 Thursday and Friday.
+    O: Ĵaŭdo kaj vendredo.
+    E: Thursday and Friday.
 
-    1 Decidu tuj!
-    2 Decide now!
+    O: Decidu tuj!
+    E: Decide now!
 
-    1 Estas du minutoj post la kvina.
-    2 It is two minutes after five.
+    O: Estas du minutoj post la kvina.
+    # ...after five o'clock
+    E: It is two minutes after five.
 
-    1 Kiom da jaroj vi havas?
-    2 How old are you?
+    O: Kiom da jaroj vi havas?
+    E: How old are you?
 
-    1 Ĵaŭde mi ĉiam manĝas en la sama restoracio.
-    2 On Thursday, I always eat in the same restaurant.
+    O: Ĵaŭde mi ĉiam manĝas en la sama restoracio.
+    E: On Thursday, I always eat in the same restaurant.
 
-    1 Who has the menus?
-    2 Kiu havas la menuojn?
+    O: Who has the menus?
+    E: Kiu havas la menuojn?
+
+    O: Mi amas vendredon!
+    E: I love Friday!
+
+    O: Hodiaŭ estas vendredo.
+    E: Today is Friday.
+
+    O: Hodiaŭ ne estas mardo, sed merkredo.
+    E: Today isn't Tuesday, but Wednesday.
+
+    O: Kiom da minutoj estas en unu tago?
+    E: How many minutes are there in one day?
+
+    O: Estas dudek kvar minutoj antaŭ la dek-unua.
+    E: It is twenty-four minutes to eleven.
+
+    O: Tagoj kaj semajnoj.
+    E: Days and weeks.
+
+    O: Nia familio iras al restoracio semajne.
+    E: Our family goes to a restaurant weekly.
+
+    O: Lundo, mardo, merkredo, ĵaŭdo, vendredo.
+    E: Monday, Tuesday, Wednesday, Thursday, Friday.
+
+    O: Mi lernas la tagojn de la semajno.
+    E: I learn the days of the week.
 
 > Three
-    1 Multaj homoj ne laboras sabate kaj dimanĉe.
-    2 Many people don't work on Saturday and Sunday.
+    O: Multaj homoj ne laboras sabate kaj dimanĉe.
+    E: Many people don't work on Saturday and Sunday.
 
-    1 Horo, tago, semajno, monato, jaro.
-    2 Hour, day, week, month, year.
+    O: Horo, tago, semajno, monato, jaro.
+    E: Hour, day, week, month, year.
 
-    1 Januaro estas la unua monato de la jaro, kaj februaro la dua.
-    2 January is the first month of the year, and February is the second.
+    O: Januaro estas la unua monato de la jaro, kaj februaro la dua.
+    E: January is the first month of the year, and February is the second.
 
-    1 Ni povas telefoni senpage semajnfine.
-    2 We can call for free on weekend.
+    O: Ni povas telefoni senpage semajnfine.
+    E: We can call for free on weekend.
 
-    1 Mi iras al la preĝejo dimanĉe.
-    2 I go to the church on Sunday.
+    O: Mi iras al la preĝejo dimanĉe.
+    E: I go to the church on Sunday.
 
-    1 Kioma horo estas?
-    2 What time is it?
+    O: Kioma horo estas?
+    E: What time is it?
 
-    1 Mi amas semajnfinojn!
-    2 I love weekends!
+    O: Mi amas semajnfinojn!
+    E: I love weekends!
+
+    O: En januaro ili vojaĝos al Meksiko.
+    E: In January, they will travel to Mexico.
+
+    O: La du tagoj de la semajnfino estas sabato kaj dimanĉo.
+    E: The two days of the weekend are Saturday and Sunday.
+
+    O: Januaro havas tridek unu tagojn.
+    E: January has thirty-one days.
+
+    O: Tio estas la fino.
+    E: That is the end.
+
+    O: La fino de la jaro estas en decembro.
+    E: The end of the year is in December.
+
+    # "dimanĉon" = on Sunday
+    # "dimanĉe" = on Sundays (repetition)
+    O: Ĉu vi vizitos nin dimanĉon?
+    # Are you going to visit us on Sunday?
+    E: Will you visit us on Sunday?
+
+    O: Sabato kaj dimanĉo.
+    E: Saturday and Sunday.
+
+    O: The weekend is always too short!
+    E: La semajnfino ĉiam estas tro mallonga!
 
 > Four
-    1 Estas mia dudeka naskiĝtago.
-    2 It is my twentieth birthday.
+    O: Estas mia dudeka naskiĝtago.
+    E: It is my twentieth birthday.
 
-    1 En julio kaj aŭgusto estas somero en Rusio.
-    2 In July and August is summer in Russia.
+    O: En julio kaj aŭgusto estas somero en Rusio.
+    E: In July and August is summer in Russia.
 
-    1 Majo, junio, julio, aŭgusto.
-    2 May, June, July, August.
+    O: Majo, junio, julio, aŭgusto.
+    E: May, June, July, August.
 
-    1 Januaro, Februaro, Marto, Aprilo, Majo, Junio.
-    2 January, February, March, April, May, June.
+    O: Januaro, Februaro, Marto, Aprilo, Majo, Junio.
+    E: January, February, March, April, May, June.
 
-    1 Kio estas via aĝo?
-    2 What is your age?
+    O: Kio estas via aĝo?
+    E: What is your age?
 
-    1 Skribu vian aĝon.
-    2 Write your age.
+    O: Skribu vian aĝon.
+    E: Write your age.
 
-    1 La dudeka de aprilo estas ŝia naskiĝtago.
-    2 The twentieth of april is her birthday.
+    O: La dudeka de aprilo estas ŝia naskiĝtago.
+    E: The twentieth of april is her birthday.
+
+    O: Februaro havas dudek ok aŭ dudek naŭ tagojn.
+    E: February has twenty-eight or twenty-nine days.
+
+    O: En aŭgusto ofte pluvas en Usono.
+    E: In August it often rains in USA.
+
+    O: La dudeka de aprilo estas ŝia naskiĝtago.
+    E: The twentieth of April is her birthday.
+
+    O: Mia amiko alvenos en julio.
+    E: My friend will arrive in July.
+
+    O: Ŝi studis Esperanton je la aĝo de dudek tri.
+    E: She studied Esperanto at the age of twenty-three.
+
+    # En Aŭstralio estas somero februare.
+    O: En Aŭstralio estas somero en februaro.
+    E: In Australia, it is summer in February.
+
+    O: Majo, junio, julio, aŭgusto, septembro.
+    E: May, June, July, August, September.
+
+    O: Kion faras la viro?
+    E: What is the man doing?
 
 > Five
-    1 Ĉu vi povos viziti nin en oktobro?
-    2 Are you able to visit us in October?
+    O: Ĉu vi povos viziti nin en oktobro?
+    E: Are you able to visit us in October?
 
-    1 Aprilo, junio, septembro kaj novembro havas tridek tagojn.
-    2 April, June, September and November have thirty days.
+    O: Aprilo, junio, septembro kaj novembro havas tridek tagojn.
+    E: April, June, September and November have thirty days.
 
-    1 Ni havas multajn kalendarojn en nia domo.
-    2 We have many calendars in our house.
+    O: Ni havas multajn kalendarojn en nia domo.
+    E: We have many calendars in our house.
 
-    1 Tiun gravan gazeton mi aĉetas monate.
+    O: Tiun gravan gazeton mi aĉetas monate.
     # "monate" = "monthly", "ĉiumonate" = "every month"
-    2 That important newspaper I buy each month.
+    # here, it's just monthly, not every month
+    E: That important newspaper I buy each month.
 
-    1 Ĉi-semajne ni iros al Francio.
-    2 This week we will go to France.
+    O: Ĉi-semajne ni iros al Francio.
+    E: This week we will go to France.
 
-    1 Julio, aŭgusto, septembro, oktobro, novembro, decembro.
-    2 July, August, September, October, November, December.
+    O: Julio, aŭgusto, septembro, oktobro, novembro, decembro.
+    E: July, August, September, October, November, December.
 
-    1 Pasintmonate mia bofrato vojaĝis al Aŭstralio.
-    2 Last month my brother-in-law travelled to Australia.
+    O: Pasintmonate mia bofrato vojaĝis al Aŭstralio.
+    E: Last month my brother-in-law travelled to Australia.
 
-    1 Printempo estas unu el la kvar sezonoj.
-    2 Spring is one of the four seasons.
+    O: Printempo estas unu el la kvar sezonoj.
+    E: Spring is one of the four seasons.
 
-    1 Somero, aŭtuno, vintro, printempo.
-    2 Summer, autumn, winter, spring.
+    O: Somero, aŭtuno, vintro, printempo.
+    E: Summer, autumn, winter, spring.
 
-    1 La luno brilas dum la nokto.
-    2 The moon shines during the night.
+    O: La luno brilas dum la nokto.
+    E: The moon shines during the night.
 
-    1 La fino de la jaro estas en decembro.
-    2 The end of the year is in December.
+    O: La fino de la jaro estas en decembro.
+    E: The end of the year is in December.
 
-    1 Ni manĝas kukon tiam.
-    2 We eat cake then.
+    O: Ni manĝas kukon tiam.
+    E: We eat cake then.
 
-    1 Aŭtuno estas bela sezono.
-    2 Autumn is a beautiful season.
+    O: Aŭtuno estas bela sezono.
+    E: Autumn is a beautiful season.
 
-    1 Ne estas nubo en la ĉielo.
-    2 There is no cloud in the sky.
+    O: Ne estas nubo en la ĉielo.
+    E: There is no cloud in the sky.
 
-    1 Ĝis tiam.
-    # See you then.
-    2 Until then.
+    O: Ĝis tiam.
+    # Until then.
+    E: See you then.
 
-    1 Li laboras dum la nokto.
-    2 He works during the night.
+    O: Li laboras dum la nokto.
+    # He works at night
+    E: He works during the night.
 
-    1 Kiun koloron havas la nubo?
+    O: Kiun koloron havas la nubo?
     # Which colour does the cloud have?
-    2 What colour is the cloud?
+    E: What colour is the cloud?
+
+    O: Rigardu la nubon tie.
+    E: Look at the cloud there.
+
+    O: Mia filo helpos vin dum la somero.
+    E: My son will help you during the summer.
+
+    O: Ili iros al Usono dum printempo.
+    E: They will go to USA during spring.
+
+    O: Mia kuzo alvenos la naŭan de decembro.
+    E: My cousin will arrive on December ninth.
+
+    O: La kalendaro havas dek du monatojn.
+    E: The calendar has twelve months.
+
+    O: Vintro venas.
+    E: Winter is coming.
+
+    O: Ĉiam neĝas dum vintro en Kanado.
+    E: It always snows during the winter in Canada.
+
+    O: Ĉu li venas el sud-ameriko?
+    E: Does he come from South America?
+
+    O: La kvar sezonoj de la jaro.
+    E: The four seasons of the year.
+
+    O: Ĉi-monate mi lernas Esperanton.
+    E: This month I am learning Esperanto.
+
+    O: Pasintsemajne mi estis ĉe miaj gepatroj.
+    E: Last week I was at my parents' home.
 
 > Seven
-    1 Novjaro estas la plej grava festo por ili.
-    #2 New [Year|Year's] is the most important [festivity|holiday] for them.
-    2 New Year's is the most important holiday for them.
+    O: Novjaro estas la plej grava festo por ili.
+    #E: New [Year|Year's] is the most important [festivity|holiday] for them.
+    E: New Year's is the most important holiday for them.
 
-    1 Ni estas en la dudek-unua jarcento.
-    2 We are in the twenty-first century.
+    O: Ni estas en la dudek-unua jarcento.
+    E: We are in the twenty-first century.
 
-    1 Mi neniam manĝas viandon.
-    2 I never eat meat.
+    O: Mi neniam manĝas viandon.
+    E: I never eat meat.
 
-    1 En Aŭstralio la somero komenciĝas en decembro.
-    2 In Australia the summer starts in December.
+    O: En Aŭstralio la somero komenciĝas en decembro.
+    E: In Australia the summer starts in December.
 
-    1 Mi estas en mia sesa jardeko.
-    2 I am in my sixth decade.
+    O: Mi estas en mia sesa jardeko.
+    E: I am in my sixth decade.
 
-    1 Mi volas ĉiam festi la novjaron kun miaj amikoj.
-    2 I always want to celebrate New Year's with my friends.
+    O: Mi volas ĉiam festi la novjaron kun miaj amikoj.
+    E: I always want to celebrate New Year's with my friends.
 
-    1 Estas dek jardekoj en jarcento.
-    2 There are ten decades in a century.
+    O: Estas dek jardekoj en jarcento.
+    E: There are ten decades in a century.
 
-    1 Kiel vi festos la novjaron?
-    2 How will you celebrate the New Year's?
+    O: Kiel vi festos la novjaron?
+    E: How will you celebrate the New Year's?
+
+    O: Esperantistoj ŝatas festi.
+    E: Esperanto speakers like to celebrate.
+
+    O: Mi neniam malpravas.
+    E: I am never wrong.
+
+    O: Ĉu vi scias, kiam la vintro komenciĝas?
+    E: Do you know when the winter starts?
+
+    O: La festo komenciĝos je la dudek-dua horo.
+    E: The party will start at O:0 p.m.
+
+    O: Ŝi neniam dormas antaŭ la dudek-tria horo.
+    E: She never sleeps before O:O: p.m.
+
+    O: Niaj amikoj neniam venis akurate.
+    E: Our friends never came on time.
+
+    O: Ĉu vi iam alvenos akurate?
+    E: Will you ever arrive on time?
+
+    O: Estas dek jaroj en jardeko.
+    E: There are ten years in a decade.
+
+    O: Ni tagmanĝos kune je la dek-dua kaj duono.
+    E: We will have lunch together at twelve-thirty.
+
+    O: Novjaro estas grava festo por ili.
+    E: New Year's is an important holiday for them.
 
 > Eight
-    1 Mi renkontos vin ĉe la trajno.
-    2 I will meet you at the train.
+    O: Mi renkontos vin ĉe la trajno.
+    # outside of the train
+    E: I will meet you at the train.
 
-    1 Li alvenis tridek sekundojn pli frue ol mi.
-    2 He arrived thirty seconds earlier than me.
+    O: Li alvenis tridek sekundojn pli frue ol mi.
+    E: He arrived thirty seconds earlier than me.
 
-    1 Ekde kiam?
-    2 Since when?
+    O: Ekde kiam?
+    E: Since when?
 
-    1 Mi laboros tiun posttagmezon.
-    2 I will work that afternoon.
+    O: Mi laboros tiun posttagmezon.
+    E: I will work that afternoon.
 
-    1 Pardonon, mi bezonas momenton.
-    2 Sorry, I need a moment.
+    O: Pardonon, mi bezonas momenton.
+    E: Sorry, I need a moment.
 
-    1 Ni renkontos vin posttagmeze.
-    2 We will meet you in the afternoon.
+    O: Ni renkontos vin posttagmeze.
+    E: We will meet you in the afternoon.
     
-    1 Estas sesdek sekundoj en minuto.
-    2 There are sixty seconds in a minute.
+    O: Estas sesdek sekundoj en minuto.
+    E: There are sixty seconds in a minute.
 
-    1 Lia kuzo alvenis je la deka.
-    2 His cousin arrived at ten.
+    O: Lia kuzo alvenis je la deka.
+    E: His cousin arrived at ten.
+
+    O: Mi ĉiam alvenis nokte.
+    E: I always arrived at night.
+
+    O: Ĉu vi iam alvenis matene?
+    E: Did you ever arrive in the morning?
+
+    O: Ili ĵus alvenis al mia hejmo.
+    E: They just arrived at my house.
+
+    # unu momenton
+    O: Momenton!
+    # hold on, one second, wait a minute, wait a second...
+    E: Just a moment!
+
+    O: Mi ŝatas trajnojn.
+    E: I like trains.
+
+    O: Mi preferas la horojn de la frua mateno.
+    E: I prefer the hours of the early morning.
+
+    O: Momenton, mi tuj venos.
+    E: Just a moment, I will come immediately.
+
+    O: Bonvolu alveni frue!
+    E: Please arrive early!
+
+    O: Mi aŭdis, ke tuj neĝos.
+    E: I heard that it was about to snow.
+
+    O: Pluvas ekde dimanĉo.
+    # It rained since Sunday. ????
+    E: It has been raining since Sunday.
 
 > Nine
-    1 Mi estas kvardek-jara.
-    2 I am forty years old.
+    O: Mi estas kvardek-jara.
+    E: I am forty years old.
 
-    1 Kelkfoje neĝas en marto en nia lando.
-    2 Sometimes it snows in March in our country.
+    O: Kelkfoje neĝas en marto en nia lando.
+    E: Sometimes it snows in March in our country.
 
-    1 Ni iris al la preĝejo samtempe.
-    2 We went to the church at the same time.
+    O: Ni iris al la preĝejo samtempe.
+    E: We went to the church at the same time.
 
-    1 Adamo havas tri-jaraĝan filon.
-    2 Adam has a three-year-old son.
+    # jaro + aĝo
+    O: Adamo havas tri-jaraĝan filon.
+    E: Adam has a three-year-old son.
 
-    1 Mi tuj revenos!
+    O: Mi tuj revenos!
     # I will be right back!
-    2 I will return immediately!
+    # I will return immediately!
+    E: I will come back immediately!
 
-    1 Mia bofrato estas tridek-naŭ-jara.
-    2 My brother-in-law is thirty-nine.
+    O: Mia bofrato estas tridek-naŭ-jara.
+    E: My brother-in-law is thirty-nine.
 
-    1 Mi kelkfoje vizitas mian avon dimanĉe.
-    2 I sometimes visit my grandfather on Sundays.
+    O: Mi kelkfoje vizitas mian avon dimanĉe.
+    E: I sometimes visit my grandfather on Sundays.
 
-    1 Ŝi estos dudek-jara post tri monatoj.
-    2 She will be twenty years old in three months.
+    O: Ŝi estos dudek-jara post tri monatoj.
+    E: She will be twenty years old in three months.
 
-    1 Je kioma horo viaj geavoj revenos?
-    2 At what time will your grandparents return?
+    O: Je kioma horo viaj geavoj revenos?
+    E: At what time will your grandparents return?
+
+    O: Je kioma horo li malfermas la preĝejon?
+    E: At what time does he open the church?
+
+    O: Je kioma horo ili alvenos?
+    E: At what time will they arrive?
+
+    O: Mi vizitos vin en oktobro.
+    E: I will visit you in October.
+
+    O: Li tuj alvenos.
+    # He will arrive immediately
+    E: He is about to arrive.
+
+    O: Hodiaŭ ŝi diris al mi ke ili tuj venos.
+    E: Today she told me that they will immediately come.
+
+    O: Marto estas la tria monato de la jaro.
+    E: March is the third month of the year.
+
+    O: Marto havas triden unu tagojn.
+    E: March has thirty one days.
+
+    O: Ankaŭ mia naskiĝtago estas en marto.
+    E: My birthday is in March, too.
+
+    O: Mi foje timas hundojn.
+    E: I am scared of dogs sometimes.
+
+    O: Je kioma horo viaj geavoj revenos?
+    E: At what time will your grandparents return?
+
+    # Sofia revenis de Kanado per trajno.
+    O: Sofia revenis el Kanado per trajno.
+    E: Sofia returned from Canada by train.
+
+    O: Je kioma horo ili alvenos?
+    E: At what time will they arrive?
+
+    O: Ĉu vi kaj via edzino iros samtempe?
+    E: Will you and your wife go at the same time?
