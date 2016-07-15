@@ -195,7 +195,7 @@
 
 > Five
     O: Ĉu vi povos viziti nin en oktobro?
-    E: Are you able to visit us in October?
+    E: Will you be able to visit us in October?
 
     O: Aprilo, junio, septembro kaj novembro havas tridek tagojn.
     E: April, June, September and November have thirty days.
