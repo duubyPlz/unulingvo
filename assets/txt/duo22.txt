@@ -64,8 +64,9 @@
     O: Kiom da jaroj vi havas?
     E: How old are you?
 
+    # ĵaŭde = every thursday?
     O: Ĵaŭde mi ĉiam manĝas en la sama restoracio.
-    E: On Thursday, I always eat in the same restaurant.
+    E: On Thursday I always eat in the same restaurant.
 
     O: Who has the menus?
     E: Kiu havas la menuojn?
