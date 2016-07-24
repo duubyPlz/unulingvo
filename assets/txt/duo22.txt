@@ -320,7 +320,7 @@
     E: Do you know when the winter starts?
 
     O: La festo komenciĝos je la dudek-dua horo.
-    E: The party will start at O:0 p.m.
+    E: The party will start at 10 p.m.
 
     O: Ŝi neniam dormas antaŭ la dudek-tria horo.
     E: She never sleeps before O:O: p.m.
