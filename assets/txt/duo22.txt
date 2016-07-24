@@ -270,7 +270,7 @@
     E: Winter is coming.
 
     O: Ĉiam neĝas dum vintro en Kanado.
-    E: It always snows during the winter in Canada.
+    E: It always snows during winter in Canada.
 
     O: Ĉu li venas el sud-ameriko?
     E: Does he come from South America?
