@@ -240,8 +240,8 @@
     E: There is no cloud in the sky.
 
     O: Ĝis tiam.
-    # Until then.
-    E: See you then.
+    # See you then.
+    E: Until then.
 
     O: Li laboras dum la nokto.
     # He works at night
