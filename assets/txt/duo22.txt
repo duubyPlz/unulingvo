@@ -106,7 +106,7 @@
     E: Hour, day, week, month, year.
 
     O: Januaro estas la unua monato de la jaro, kaj februaro la dua.
-    E: January is the first month of the year, and February is the second.
+    E: January is the first month of the year, and February the second.
 
     O: Ni povas telefoni senpage semajnfine.
     E: We can call for free on weekend.
