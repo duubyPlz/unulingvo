@@ -425,7 +425,7 @@
     E: I sometimes visit my grandfather on Sundays.
 
     O: Ŝi estos dudek-jara post tri monatoj.
-    E: She will be twenty years old in three months.
+    E: She will be twenty years old after three months.
 
     O: Je kioma horo viaj geavoj revenos?
     E: At what time will your grandparents return?
