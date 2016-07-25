@@ -413,7 +413,8 @@
     O: Adamo havas tri-jaraĝan filon.
     E: Adam has a three-year-old son.
 
-    O: Mi tuj revenos!
+    # Mi tuj revenos!
+    O: Mi revenos tuj!
     # I will be right back!
     # I will return immediately!
     E: I will come back immediately!
