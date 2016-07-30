@@ -302,7 +302,7 @@
     O: Mi estas en mia sesa jardeko.
     E: I am in my sixth decade.
 
-    O: Mi volas ĉiam festi la novjaron kun miaj amikoj.
+    O: Mi ĉiam volas festi la novjaron kun miaj amikoj.
     E: I always want to celebrate New Year's with my friends.
 
     O: Estas dek jardekoj en jarcento.
