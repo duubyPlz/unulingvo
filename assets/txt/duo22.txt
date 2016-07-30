@@ -152,7 +152,7 @@
     E: It is my twentieth birthday.
 
     O: En julio kaj aŭgusto estas somero en Rusio.
-    E: In July and August is summer in Russia.
+    E: In July and August, it is summer in Russia.
 
     O: Majo, junio, julio, aŭgusto.
     E: May, June, July, August.
@@ -218,7 +218,8 @@
     O: Pasintmonate mia bofrato vojaĝis al Aŭstralio.
     E: Last month my brother-in-law travelled to Australia.
 
-    O: Printempo estas unu el la kvar sezonoj.
+    # Printempo estas unu el la kvar sezonoj.
+    O: Printempo estas unu de la kvar sezonoj.
     E: Spring is one of the four seasons.
 
     O: Somero, aŭtuno, vintro, printempo.
@@ -373,7 +374,7 @@
     E: Did you ever arrive in the morning?
 
     O: Ili ĵus alvenis al mia hejmo.
-    E: They just arrived at my house.
+    E: They just arrived at my home.
 
     # unu momenton
     O: Momenton!
@@ -450,7 +451,7 @@
     O: Marto estas la tria monato de la jaro.
     E: March is the third month of the year.
 
-    O: Marto havas triden unu tagojn.
+    O: Marto havas tridek unu tagojn.
     E: March has thirty one days.
 
     O: Ankaŭ mia naskiĝtago estas en marto.

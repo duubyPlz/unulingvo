@@ -1,0 +1,60 @@
+== 基本一 ==
+> One
+    1 一人の男性。
+    2 A man.
+
+    1 彼は太郎です。
+    2 He is Taro.
+
+    1 私は太郎です。
+    2 I am Taro.
+
+    1 彼は男性の人です。
+    2 He is a man.
+
+    1 太郎は少年です。
+    2 Taro is a boy.
+
+> Two
+    1 私は食べます。
+    2 I eat.
+
+    1 私は歩きます。
+    2 I walk.
+
+    # その... = the
+    1 少年は歩きます。
+    2 A boy walks.
+
+    1 あなたは歩きます。
+    2 You walk.
+
+    1 太郎と私は食べます。
+    2 Taro and I eat.
+
+    1 私たちは食べます。
+    2 We eat.
+
+    1 彼は歩きます。
+    2 He walks.
+
+> Three
+    1 あなたは水を飲みます。
+    2 You drink water.
+
+    1 あなたはりんごを食べます。
+    2 You eat an apple.
+
+    1 私は牛乳を飲みます。
+    2 I drink milk.
+
+    1 私たちは1つのリンゴを食べる。
+    2 We eat one apple.
+
+== 基本二 ==
+> One
+    1 太郎と私は食べます。
+    2 Taro and I eat
+
+    1 
+    2 
