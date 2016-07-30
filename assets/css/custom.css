@@ -360,8 +360,12 @@ footer.footer {
   }
 
   footer.footer {
-    font-size: 80%;
     top: 0;
+  }
+
+  footer.footer small {
+    /*font-size: 40px;*/
+    font-size: 80%;
   }
 }
 
@@ -448,7 +452,11 @@ footer.footer {
   }
 
   footer.footer {
-    font-size: 80%;
     top: 0;
+  }
+
+  footer.footer small {
+    /*font-size: 16px;*/
+    font-size: 80%;
   }
 }
