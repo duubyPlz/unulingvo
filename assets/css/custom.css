@@ -251,6 +251,7 @@ div#top-bar {
 .nav-pills > li > a {
   padding: 3px 9px 3px 9px;
   margin-right: 5px;
+  cursor: pointer;
 }
 
 .nav-pills > li.active > a,
