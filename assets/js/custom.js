@@ -53,7 +53,7 @@ $('.nav-pills li').on('click', function() {
         if (language == 'eo') {
             $('textarea#answer').attr('placeholder', 'Esperanto');
         } else if (language == 'ja') {
-            $('textarea#answer').attr('placeholder', '日本語');
+            $('textarea#answer').attr('placeholder', '日本語 (not yet implemented!)');
         }
 
         // f) reparse/redisplay
