@@ -445,7 +445,7 @@
     # He will arrive immediately
     E: He is about to arrive.
 
-    O: Hodiaŭ ŝi diris al mi ke ili tuj venos.
+    O: Hodiaŭ ŝi diris al mi, ke ili tuj venos.
     E: Today she told me that they will immediately come.
 
     O: Marto estas la tria monato de la jaro.

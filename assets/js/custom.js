@@ -115,10 +115,10 @@ function display() {
 
 function logic() {
     var inputString = $('textarea#answer').val();
-    var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ]/g, ""); // whitelist
-    var simplifiedString = sanitisedString.replace(/[.?!,:"]/g, "").toLowerCase().trim(); // blacklist
+    var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
+    var simplifiedString = sanitisedString.replace(/[.,?!:"]/g, "").toLowerCase().trim(); // blacklist
 
-    var simplifiedEO = correctEO.replace(/[.?!,:";]/g, "").toLowerCase().trim(); // blacklist
+    var simplifiedEO = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
     var simplifiedEONoHyphens = simplifiedEO.replace(/\-/g, " ");
 
     if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
