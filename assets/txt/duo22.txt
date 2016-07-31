@@ -144,8 +144,8 @@
     O: Sabato kaj dimanĉo.
     E: Saturday and Sunday.
 
-    O: The weekend is always too short!
-    E: La semajnfino ĉiam estas tro mallonga!
+    O: La semajnfino ĉiam estas tro mallonga!
+    E: The weekend is always too short!
 
 > Four
     O: Estas mia dudeka naskiĝtago.
