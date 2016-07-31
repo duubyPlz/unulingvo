@@ -42,7 +42,7 @@
     O: あなたは水を飲みます。
     E: You drink water.
 
-    O: あなたはりんごを食べます。
+    O: あなたはリンゴを食べます。
     E: You eat an apple.
 
     O: 私は牛乳を飲みます。

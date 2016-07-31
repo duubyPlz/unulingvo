@@ -48,7 +48,15 @@ $('.nav-pills li').on('click', function() {
         // d) Show only current language's dropdown
         $('select#contents-'+language).css('display', 'inline');
 
-        // e) reparse/redisplay
+        // e) Change textarea#answer's placeholder
+        // refactor if more languages
+        if (language == 'eo') {
+            $('textarea#answer').attr('placeholder', 'Esperanto');
+        } else if (language == 'ja') {
+            $('textarea#answer').attr('placeholder', '日本語');
+        }
+
+        // f) reparse/redisplay
         // o_O" .. code reuse from 1. ......
         var selectedModule = $('select#contents-' + language).val();
         if (!$.isNumeric(selectedModule)) {
@@ -90,6 +98,7 @@ $('textarea#answer').keydown(function (e) {
     if (e.keyCode == 13)  {
         e.preventDefault();
         if (!$('textarea#answer').hasClass('incorrect') && !$('textarea#answer').hasClass('correct')) {
+            console.log("ENTERING");
             logic();
         }
     }
@@ -163,9 +172,13 @@ function display() {
 }
 
 function logic() {
+    console.log("entered");
     var inputString = $('textarea#answer').val();
     var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
+    console.log("HIIII " + sanitisedString);
     var simplifiedString = sanitisedString.replace(/[.,?!:"]/g, "").toLowerCase().trim(); // blacklist
+
+    console.log(sanitisedString);
 
     var simplifiedEO = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
     var simplifiedEONoHyphens = simplifiedEO.replace(/\-/g, " ");
