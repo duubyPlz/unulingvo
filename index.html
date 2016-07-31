@@ -26,22 +26,22 @@
   <title>unulingvo</title>
 </head>
 <body>
-  <!-- Start navbar -->
-<!--   <nav class="navbar navbar-inverse navbar-static-top">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <img class="navbar-brand logo" src='assets/img/logo.png'>
-      </div>
-    </div>
-  </nav> -->
-  <!-- End navbar -->
   <img class='logo' src='assets/img/logo.png'>
 
   <!-- Start Content -->
-  <div class='container' id='contents'>
+  <!-- + top bar -->
+  <div class='container' id='top-bar'>
+    <!-- + pills -->
+    <ul class="nav nav-pills" style='position:absolute'>
+      <li role="presentation" id='eo' class="active"><a>Esperanto</a></li>
+      <li role="presentation" id='ja'><a>Japanese</a></li>
+    </ul>
+    <!-- - pills -->
+    <!-- + dropdown -->
     <label class='select-round pull-right'>
-      <select id='contents' style='display:inline'>
-        <!-- <li data-id='...'><a></a>...</li> -->
+      <!-- assuming there won't be that many languages,
+           if this assumption is wrong, refactor ids/classes. -->
+      <select id='contents-eo' style='display:inline'>
         <option value='1'>1. Basics One</option>
         <option value='2'>2. Basics Two</option>
         <option value='3'>3. Phrases</option>
@@ -68,8 +68,15 @@
         <option disabled>----------</option>
         <option value='22' selected='selected'>22. Dates &amp; Time</option>
       </select>
+
+      <select id='contents-ja' style='display:none'>
+        <option value='1' selected='selected'>1. 基本一</option>
+      </select>
     </label>
+    <!-- - dropdown -->
   </div>
+  <!-- - top bar -->
+  <!-- + main panel -->
   <div class="container">
     <div class="panel main-panel">
       <div class="panel-body">
@@ -84,6 +91,7 @@
       </div>
     </div>
   </div>
+  <!-- - main panel -->
   <!-- End Content -->
 
   <!-- Start footer -->

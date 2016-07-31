@@ -12,7 +12,7 @@ $(function () {
 })
 
 // 1. Parse & display text of selected module
-var selectedModule = $('select#contents').val();
+var selectedModule = $('select#contents-eo').val();
 if (!$.isNumeric(selectedModule)) {
     $.error("Selected module isn't a valid one: " + selectedModule);
 }
@@ -25,10 +25,31 @@ setTimeout(function () {
     display();
 }, 1000);
 
+// 2. Pills are toggled (language changed)
+$('.nav-pills li').on('click', function() {
+    var currentPill = $(this);
+    var language = currentPill.attr('id');
+    console.log(language);
+    if (!currentPill.hasClass('active')) {
+        console.log('isnt active');
+        // a) Make all pills inactive
+        $('.nav-pills li').each(function() {
+            $(this).removeClass();
+        });
 
-// 2. If module is changed, reparse & display
-$('select#contents').change(function() {
-    selectedModule = $('select#contents').val();
+        // b) Make this pill active
+        currentPill.addClass('active');
+
+
+    } else {
+        // Already active pill
+        console.log("already active");
+    }
+});
+
+// 3. If module is changed, reparse & display
+$('select#contents-eo').change(function() {
+    selectedModule = $('select#contents-eo').val();
     if (!$.isNumeric(selectedModule)) {
         $.error("Selected module isn't a valid one: " + selectedModule);
     }
@@ -38,7 +59,7 @@ $('select#contents').change(function() {
     }, 1000);
 });
 
-// 3. Logic - check results, see if input field is correct
+// 4. Logic - check results, see if input field is correct
 // a) Click 'check' button
 $('button#checking').on('click', function() {
     if (!$('textarea#answer').hasClass('incorrect') && !$('textarea#answer').hasClass('correct')) {
@@ -55,7 +76,7 @@ $('textarea#answer').keydown(function (e) {
     }
 })
 
-// 4. Skipping current
+// 5. Skipping current
 // > a) Click 'skip' button
 $('button#skip').on('click', function() {
     // clear input field & makes it normal again
