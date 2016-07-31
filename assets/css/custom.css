@@ -381,6 +381,11 @@ footer.footer {
     margin-top: 30px;
   }
 
+  .nav-pills {
+    margin-left: -130px;
+    font-size: 90%;
+  }
+
   #arrow {
     position: relative;
     top: 0;
@@ -467,6 +472,11 @@ footer.footer {
     left: 75px;
     margin-bottom: 20px;
     margin-top: 20px;
+  }
+
+  .nav-pills {
+    margin-left: -110px;
+    font-size: 90%;
   }
 
   select#contents-eo, select #contents-ja {
