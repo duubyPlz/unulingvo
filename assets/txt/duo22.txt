@@ -68,8 +68,8 @@
     O: Ĵaŭde mi ĉiam manĝas en la sama restoracio.
     E: On Thursday I always eat in the same restaurant.
 
-    O: Who has the menus?
-    E: Kiu havas la menuojn?
+    O: Kiu havas la menuojn?
+    E: Who has the menus?
 
     O: Mi amas vendredon!
     E: I love Friday!
