@@ -9,15 +9,17 @@
 // toggle all tooltips
 $(function () {
   $('[data-toggle="tooltip"]').tooltip()
-})
+});
+// default language
+var language = 'eo';
 
 // 1. Parse & display text of selected module
-var selectedModule = $('select#contents-eo').val();
+var selectedModule = $('select#contents-' + language).val();
 if (!$.isNumeric(selectedModule)) {
     $.error("Selected module isn't a valid one: " + selectedModule);
 }
 // a) Parse
-parse(selectedModule);
+parse(selectedModule, language);
 
 var correctEO = "";
 // b) Display
@@ -28,7 +30,7 @@ setTimeout(function () {
 // 2. Pills are toggled (language changed)
 $('.nav-pills li').on('click', function() {
     var currentPill = $(this);
-    var language = currentPill.attr('id');
+    language = currentPill.attr('id');
     console.log(language);
     if (!currentPill.hasClass('active')) {
         console.log('isnt active');
@@ -40,7 +42,24 @@ $('.nav-pills li').on('click', function() {
         // b) Make this pill active
         currentPill.addClass('active');
 
+        // c) Hide previously active dropdown
+        $('select').css('display', 'none');
 
+        // d) Show only current language's dropdown
+        $('select#contents-'+language).css('display', 'inline');
+
+        // e) reparse/redisplay
+        // o_O" .. code reuse from 1. ......
+        var selectedModule = $('select#contents-' + language).val();
+        if (!$.isNumeric(selectedModule)) {
+            $.error("Selected module isn't a valid one: " + selectedModule);
+        }
+        parse(selectedModule, language);
+
+        var correctEO = "";
+        setTimeout(function () {
+            display();
+        }, 1000);
     } else {
         // Already active pill
         console.log("already active");
@@ -53,7 +72,7 @@ $('select#contents-eo').change(function() {
     if (!$.isNumeric(selectedModule)) {
         $.error("Selected module isn't a valid one: " + selectedModule);
     }
-    parse(selectedModule);
+    parse(selectedModule, language);
     setTimeout(function () {
         display();
     }, 1000);
@@ -100,9 +119,18 @@ $('textarea#answer').keydown(function (e) {
 })
 
 // Subroutines
-function parse(module) {
+function parse(module, language) {
     hash = new Object();
-    var fileName = 'assets/txt/duo' + module + '.txt';
+    var fileName = 'lernu1.txt'; // random default file
+
+    // refactor if lots of languages
+    if (language == 'eo') {
+        fileName = 'assets/txt/duo' + module + '.txt';
+    } else if (language == 'ja') {
+        fileName = 'assets/txt/jpn' + module + '.txt';
+    } else {
+        $.error("Language isn't valid: " + language);
+    }
     // console.log(fileName);
     try {
         $.get(fileName, function(data) {

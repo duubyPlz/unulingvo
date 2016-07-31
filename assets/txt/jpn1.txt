@@ -1,0 +1,52 @@
+== 基本一 ==
+> One
+    O: 一人の男性。
+    E: A man.
+
+    O: 彼は太郎です。
+    E: He is Taro.
+
+    O: 私は太郎です。
+    E: I am Taro.
+
+    O: 彼は男性の人です。
+    E: He is a man.
+
+    O: 太郎は少年です。
+    E: Taro is a boy.
+
+> Two
+    O: 私は食べます。
+    E: I eat.
+
+    O: 私は歩きます。
+    E: I walk.
+
+    # その... = the
+    O: 少年は歩きます。
+    E: A boy walks.
+
+    O: あなたは歩きます。
+    E: You walk.
+
+    O: 太郎と私は食べます。
+    E: Taro and I eat.
+
+    O: 私たちは食べます。
+    E: We eat.
+
+    O: 彼は歩きます。
+    E: He walks.
+
+> Three
+    O: あなたは水を飲みます。
+    E: You drink water.
+
+    O: あなたはりんごを食べます。
+    E: You eat an apple.
+
+    O: 私は牛乳を飲みます。
+    E: I drink milk.
+
+    O: 私たちはO:つのリンゴを食べる。
+    E: We eat one apple.
