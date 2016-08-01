@@ -48,5 +48,5 @@
     O: 私は牛乳を飲みます。
     E: I drink milk.
 
-    O: 私たちはO:つのリンゴを食べる。
+    O: 私たちは一つのリンゴを食べる。
     E: We eat one apple.
