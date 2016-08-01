@@ -252,6 +252,7 @@
     # Which colour does the cloud have?
     E: What colour is the cloud?
 
+    # Rigardu al la nubo tie.
     O: Rigardu la nubon tie.
     E: Look at the cloud there.
 
@@ -387,6 +388,7 @@
     O: Mi preferas la horojn de la frua mateno.
     E: I prefer the hours of the early morning.
 
+    # Momenton, mi venos tuj.
     O: Momenton, mi tuj venos.
     E: Just a moment, I will come immediately.
 
@@ -412,7 +414,7 @@
 
     # jaro + aĝo
     O: Adamo havas tri-jaraĝan filon.
-    E: Adam has a three-year-old son.
+    E: Adamo has a three-year-old son.
 
     # Mi tuj revenos!
     O: Mi revenos tuj!

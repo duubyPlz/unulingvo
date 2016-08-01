@@ -31,9 +31,7 @@ setTimeout(function () {
 $('.nav-pills li').on('click', function() {
     var currentPill = $(this);
     language = currentPill.attr('id');
-    console.log(language);
     if (!currentPill.hasClass('active')) {
-        console.log('isnt active');
         // a) Make all pills inactive
         $('.nav-pills li').each(function() {
             $(this).removeClass();
@@ -70,7 +68,6 @@ $('.nav-pills li').on('click', function() {
         }, 1000);
     } else {
         // Already active pill
-        console.log("already active");
     }
 });
 
@@ -98,7 +95,6 @@ $('textarea#answer').keydown(function (e) {
     if (e.keyCode == 13)  {
         e.preventDefault();
         if (!$('textarea#answer').hasClass('incorrect') && !$('textarea#answer').hasClass('correct')) {
-            console.log("ENTERING");
             logic();
         }
     }
@@ -172,13 +168,9 @@ function display() {
 }
 
 function logic() {
-    console.log("entered");
     var inputString = $('textarea#answer').val();
     var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
-    console.log("HIIII " + sanitisedString);
     var simplifiedString = sanitisedString.replace(/[.,?!:"]/g, "").toLowerCase().trim(); // blacklist
-
-    console.log(sanitisedString);
 
     var simplifiedEO = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
     var simplifiedEONoHyphens = simplifiedEO.replace(/\-/g, " ");
