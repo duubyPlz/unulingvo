@@ -399,8 +399,8 @@ footer.footer {
   }
 
   footer.footer small {
-    /*font-size: 40px;*/
-    font-size: 80%;
+    font-size: 40px;
+    /*font-size: 80%;*/
   }
 }
 
