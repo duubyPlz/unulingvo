@@ -47,7 +47,7 @@
     E: A German visits an American in USA.
 
     O: La kongreso estas en Eŭropo.
-    E: The congress is en Europe.
+    E: The congress is in Europe.
 
     O: Kie vi loĝas en Germanio?
     E: Where do you live in Germany?
