@@ -9,6 +9,7 @@
     O: 私は太郎です。
     E: I am Taro.
 
+    # 彼は男性です。
     O: 彼は男性の人です。
     E: He is a man.
 
@@ -37,6 +38,9 @@
 
     O: 彼は歩きます。
     E: He walks.
+
+    O: 太郎は歩きます。
+    E: Taro walks.
 
 > Three
     O: あなたは水を飲みます。

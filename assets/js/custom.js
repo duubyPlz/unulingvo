@@ -36,6 +36,7 @@ $('.nav-pills li').on('click', function() {
         $('.nav-pills li').each(function() {
             $(this).removeClass();
         });
+        $('textarea#answer').removeClass('ja');
 
         // b) Make this pill active
         currentPill.addClass('active');
@@ -66,6 +67,11 @@ $('.nav-pills li').on('click', function() {
         setTimeout(function () {
             display();
         }, 1000);
+
+        // g) if japanese, thin fonts
+        if (currentPill.attr('id') == 'ja') {
+            $('textarea#answer').addClass('ja');
+        }
     } else {
         // Already active pill
     }
