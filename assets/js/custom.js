@@ -27,7 +27,18 @@ setTimeout(function () {
     display();
 }, 1000);
 
-// 2. Pills are toggled (language changed)
+// 2. Module swaps triggered
+$('#test').on('click', function() {
+    $("#duo-module").addClass('animated bounceOutUp');
+    setTimeout(function() {
+        $('#duo-module').hide();
+        // show the next module
+        $('#acc-module').show();
+        $('#acc-module').addClass('animated bounceInDown');
+    }, 760);
+});
+
+// 3. Pills are toggled (language changed)
 $('.nav-pills li').on('click', function() {
     var currentPill = $(this);
     language = currentPill.attr('id');
@@ -71,7 +82,7 @@ $('.nav-pills li').on('click', function() {
     }
 });
 
-// 3. If module is changed, reparse & display
+// 4. If module is changed, reparse & display
 $('select#contents-eo').change(function() {
     selectedModule = $('select#contents-eo').val();
     if (!$.isNumeric(selectedModule)) {
@@ -83,7 +94,7 @@ $('select#contents-eo').change(function() {
     }, 1000);
 });
 
-// 4. Logic - check results, see if input field is correct
+// 5. Logic - check results, see if input field is correct
 // a) Click 'check' button
 $('button#checking').on('click', function() {
     if (!$('textarea#answer').hasClass('incorrect') && !$('textarea#answer').hasClass('correct')) {
@@ -100,7 +111,7 @@ $('textarea#answer').keydown(function (e) {
     }
 })
 
-// 5. Skipping current
+// 6. Skipping current
 // > a) Click 'skip' button
 $('button#skip').on('click', function() {
     // clear input field & makes it normal again
@@ -122,6 +133,7 @@ $('textarea#answer').keydown(function (e) {
         display();
     }
 })
+
 
 // Subroutines
 function parse(module, language) {

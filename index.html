@@ -7,6 +7,9 @@
   <!-- Bootstrap -->
   <link href="bootstrap3/css/bootstrap.css" rel="stylesheet">
 
+  <!-- animate.css -->
+  <link rel="stylesheet" href="assets/css/animate.css">
+
   <!-- Custom CSS -->
   <link href="assets/css/custom.css" rel="stylesheet">
 
@@ -28,80 +31,116 @@
 <body>
   <img class='logo' src='assets/img/logo.png'>
 
-  <!-- Start Content -->
-  <!-- + top bar -->
-  <div class='container' id='top-bar'>
-    <!-- + pills -->
-    <ul class="nav nav-pills" style='position:absolute'>
-      <li role="presentation" id='eo' class="active"><a>Esperanto</a></li>
-      <li role="presentation" id='ja'><a>Japanese</a></li>
-    </ul>
-    <!-- - pills -->
-    <!-- + dropdown -->
-    <label class='select-round pull-right'>
-      <!-- assuming there won't be that many languages,
-           if this assumption is wrong, refactor ids/classes. -->
-      <select id='contents-eo' style='display:inline'>
-        <option value='1'>1. Basics One</option>
-        <option value='2'>2. Basics Two</option>
-        <option value='3'>3. Phrases</option>
-        <option value='4'>4. Accusative</option>
-        <option value='5'>5. Languages</option>
-        <option value='6'>6. Colors</option>
-        <option value='7'>7. Plurals</option>
-        <option disabled>----------</option>
-        <option value='8'>8. Da/De</option>
-        <option value='9'>9. Animals</option>
-        <option value='10'>10. Possessives</option>
-        <option value='11'>11. Countries</option>
-        <option value='12'>12. Food</option>
-        <option value='13'>13. Clothing</option>
-        <option value='14'>14. Infinitive</option>
-        <option disabled>----------</option>
-        <option value='15'>15. Questions</option>
-        <option value='16'>16. Verbs Present</option>
-        <option value='17'>17. Family</option>
-        <option value='18'>18. Objects</option>
-        <option value='19'>19. Prepositions</option>
-        <option value='20'>20. Past &amp; Future</option>
-        <option value='21'>21. Numbers</option>
-        <option disabled>----------</option>
-        <option value='22' selected='selected'>22. Dates &amp; Time</option>
-      </select>
+  <button id='test' class='btn btn-primary' style='outline:none'>TEST</button>
 
-      <select id='contents-ja' style='display:none'>
-        <option value='1' selected='selected'>1. 基本一</option>
-      </select>
-    </label>
-    <!-- - dropdown -->
-  </div>
-  <!-- - top bar -->
-  <!-- + main panel -->
-  <div class="container">
-    <div class="panel main-panel">
-      <div class="panel-body">
-        <h1>Traduku ĉi tiun tekston</h1>
-        <div class='display-text'>
-          &lt;loading...&gt;
+  <!-- + 1. DUO -->
+  <div id='duo-module'>
+    <!-- Start Content -->
+    <!-- + top bar -->
+    <div class='container' id='top-bar'>
+      <!-- + pills -->
+      <ul class="nav nav-pills" style='position:absolute'>
+        <li role="presentation" id='eo' class="active"><a>Esperanto</a></li>
+        <li role="presentation" id='ja'><a>Japanese</a></li>
+      </ul>
+      <!-- - pills -->
+      <!-- + dropdown -->
+      <label class='select-round pull-right'>
+        <!-- assuming there won't be that many languages,
+             if this assumption is wrong, refactor ids/classes. -->
+        <select id='contents-eo' style='display:inline'>
+          <option value='1'>1. Basics One</option>
+          <option value='2'>2. Basics Two</option>
+          <option value='3'>3. Phrases</option>
+          <option value='4'>4. Accusative</option>
+          <option value='5'>5. Languages</option>
+          <option value='6'>6. Colors</option>
+          <option value='7'>7. Plurals</option>
+          <option disabled>----------</option>
+          <option value='8'>8. Da/De</option>
+          <option value='9'>9. Animals</option>
+          <option value='10'>10. Possessives</option>
+          <option value='11'>11. Countries</option>
+          <option value='12'>12. Food</option>
+          <option value='13'>13. Clothing</option>
+          <option value='14'>14. Infinitive</option>
+          <option disabled>----------</option>
+          <option value='15'>15. Questions</option>
+          <option value='16'>16. Verbs Present</option>
+          <option value='17'>17. Family</option>
+          <option value='18'>18. Objects</option>
+          <option value='19'>19. Prepositions</option>
+          <option value='20'>20. Past &amp; Future</option>
+          <option value='21'>21. Numbers</option>
+          <option disabled>----------</option>
+          <option value='22' selected='selected'>22. Dates &amp; Time</option>
+        </select>
+
+        <select id='contents-ja' style='display:none'>
+          <option value='1' selected='selected'>1. 基本一</option>
+        </select>
+      </label>
+      <!-- - dropdown -->
+    </div>
+    <!-- - top bar -->
+    <!-- + main panel -->
+    <div class="container">
+      <div class="panel main-panel">
+        <div class="panel-body">
+          <h1>Traduku ĉi tiun tekston</h1>
+          <div class='display-text'>
+            &lt;loading...&gt;
+          </div>
+          <h2 id='arrow'><b>&gt;</b></h2>
+          <textarea spellcheck="false" placeholder='Esperanto' class='textarea-block textarea-lg' id='answer' ></textarea>
+          <button type='submit' class='btn btn-green btn-lg pull-right' id='checking'>Check</button>
+          <button class='btn btn-lg pull-right btn-green' data-toggle='tooltip' data-placement='bottom' title="or skip with backtick `" id='skip'>Skip</button>
         </div>
-        <h2 id='arrow'><b>&gt;</b></h2>
-        <textarea spellcheck="false" placeholder='Esperanto' class='textarea-block textarea-lg' id='answer'></textarea>
-        <button type='submit' class='btn btn-green btn-lg pull-right' id='checking'>Check</button>
-        <button class='btn btn-lg pull-right btn-green' data-toggle='tooltip' data-placement='bottom' title="or skip with backtick `" id='skip'>Skip</button>
       </div>
     </div>
-  </div>
-  <!-- - main panel -->
-  <!-- End Content -->
+    <!-- - main panel -->
+    <!-- End Content -->
 
-  <!-- Start footer -->
-  <footer class='footer'>
-    <small>
-      quick, infinite practice of duolingo's [<a href='https://www.duolingo.com/course/eo/en/Learn-Esperanto-Online' target='_blank' class='link-white'>eo</a> <a href='https://www.duolingo.com/course/en/ja/Learn-English-Online' target='_blank' class='link-white'>ja</a>] sentences<br/>
-      all data from <a href='https://www.duolingo.com/' target='_blank' class='link-blue'>duolingo</a>
-    </small>
-  </footer>
-  <!-- End footer-->
+    <!-- Start footer -->
+    <footer class='footer'>
+      <small>
+        quick, infinite practice of duolingo's [<a href='https://www.duolingo.com/course/eo/en/Learn-Esperanto-Online' target='_blank' class='link-white'>eo</a> <a href='https://www.duolingo.com/course/en/ja/Learn-English-Online' target='_blank' class='link-white'>ja</a>] sentences<br/>
+        all data from <a href='https://www.duolingo.com/' target='_blank' class='link-blue'>duolingo</a>
+      </small>
+    </footer>
+    <!-- End footer-->
+  </div>
+  <!-- - 1. DUO -->
+
+  <!-- + 2. ACCUSATIVES -->
+  <div id='acc-module' style='display:none'>
+    <!-- Start Content -->
+    <div class='container panel acc-main-panel'>
+      <div class='panel-body'>
+        <!--
+        <span class='panel acc-keyword'>&lt;NOUN&gt;</span>
+        <span class='panel acc-keyword'>&lt;VERB&gt;</span>
+        <span class='panel acc-keyword'>&lt;NOUN&gt;</span>
+        -->
+        <span class='panel acc-keyword'>a cat</span>
+        <span class='panel acc-keyword'>scratched</span>
+        <span class='panel acc-keyword'>the door</span>
+        <textarea spellcheck="false" placeholder='Esperanto' id='acc-answer' autofocus></textarea>
+      </div>
+    </div>
+    <!-- End Content -->
+
+    <!-- Start footer -->
+    <footer class='footer'>
+      <small>
+        quick, infinite practice of simple accusative cases<br/>
+        nouns randomly generated from ??
+      </small>
+    </footer>
+    <!-- End footer-->
+  </div>
+  <!-- - 2. ACCUSATIVES -->
+
   <script src="assets/js/custom.js"></script>
 </body>
 </html>
