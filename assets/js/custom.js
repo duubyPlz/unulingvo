@@ -15,7 +15,7 @@ var language = 'eo';
 
 // 1. Parse & display text of selected module
 var selectedModule = $('select#contents-' + language).val();
-if (!$.isNumeric(selectedModule)) {
+if (!$.isNumeric(selectedModule) && (!selectedModule.match(/[a-z]/))) {
     $.error("Selected module isn't a valid one: " + selectedModule);
 }
 // a) Parse
@@ -58,7 +58,7 @@ $('.nav-pills li').on('click', function() {
         // f) reparse/redisplay
         // o_O" .. code reuse from 1. ......
         var selectedModule = $('select#contents-' + language).val();
-        if (!$.isNumeric(selectedModule)) {
+        if (!$.isNumeric(selectedModule) && (!selectedModule.match(/[a-z]/))) {
             $.error("Selected module isn't a valid one: " + selectedModule);
         }
         parse(selectedModule, language);
@@ -80,7 +80,7 @@ $('.nav-pills li').on('click', function() {
 // 3. If module is changed, reparse & display
 $('select#contents-eo').change(function() {
     selectedModule = $('select#contents-eo').val();
-    if (!$.isNumeric(selectedModule)) {
+    if (!$.isNumeric(selectedModule) && (!selectedModule.match(/[a-z]/))) {
         $.error("Selected module isn't a valid one: " + selectedModule);
     }
     parse(selectedModule, language);
@@ -140,7 +140,7 @@ function parse(module, language) {
     } else if (language == 'ja') {
         fileName = 'assets/txt/jpn' + module + '.txt';
     } else {
-        $.error("Language isn't valid: " + language);
+        console.warn("Language isn't valid: " + language);
     }
     // console.log(fileName);
     try {
