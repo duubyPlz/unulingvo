@@ -51,7 +51,7 @@ $('.nav-pills li').on('click', function() {
         if (language == 'eo') {
             $('textarea#answer').attr('placeholder', 'Esperanto');
         } else if (language == 'ja') {
-            $('textarea#answer').attr('placeholder', '日本語 (not yet implemented!)');
+            $('textarea#answer').attr('placeholder', '日本語');
         }
 
         // f) reparse/redisplay
@@ -87,7 +87,7 @@ $('select#contents-eo').change(function() {
 // a) Click 'check' button
 $('button#checking').on('click', function() {
     if (!$('textarea#answer').hasClass('incorrect') && !$('textarea#answer').hasClass('correct')) {
-        logic();
+        logic(language);
     }
 });
 // b) Press 'enter' key
@@ -95,7 +95,7 @@ $('textarea#answer').keydown(function (e) {
     if (e.keyCode == 13)  {
         e.preventDefault();
         if (!$('textarea#answer').hasClass('incorrect') && !$('textarea#answer').hasClass('correct')) {
-            logic();
+            logic(language);
         }
     }
 })
@@ -167,15 +167,42 @@ function display() {
     $('.display-text').html(wantedEng);
 }
 
-function logic() {
-    var inputString = $('textarea#answer').val();
-    var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
-    var simplifiedString = sanitisedString.replace(/[.,?!:"]/g, "").toLowerCase().trim(); // blacklist
+function logic(language) {
+    var ok = false;
+    if (language == 'eo') {    
+        var inputString = $('textarea#answer').val();
+        var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
+        var simplifiedString = sanitisedString.replace(/[.,?!:"]/g, "").toLowerCase().trim(); // blacklist
 
-    var simplifiedEO = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
-    var simplifiedEONoHyphens = simplifiedEO.replace(/\-/g, " ");
+        var simplifiedEO = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
+        var simplifiedEONoHyphens = simplifiedEO.replace(/\-/g, " ");
 
-    if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
+        if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
+            ok = true;
+        }
+    } else if (language == 'ja') {
+        var inputString = $('textarea#answer').val();
+        // unicode: \p{Han}\p{Kata}\p{Hira}
+        // > no punctuation yet...
+        // whitelist
+        // http://stackoverflow.com/questions/30069846/how-to-find-out-chinese-or-japanese-character-in-a-string-in-python
+        // http://stackoverflow.com/questions/280712/javascript-unicode-regexes
+        var sanitisedString = inputString
+        .replace(/[^\u2E80-\u2E99\u2E9B-\u2EF3\u2F00-\u2FD5\u3005\u3007\u3021-\u3029\u3038-\u303B\u3400-\u4DB5\u4E00-\u9FD5\uF900-\uFA6D\uFA70-\uFAD9\U00020000-\U0002A6D6\U0002A700-\U0002B734\U0002B740-\U0002B81D\U0002B820-\U0002CEA1\U0002F800-\U0002FA1D\u30A1-\u30FA\u30FD-\u30FF\u31F0-\u31FF\u32D0-\u32FE\u3300-\u3357\uFF66-\uFF6F\uFF71-\uFF9D\U0001B000\u3041-\u3096\u309D-\u309F\U0001B001\U0001F200]/g
+        , "");
+
+        var sanitisedJA = correctEO
+        .replace(/[^\u2E80-\u2E99\u2E9B-\u2EF3\u2F00-\u2FD5\u3005\u3007\u3021-\u3029\u3038-\u303B\u3400-\u4DB5\u4E00-\u9FD5\uF900-\uFA6D\uFA70-\uFAD9\U00020000-\U0002A6D6\U0002A700-\U0002B734\U0002B740-\U0002B81D\U0002B820-\U0002CEA1\U0002F800-\U0002FA1D\u30A1-\u30FA\u30FD-\u30FF\u31F0-\u31FF\u32D0-\u32FE\u3300-\u3357\uFF66-\uFF6F\uFF71-\uFF9D\U0001B000\u3041-\u3096\u309D-\u309F\U0001B001\U0001F200]/g
+        , "");
+
+        if (sanitisedJA == sanitisedString) {
+            ok = true;
+        }
+    } else {
+        console.warn("No such language: + " + language);
+    }
+
+    if (ok) {
         // console.log("correct " + simplifiedString + " " + simplifiedEO);
         $('textarea#answer').addClass('correct');
         // display new one

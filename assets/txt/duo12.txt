@@ -27,6 +27,9 @@
     O: La patro manĝas bonan viandon.
     E: The father eats good meat.
 
+    O: La infano ŝatas oranĝojn pli ol kokaĵon.
+    E: The child likes oranges more than chicken.
+
 > Two
     O: Dankon por la bongusta matenmanĝo!
     E: Thank you for the delicious breakfast!
@@ -51,6 +54,9 @@
 
     O: La sukero kaj la butero estas por nia kuko.
     E: The sugar and the butter are for our cake.
+
+    O: Fiŝaĵo estas sur la letero.
+    E: Fish is on the plate.
 
 > Three
     O: Legomoj bongustas.
@@ -118,6 +124,13 @@
     E: Pork is more delicious than beef.
 
     O: Ĉu vi manĝas ĉiom?
+    E: Are you eating it all?
+
+    O: Ĉu la fragoj estas bonaj aŭ malbonaj?
+    E: Are the strawberries good or bad?
+
+    O: La picoj ne estas malbonaj.
+    E: The pizzas are not bad.
 
 > Five
     O: Ĉu ili vespermanĝas kune?
@@ -209,3 +222,6 @@
 
     O: Mi ŝatas blankan rizon.
     E: I like white rice.
+
+    O: Rizo kaj spicoj bongustas.
+    E: Rice and spices taste good.
