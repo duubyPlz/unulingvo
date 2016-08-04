@@ -1,0 +1,68 @@
+== 基本二 ==
+> One
+    # 男の子です。
+    O: それは少年です。
+    E: It is a boy.
+
+    O: 私は少女です。
+    E: I am a girl.
+
+    O: それはサンドイッチです。
+    E: It is a sandwich.
+
+    O: 一人の女性が歩きます。
+    E: A woman walks.
+
+    O: 私は女性です。
+    E: I am a woman.
+
+    O: 私たちはサンドイッチを一つ食べます。
+    E: We eat a sandwich.
+
+    O: それはリンゴです。
+    E: It is an apple.
+
+    O: 私たちは女の子です。
+    E: We are girls.
+
+    O: 私たちは女性です。
+    E: We are women.
+
+> Two
+    # 私は本があります。
+    O: 私は本を一冊持っています。
+    E: I have a book.
+
+    O: 私は新聞を読みます。
+    E: I read a newspaper.
+
+    O: 私は新聞を持っています。
+    E: I have a newspaper.
+
+    O: 私は一冊の本を読む。
+    E: I read a book.
+
+    O: それはメニューです。
+    E: It is a menu.
+
+    O: 私は新聞を読みます。
+    E: I read a newspaper.
+
+> Three
+    # 女性は水を飲みます。
+    # 女の人たちは水を飲む。
+    O: 女の人たちは水を飲みます。
+    E: Women drink water.
+
+    O: あなたは男の子です。
+    E: You are a boy.
+
+    O: 彼らは水を飲みます。
+    E: They drink water.
+
+    O: 女の子たちは水を飲みます。
+    E: Girls drink water.
+
+    O: 彼女らは女の子です。
+    E: They are girls.
+

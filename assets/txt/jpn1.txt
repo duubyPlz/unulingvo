@@ -16,6 +16,12 @@
     O: 太郎は少年です。
     E: Taro is a boy.
 
+    O: 彼は少年です。
+    E: He is a boy.
+
+    O: 僕は男の子です。
+    E: I am a boy.
+
 > Two
     O: 私は食べます。
     E: I eat.
@@ -42,6 +48,12 @@
     O: 太郎は歩きます。
     E: Taro walks.
 
+    O: 私たちは歩きます。
+    E: We walk.
+
+    O: あなたと私は歩きます。
+    E: You and I walk.
+
 > Three
     O: あなたは水を飲みます。
     E: You drink water.
@@ -54,3 +66,9 @@
 
     O: 私たちは一つのリンゴを食べる。
     E: We eat one apple.
+
+    O: 私たちは水を飲みます。
+    E: We drink water.
+
+    O: あなたは牛乳を飲みます。
+    E: You drink milk.
