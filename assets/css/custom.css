@@ -51,6 +51,10 @@ a.link-orange:focus {
     text-decoration: none;
 }
 
+a.link-white {
+  color: white;
+}
+
 a.link-blue:hover,
 a.link-blue:focus {
     text-decoration: none;
