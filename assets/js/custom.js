@@ -10,8 +10,14 @@
 $(function () {
   $('[data-toggle="tooltip"]').tooltip()
 });
+// toggle all dropdowns
+$('.ui.dropdown')
+  .dropdown()
+;
 // default language
 var language = 'eo';
+// hide unwanted dropdowns
+$('select#contents-ja').parent().hide();
 
 // 1. Parse & display text of selected module
 var selectedModule = $('select#contents-' + language).val();
@@ -52,10 +58,10 @@ $('.nav-pills li').on('click', function() {
         currentPill.addClass('active');
 
         // c) Hide previously active dropdown
-        $('select').css('display', 'none');
+        $('select').parent().hide();
 
         // d) Show only current language's dropdown
-        $('select#contents-'+language).css('display', 'inline');
+        $('select#contents-'+language).parent().show();
 
         // e) Change textarea#answer's placeholder
         // refactor if more languages

@@ -10,6 +10,9 @@
   <!-- animate.css -->
   <link rel="stylesheet" href="assets/css/animate.css">
 
+  <!-- Semantic UI -->
+  <link rel="stylesheet" href="assets/css/semantic.min.css">
+
   <!-- Custom CSS -->
   <link href="assets/css/custom.css" rel="stylesheet">
 
@@ -45,41 +48,37 @@
       </ul>
       <!-- - pills -->
       <!-- + dropdown -->
-      <label class='select-round pull-right'>
+      <!-- <label class='select-round pull-right'> -->
         <!-- assuming there won't be that many languages,
              if this assumption is wrong, refactor ids/classes. -->
-        <select id='contents-eo' style='display:inline'>
-          <option value='1'>1. Basics One</option>
-          <option value='2'>2. Basics Two</option>
-          <option value='3'>3. Phrases</option>
-          <option value='4'>4. Accusative</option>
-          <option value='5'>5. Languages</option>
-          <option value='6'>6. Colors</option>
-          <option value='7'>7. Plurals</option>
-          <option disabled>----------</option>
-          <option value='8'>8. Da/De</option>
-          <option value='9'>9. Animals</option>
-          <option value='10'>10. Possessives</option>
-          <option value='11'>11. Countries</option>
-          <option value='12'>12. Food</option>
-          <option value='13'>13. Clothing</option>
-          <option value='14'>14. Infinitive</option>
-          <option disabled>----------</option>
-          <option value='15'>15. Questions</option>
-          <option value='16'>16. Verbs Present</option>
-          <option value='17'>17. Family</option>
-          <option value='18'>18. Objects</option>
-          <option value='19'>19. Prepositions</option>
-          <option value='20'>20. Past &amp; Future</option>
-          <option value='21'>21. Numbers</option>
-          <option disabled>----------</option>
-          <option value='22' selected='selected'>22. Dates &amp; Time</option>
-        </select>
+      <select id='contents-eo' style='display:inline' class="ui search dropdown select-round pull-right">
+        <option value='1'>1. Basics One</option>
+        <option value='2'>2. Basics Two</option>
+        <option value='3'>3. Phrases</option>
+        <option value='4'>4. Accusative</option>
+        <option value='5'>5. Languages</option>
+        <option value='6'>6. Colors</option>
+        <option value='7'>7. Plurals</option>
+        <option value='8'>8. Da/De</option>
+        <option value='9'>9. Animals</option>
+        <option value='10'>10. Possessives</option>
+        <option value='11'>11. Countries</option>
+        <option value='12'>12. Food</option>
+        <option value='13'>13. Clothing</option>
+        <option value='14'>14. Infinitive</option>
+        <option value='15'>15. Questions</option>
+        <option value='16'>16. Verbs Present</option>
+        <option value='17'>17. Family</option>
+        <option value='18'>18. Objects</option>
+        <option value='19'>19. Prepositions</option>
+        <option value='20'>20. Past &amp; Future</option>
+        <option value='21'>21. Numbers</option>
+        <option value='22' selected='selected'>22. Dates &amp; Time</option>
+      </select>
 
-        <select id='contents-ja' style='display:none'>
-          <option value='1' selected='selected'>1. 基本一</option>
-        </select>
-      </label>
+      <select id='contents-ja' style='display:inline' class="ui search dropdown select-round pull-right">
+        <option value='1' selected='selected'>1. 基本一</option>
+      </select>
       <!-- - dropdown -->
     </div>
     <!-- - top bar -->
@@ -141,6 +140,9 @@
   </div>
   <!-- - 2. ACCUSATIVES -->
 
+  <!-- Semantic UI -->
+  <script src="assets/js/semantic.min.js"></script>
+  <!-- Custom -->
   <script src="assets/js/custom.js"></script>
 </body>
 </html>
