@@ -451,7 +451,7 @@
 
     O: Li tuj alvenos.
     # He will arrive immediately
-    E: He is abo`ut to arrive.
+    E: He is about to arrive.
 
     O: Hodiaŭ ŝi diris al mi, ke ili tuj venos.
     E: Today she told me that they will immediately come.
