@@ -331,7 +331,7 @@
     E: The party will start at 10 p.m.
 
     O: Ŝi neniam dormas antaŭ la dudek-tria horo.
-    E: She never sleeps before O:O: p.m.
+    E: She never sleeps before 11 p.m.
 
     O: Niaj amikoj neniam venis akurate.
     E: Our friends never came on time.
