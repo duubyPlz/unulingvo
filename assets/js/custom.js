@@ -10,8 +10,14 @@
 $(function () {
   $('[data-toggle="tooltip"]').tooltip()
 });
+// toggle all dropdowns
+$('.ui.dropdown')
+  .dropdown()
+;
 // default language
 var language = 'eo';
+// hide unwanted dropdowns
+$('select#contents-ja').parent().hide();
 
 // 1. Parse & display text of selected module
 var selectedModule = $('select#contents-' + language).val();
@@ -27,7 +33,30 @@ setTimeout(function () {
     display();
 }, 1000);
 
-// 2. Pills are toggled (language changed)
+// 2. Module swaps triggered
+$('#test').on('click', function() {
+    var duo = $('#duo-module');
+    var acc = $('#acc-module');
+    if (duo.is(':visible')) {
+        duo.addClass('animated bounceOutUp');
+    } else if (acc.is(':visible')) {
+        acc.addClass('animated bounceOutUp');
+    }
+    setTimeout(function() {
+        duo.toggle();
+        // show the next module
+        acc.toggle();
+        if (duo.is(':visible')) {
+            duo.addClass('animated bounceInDown');
+            acc.removeClass('animated bounceOutUp');
+        } else if (acc.is(':visible')) {
+            acc.addClass('animated bounceInDown');
+            duo.removeClass('animated bounceOutUp');
+        }
+    }, 760);
+});
+
+// 3. Pills are toggled (language changed)
 $('.nav-pills li').on('click', function() {
     var currentPill = $(this);
     language = currentPill.attr('id');
@@ -42,10 +71,10 @@ $('.nav-pills li').on('click', function() {
         currentPill.addClass('active');
 
         // c) Hide previously active dropdown
-        $('select').css('display', 'none');
+        $('select').parent().hide();
 
         // d) Show only current language's dropdown
-        $('select#contents-'+language).css('display', 'inline');
+        $('select#contents-'+language).parent().show();
 
         // e) Change textarea#answer's placeholder
         // refactor if more languages
@@ -90,7 +119,7 @@ $('select').change(function() {
     }, 1000);
 });
 
-// 4. Logic - check results, see if input field is correct
+// 5. Logic - check results, see if input field is correct
 // a) Click 'check' button
 $('button#checking').on('click', function() {
     if (!$('textarea#answer').hasClass('incorrect') && !$('textarea#answer').hasClass('correct')) {
@@ -107,7 +136,7 @@ $('textarea#answer').keydown(function (e) {
     }
 })
 
-// 5. Skipping current
+// 6. Skipping current
 // > a) Click 'skip' button
 $('button#skip').on('click', function() {
     // clear input field & makes it normal again
@@ -129,6 +158,7 @@ $('textarea#answer').keydown(function (e) {
         display();
     }
 })
+
 
 // Subroutines
 function parse(module, language) {
