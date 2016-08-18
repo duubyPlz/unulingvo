@@ -35,12 +35,24 @@ setTimeout(function () {
 
 // 2. Module swaps triggered
 $('#test').on('click', function() {
-    $("#duo-module").addClass('animated bounceOutUp');
+    var duo = $('#duo-module');
+    var acc = $('#acc-module');
+    if (duo.is(':visible')) {
+        duo.addClass('animated bounceOutUp');
+    } else if (acc.is(':visible')) {
+        acc.addClass('animated bounceOutUp');
+    }
     setTimeout(function() {
-        $('#duo-module').hide();
+        duo.toggle();
         // show the next module
-        $('#acc-module').show();
-        $('#acc-module').addClass('animated bounceInDown');
+        acc.toggle();
+        if (duo.is(':visible')) {
+            duo.addClass('animated bounceInDown');
+            acc.removeClass('animated bounceOutUp');
+        } else if (acc.is(':visible')) {
+            acc.addClass('animated bounceInDown');
+            duo.removeClass('animated bounceOutUp');
+        }
     }, 760);
 });
 
