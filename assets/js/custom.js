@@ -70,8 +70,9 @@ $('.nav-pills li').on('click', function() {
         // b) Make this pill active
         currentPill.addClass('active');
 
-        // c) Hide previously active dropdown
+        // c) top previously active dropdown
         $('select').parent().hide();
+        // $('select').parent().show();
 
         // d) Show only current language's dropdown
         $('select#contents-'+language).parent().show();
