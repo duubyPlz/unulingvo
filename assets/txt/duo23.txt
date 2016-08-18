@@ -57,6 +57,15 @@
     O: Spertaj kuracistoj kaj flegistoj helpis ilin.
     E: Experienced doctors and nurses helped them.
 
+    O: Mia patrino studis por fariĝi kuracisto.
+    E: My mother studied to become a doctor.
+
+    O: Mia onklino estis verkisto kiu verkis longan libron.
+    E: My aunt was an author who wrote a long book.
+
+    O: Mia kuracisto manĝas pomon.
+    E: My doctor eats an apple.
+
 > Two
     O: Unu el la diplomatoj estas surda.
     E: One of the diplomats is deaf.
@@ -77,10 +86,10 @@
     E: Farmer, hire me!
 
     O: La policanoj kuras rapide al la domo.
-    E: The policemen run fast to the house.
+    E: The police officers run fast to the house.
 
     O: La policanoj trinkas kafon.
-    E: The police drink coffee.
+    E: The police officers drink coffee.
 
     O: Lia patro estas bona artisto.
     E: His father is a good artist.
@@ -99,6 +108,12 @@
 
     O: La estro dungis kvar laborestrojn.
     E: The boss hired four foremen.
+
+    O: La estro ne volas dungi min.
+    E: The boss doesn't want to hire me.
+
+    O: Ĉu vi ŝatas vian karieron?
+    E: Do you like your career?
 
 > Three
     O: Aktoroj, iru al la teatro!
@@ -125,7 +140,7 @@
     O: Mia blinda amiko volas fariĝi instruisto.
     E: My blind friend wants to become a teacher.
 
-    O: La kvin talentaj aktoroj rolis kiel gardisto en la teatro.
+    O: La kvin talentaj aktoroj rolis kiel gardistoj en la teatro.
     E: The five talented actors performeda s guards in the theatre.
 
     O: La dancistoj dancas en la teatro.
@@ -139,6 +154,9 @@
 
     O: Ĉu vi spektos la dancon en la teatro?
     E: Will you see the dance in the theatre?
+
+    O: Ŝi tre talentas pri muziko kaj danco.
+    E: She is very talented in music and dance.
 
 > Four
     # sekretario, sekretariino
@@ -185,6 +203,9 @@
     O: Mi preferas la tradukon el la germana.
     E: I prefer the translation from German.
 
+    O: Mia patrino estis lerta tradukisto.
+    E: My mother was a skilled translator.
+
 > Five
     O: Ni spektis teatraĵon en la teatro.
     E: We watched a play in the theatre.
@@ -228,6 +249,9 @@
 
     O: Ĉu ŝi dancas kun muziko?
     E: Does she dance with music?
+
+    O: Kiam la muzikistoj komencos la koncerton?
+    E: When will the musicians start the concert?
 
 > Six
     O: Hundo ŝiris mian kostumon!
@@ -281,7 +305,14 @@
     O: La malgranda aligatoro havas belan voston.
     E: The little alligator has a beautiful tail.
 
+    O: Ĉu la reĝo decidis, kion fari pri la milito?
+    E: Did the king decide what to do about the war?
+
+    O: Mia kuzo uzas rulseĝon.
+    E: My cousin uses a wheelchair.
+
 > Seven
+    # Tio ...
     O: Tiu estas albumo de ilia koncerto.
     E: That one is an album of their concert.
 
@@ -316,8 +347,11 @@
     E: Did he say to the police that he is guilty?
 
     # Ŝi ŝajnis esti atenta, ...
-    O: Ŝi ŝajnis atenti, sed tio ne estas ofta afero.
+    O: Ŝi ŝajnis atenti, sed tio ne estis ofta afero.
     E: She seemed to be attentive, but that was not a common thing.
 
     O: Ŝajnas, ke la ŝtelisto estis kulpa.
     E: It seems that the thief was guilty.
+
+    O: Ŝajnas al mi, ke vi ne estis atenta.
+    E: It seems to me that you were not attentive.
