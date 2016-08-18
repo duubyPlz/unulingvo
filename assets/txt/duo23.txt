@@ -141,7 +141,7 @@
     E: My blind friend wants to become a teacher.
 
     O: La kvin talentaj aktoroj rolis kiel gardistoj en la teatro.
-    E: The five talented actors performeda s guards in the theatre.
+    E: The five talented actors performed as guards in the theatre.
 
     O: La dancistoj dancas en la teatro.
     E: The dancers dance in the theatre.
