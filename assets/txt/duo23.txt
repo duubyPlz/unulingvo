@@ -103,7 +103,7 @@
     O: La virino en la rulseĝo estas diplomato.
     E: The woman in the wheelchair is a diplomat.
 
-    O: Mia estro diras, ke mi ne bone laboras.
+    O: Mia estro diras, ke mi ne laboras bone.
     E: My boss says that I don't work well.
 
     O: La estro dungis kvar laborestrojn.
