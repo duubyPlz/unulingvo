@@ -45,7 +45,7 @@
     O: Kiom da kuracistoj estas en Usono?
     E: How many doctors are in USA?
 
-    O: Lia patro dungas tri kelneroj por la restoracio.
+    O: Lia patro dungas tri kelnerojn por la restoracio.
     E: His father is hiring three waiters for the restaurant.
 
     O: Mi estas kuracisto.
@@ -329,7 +329,7 @@
     E: They found her guilty.
 
     O: En la teatro, aktoroj estas pli oftaj ol arkitektoj.
-    E: In the theatres, actors are more common than architects.
+    E: In the theatre, actors are more common than architects.
 
     O: Kio estas la nomo de ilia lasta albumo?
     E: What is the name of their last album?
