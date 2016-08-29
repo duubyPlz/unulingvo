@@ -82,7 +82,7 @@
     E: The discussion will be over soon.
 
     O: Ni menciis tiun sinjoron en la interparolado.
-    E: We mentioned that gentleman in the conversation.
+    E: We mentioned that gentleman in the conversation (communication).
 
     O: Mi ne partoprenis en la interparolo.
     E: I didn't participate in the conversation.
