@@ -9,12 +9,18 @@
     O: Lia parolado tedis min.
     E: His speech bored me.
 
+    O: Paroli doloras.
+    E: It hurts to talk.
+
 > talking
     O: Ĉesu paroli laŭte.
     E: Stop talking loudly.
 
     O: Li daŭre parolis.
     E: He kept talking.
+
+    O: Li paroladis senĉese.
+    E: He just went talking on and on.
 
 > talkative
     O: Japanoj, estu parolemaj!
@@ -43,3 +49,57 @@
 
     O: Ni priparolis diversajn temojn.
     E: We talked about various topics.
+
+> parolata (is spoken)
+    O: Esperanto parolata.
+    E: Esperanto is spoken.
+
+    O: La angla estas parolata ĉirkaŭmonde.
+    E: English is spoken all over the world.
+
+    O: La hispana estas parolata en Meksiko.
+    E: Spanish is spoken in Mexico.
+
+> paroligi (make speak, open up)
+    O: Ni havas kuracilojn por paroligi virinojn, ni ne havas por silentigi ilin.
+    E: We have medicines to make women speak, we have none to make them silent.
+
+    O: Kelkaj glasoj da vino povas paroligi la langon.
+    E: A few glasses of wine can loosen the tongue.
+
+> paroloj (words)
+    O: Liaj paroloj estis jenaj.
+    E: His words were as follows.
+
+    O: Tiaj paroloj estigos suspekton.
+    E: Talk like that will raise suspicion.
+
+    O: Montru agojn, ne parolojn.
+    E: Actions speak louder than words.
+
+> interparolo, interparolado (discussion)
+    O: La interparolo estos baldaŭ finita.
+    E: The discussion will be over soon.
+
+    O: Ni menciis tiun sinjoron en la interparolado.
+    E: We mentioned that gentleman in the conversation.
+
+> elparoli (pronounce, sentence)
+    O: La juĝisto pretas elparoli kondamnon.
+    E: The judge is ready to pass sentence.
+
+    O: Ĉu iu scipovas elparoli ĉi tiun vorton?
+    E: Is there anyone who can pronounce this word?
+
+    O: Kiel oni elparolas tiun vorton?
+    E: How is that word pronounced?
+
+> ekparolas (start speaking)
+    O: Li kaptis la okazon ekparoli.
+    E: He seized an opportunity to speak.
+
+    O: Kiam ŝi ekparolas, oni ne plu povas haltigi ŝin.
+    E: Once she starts talking, there is no stopping her.
+
+    O: Ĉiuj ekparolis samtempe.
+    E: Everyone started talking at once.
