@@ -29,6 +29,9 @@
     O: Mi estis babilema.
     E: I was talkative.
 
+    O: Ŝi ne estas parolema.
+    E: She's not talkative.
+
 > talker
     O: Ŝi estas parolema.
     E: She's a smooth talker.
