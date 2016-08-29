@@ -458,13 +458,13 @@ footer.footer {
   }
 
   .ui.selection.search.dropdown .menu {
-    max-height: 800px;
+    max-height: 500px;
   }
 
   .ui.selection.dropdown .menu>.item {
-    height: 100px;
+    height: 90px;
     font-size: 36px;
-    padding-top: 30px !important; /* they also used !important.. */
+    padding-top: 26px !important; /* they also used !important.. */
   }
 
   div#top-bar {
