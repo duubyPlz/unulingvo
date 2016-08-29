@@ -35,7 +35,7 @@
     E: Don't talk back to me!
 
 > talk about
-    O: Neniu ŝatas esti priparolata post la dorso.
+    O: Neniu ŝatas esti priparolata post ilia dorso.
     E: Noone likes to be talked about behind their back.
 
     O: Mi parolis pri muziko.
