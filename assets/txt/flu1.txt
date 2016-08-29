@@ -108,7 +108,7 @@
     E: He seized an opportunity to speak.
 
     O: Kiam ŝi ekparolas, oni ne plu povas haltigi ŝin.
-    E: Once she starts talking, there is no stopping her.
+    E: Once she starts talking, there is no more stopping her.
 
     O: Ĉiuj ekparolis samtempe.
     E: Everyone started talking at once.
