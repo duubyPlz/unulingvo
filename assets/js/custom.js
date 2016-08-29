@@ -197,7 +197,7 @@ $('select#flu').change(function() {
     if (!$.isNumeric(selectedModule)) {
         $.error("Selected module isn't a valid one: " + selectedModule);
     }
-    parse(selectedModule, language);
+    parse(selectedModule, 'flu');
     setTimeout(function () {
         display(true);
     }, 1000);
@@ -237,9 +237,9 @@ $('button#flu-randomise').click(function() {
     $('#flu').dropdown('set selected', random);
     selectedModule = random;
 
-    parse(selectedModule, language);
+    parse(selectedModule, 'flu');
     setTimeout(function () {
-        display(false);
+        display(true);
     }, 1000);
 });
 
