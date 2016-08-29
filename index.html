@@ -34,7 +34,8 @@
 <body>
   <img class='logo' src='assets/img/logo.png'>
 
-  <button id='test' class='btn btn-primary' style='outline:none'>TEST</button>
+  <button id='duoButton' class='btn btn-nav' style='outline:none'>DUO</button>
+  <button id='fluButton' class='btn btn-nav' style='outline:none'>FLU</button>
 
   <!-- + 1. DUO -->
   <div id='duo-module'>
@@ -51,7 +52,7 @@
       <!-- <label class='select-round pull-right'> -->
         <!-- assuming there won't be that many languages,
              if this assumption is wrong, refactor ids/classes. -->
-      <select id='contents-eo' style='display:inline' class="ui search dropdown select-round pull-right">
+      <select id='contents-eo' class="ui search dropdown select-round pull-right duo" style='display:inline'>
         <option value='1'>1. Basics One</option>
         <option value='2'>2. Basics Two</option>
         <option value='3'>3. Phrases</option>
@@ -77,12 +78,13 @@
         <option value='23' selected='selected'>23. Occupations</option>
       </select>
 
-      <select id='contents-ja' class="ja ui search dropdown select-round pull-right" style='display:none'>
+      <select id='contents-ja' class="ui search dropdown select-round pull-right duo" style='display:none'>
         <option value='1'>1. 基本一</option>
         <option value='2'>2. 基本二</option>
         <option value='3'>3.1 Expressing State-of-Being</option>
         <option value='4' selected='selected'>3.2 Introduction to Particles</option>
       </select>
+      <button id='randomise' class='btn btn-green pull-right'><span class="glyphicon glyphicon-random" aria-hidden="true"></span></button>
       <!-- - dropdown -->
     </div>
     <!-- - top bar -->
@@ -144,6 +146,42 @@
     <!-- End footer-->
   </div>
   <!-- - 2. ACCUSATIVES -->
+
+  <!-- WIP! v ONLY PLACEHOLDER RIGHT NOW v -->
+  <!-- TODO: make new UI -->
+  <!-- + 3. FLUENCY -->
+  <div id='flu-module' style='display:none'>
+    <!-- Start Content -->
+
+    <!-- + top bar -->
+    <div class='container' id='flu-top-bar' style='display:block'>
+      <!-- + dropdown -->
+      <select id='flu' style='display:block' class="ui search dropdown select-round pull-right">
+        <option value='1' selected='selected'>1. Talk</option>
+      </select>
+      <button id='flu-randomise' class='btn btn-green pull-right'><span class="glyphicon glyphicon-random" aria-hidden="true"></span></button>
+      <!-- - dropdown -->
+    </div>
+    <!-- - top bar -->
+    <!-- + main panel -->
+    <div class="container">
+      <div class="panel main-panel">
+        <div class="panel-body">
+          <h1>Keyword Fluency</h1>
+          <div class='flu-display-text'>
+            &lt;loading...&gt;
+          </div>
+          <h2 id='arrow'><b>&gt;</b></h2>
+          <textarea spellcheck="false" placeholder='Esperanto' class='textarea-block textarea-lg' id='flu-answer' ></textarea>
+          <button type='submit' class='btn btn-green btn-lg pull-right' id='flu-checking'>Check</button>
+          <button class='btn btn-lg pull-right btn-green' data-toggle='tooltip' data-placement='bottom' title="or skip with backtick `" id='flu-skip'>Skip</button>
+        </div>
+      </div>
+    </div>
+    <!-- - main panel -->
+    <!-- End Content -->
+  </div>
+  <!-- - 3. FLUENCY -->
 
   <!-- Semantic UI -->
   <script src="assets/js/semantic.min.js"></script>

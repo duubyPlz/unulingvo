@@ -102,8 +102,6 @@ a.link-blue:focus {
 .panel.acc-keyword {
   /*background-color: #5cb85c;*/
   border-radius: 0px;
-  -webkit-box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-  -moz-box-shadow: 0 2px 5px rgba(0,0,0,0.3);
   box-shadow: 0 2px 5px rgba(0,0,0,0.3);*/
   background-color: rgba(255,255,255,0.97);
   /*color: white;*/
@@ -115,11 +113,7 @@ a.link-blue:focus {
   cursor: default;
   display: inline-block;
   line-height: 26px;
-  -webkit-box-shadow: 0 0 8px rgba(0,0,0,0.09);
-  -moz-box-shadow: 0 0 8px rgba(0,0,0,0.09);
   box-shadow: 0 0 8px rgba(0,0,0,0.09);
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
   border-radius: 10px;
   text-align: left;
   padding: 12px 15px;
@@ -129,7 +123,22 @@ a.link-blue:focus {
   margin: 30px;
 }
 
-textarea#answer {
+.flu-display-text {
+  cursor: default;
+  display: inline-block;
+  line-height: 26px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.09);
+  border-radius: 10px;
+  text-align: left;
+  padding: 12px 15px;
+  border: 1px solid #ebebeb;
+  height: 100px;
+  width: 300px;
+  margin: 30px;
+}
+
+textarea#answer,
+textarea#flu-answer {
   background-color: rgba(255,255,255,0);
   margin: 30px;
   overflow: hidden;
@@ -138,45 +147,37 @@ textarea#answer {
   min-height: 100px;
   width: 300px;
   border-radius: 10px;
-  -webkit-box-shadow: inset 0 0 8px rgba(0,0,0,0.05);
-  -moz-box-shadow: inset 0 0 8px rgba(0,0,0,0.05);
   box-shadow: inset 0 0 8px rgba(0,0,0,0.05);
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
   border: 2px solid #ebebeb;
   padding: 8px 10px;
 }
 
-textarea#answer.correct {
+textarea#answer.correct,
+textarea#flu-answer.correct {
   border: 2px solid #7eb530;
   color: #7eb530;
-  -webkit-box-shadow: 0 0 8px rgba(126,181,48,0.4);
-  -moz-box-shadow: 0 0 8px rgba(126,181,48,0.4);
   box-shadow: 0 0 8px rgba(126,181,48,0.4);
 }
 
-textarea#answer:focus {
+textarea#answer:focus,
+textarea#flu-answer:focus {
   background-color: rgba(255,255,255,0.1);
   outline: none;
-  -webkit-box-shadow: 0 0 20px #92e2ff;
-  -moz-box-shadow: 0 0 20px #92e2ff;
   box-shadow: 0 0 20px #92e2ff;
   border: 2px solid #1caff6;
 }
 
-textarea#answer.correct {
+textarea#answer.correct,
+textarea#flu-answer.correct {
   border: 2px solid #7eb530;
   color: #7eb530;
-  -webkit-box-shadow: 0 0 8px rgba(126,181,48,0.4);
-  -moz-box-shadow: 0 0 8px rgba(126,181,48,0.4);
   box-shadow: 0 0 8px rgba(126,181,48,0.4);
 }
 
-textarea#answer.incorrect {
+textarea#answer.incorrect,
+textarea#flu-answer.incorrect {
   border: 2px solid #dd381d;
   color: #dd381d;
-  -webkit-box-shadow: 0 0 8px rgba(221,56,29,0.4);
-  -moz-box-shadow: 0 0 8px rgba(221,56,29,0.4);
   box-shadow: 0 0 8px rgba(221,56,29,0.4);
 }
 
@@ -192,16 +193,12 @@ textarea#acc-answer {
   height: 40px;
   width: 400px;
   border-radius: 4px;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
   border: 2px solid #ebebeb;
   padding: 5px 10px;
 }
 
 textarea#acc-answer:focus {
   outline: none;
-  -webkit-box-shadow: 0 0 20px #92e2ff;
-  -moz-box-shadow: 0 0 20px #92e2ff;
   box-shadow: 0 0 20px #92e2ff;
   border: 2px solid #1caff6;
 }
@@ -223,11 +220,44 @@ button.btn-green {
   font-size: 75%;
 }
 
-button#skip {
+button.btn-nav {
+  border-radius: 2px;
+  background: none;
+  border: 2px solid rgba(200, 110, 0, 1);
+  color: rgba(200, 110, 0, 1);
+  font-size: 75%;
+  min-width: 100px;
+  margin-right: 5px;
+  box-shadow: none;
+}
+
+button.btn-nav:hover,
+button.btn-nav:focus {
+  border: 2px solid rgba(170, 90, 0, 1);
+  color: rgba(170, 90, 0, 1); 
+  box-shadow: none;
+}
+
+button.btn-green:focus {
+  outline: 0;
+}
+
+button#skip,
+button#flu-skip {
   background: #ccc;
   border-color: #ccc;
   margin-right: 5px;
   min-width: 80px;
+}
+
+button#randomise,
+button#flu-randomise {
+  border-color: #ccc;
+  background: #ccc;
+  min-width: 30px;
+  font-size: 12px;
+  height: 33px;
+  padding: 6px 10px 4px 10px;
 }
 
 button#submit {
@@ -258,8 +288,6 @@ button#submit {
   width: 300px;
   padding: 7px 1.1em 9px 1.1em;
   font-weight: 200;
-  -webkit-border-radius: 17.5px;
-  -moz-border-radius: 17.5px;
   border-radius: 17.5px;
   background-color: white;
 }
@@ -291,7 +319,8 @@ button#submit {
   border-bottom: 0px;
 }
 
-div#top-bar {
+div#top-bar,
+div#flu-top-bar {
   position: relative;
   width: 800px;
   margin-left: auto;
@@ -314,7 +343,8 @@ div#top-bar {
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
-  background-color: rgba(225, 135, 0, 0.8); }
+  background-color: rgba(225, 135, 0, 0.8);
+}
 
 .nav-pills > li > a,
 .nav-pills > li > a:hover,
@@ -329,7 +359,9 @@ div#top-bar {
   color: white;
 }
 
-select#contents-eo, select#contents-ja {
+select#contents-eo,
+select#contents-ja,
+select#flu {
   width: 350px;
 }
 
@@ -391,7 +423,8 @@ footer.footer {
     font-size: 40px;
   }
 
-  .display-text {
+  .display-text,
+  .flu-display-text {
     display: block;
     position: relative;
     margin-left: auto;
@@ -403,7 +436,8 @@ footer.footer {
     line-height: 120%;
   }
 
-  textarea#answer {
+  textarea#answer,
+  textarea#flu-answer {
     display: block;
     position: relative;
     margin-left: auto;
@@ -431,6 +465,15 @@ footer.footer {
     font-size: 100%;
   }
 
+  button#randomise,
+  button#flu-randomise {
+    font-size: 20px;
+    height: 60px;
+    position: relative;
+    padding: 5px 20px 5px 20px;
+    bottom: 2px;
+  }
+
   .tooltip-inner {
     display: none;
   }
@@ -443,7 +486,7 @@ footer.footer {
   .ui.selection.dropdown {
     height: 80px;
     border-radius: 40px;
-    width: 60%;
+    width: 55%;
     font-size: 40px;
     bottom: 10px;
     padding: 20px;
@@ -467,7 +510,8 @@ footer.footer {
     padding-top: 26px !important; /* they also used !important.. */
   }
 
-  div#top-bar {
+  div#top-bar,
+  div#flu-top-bar {
     top: 0;
     left: 75px;
     margin-bottom: 20px;
@@ -533,7 +577,8 @@ footer.footer {
     font-size: 30px;
   }
 
-  .display-text {
+  .display-text,
+  .flu-display-text {
     display: block;
     position: relative;
     margin-left: auto;
@@ -545,7 +590,8 @@ footer.footer {
     line-height: 120%;
   }
 
-  textarea#answer {
+  textarea#answer,
+  textarea#flu-answer {
     display: block;
     position: relative;
     margin-left: auto;
@@ -572,6 +618,14 @@ footer.footer {
     font-size: 100%;
   }
 
+  button#randomise,
+  button#flu-randomise {
+    font-size: 15px;
+    height: 44px;
+    position: relative;
+    padding: 7px 15px 5px 15px;
+  }
+
   .tooltip-inner {
     display: none;
   }
@@ -584,7 +638,8 @@ footer.footer {
     font-size: 90%;
   }
 
-  div#top-bar {
+  div#top-bar,
+  div#flu-top-bar {
     top: 0;
     left: 75px;
     margin-bottom: 20px;

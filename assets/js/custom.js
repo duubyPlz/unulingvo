@@ -8,16 +8,23 @@
 // 0. Init
 // toggle all tooltips
 $(function () {
-  $('[data-toggle="tooltip"]').tooltip()
+  $('[data-toggle="tooltip"]').tooltip();
 });
 // toggle all dropdowns
-$('.ui.dropdown')
-  .dropdown()
-;
+$('.ui.dropdown').dropdown();
 // default language
 var language = 'eo';
 // hide unwanted dropdowns
 $('select#contents-ja').parent().hide();
+
+// TODO can't get .dropdown('set selected', random) to work
+var sizeHash = {
+                    'eo': 23,
+                    'ja': 4,
+                    'flu': 1
+               };
+
+
 
 // 1. Parse & display text of selected module
 var selectedModule = $('select#contents-' + language).val();
@@ -30,31 +37,96 @@ parse(selectedModule, language);
 var correctEO = "";
 // b) Display
 setTimeout(function () {
-    display();
+    display(false);
 }, 1000);
 
 // 2. Module swaps triggered
-$('#test').on('click', function() {
+$('#duoButton').on('click', function() {
     var duo = $('#duo-module');
-    var acc = $('#acc-module');
+    var flu = $('#flu-module');
     if (duo.is(':visible')) {
-        duo.addClass('animated bounceOutUp');
-    } else if (acc.is(':visible')) {
-        acc.addClass('animated bounceOutUp');
+       // do nothing 
+    } else if (flu.is(':visible')) {
+        flu.addClass('animated bounceOutUp');
+
+        // init duo
+        selectedModule = $('select#contents-' + language).val();
+
+        parse(selectedModule, language);
+        setTimeout(function () {
+            display(false);
+        }, 1000);
+
+        setTimeout(function() {
+            duo.show();
+            // show the next module
+            flu.hide();
+            if (duo.is(':visible')) {
+                duo.addClass('animated bounceInDown');
+                flu.removeClass('animated bounceOutUp');
+            } else if (flu.is(':visible')) {
+                flu.addClass('animated bounceInDown');
+                duo.removeClass('animated bounceOutUp');
+            }
+        }, 760);
     }
-    setTimeout(function() {
-        duo.toggle();
-        // show the next module
-        acc.toggle();
-        if (duo.is(':visible')) {
-            duo.addClass('animated bounceInDown');
-            acc.removeClass('animated bounceOutUp');
-        } else if (acc.is(':visible')) {
-            acc.addClass('animated bounceInDown');
-            duo.removeClass('animated bounceOutUp');
-        }
-    }, 760);
 });
+
+$('#fluButton').on('click', function() {
+    var duo = $('#duo-module');
+    var flu = $('#flu-module');
+    if (flu.is(':visible')) {
+       // do nothing 
+    } else if (duo.is(':visible')) {
+        duo.addClass('animated bounceOutUp');
+
+        // init flu
+        $('#flu').parent().show();
+        selectedModule = $('#flu').val();
+
+        parse(selectedModule, 'flu');
+        setTimeout(function () {
+            display(true);
+        }, 1000);
+
+
+        setTimeout(function() {
+            flu.show();
+            // show the next module
+            duo.hide();
+            if (duo.is(':visible')) {
+                duo.addClass('animated bounceInDown');
+                flu.removeClass('animated bounceOutUp');
+            } else if (flu.is(':visible')) {
+                flu.addClass('animated bounceInDown');
+                duo.removeClass('animated bounceOutUp');
+            }
+        }, 760);
+    }
+});
+
+// if we need a one button toggle:
+// $('#test').on('click', function() {
+//     var duo = $('#duo-module');
+//     var flu = $('#flu-module');
+//     if (duo.is(':visible')) {
+//         duo.addClass('animated bounceOutUp');
+//     } else if (flu.is(':visible')) {
+//         flu.addClass('animated bounceOutUp');
+//     }
+//     setTimeout(function() {
+//         duo.toggle();
+//         // show the next module
+//         flu.toggle();
+//         if (duo.is(':visible')) {
+//             duo.addClass('animated bounceInDown');
+//             flu.removeClass('animated bounceOutUp');
+//         } else if (flu.is(':visible')) {
+//             flu.addClass('animated bounceInDown');
+//             duo.removeClass('animated bounceOutUp');
+//         }
+//     }, 760);
+// });
 
 // 3. Pills are toggled (language changed)
 $('.nav-pills li').on('click', function() {
@@ -95,7 +167,7 @@ $('.nav-pills li').on('click', function() {
 
         var correctEO = "";
         setTimeout(function () {
-            display();
+            display(false);
         }, 1000);
 
         // g) if japanese, thin fonts
@@ -108,15 +180,66 @@ $('.nav-pills li').on('click', function() {
 });
 
 // 3. If module is changed, reparse & display
-// TODO $('select#contents-'+language)
-$('select').change(function() {
+$('select#contents-eo, select#contents-ja').change(function() {
     selectedModule = $(this).val();
     if (!$.isNumeric(selectedModule)) {
         $.error("Selected module isn't a valid one: " + selectedModule);
     }
     parse(selectedModule, language);
     setTimeout(function () {
-        display();
+        display(false);
+    }, 1000);
+});
+
+// TODO if UI changed
+$('select#flu').change(function() {
+    selectedModule = $(this).val();
+    if (!$.isNumeric(selectedModule)) {
+        $.error("Selected module isn't a valid one: " + selectedModule);
+    }
+    parse(selectedModule, language);
+    setTimeout(function () {
+        display(true);
+    }, 1000);
+});
+
+// 4. Randomise modules
+$('button#randomise').click(function() {
+    // var size = 0;
+    // if (language == 'eo') {
+    //     size = $('#contents-eo').siblings().find('.item').size();
+    // } else if (language == 'ja')  {
+    //     size = $('#contents-ja').siblings().find('.item').size();
+    // }
+
+    var size = sizeHash[language];
+    var random = Math.floor(Math.random() * size) + 1;
+
+    // http://semantic-ui.com/modules/dropdown.html#behavior
+    if (language == 'eo') {
+        $('#contents-eo').dropdown('set selected', random);
+    } else if (language == 'ja') {
+        $('#contents-ja').dropdown('set selected', random);
+    }
+    selectedModule = random;
+
+    parse(selectedModule, language);
+    setTimeout(function () {
+        display(false);
+    }, 1000);
+});
+
+$('button#flu-randomise').click(function() {
+    var size = sizeHash['flu'];
+    var random = Math.floor(Math.random() * size) + 1;
+
+    // http://semantic-ui.com/modules/dropdown.html#behavior
+    $('#flu').dropdown('set selected', random);
+    selectedModule = random;
+
+    parse(selectedModule, language);
+    setTimeout(function () {
+        display(false);
     }, 1000);
 });
 
@@ -127,6 +250,13 @@ $('button#checking').on('click', function() {
         logic(language);
     }
 });
+
+$('button#flu-checking').on('click', function() {
+    if (!$('textarea#flu-answer').hasClass('incorrect') && !$('textarea#flu-answer').hasClass('correct')) {
+        logic('flu');
+    }
+});
+
 // b) Press 'enter' key
 $('textarea#answer').keydown(function (e) {
     if (e.keyCode == 13)  {
@@ -135,7 +265,16 @@ $('textarea#answer').keydown(function (e) {
             logic(language);
         }
     }
-})
+});
+
+$('textarea#flu-answer').keydown(function (e) {
+    if (e.keyCode == 13)  {
+        e.preventDefault();
+        if (!$('textarea#flu-answer').hasClass('incorrect') && !$('textarea#flu-answer').hasClass('correct')) {
+            logic('flu');
+        }
+    }
+});
 
 // 6. Skipping current
 // > a) Click 'skip' button
@@ -146,7 +285,17 @@ $('button#skip').on('click', function() {
     $('textarea#answer').removeClass('incorrect');
 
     // then display next text
-    display();
+    display(false);
+});
+
+$('button#flu-skip').on('click', function() {
+    // clear input field & makes it normal again
+    $('textarea#flu-answer').val('');
+    $('textarea#flu-answer').removeClass('correct');
+    $('textarea#flu-answer').removeClass('incorrect');
+
+    // then display next text
+    display(true);
 });
 
 // b) Press '`' key
@@ -156,10 +305,19 @@ $('textarea#answer').keydown(function (e) {
         $('textarea#answer').val('');
         $('textarea#answer').removeClass('correct');
         $('textarea#answer').removeClass('incorrect');
-        display();
+        display(false);
     }
-})
+});
 
+$('textarea#flu-answer').keydown(function (e) {
+    if (e.keyCode == 192)  {
+        e.preventDefault();
+        $('textarea#flu-answer').val('');
+        $('textarea#flu-answer').removeClass('correct');
+        $('textarea#flu-answer').removeClass('incorrect');
+        display(true);
+    }
+});
 
 // Subroutines
 function parse(module, language) {
@@ -171,6 +329,8 @@ function parse(module, language) {
         fileName = 'assets/txt/duo' + module + '.txt';
     } else if (language == 'ja') {
         fileName = 'assets/txt/jpn' + module + '.txt';
+    } else if (language == 'flu') {
+        fileName = 'assets/txt/flu' + module + '.txt';
     } else {
         console.warn("Language isn't valid: " + language);
     }
@@ -196,13 +356,17 @@ function parse(module, language) {
     }
 }
 
-function display() {
+function display(isFlu) {
     var length = Object.keys(hash).length;
     var index = Math.floor((Math.random() * (length - 1)) + 0);
     var keys = Object.keys(hash);
     var wantedEng = keys[index];
     correctEO = hash[wantedEng];
-    $('.display-text').html(wantedEng);
+    if (isFlu) {
+        $('.flu-display-text').html(wantedEng);
+    } else {
+        $('.display-text').html(wantedEng);
+    }
 }
 
 function logic(language) {
@@ -236,39 +400,82 @@ function logic(language) {
         if (sanitisedJA == sanitisedString) {
             ok = true;
         }
+    } else if (language == 'flu') {
+        var inputString = $('textarea#flu-answer').val();
+        var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
+        var simplifiedString = sanitisedString.replace(/[.,?!:"]/g, "").toLowerCase().trim(); // blacklist
+
+        var simplifiedEO = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
+        var simplifiedEONoHyphens = simplifiedEO.replace(/\-/g, " ");
+
+        if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
+            ok = true;
+        }
     } else {
         console.warn("No such language: + " + language);
     }
 
     if (ok) {
-        // console.log("correct " + simplifiedString + " " + simplifiedEO);
-        $('textarea#answer').addClass('correct');
-        // display new one
-        setTimeout(function () {
-            display();
-            $('textarea#answer').val('');
-            $('textarea#answer').removeClass('correct');
-        }, 700);
+        if (language == 'flu') {
+            $('textarea#flu-answer').addClass('correct');
+            // display new one
+            setTimeout(function () {
+                display(true);
+                $('textarea#flu-answer').val('');
+                $('textarea#flu-answer').removeClass('correct');
+            }, 700);
+        } else {        
+            // console.log("correct " + simplifiedString + " " + simplifiedEO);
+            $('textarea#answer').addClass('correct');
+            // display new one
+            setTimeout(function () {
+                display(false);
+                $('textarea#answer').val('');
+                $('textarea#answer').removeClass('correct');
+            }, 700);
+        }
     } else {
-        // console.log("incorrect " + simplifiedString + " " + simplifiedEO);
-        // Change to correct answer
-        $('textarea#answer').addClass('incorrect');
-        $('textarea#answer').val(correctEO);
+        if (language == 'flu') {
+            // Change to correct answer
+            $('textarea#flu-answer').addClass('incorrect');
+            $('textarea#flu-answer').val(correctEO);
 
-        // if keypress, then clear straight away
-        $('textarea#answer').keydown(function(e) {
-            if ($('textarea#answer').hasClass('incorrect') && (e.keyCode != 13)) {
-                $('textarea#answer').removeClass('incorrect');
-                $('textarea#answer').val('');
-            }
-        });
+            // if keypress, then clear straight away
+            $('textarea#flu-answer').keydown(function(e) {
+                if ($('textarea#flu-answer').hasClass('incorrect') && (e.keyCode != 13)) {
+                    $('textarea#flu-answer').removeClass('incorrect');
+                    $('textarea#flu-answer').val('');
+                }
+            });
 
-        // else wait for timer
-        setTimeout(function() {
-            if ($('textarea#answer').hasClass('incorrect')) {
-                $('textarea#answer').removeClass('incorrect');
-                $('textarea#answer').val('');
-            }
-        }, 3000);
+            // else wait for timer
+            setTimeout(function() {
+                if ($('textarea#flu-answer').hasClass('incorrect')) {
+                    $('textarea#flu-answer').removeClass('incorrect');
+                    $('textarea#flu-answer').val('');
+                }
+            }, 3000);
+        } else {        
+            // console.log("incorrect " + simplifiedString + " " + simplifiedEO);
+            // Change to correct answer
+            $('textarea#answer').addClass('incorrect');
+            $('textarea#answer').val(correctEO);
+
+            // if keypress, then clear straight away
+            $('textarea#answer').keydown(function(e) {
+                if ($('textarea#answer').hasClass('incorrect') && (e.keyCode != 13)) {
+                    $('textarea#answer').removeClass('incorrect');
+                    $('textarea#answer').val('');
+                }
+            });
+
+            // else wait for timer
+            setTimeout(function() {
+                if ($('textarea#answer').hasClass('incorrect')) {
+                    $('textarea#answer').removeClass('incorrect');
+                    $('textarea#answer').val('');
+                }
+            }, 3000);
+        }
     }
 }

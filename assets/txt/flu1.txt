@@ -1,0 +1,45 @@
+== Talk ==
+> talk(s)
+    O: Mi devis fari paroladojn.
+    E: I had to give talks.
+
+    O: Via parolado estis aĉa.
+    E: Your speech sucked.
+
+    O: Lia parolado tedis min.
+    E: His speech bored me.
+
+> talking
+    O: Ĉesu paroli laŭte.
+    E: Stop talking loudly.
+
+    O: Li daŭre parolis.
+    E: He kept talking.
+
+> talkative
+    O: Japanoj, estu parolemaj!
+    E: Japanese, be talkative!
+
+    O: Mi estis babilema.
+    E: I was talkative.
+
+> talker
+    O: Ŝi estas parolema.
+    E: She's a smooth talker.
+
+> talk back
+    O: Kial vi ĉiam kontraŭparolas min?
+    E: Why do you always talk back to me?
+
+    O: Ne kontraŭstari min!
+    E: Don't talk back to me!
+
+> talk about
+    O: Neniu ŝatas esti priparolata post la dorso.
+    E: Noone likes to be talked about behind their back.
+
+    O: Mi parolis pri muziko.
+    E: I talked about music.
+
+    O: Ni priparolis diversajn temojn.
+    E: We talked about various topics.
