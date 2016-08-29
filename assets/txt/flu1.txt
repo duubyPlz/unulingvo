@@ -77,7 +77,7 @@
     O: Montru agojn, ne parolojn.
     E: Actions speak louder than words.
 
-> interparolo, interparolado (discussion)
+> interparolo, interparolado (discussion, conversation)
     O: La interparolo estos baldaŭ finita.
     E: The discussion will be over soon.
 
