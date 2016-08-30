@@ -330,7 +330,6 @@ function parse(module, language) {
     } else if (language == 'ja') {
         fileName = 'assets/txt/jpn' + module + '.txt';
     } else if (language == 'flu') {
-        console.log(module);
         fileName = 'assets/txt/flu' + module + '.txt';
     } else {
         console.warn("Language isn't valid: " + language);
@@ -338,7 +337,8 @@ function parse(module, language) {
     // console.log(fileName);
     try {
         $.get(fileName, function(data) {
-            // console.log(data);
+            console.log(fileName);
+            console.log(data);
             // Break result into line by line
             var lines = data.split("\n");
             var currentEsperanto = "";
