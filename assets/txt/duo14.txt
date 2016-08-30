@@ -56,7 +56,7 @@
     E: Can you help me, please?
 
     O: Ĉu tio estas vera?
-    E: Is this true?
+    E: Is that true?
 
     O: Vi estas granda helpo por mi.
     E: You are a big help for me.
