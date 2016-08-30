@@ -149,7 +149,8 @@
     O: Aktoroj rolas en teatroj.
     E: Actors perform in theatres.
 
-    O: Juĝisto, rigardu tiun ŝteliston!
+    # Juĝisto, rigardu tiun ŝteliston!
+    O: Juĝisto, rigardu al tiu ŝtelisto!
     E: Judge, look at that thief!
 
     O: Ĉu vi spektos la dancon en la teatro?

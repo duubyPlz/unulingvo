@@ -1,0 +1,117 @@
+== Talk ==
+> talk(s)
+    O: Mi devis fari paroladojn.
+    E: I had to give talks.
+
+    O: Via parolado estis aĉa.
+    E: Your speech sucked.
+
+    O: Lia parolado tedis min.
+    E: His speech bored me.
+
+    O: Paroli doloras.
+    E: It hurts to talk.
+
+> talking
+    O: Ĉesu paroli laŭte.
+    E: Stop talking loudly.
+
+    O: Li daŭre parolis.
+    E: He kept talking.
+
+    O: Li paroladis senĉese.
+    E: He just went talking on and on.
+
+> talkative
+    O: Japanoj, estu parolemaj!
+    E: Japanese, be talkative!
+
+    O: Mi estis babilema.
+    E: I was talkative.
+
+    O: Ŝi ne estas parolema.
+    E: She's not talkative.
+
+> talker
+    O: Ŝi estas parolema.
+    E: She's a smooth talker.
+
+> talk back
+    O: Kial vi ĉiam kontraŭparolas min?
+    E: Why do you always talk back to me?
+
+    O: Ne kontraŭstari min!
+    E: Don't talk back to me!
+
+> talk about
+    O: Neniu ŝatas esti priparolata post ilia dorso.
+    E: Noone likes to be talked about behind their back.
+
+    O: Mi parolis pri muziko.
+    E: I talked about music.
+
+    O: Ni priparolis diversajn temojn.
+    E: We talked about various topics.
+
+> parolata (is spoken)
+    O: Esperanto parolata.
+    E: Esperanto is spoken.
+
+    O: La angla estas parolata ĉirkaŭmonde.
+    E: English is spoken all over the world.
+
+    O: La hispana estas parolata en Meksiko.
+    E: Spanish is spoken in Mexico.
+
+> paroligi (make speak, open up)
+    O: Ni havas kuracilojn por paroligi virinojn, ni ne havas por silentigi ilin.
+    E: We have medicines to make women speak, we have none to make them silent.
+
+    O: Kelkaj glasoj da vino povas paroligi la langon.
+    E: A few glasses of wine can loosen the tongue.
+
+> paroloj (words)
+    O: Liaj paroloj estis jenaj.
+    E: His words were as follows.
+
+    O: Tiaj paroloj estigos suspekton.
+    E: Talk like that will raise suspicion.
+
+    O: Montru agojn, ne parolojn.
+    E: Actions speak louder than words.
+
+> interparolo, interparolado (discussion, conversation)
+    O: La interparolo estos baldaŭ finita.
+    E: The discussion will be over soon.
+
+    O: Ni menciis tiun sinjoron en la interparolado.
+    E: We mentioned that gentleman in the conversation (communication).
+
+    O: Mi ne partoprenis en la interparolo.
+    E: I didn't participate in the conversation.
+
+    O: Mi perdis la fadenon de la interparolo.
+    E: I lost track of the conversation.
+
+    O: Dum interparolado, ...
+    E: During dialogue, ...
+
+> elparoli (pronounce, sentence)
+    O: La juĝisto pretas elparoli kondamnon.
+    E: The judge is ready to pass sentence.
+
+    O: Ĉu iu scipovas elparoli ĉi tiun vorton?
+    E: Is there anyone who can pronounce this word?
+
+    O: Kiel oni elparolas tiun vorton?
+    E: How is that word pronounced?
+
+> ekparolas (start speaking)
+    O: Li kaptis la okazon ekparoli.
+    E: He seized the opportunity to speak.
+
+    O: Kiam ŝi ekparolas, oni ne plu povas haltigi ŝin.
+    E: Once she starts talking, there is no (more) stopping her.
+
+    O: Ĉiuj ekparolis samtempe.
+    E: Everyone started talking at once.
