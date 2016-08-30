@@ -21,7 +21,7 @@ $('select#contents-ja').parent().hide();
 var sizeHash = {
                     'eo': 23,
                     'ja': 4,
-                    'flu': 1
+                    'flu': 2
                };
 
 
