@@ -9,6 +9,7 @@
     O: Restas nur unu tago.
     E: There's just one day left.
 
+    # Neniu restas.
     O: Restas neniu.
     E: There's no one left.
 
