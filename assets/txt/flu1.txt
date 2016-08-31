@@ -5,6 +5,7 @@
     O: Restas nur unu por mi.
     E: I've only got one left.
 
+    # Nur unu tago ankoraŭ restas.
     O: Restas nur unu tago.
     E: There's just one day left.
 
