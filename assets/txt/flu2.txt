@@ -54,7 +54,7 @@
     E: We talked about various topics.
 
 > parolata (is spoken)
-    O: Esperanto parolata.
+    O: Esperanto estas parolata.
     E: Esperanto is spoken.
 
     O: La angla estas parolata ĉirkaŭmonde.

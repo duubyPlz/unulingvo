@@ -24,8 +24,6 @@ var sizeHash = {
                     'flu': 2
                };
 
-
-
 // 1. Parse & display text of selected module
 var selectedModule = $('select#contents-' + language).val();
 if (!$.isNumeric(selectedModule)) {
