@@ -336,7 +336,7 @@ function parse(module, language) {
     try {
         $.get(fileName, function(data) {
             // console.log(fileName);
-            console.log(data);
+            // console.log(data);
             // Break result into line by line
             var lines = data.split("\n");
             var currentEsperanto = "";
