@@ -44,8 +44,8 @@
     O: Ne aŭskultu lin, ĉar li ne scias.
     E: Don't listen to him, because he doesn't know.
 
-    O: Sing the pretty songs!
-    E: Kantu la belajn kantojn!
+    O: Kantu la belajn kantojn!
+    E: Sing the pretty songs!
 
     O: Please sing, because your sister is still singng!
     E: Bonvolu kanti, ĉar via fratino ankoraŭ kantas!
