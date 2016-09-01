@@ -21,7 +21,7 @@ $('select#contents-ja').parent().hide();
 
 // TODO can't get <select>.dropdown('set selected', random) to work
 var sizeHash = {
-                    'eo': 23,
+                    'eo': 24,
                     'ja': 4,
                     'flu': 2
                };
