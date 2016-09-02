@@ -1,0 +1,161 @@
+== Affixes 1 ==
+> One
+    1 Jen bonega monujo!
+    2 Here is a great wallet!
+
+    1 Tiu ujo estas grandega!
+    2 That container is huge!
+
+    # tre << ege << treege
+    1 Li ege feliĉas pri tio.
+    2 He is extremely happy about that.
+
+    # boundaries of the languages aren't the same
+    1 Ĉu la ĉambro estas varmeta aŭ varma?
+    2 Is the room a warm or hot?
+
+    1 La supo varmegas!
+    2 The soup is very hot!
+
+    1 La grandega parko havas multajn etajn arbojn.
+    2 The huge park has many small trees.
+
+    1 Dum la somero, la domo estas varmega!
+    2 During the summer, the house is very hot!
+
+    1 Mia porko trinkas varmetan akvon.
+    2 My pig drinks warm water.
+
+    1 La virino portas etan monujon.
+    2 The woman carries a small wallet.
+
+    1 Ŝi ege amas lin.
+    2 She really loves him.
+
+    1 Mia bonega koramiko kuiras por mi.
+    2 My great boyfriend cooks for me.
+
+    1 La grandega ujo estas varmega!
+    2 The huge container is very hot!
+
+    1 Via familio estas bonega!
+    2 Your family is great!
+
+> Two
+    1 Lernejo estas ejo por lerni.
+    2 School is a place for learning.
+
+    1 Bonulo estas ulo, kiu estas bona.
+    2 A good person is a person who is good.
+
+    1 La junulo kaj maljunulo laboras kune.
+    2 The young person and the old person work together.
+
+    1 Venu viziti mian loĝejon!
+    2 Come visit my apartment!
+
+    1 Multaj bonuloj laboras en ĉi tiu laborejo.
+    2 Many good people work in this workplace.
+
+    1 Junuloj devas iri al lernejo.
+    2 Young people have to go to school.
+
+    1 La ursoj ne ŝatas tiun ulon!
+    2 The bears don't like that person!
+
+    1 Laborejo estas ejo por labori.
+    2 A workplace is a place to work.
+
+    1 La ulo devas iri al la necesejo.
+    2 The person has to go to the toilet.
+
+    1 Ĉu viaj infanoj estas en la lernejo ankaŭ posttagmeze?
+    2 Are your children at school also in the afternoon?
+
+    1 La avo estas maljunulo.
+    2 The grandfather is a senior.
+
+    1 La maljunulo bone parolas Esperanton.
+    2 The old person speaks Esperanto well.
+
+    1 The young person will go to the workplace.
+    2 La junulo iros al la laborejo.
+
+> Three
+    1 La sonorilo sonoras.
+    2 The bell rings.
+
+    1 Kompreneble ili havas bonajn ilojn en sia domo.
+    2 Of course they have good tools in their house.
+
+    1 Junuloj eble tranĉas panon en Germanio.
+    2 Young people might slice bread in Germany.
+
+    1 Mi memoris miajn ŝlosilojn.
+    2 I remembered my keys.
+
+    1 La juĝisto ŝlosis la ujon.
+    2 The judge locked the container.
+
+    1 La ŝlosilo estas en la ujo.
+    2 The key is in the container.
+
+    1 Mi ŝatas grandegajn sonorilojn.
+    2 I like huge bells.
+
+    1 Tiu ĉi libro ne estas komprenebla.
+    2 This book is not understandable.
+
+    1 Mi tranĉas la panon per tranĉilo.
+    2 I slice the bread with a knife.
+
+    1 The wife works.
+    2 La edzino laboras.
+
+> Four
+    1 La malo de facila estas malfacila.
+    2 The opposite of easy is difficult.
+
+    1 Mi volas esti ano de via klubo.
+    2 I want to be a member of your club.
+
+    1 Vi malamas viajn bogepatrojn.
+    2 You hate your parents-in-law.
+
+    # lernejano: a member of a school, lernanto: learner
+    1 Mi estas lernejano.
+    2 I am a pupil.
+
+    1 Gepatroj kaj gefratoj estas familianoj.
+    2 Parents and siblings are family members.
+
+    1 Ĉu ili estas anoj?
+    2 Are they members?
+
+    1 Mi diris la malon!
+    2 I said the opposite!
+
+    1 Multaj familianoj manĝos kune.
+    2 Many family members will eat together.
+
+    1 Tio estas klubo de esperantistoj.
+    2 That is a club of Esperanto speakers.
+
+    1 Mi malamas labori nokte.
+    2 I hate working at night.
+
+    1 Mi trovis laboron, sed ĝi estas tro malfacila por mi.
+    2 I found a job, but it is too difficult for me.
+
+    1 La malo de granda estas malgranda.
+    2 The opposite of big is little.
+
+    1 Vi devas memori, ke mi nur estas lernejano.
+    2 You have to remember that I am only a pupil.
+
+    1 Nur por anoj.
+    2 Only for members.
+
+> Five
+    1 Jen internacia aro de homoj.
+    2 Here is an international group of people.

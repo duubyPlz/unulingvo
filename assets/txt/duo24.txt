@@ -47,8 +47,8 @@
     O: Kantu la belajn kantojn!
     E: Sing the pretty songs!
 
-    O: Please sing, because your sister is still singng!
-    E: Bonvolu kanti, ĉar via fratino ankoraŭ kantas!
+    O: Bonvolu kanti, ĉar via fratino ankoraŭ kantas!
+    E: Please sing, because your sister is still singng!
 
     O: Sofia trovis mesaĝon en botelo.
     E: Sofia found a message in a bottle.
@@ -148,7 +148,7 @@
     E: Yes or no?
 
     O: Panjo deziras, ke li ricevu donacon.
-    E: Mom wants him to receive a gift.
+    E: Mum wants him to receive a gift.
 
     O: Li postulis, ke mi informu lin pri ĉio.
     E: He demanded that I inform him about everything.

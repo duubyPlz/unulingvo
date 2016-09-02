@@ -66,6 +66,9 @@
     O: Mia kuracisto manĝas pomon.
     E: My doctor eats an apple.
 
+    O: La blinda studento lernas esperanton.
+    E: The blind student learns Esperanto.
+
 > Two
     O: Unu el la diplomatoj estas surda.
     E: One of the diplomats is deaf.
@@ -114,6 +117,9 @@
 
     O: Ĉu vi ŝatas vian karieron?
     E: Do you like your career?
+
+    O: Mi volas havi bonan karieron.
+    E: I want to have a good career.
 
 > Three
     O: Aktoroj, iru al la teatro!
