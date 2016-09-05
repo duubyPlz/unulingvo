@@ -40,14 +40,6 @@ setTimeout(function () {
     display(false);
 }, 1000);
 
-// Load flu
-selectedModule = $('#flu').val();
-
-parse(selectedModule, 'flu');
-setTimeout(function () {
-    display(true);
-}, 1000);
-
 // 2. Module swaps triggered
 $('#duoButton').on('click', function() {
     var duo = $('#duo-module');
@@ -59,6 +51,12 @@ $('#duoButton').on('click', function() {
 
         // init duo
         selectedModule = $('select#contents-' + language).val();
+        parse(selectedModule, language);
+
+        setTimeout(function () {
+            display(false);
+        }, 1000);
+
 
         setTimeout(function() {
             duo.show();
@@ -86,6 +84,11 @@ $('#fluButton').on('click', function() {
         // init flu
         $('#flu').parent().show();
         selectedModule = $('#flu').val();
+
+        parse(selectedModule, 'flu');
+        setTimeout(function () {
+            display(true);
+        }, 1000);
 
         setTimeout(function() {
             flu.show();
