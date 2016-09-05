@@ -92,8 +92,8 @@
     O: Nepre ne parolu pri tiu afero!
     E: Absolutely don't speak about that thing!
 
-    O: Let us not worry about that!
-    E: Ni ne maltrankviliĝu pri tio!
+    O: Ni ne maltrankviliĝu pri tio!
+    E: Let us not worry about that!
 
     O: Ni vizitu Ĉinion!
     E: Let's visit China!
