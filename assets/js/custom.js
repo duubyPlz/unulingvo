@@ -40,7 +40,7 @@ setTimeout(function () {
     display(false);
 }, 1000);
 
-// init flu
+// Load flu
 selectedModule = $('#flu').val();
 
 parse(selectedModule, 'flu');
@@ -59,11 +59,6 @@ $('#duoButton').on('click', function() {
 
         // init duo
         selectedModule = $('select#contents-' + language).val();
-
-        // parse(selectedModule, language);
-        // setTimeout(function () {
-        //     display(false);
-        // }, 1000);
 
         setTimeout(function() {
             duo.show();
@@ -91,12 +86,6 @@ $('#fluButton').on('click', function() {
         // init flu
         $('#flu').parent().show();
         selectedModule = $('#flu').val();
-
-        // parse(selectedModule, 'flu');
-        // setTimeout(function () {
-        //     display(true);
-        // }, 1000);
-
 
         setTimeout(function() {
             flu.show();
