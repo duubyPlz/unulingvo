@@ -19,7 +19,7 @@ var language = 'eo';
 // hide unwanted dropdowns
 $('select#contents-ja').parent().hide();
 
-// TODO can't get <select>.dropdown('set selected', random) to work
+// TODO can't get semantic ui <select>.dropdown('set selected', random) to work
 var sizeHash = {
                     'eo': 25,
                     'ja': 4,
