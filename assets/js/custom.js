@@ -6,6 +6,7 @@
 // * populate older topics w/ more data
 // * refactor flu (e.g. global bool flag)
 //     * have a keypress for randomisation
+// * toggling modules doesn't rerender
 
 // 0. Init
 // toggle all tooltips

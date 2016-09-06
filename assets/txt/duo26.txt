@@ -1,0 +1,195 @@
+== Adjectives ==
+> One
+    1 Nia hundo ne estas pura; ĝi estas malpura.
+    2 Our dog is not clean; it is dirty.
+
+    1 Mia juna filo ofte ludas en la rivero.
+    2 My young son often plays in the river.
+
+    1 La maldika, maljuna kato.
+    2 The thin, old cat.
+
+    1 La dika viro manĝas tro da kuko.
+    2 The fat man eats too much cake.
+
+    1 Miaj okulvitroj estas malpuraj.
+    2 My glasses are dirty.
+
+    1 June kaj kune.
+    2 Young and together.
+
+    1 Miaj geavoj estas maljunaj.
+    2 My grandparents are old.
+
+    1 La dika hundo ne povas kuri rapide.
+    2 The fat dog can't run fast.
+
+    1 Kial la rivero ne estas pura?
+    2 Why is the river not clean?
+
+    1 La hundo estas bruna, malgranda kaj maldika.
+    2 The dog is brown, small and thin.
+
+    1 Mia domo estas malpura.
+    2 My house is dirty.
+
+    1 Li estas tro dika por rapide kuri.
+    2 He is too fat to run fast.
+
+    1 The king was very old.
+    2 La reĝo estis tre maljuna.
+
+    1 La hundo ludis ekster la domo, kaj nun estas malpura.
+    2 The dog played outside the house, and now is dirty.
+
+    1 Ĉu via edzino estas pli juna ol vi?
+    2 Is your wife younger than you?
+
+    1 Ĉu via domo estas pura?
+    2 Is your house clean?
+
+> Two
+    1 Mia filo estas sana kaj forta.
+    2 My son is healthy and strong.
+
+    # what kind of father, that kind of son
+    1 Kia patro, tia filo.
+    2 Like father, like son.
+
+    1 Li estas kaj malsana kaj malforta.
+    2 He is both sick and weak.
+
+    1 Ĝemeloj ofte estas tre similaj.
+    2 Twins are often very similar.
+
+    1 Aligatoroj kaj krokodiloj estas malsimilaj.
+    2 Alligators and crocodiles are different.
+
+    1 Nia riĉa onklo donis al ni monon.
+    2 Our rich uncle gave us money.
+
+    1 Ŝiaj studentoj tre malsimilas.
+    2 Her students are very different.
+
+> Three
+    1 La instruisto havas diversajn ideojn.
+    2 The teacher has diverse ideas.
+
+    1 Ĉu la glaso estas plena aŭ malplena?
+    2 Is the glass full or empty?
+
+    1 La ĉielo estas klara.
+    2 The sky is clear.
+
+    1 Ni estas liberaj.
+    2 We are free.
+
+    1 La fino estas proksima.
+    2 The end is near.
+
+    1 Aŭstralio estas malproksima de multaj landoj.
+    2 Australia is far from many countries.
+
+    1 La mondo estas tre diversa.
+    2 The world is very diverse.
+
+    1 Morgaŭ mi estos libera.
+    2 Tomorrow I will be free.
+
+    1 Tio estas tre bona ideo!
+    2 That is a very good idea!
+
+    1 Ĉu vi havas liberan tempon?
+    2 Do you have free time?
+
+    1 Klare, la proksima parko malplenas.
+    2 Clearly, the nearby park is empty.
+
+    1 Ĉu vi havas klaran ideon pri tio?
+    2 Do you have a clear idea about that?
+
+    1 La preĝejo estas malproksima de nia domo.
+    2 The church is far from our house.
+
+    1 Kie estas la plej proksima restoracio?
+    2 Where is the nearest restaurant?
+
+    1 La korbo estas plena.
+    2 The basket is full.
+
+    1 Mia taso de kafo estas malplena.
+    2 My cup of coffee is empty.
+
+    # uloj
+    1 Nia domo estas plena de homoj.
+    2 Our house is full of people.
+
+    1 Kiu restoracio estas proksima?
+    2 Which restaurant is nearby?
+
+> Four
+    1 La ĉefa menuo devas esti simpla.
+    2 The main menu has to be simple.
+
+    1 Kelkaj patoj necesas por kuiri ĉi tiun manĝon.
+    2 Some frying pans are necessary to cook this meal.
+
+    1 La ĉevaloj estas rapidaj.
+    2 The horses are fast.
+
+    1 La tuta manĝo estis bongusta.
+    2 The whole meal was delicious.
+
+    1 Ĝenerale mi ne ŝatas legi gazetojn.
+    2 Generally, i don't like reading newspapers.
+
+    1 La domo havas kelkajn simplajn regulojn.
+    2 The house has some simple rules.
+
+    1 Ĉu vi estas la ĉefo?
+    2 Are you the boss?
+
+    1 Tiu araneo certe estas normala.
+    2 That spider certainly is normal.
+
+    1 La strato ne estas seka, sed malseka.
+    2 The street isn't dry, but wet.
+
+    1 Ĉu la akvo estas profunda aŭ malprofunda?
+    2 Is the water deep or shallow?
+
+    1 Vi ĝuste respondis!
+    2 You answered correctly!
+
+    1 Ĉiaj boteloj povas enhavi akvon.
+    2 All kinds of bottles can contain water.
+
+    1 Ĉu vi havas ian bovlon?
+    2 Do you have any kind of bowl?
+
+    1 Mi neniam manĝas sekan panon.
+    2 I never eat dry bread.
+
+> Six
+    1 Mia onklino estas afabla, ne stranga.
+    2 My aunt is nice, not strange.
+
+    1 Lia filo estas alta, ne malalta.
+    2 His son is tall, not short.
+
+    1 Mi estas preta por aŭskulti viajn interesajn ideojn.
+    2 I am ready to listen to your interesting ideas.
+
+    1 Tiu fama dancisto estas tre lerta.
+    2 That famous dancer is very skilled.
+
+    1 Mi kapablas lerni Esperanton.
+    2 I am capable of learning Esperanto.
+
+    1 La lasta numero de la gazeto estas tre interesa.
+    2 The last issue of the newspaper is very interesting.
+
+    1 Miaj fratinoj estas tre malaltaj.
+    2 my sisters are very short.
+
+    

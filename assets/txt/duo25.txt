@@ -131,8 +131,8 @@
     O: Mi tranĉas la panon per tranĉilo.
     E: I slice the bread with a knife.
 
-    O: The wife works.
-    E: La edzino laboras.
+    O: La edzino laboras.
+    E: The wife works.
 
     # Via koramikino sonoras ĉe la pordo.
     O: Via koramikino sonoras la pordosonorilon.
