@@ -48,6 +48,16 @@
     1 Ĉu via domo estas pura?
     2 Is your house clean?
 
+    # larĝa = wide, granda = large, grandioza = grand
+    1 La tablo estas larĝa.
+    2 The table is wide.
+
+    1 La rivero estas larĝa kaj longa.
+    2 The river is wide and long.
+
+    1 Mia mantelo estas tro larĝa.
+    2 My coat is too wide.
+
 > Two
     1 Mia filo estas sana kaj forta.
     2 My son is healthy and strong.
@@ -70,6 +80,33 @@
 
     1 Ŝiaj studentoj tre malsimilas.
     2 Her students are very different.
+
+    1 Kiam oni estas riĉa, oni havas multajn amikojn.
+    2 When one is rich, one has many friends.
+
+    1 Li ne estas forta, sed malforta.
+    2 He is not strong, but weak.
+
+    1 Ŝi estis malsana sed nun estas sana.
+    2 She was sick but now is healthy.
+
+    1 Pomoj kaj oranĝoj ne estas similaj.
+    2 Apples and oranges aren't similar.
+
+    1 Tia forta knabino estas sana.
+    2 That kind of strong girl is healthy.
+
+    1 Mia amikino estas kaj riĉa kaj bela.
+    2 My friend is both rich and beautiful.
+
+    1 Mi ne sciis, ke vi estas malsana.
+    2 I did not know that you were sick.
+
+    1 Mia domo estas simila al la via.
+    2 My house is similar to yours.
+
+    1 Vi kaj mi estas malsimilaj.
+    2 You and I are different.
 
 > Three
     1 La instruisto havas diversajn ideojn.
@@ -127,6 +164,15 @@
     1 Kiu restoracio estas proksima?
     2 Which restaurant is nearby?
 
+    1 Mi trinkas nenian kafon.
+    2 I do not drink any kind of coffee.
+
+    1 Li volas neniajn florojn.
+    2 He does not want any kind of flowers.
+
+    1 Ĉu la kesto estas plena?
+    2 Is the chest full?
+
 > Four
     1 La ĉefa menuo devas esti simpla.
     2 The main menu has to be simple.
@@ -170,6 +216,12 @@
     1 Mi neniam manĝas sekan panon.
     2 I never eat dry bread.
 
+    1 Mia ĉemizo estas malseka.
+    2 My shirt is wet.
+
+    1 Tiu rivero estas seka.
+    2 That river is dry.
+
 > Six
     1 Mia onklino estas afabla, ne stranga.
     2 My aunt is nice, not strange.
@@ -192,4 +244,5 @@
     1 Miaj fratinoj estas tre malaltaj.
     2 my sisters are very short.
 
-    
+    1 La fama kuiristo estas interesa kaj kapabla.
+    2 The famous chef is interesting and capable.

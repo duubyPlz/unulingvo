@@ -437,6 +437,12 @@ function logic(language) {
             }, 700);
         }
     } else {
+        // pseudocode
+        // * split simplifiedEO & simplfiedString on whitespace (to get each word)
+        // * for each word in simplifiedString that doesn't exist in simplifiedEO, bold them.
+        //      * html += word or html += <b>word</b>
+        //      * but it's .val().. check
+
         if (language == 'flu') {
             // Change to correct answer
             $('textarea#flu-answer').addClass('incorrect');
@@ -457,7 +463,7 @@ function logic(language) {
                     $('textarea#flu-answer').val('');
                 }
             }, 3000);
-        } else {        
+        } else {      
             // console.log("incorrect " + simplifiedString + " " + simplifiedEO);
             // Change to correct answer
             $('textarea#answer').addClass('incorrect');

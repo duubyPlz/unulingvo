@@ -472,7 +472,6 @@ footer.footer {
     height: 60px;
     position: relative;
     padding: 5px 20px 5px 20px;
-    bottom: 2px;
   }
 
   .tooltip-inner {
@@ -482,7 +481,6 @@ footer.footer {
   img.logo {
     height: 100px;
   }
-
 
   .ui.selection.dropdown {
     height: 80px;
