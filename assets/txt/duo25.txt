@@ -244,7 +244,7 @@
     E: The board of directors is very international.
 
     O: Lernejestro estas estro de lernejo.
-    E: A head teacher is a leader of a school.
+    E: A principal is a leader of a school.
 
     # Bonegis dormeti post la manĝo.
     O: Estis bonege dormeti post la manĝo.

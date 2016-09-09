@@ -260,6 +260,11 @@ button#flu-randomise {
   padding: 6px 10px 4px 10px;
 }
 
+button#randomise:hover,
+button#flu-randomise:hover {
+  color: orange;
+}
+
 button#submit {
   position: relative;
   right: 40px;
