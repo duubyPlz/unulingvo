@@ -303,6 +303,10 @@ button#submit {
   box-shadow: none;
 }
 
+.ui.selection.search.dropdown .menu {
+  max-height: 285px;
+}
+
 .ui.selection.dropdown>.dropdown.icon {
   font-family: 'Dosis', sans-serif;
   transform: rotate(90deg);
