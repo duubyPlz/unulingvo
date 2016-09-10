@@ -54,6 +54,9 @@
     O: Kiun koloron havas la aŭto, kiun li volas aĉeti?
     E: What is the color of the car he wants to buy?
 
+    O: Tiu ĉi esperantisto ne parolas la anglan.
+    E: This esperanto speaker doesn't speak English.
+
 > Two
     O: Ili demandas, kaj ni respondas.
     E: They ask and we answer.

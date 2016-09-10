@@ -61,8 +61,8 @@
     O: Bonulo estas ulo, kiu estas bona.
     E: A good person is a person who is good.
 
-    O: La junulo kaj maljunulo laboras kune.
-    E: The young person and the old person work together.
+    O: The young person and the old person work together.
+    E: La junulo kaj maljunulo laboras kune.
 
     O: Venu viziti mian loĝejon!
     E: Come visit my apartment!
