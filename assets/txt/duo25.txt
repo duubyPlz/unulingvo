@@ -91,8 +91,8 @@
     O: La maljunulo bone parolas Esperanton.
     E: The old person speaks Esperanto well.
 
-    O: The young person will go to the workplace.
-    E: La junulo iros al la laborejo.
+    O: La junulo iros al la laborejo.
+    E: The young person will go to the workplace.
 
     O: Bonulo eble uzas ilojn en la laborejo.
     E: A good person maybe uses tools in the workplace.
