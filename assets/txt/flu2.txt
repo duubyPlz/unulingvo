@@ -64,8 +64,8 @@
     E: Spanish is spoken in Mexico.
 
 > paroligi (make speak, open up)
-    O: Ni havas kuracilojn por paroligi virinojn, ni ne havas por silentigi ilin.
-    E: We have medicines to make women speak, we have none to make them silent.
+    O: Ni havas kuracilojn por paroligi homojn, ni ne havas por silentigi ilin.
+    E: We have medicines to make people speak, we have none to make them silent.
 
     O: Kelkaj glasoj da vino povas paroligi la langon.
     E: A few glasses of wine can loosen the tongue.

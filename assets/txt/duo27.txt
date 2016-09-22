@@ -1,0 +1,163 @@
+== Home ==
+> One
+    1 La apartamento estas en la tria etaĝo.
+    2 The apartment is on the third floor.
+
+    1 Ĉu vi ĉiam loĝis en tiu ĉi urbo?
+    2 Did you always live in this city?
+
+    1 Ĝia hejmo estas la ĝardeno.
+    2 Its home is the garden.
+
+    1 Tio estas bela vilaĝo.
+    2 That is a beautiful village.
+
+    1 Mia domo havas dek unu fenestrojn.
+    2 My house has eleven windows.
+
+    1 Dum la milito, ili ŝtelis niajn monon kaj domojn.
+    2 During the war, they stole our money and houses.
+
+    1 Ĉu vi trovis apartamenton?
+    2 Did you find an apartment?
+
+> Two
+    1 Ni invitas la najbarojn.
+    2 We are inviting the neighbours.
+
+    1 En la salono estas du grandaj sofoj.
+    2 There are two large sofas in the lounge room.
+
+    1 Mi aĉetis ege bonan monujon en Eŭropo.
+    2 I bought a very good wallet in Europe.
+
+    1 Ĉu la festo jam komenciĝis?
+    2 Has the party already started?
+
+    1 Ni ŝatas la novan estraron.
+    2 We like the new board of directors.
+
+    1 Ŝi aĉetis televidilon.
+    2 She bought a TV.
+
+> Three
+    1 Vestoŝranko estas ŝranko por vestaĵoj.
+    2 A wardrobe is a closet for clothes.
+
+    1 La nova planko estas bela.
+    2 The new floor is beautiful.
+
+    1 Ni ne havas meblojn. Ni sidas kaj kuŝas sur la planko.
+    2 We don't have furniture. We sit and lie on the floor.
+
+    1 Ni bezonas novajn litotukojn.
+    2 We need new bed sheets.
+
+    1 La ĝardeno estas verda, kvazaŭ estas ankoraŭ somero.
+    2 The garden is green, as if it is still summer.
+
+    1 Blua birdo saltas sur la tablon.
+    2 A blue bird is jumping onto the table
+
+> Four
+    1 La matraco estas tro mola por mi.
+    2 The mattress is too soft for me.
+
+    1 La bildo estas tre malnova.
+    2 The picture is very old.
+
+    1 Ĉu vi havas litkovrilon por mi?
+    2 Do you have a blanket for me?
+
+    1 Li aĉetis varman ĉemizon.
+    2 He bought a warm shirt.
+
+    1 Ĉu vi volas kusenon?
+    2 Do you want a pillow?
+
+    1 Nia ejo estas tre komforta.
+    2 Our place is very comfortable.
+
+    1 Mi ne estas kuseno.
+    2 I am not a pillow.
+
+> Five
+    1 Tiu moderna objekto ne estas utila.
+    2 That modern object is not useful.
+
+    1 La kuirejo estas apud la banĉambro.
+    2 The kitchen is next to the bathroom.
+
+    1 Mi lavos la tasojn kaj telerojn.
+    2 I will wash the cups and plates.
+
+    1 Kiom da bantukoj vi havas?
+    2 How many towels do you have?
+
+    1 Ni estas tie ĉi kaj ni havas spegulon.
+    2 We are here and we have a mirror.
+
+    1 La talenta muzikisto ludas modernan muzikon.
+    2 The talented musician plays modern music.
+
+> Six
+    1 Ili konstruos la tegmenton.
+    2 They will build the roof.
+
+    1 Li purigis la tutan spacon.
+    2 He cleaned the whole space.
+
+    1 Kie vi aĉetis tiun manĝilaron?
+    2 Where did you buy that cutlery?
+
+    1 Nun la matraco estas tro malmola!
+    2 Now the mattress is too hard!
+
+    1 Bone, mi purigos ĝin mem.
+    2 Good, i will clean it myself.
+
+    1 La manĝilaro estas malbela.
+    2 The cutlery is ugly.
+
+    1 Tiu ĉi ligno estas malmola.
+    2 This wood is hard.
+
+> Seven
+    1 Mi volas pentri pentraĵon de mia avo.
+    2 I want to paint a painting of my grandfather.
+
+    1 La plafono de tiu ĉambro estas tre alta.
+    2 The ceiling of that room is very high.
+
+    1 Mi vidas kalendaron sur la muro.
+    2 I see a calendar on the wall.
+
+    # !!! perfect
+    1 Ni havas nenion en la domo por manĝi.
+    2 We have nothing in the house to eat.
+
+
+    # multaj = many, kelkaj = few, pluraj = more than one, sola = only one
+    1 Pluraj reguloj klaras.
+    2 Several rules are clear.
+
+    1 La flava pentraĵo pendas sur la muro.
+    2 The yellow painting is hanging on the wall.
+
+    1 Nenio estas nova ĉi tie.
+    2 Nothing is new here.
+
+    1 Plafonoj ne ĉiam estas blankaj.
+    2 Ceilings aren't always white.
+
+    1 Tiu ĉi virino havas plurajn ĉevalojn.
+    2 This woman has several horses.
+
+    1 Kiu pentris la bildon de ŝia onklino?
+    2 Who painted the picture of her aunt?
+
+    1 Mia patrino estas artisto kiu pentras pentraĵojn.
+    2 My mother is an artist who paints paintings.
+
+    1 Kiun kanton vi plej ŝatas?
+    2 What song do you like best?

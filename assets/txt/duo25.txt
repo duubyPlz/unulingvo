@@ -207,6 +207,7 @@
     O: Jen internacia aro de homoj.
     E: Here is an international group of people.
 
+    # multiple staircases
     O: La junularo de Usono ne uzas ŝtuparojn.
     E: America's youth don't use stairs.
 
