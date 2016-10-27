@@ -21,6 +21,30 @@
     1 Ĉu vi trovis apartamenton?
     2 Did you find an apartment?
 
+    1 Ĉu vi preferas loĝi en urbo aŭ en vilaĝo?
+    2 Do you prefer to live in a city or in a village?
+
+    1 En vilaĝo multaj domoj havas ĝardenojn.
+    2 In a village, many houses have gardens.
+
+    1 Ĉu vi vidis bildon de ŝi kiel infano?
+    2 Have you seen a picture of her as a child?
+
+    1 La domo havas du etaĝojn.
+    2 The house has two floors.
+
+    1 La granda kalendaro enhavas multajn bildojn.
+    2 The large calendar contains many pictures.
+
+    1 La instruisto tre ŝatas la novajn lernejanojn.
+    2 The teacher really likes the new pupils.
+
+    1 Ĉu via domo havas multajn fenestrojn?
+    2 Does your house have many windows?
+
+    1 Li ŝatas labori en la ĝardeno.
+    2 He likes working in the garden.
+
 > Two
     1 Ni invitas la najbarojn.
     2 We are inviting the neighbours.
@@ -40,9 +64,27 @@
     1 Ŝi aĉetis televidilon.
     2 She bought a TV.
 
+    1 Ili jam atendas en la salono.
+    2 They are already waiting in the living room.
+
+    1 La najbaro jam sidas sur la sofo.
+    2 The neighbor is already sitting on the sofa.
+
+    1 La najbaroj jam havas televidilon.
+    2 The neighbours already have a TV.
+
+    1 Ni invitu ilin al nia hejmo en Pollando!
+    2 Let's invite them to our home in Poland!
+
+    1 Ni aĉetos novan sofon.
+    2 We will buy a new sofa.
+
+    1 Ni manĝos en la salono.
+    2 We will eat in the living room.
+
 > Three
     1 Vestoŝranko estas ŝranko por vestaĵoj.
-    2 A wardrobe is a closet for clothes.
+    2 A wardrobe is a cabinet for clothes.
 
     1 La nova planko estas bela.
     2 The new floor is beautiful.
@@ -58,6 +100,24 @@
 
     1 Blua birdo saltas sur la tablon.
     2 A blue bird is jumping onto the table
+
+    1 Ŝi tenis sian mantelon en la ŝranko.
+    2 She kept her coat in the cabinet.
+
+    1 La infanoj trovis novan mondon en la vestoŝranko.
+    2 The children found a new world in the wardrobe.
+
+    1 Jen miaj mebloj: Mi havas tablon, liton, ŝrankon kaj du seĝojn.
+    2 Here is my furniture: I have a table, a bed, a cabinet and two chairs.
+
+    1 Tiu malgranda ĉambro estas kvazaŭ vestoŝranko por ni.
+    2 That small room is like a wardrobe for us.
+
+    1 Li kuŝas sur la lito kaj legas.
+    2 He is lying on the bed and reading.
+
+    1 Ili uzis la tablojn kvazaŭ altajn seĝojn.
+    2 They used the tables like high chairs.
 
 > Four
     1 La matraco estas tro mola por mi.
@@ -81,6 +141,21 @@
     1 Mi ne estas kuseno.
     2 I am not a pillow.
 
+    1 Nia domo estas malnova.
+    2 Our house is old.
+
+    1 La malnova matraco ne estas tre komforta.
+    2 The old mattress isn't very comfortable.
+
+    1 Ŝi bezonas varmajn vestaĵojn.
+    2 She needs warm clothes.
+
+    1 La litkovriloj estas varmaj kaj komfortaj.
+    2 The blankets are warm and comfortable.
+
+    1 Estas multaj molaj kusenoj sur mia lito.
+    2 There are many soft pillows on my bed.
+
 > Five
     1 Tiu moderna objekto ne estas utila.
     2 That modern object is not useful.
@@ -94,11 +169,30 @@
     1 Kiom da bantukoj vi havas?
     2 How many towels do you have?
 
-    1 Ni estas tie ĉi kaj ni havas spegulon.
+    1 Ni estas ĉi tie kaj ni havas spegulon.
     2 We are here and we have a mirror.
 
     1 La talenta muzikisto ludas modernan muzikon.
     2 The talented musician plays modern music.
+
+    1 Li purigis la tutan domon, krom la kuirejo.
+    2 He cleaned the whole house, except the kitchen.
+
+    1 Vi lavos la bantukojn.
+    2 You will wash the towels.
+
+    1 Mi rigardas min en la spegulo.
+    2 I look at myself in the mirror.
+
+    1 Ni kuiras en la kuirejo.
+    2 We cook in the kitchen.
+
+    1 La kuirejo estas la plej komforta ĉambro en la domo.
+    2 The kitchen is the most comfortable room in the house.
+
+    # io ajn: anything
+    1 Sapo estas utila por lavi ion.
+    2 Soap is useful for washing something.
 
 > Six
     1 Ili konstruos la tegmenton.
@@ -122,6 +216,26 @@
     1 Tiu ĉi ligno estas malmola.
     2 This wood is hard.
 
+    1 Kiu purigos la banĉambron?
+    2 Who will clean the bathroom?
+
+    1 Ŝi mem konstruis tiun domon.
+    2 She built that house herself.
+
+    # banejo
+    1 Estas ankaŭ necesujo en la banĉambro.
+    2 There is also a toilet in the bathroom.
+
+    # She has built her house from wood.
+    1 Ŝi konstruis sian domon el ligno.
+    2 She built her house out of wood.
+
+    1 Tio estas ligna tegmento.
+    2 That is a wooden roof.
+
+    1 Ni bezonas pli da spaco en nia domo.
+    2 We need more space in our house.
+
 > Seven
     1 Mi volas pentri pentraĵon de mia avo.
     2 I want to paint a painting of my grandfather.
@@ -135,7 +249,6 @@
     # !!! perfect
     1 Ni havas nenion en la domo por manĝi.
     2 We have nothing in the house to eat.
-
 
     # multaj = many, kelkaj = few, pluraj = more than one, sola = only one
     1 Pluraj reguloj klaras.
@@ -161,3 +274,27 @@
 
     1 Kiun kanton vi plej ŝatas?
     2 What song do you like best?
+
+    1 Mia edzino ne volas, ke mia ĉemizo pendu sur la seĝo.
+    2 My wife does not want my shirt to hang on the chair.
+
+    1 Kial vi volas havi pluraj porkojn?
+    2 Why do you want to have several pigs?
+
+    1 Ŝi rigardas la bildon ĉe la muro.
+    2 She is looking at the picture on the wall.
+
+    1 Estas pluraj apartamentoj en tiu domo.
+    2 There are several apartments in that house.
+
+    1 Estas muro sen pordo aŭ fenestro.
+    2 It is a wall without a door or a window.
+
+    1 Tiu granda lampo pendas de la alta plafono.
+    2 That large lamp hangs from the high ceiling.
+
+    1 Mi volas aĉeti tiun pentraĵon por mia domo.
+    2 I want to buy that painting for my house.
+
+    1 Ĉu vi vidas tiun pentraĵon sur la muro?
+    2 Do you see that painting on the wall?

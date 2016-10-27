@@ -300,7 +300,7 @@
     E: The last issue of the newspaper is very interesting.
 
     O: Miaj fratinoj estas tre malaltaj.
-    E: my sisters are very short.
+    E: My sisters are very short.
 
     O: La fama kuiristo estas interesa kaj kapabla.
     E: The famous chef is interesting and capable.

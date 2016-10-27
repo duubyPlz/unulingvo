@@ -12,7 +12,7 @@
 
     # boundaries of the languages aren't the same
     O: Ĉu la ĉambro estas varmeta aŭ varma?
-    E: Is the room warm or hot?
+    E: Is the room a little bit warm or hot?
 
     O: La supo varmegas!
     E: The soup is very hot!
