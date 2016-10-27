@@ -103,7 +103,7 @@
     E: That kind of strong girl is healthy.
 
     O: Mia amikino estas kaj riĉa kaj bela.
-    E: My friend is both rich and beautiful.
+    E: My female friend is both rich and beautiful.
 
     O: Mi ne sciis, ke vi estas malsana.
     E: I did not know that you were sick.
@@ -211,7 +211,7 @@
     E: The whole meal was delicious.
 
     O: Ĝenerale mi ne ŝatas legi gazetojn.
-    E: Generally, i don't like reading newspapers.
+    E: Generally, I don't like reading newspapers.
 
     O: La domo havas kelkajn simplajn regulojn.
     E: The house has some simple rules.
