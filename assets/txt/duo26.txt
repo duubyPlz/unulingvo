@@ -33,7 +33,7 @@
     O: Mia domo estas malpura.
     E: My house is dirty.
 
-    O: Li estas tro dika por rapide kuri.
+    O: Li estas tro dika por kuri rapide.
     E: He is too fat to run fast.
 
     O: The king was very old.
