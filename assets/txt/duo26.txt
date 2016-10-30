@@ -232,7 +232,7 @@
     O: Ĉu la akvo estas profunda aŭ malprofunda?
     E: Is the water deep or shallow?
 
-    O: Vi ĝuste respondis!
+    O: Vi respondis ĝuste!
     E: You answered correctly!
 
     O: Ĉiaj boteloj povas enhavi akvon.
