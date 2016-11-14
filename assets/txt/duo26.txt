@@ -217,7 +217,7 @@
     E: The house has some simple rules.
 
     O: Ĉu vi estas la ĉefo?
-    E: Are you the boss?
+    E: Are you the boss (chief)?
 
     O: Tio simple estas ĝenerala regulo.
     E: That simply is a general rule.
