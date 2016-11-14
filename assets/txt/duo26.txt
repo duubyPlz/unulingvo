@@ -129,7 +129,7 @@
     O: Ĉiaj boteloj povas enhavi akvon.
     E: All kinds of bottles can contain water.
 
-    O: Kia estas la pantalonon.
+    O: Kia estas la pantalono?
     E: What kind of trousers are they?
 
 > Three
