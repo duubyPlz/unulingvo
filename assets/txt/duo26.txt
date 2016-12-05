@@ -36,8 +36,8 @@
     O: Li estas tro dika por kuri rapide.
     E: He is too fat to run fast.
 
-    O: The king was very old.
-    E: La reĝo estis tre maljuna.
+    O: La reĝo estis tre maljuna.
+    E: The king was very old.
 
     O: La hundo ludis ekster la domo, kaj nun estas malpura.
     E: The dog played outside the house, and now is dirty.
