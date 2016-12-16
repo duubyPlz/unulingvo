@@ -20,7 +20,7 @@
     E: He kept talking.
 
     O: Li paroladis senĉese.
-    E: He just went talking on and on.
+    E: He talked nonstop.
 
 > talkative
     O: Japanoj, estu parolemaj!
