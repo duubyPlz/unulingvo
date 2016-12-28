@@ -308,8 +308,15 @@
     O: La stranga sed afabla verkisto estis tre kapabla.
     E: The strange but nice author was very capable.
 
+    # Kial tiu stranga viro estis preta por manĝi aligatoron?
     O: Kial tiu stranga viro estis preta manĝi aligatoron?
     E: Why was that strange man ready to eat an alligator?
 
     O: Mi pretas danci kun tiu fama, alta dancisto.
     E: I am ready to dance with that famous, tall dancer.
+
+    O: La instruisto ĉiam trovis afablan vorton.
+    E: The teacher always found a kind word.
+
+    O: La arkitekto ĉiam sidas sur alta seĝo.
+    E: The architect always sits on a tall chair.
