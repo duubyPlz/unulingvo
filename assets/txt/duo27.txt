@@ -307,7 +307,8 @@
     O: Kial vi volas havi pluraj porkojn?
     E: Why do you want to have several pigs?
 
-    O: Ŝi rigardas la bildon ĉe la muro.
+    # Ŝi rigardas la bildon ĉe la muro.
+    O: Ŝi rigardas la bildon sur la muro.
     E: She is looking at the picture on the wall.
 
     O: Estas pluraj apartamentoj en tiu domo.

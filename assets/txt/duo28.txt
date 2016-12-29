@@ -1,0 +1,40 @@
+== Conditional ==
+# Devus = should, Povus = could, Volus = would
+> One
+    1 Kio estas la pasvorto por uzi la tujmesaĝilon?
+    2 What is the password to use the instant messenger?
+
+    1 Ni babilu!
+    2 Let's chat!
+
+    1 Elsalutu kaj iru labori!
+    2 Sign out and go work!
+
+    # mi povus = I could; mi povas = I can
+    1 Mi povus provi.
+    2 I could try.
+
+    1 Se mi povus memori mian pasvorton, mi povus ensaluti.
+    2 If I could remember my password, I could log in.
+
+    1 Ne forgesu elsaluti!
+    2 Don't forget to log out!
+
+    1 Ĉu vi forgesis vian pasvorton?
+    2 Did you forget your password?
+
+    1 Mi devus tuj elsaluti.
+    2 I should sign out now.
+
+> Two
+    1 Mi alklakis la ligilon.
+    2 I clicked on the link.
+
+    1 Kiam mi retumas, mi legas multajn retpaĝojn.
+    2 When I surf the internet, I read many webpages.
+
+    1 Jen mia retpoŝtadreso.
+    2 Here is my email address.
+
+    1 Lia avo neniam uzas retpoŝton.
+    2 His grandfather never uses email.
