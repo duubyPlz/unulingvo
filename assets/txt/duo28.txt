@@ -31,10 +31,29 @@
     2 I clicked on the link.
 
     1 Kiam mi retumas, mi legas multajn retpaĝojn.
-    2 When I surf the internet, I read many webpages.
+    2 When I browse the internet, I read many webpages.
 
     1 Jen mia retpoŝtadreso.
     2 Here is my email address.
 
     1 Lia avo neniam uzas retpoŝton.
     2 His grandfather never uses email.
+
+    1 Lia retpaĝo estas en Esperanto.
+    2 His webpage is in Esperanto.
+
+    1 Tiu ligilo ne funkcias.
+    2 That link doesn't work.
+
+    # If I could, I would browse the internet all day long.
+    1 Se mi povus, mi retumus la tutan tagon.
+    2 If I could, I would browse the net the whole day.
+
+    1 Li alklakis du ligilojn.
+    2 He clicked on two links.
+
+    1 Ĉi tiu retejo havas multajn retpaĝojn.
+    2 This website has many webpages.
+
+    1 Mi trovis ĉi tiun retejon hieraŭ, kiam mi retumis.
+    2 I found this website yesterday, when I was browsing the internet.

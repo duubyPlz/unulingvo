@@ -89,7 +89,7 @@
     E: We will buy a new sofa.
 
     O: Ni manĝos en la salono.
-    E: We will eat in the living room.
+    E: We will eat in the lounge room.
 
     O: La najbaroj invitis nin rigardi ilian novan televidilon.
     E: The neighbours invited us to look at their new TV set.
@@ -304,7 +304,7 @@
     O: Mia edzino ne volas, ke mia ĉemizo pendu sur la seĝo.
     E: My wife does not want my shirt to hang on the chair.
 
-    O: Kial vi volas havi pluraj porkojn?
+    O: Kial vi volas havi plurajn porkojn?
     E: Why do you want to have several pigs?
 
     # Ŝi rigardas la bildon ĉe la muro.
