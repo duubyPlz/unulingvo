@@ -3,7 +3,7 @@
     O: La apartamento estas en la tria etaĝo.
     E: The apartment is on the third floor.
 
-    O: Ĉu vi ĉiam loĝis en tiu ĉi urbo?
+    O: Ĉu vi ĉiam loĝis en ĉi tiu urbo?
     E: Did you always live in this city?
 
     O: Ĝia hejmo estas la ĝardeno.
@@ -232,7 +232,7 @@
     O: La manĝilaro estas malbela.
     E: The cutlery is ugly.
 
-    O: Tiu ĉi ligno estas malmola.
+    O: Ĉi tiu ligno estas malmola.
     E: This wood is hard.
 
     O: Kiu purigos la banĉambron?
@@ -289,7 +289,7 @@
     O: Plafonoj ne ĉiam estas blankaj.
     E: Ceilings aren't always white.
 
-    O: Tiu ĉi virino havas plurajn ĉevalojn.
+    O: Ĉi tiu virino havas plurajn ĉevalojn.
     E: This woman has several horses.
 
     O: Kiu pentris la bildon de ŝia onklino?
