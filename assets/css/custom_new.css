@@ -1,13 +1,13 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
-@import url('https://fonts.googleapis.com/css?family=Exo:200,300,700&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Exo:200,300,400,700&subset=latin-ext');
 
 body {
   font-family: 'Exo', 'Noto Sans Japanese', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   /*background-color: #e9e9e9;*/
   background-color: #0b0f12;
   /*background-color: orange;*/
-  color: rgb(49, 233, 231);
+  color: rgba(255, 255, 255, 0.7);
   font-weight: 200;
 }
 
@@ -18,8 +18,8 @@ textarea.ja {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Exo', sans-serif;
-  font-weight: 200;
-  text-shadow: 0px 0px 3px rgb(49, 233, 231);
+  font-weight: 400;
+  /*text-shadow: 0px 0px 3px rgba(255, 255, 255, 0.7);*/
 }
 
 a.link-orange {
@@ -33,7 +33,7 @@ a.link-orange:focus {
 }
 
 a.link-white {
-  color: white;
+  color: rgba(255, 255, 255, 0.7);
 }
 
 a.link-blue:hover,
@@ -49,9 +49,11 @@ a.link-blue:focus {
   margin-left: auto;
   margin-right: auto;
   border-radius: 0;
-  border-top: solid 2px rgba(49, 233, 231, 0.3);
-  border-bottom: solid 2px rgba(49, 233, 231, 0.3);
-  background-color: rgba(19, 34, 37, 0.8);
+  border-left: solid 5px rgba(255, 255, 255, 0.2);
+  border-right: solid 5px rgba(255, 255, 255, 0.2);
+  border-top: none;
+  border-bottom: none;
+  background-color: rgba(255, 255, 255, 0.08);
 }
 
 .acc-main-panel {
@@ -87,14 +89,15 @@ a.link-blue:focus {
 }
 
 .display-text {
+  /*letter-spacing: 0.8px;*/
+  color: rgba(255, 255, 255, 0.8);
   cursor: default;
   display: inline-block;
   line-height: 26px;
-  box-shadow: 0 0 8px rgba(0,0,0,0.09);
-  border-radius: 10px;
   text-align: left;
   padding: 12px 15px;
-  border: 1px solid #ebebeb;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.2);
   height: 100px;
   width: 300px;
   margin: 30px;
@@ -104,11 +107,10 @@ a.link-blue:focus {
   cursor: default;
   display: inline-block;
   line-height: 26px;
-  box-shadow: 0 0 8px rgba(0,0,0,0.09);
-  border-radius: 10px;
   text-align: left;
   padding: 12px 15px;
-  border: 1px solid #ebebeb;
+  border: none;
+  background-color: rgba(255, 255, 255, 0.05);
   height: 100px;
   width: 300px;
   margin: 30px;
@@ -116,46 +118,53 @@ a.link-blue:focus {
 
 textarea#answer,
 textarea#flu-answer {
-  background-color: rgba(255,255,255,0);
+  letter-spacing: 0.8px;
+  color: rgba(255, 255, 255, 0.8);
   margin: 30px;
   overflow: hidden;
   word-wrap: break-word;
   resize: none;
   min-height: 100px;
   width: 300px;
-  border-radius: 10px;
-  box-shadow: inset 0 0 8px rgba(0,0,0,0.05);
-  border: 2px solid #ebebeb;
-  padding: 8px 10px;
+  background-color: rgba(0, 0, 0, 0.2);
+  padding: 12px 15px;
+  border: none;
+  border-left: solid 1px rgba(0, 0, 0, 0);
+  border-right: solid 1px rgba(0, 0, 0, 0);
 }
 
-textarea#answer.correct,
-textarea#flu-answer.correct {
-  border: 2px solid #7eb530;
-  color: #7eb530;
-  box-shadow: 0 0 8px rgba(126,181,48,0.4);
+/* placeholder colour */
+textarea#answer::-webkit-input-placeholder,
+textarea#flu-answer::-webkit-input-placeholder {
+  color: rgba(255, 255, 255, 0.4);
+}
+textarea#answer::-moz-placeholder,
+textarea#flu-answer::-moz-placeholder {
+  color: rgba(255, 255, 255, 0.4);
 }
 
 textarea#answer:focus,
 textarea#flu-answer:focus {
-  background-color: rgba(255,255,255,0.1);
+  /*background-color: rgba(28, 175, 246, 0.01);*/
+  background-color: rgba(0, 0, 0, 0.3);
   outline: none;
-  box-shadow: 0 0 20px #92e2ff;
-  border: 2px solid #1caff6;
 }
 
 textarea#answer.correct,
 textarea#flu-answer.correct {
-  border: 2px solid #7eb530;
-  color: #7eb530;
-  box-shadow: 0 0 8px rgba(126,181,48,0.4);
+  border-left: 1px solid rgba(0, 208, 0, 0.9);
+  border-right: 1px solid rgba(0, 208, 0, 0.9);
+  color: rgba(0, 208, 0, 1);
+  /*background-color: rgba(0, 208, 0, 0.05);*/
+  background-color: rgba(0, 20, 0, 0.3);
 }
 
 textarea#answer.incorrect,
 textarea#flu-answer.incorrect {
-  border: 2px solid #dd381d;
-  color: #dd381d;
-  box-shadow: 0 0 8px rgba(221,56,29,0.4);
+  border-left: 1px solid rgba(255, 0, 0, 0.9);
+  border-right: 1px solid rgba(255, 0, 0, 0.9);
+  color: rgba(255, 0, 0, 0.9);
+  background-color: rgba(20, 0, 0, 0.3);
 }
 
 textarea#acc-answer {
@@ -186,21 +195,28 @@ img.logo {
 }
 
 .btn {
-  border-radius: 100px;
+  border-radius: 0;
   min-width: 150px;
+  background: rgba(255, 255, 255, 0.025);
+  border-left: solid 2px rgba(255, 255, 255, 0.2);
+  border-right: solid 2px rgba(255, 255, 255, 0.2);
+  border-top: solid 1px rgba(255, 255, 255, 0.1);
+  border-bottom: solid 1px rgba(255, 255, 255, 0.1);
 }
 
 button.btn-green {
-  background: rgba(49, 233, 231, 0.5);
-  color: rgb(49, 233, 231);
-  border-color: rgb(49, 233, 231);
+  /*background: rgba(49, 233, 231, 0.5);*/
+  /*color: rgb(49, 233, 231);*/
+  /*border-color: rgb(49, 233, 231);*/
   font-size: 75%;
 }
 
 button.btn-nav {
-  border-radius: 2px;
   background: none;
-  border: 2px solid rgba(200, 110, 0, 1);
+  border-left: solid 2px rgba(200, 110, 0, 0.7);
+  border-right: solid 2px rgba(200, 110, 0, 0.7);
+  border-top: solid 1px rgba(200, 110, 0, 0.5);
+  border-bottom: solid 1px rgba(200, 110, 0, 0.5);
   color: rgba(200, 110, 0, 1);
   font-size: 75%;
   min-width: 100px;
@@ -221,19 +237,20 @@ button.btn-green:focus {
 
 button#skip,
 button#flu-skip {
-  background: #ccc;
-  border-color: #ccc;
-  margin-right: 5px;
+  /*background: #ccc;*/
+  /*border-color: #ccc;*/
+  margin-right: 10px;
   min-width: 80px;
 }
 
 button#randomise,
 button#flu-randomise {
-  border-color: #ccc;
-  background: #ccc;
+  /*border-color: #ccc;*/
+  /*background: #ccc;*/
   min-width: 30px;
   font-size: 12px;
   height: 33px;
+  margin-right: 5px;
   padding: 6px 10px 4px 10px;
 }
 
@@ -297,7 +314,7 @@ button#submit {
 }
 
 .ui.dropdown>.dropdown.icon:before {
-  content:">";
+  content:"\203A";
 }
 
 .navbar {
@@ -316,7 +333,7 @@ div#flu-top-bar {
 }
 
 .nav-pills {
-  margin-left: 40px;
+  margin-left: 15px;
   top: 10px;
 }
 
@@ -324,17 +341,26 @@ div#flu-top-bar {
   padding: 3px 9px 3px 9px;
   margin-right: 5px;
   cursor: pointer;
+  border-radius: 0;
 }
 
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
-  background-color: rgba(225, 135, 0, 0.8);
+/*  border-left: solid 2px rgba(225, 135, 0, 0.7);
+  border-right: solid 2px rgba(225, 135, 0, 0.7);
+  border-top: solid 1px rgba(225, 135, 0, 0.5);
+  border-bottom: solid 1px rgba(225, 135, 0, 0.5);*/
+  background-color: rgba(225, 135, 0, 0.3);
 }
 
 .nav-pills > li > a,
 .nav-pills > li > a:hover,
 .nav-pills > li > a:focus {
+  border-left: solid 2px rgba(225, 135, 0, 0);
+  border-right: solid 2px rgba(225, 135, 0, 0);
+  border-top: solid 1px rgba(225, 135, 0, 0);
+  border-bottom: solid 1px rgba(225, 135, 0, 0);
   color: rgb(195, 105, 0);
 }
 
@@ -370,12 +396,13 @@ div.popup {
 }
 
 footer.footer {
-    text-align: center;
-    color: white;
-    /*color: #777;*/
-    font-size: 80%;
-    position: relative;
-    top: 250px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.4);
+  font-weight: 200;
+  /*color: #777;*/
+  font-size: 75%;
+  position: relative;
+  top: 250px;
 }
 
 @media screen and (max-device-width: 768px)
