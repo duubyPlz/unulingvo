@@ -59,7 +59,7 @@
     O: Ni invitas la najbarojn.
     E: We are inviting the neighbours.
 
-    O: En la salono estas du grandaj sofoj.
+    O: Estas du grandaj sofoj en la salono.
     E: There are two large sofas in the lounge room.
 
     O: Mi aĉetis ege bonan monujon en Eŭropo.
