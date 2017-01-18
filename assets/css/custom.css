@@ -374,7 +374,7 @@ div#flu-top-bar {
 }
 
 .nav-pills {
-  margin-left: 15px;
+  margin-left: 25px;
   top: 10px;
 }
 
@@ -384,6 +384,7 @@ div#flu-top-bar {
   cursor: pointer;
   border-radius: 0;
   transition:.3s;
+  font-size: 90%;
 }
 
 .nav-pills > li.active > a,
