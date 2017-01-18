@@ -51,7 +51,8 @@
     O: Li loĝas en apartamento.
     E: He lives in an apartment.
 
-    O: En la urbo oni trovos pli da bildo ol da arboj.
+    # En la urbo oni trovos pli da domoj ol da arboj.
+    O: En la urbo vi trovos pli da domoj ol da arboj.
     E: In the city you will find more houses than trees.
 
 > Two
