@@ -2,8 +2,6 @@
 
 TODO
 mobile
-  * correct/incorrect border fix
-  * font colours brighter
   * choose brighter background colours
 
 desktop
@@ -468,6 +466,7 @@ footer.footer {
 @media screen and (max-device-width: 768px)
               and (orientation: portrait) {
   body {
+    font-weight: 400;
     font-size: 380%;
   }
   
@@ -509,6 +508,7 @@ footer.footer {
     padding: 30px 40px;
     height: 300px;
     line-height: 120%;
+    border-radius: 0;
   }
 
   textarea#answer,
@@ -522,6 +522,7 @@ footer.footer {
     margin-top: 0;
     padding: 30px 40px;
     height: 300px;
+    border-radius: 0;
   }
 
   textarea#acc-answer {
@@ -530,6 +531,18 @@ footer.footer {
     height: 80px;
     padding: 10px 20px 10px 20px;
     width: 700px;
+  }
+
+  textarea#answer.correct,
+  textarea#flu-answer.correct {
+    border-left: 5px solid rgba(0, 208, 0, 0.9);
+    border-right: 5px solid rgba(0, 208, 0, 0.9);
+  }
+
+  textarea#answer.incorrect,
+  textarea#flu-answer.incorrect {
+    border-left: 5px solid rgba(255, 0, 0, 0.9);
+    border-right: 5px solid rgba(255, 0, 0, 0.9);
   }
 
   button.btn-nav {
