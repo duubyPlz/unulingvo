@@ -153,7 +153,7 @@ textarea#answer.incorrect,
 textarea#flu-answer.incorrect {
   border-left: 1px solid rgba(255, 0, 0, 0.9);
   border-right: 1px solid rgba(255, 0, 0, 0.9);
-  color: rgba(255, 0, 0, 0.9);
+  color: rgba(255, 0, 0, 1);
   background-color: rgba(20, 0, 0, 0.3);
 }
 
