@@ -498,6 +498,7 @@ footer.footer {
 
   .display-text,
   .flu-display-text {
+    font-weight: 400;
     font-size: 80%;
     display: block;
     position: relative;
@@ -513,6 +514,7 @@ footer.footer {
 
   textarea#answer,
   textarea#flu-answer {
+    font-weight: 400;
     font-size: 80%;
     display: block;
     position: relative;
