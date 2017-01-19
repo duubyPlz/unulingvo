@@ -198,6 +198,7 @@
     O: Vi lavos la bantukojn.
     E: You will wash the towels.
 
+    # Mi rigardas min mem en la spegulo.
     O: Mi rigardas min en la spegulo.
     E: I look at myself in the mirror.
 

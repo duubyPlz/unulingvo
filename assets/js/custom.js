@@ -58,7 +58,6 @@ $('#duoButton').on('click', function() {
             display(false);
         }, 1000);
 
-
         setTimeout(function() {
             duo.show();
             // show the next module
