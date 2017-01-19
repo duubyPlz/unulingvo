@@ -57,3 +57,11 @@
 
     1 Mi trovis ĉi tiun retejon hieraŭ, kiam mi retumis.
     2 I found this website yesterday, when I was browsing the internet.
+
+    1 Sofia, ĉu vi povus trovi la retejon por mi?
+    2 Sofia, could you find the website for me?
+
+    1 retpoŝtadreso
+    2 email address
+
+    

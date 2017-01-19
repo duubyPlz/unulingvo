@@ -18,6 +18,7 @@ body {
   background-color: #0b0f12;
   color: rgba(255, 255, 255, 0.9);
   font-weight: 200;
+  overflow-x: auto;
 }
 
 ::-moz-selection {
@@ -474,6 +475,7 @@ footer.footer {
   }
 
   .main-panel {
+    background-color: rgba(255, 255, 255, 0.1);
     top: 0;
     width: 100%
   }
@@ -496,6 +498,7 @@ footer.footer {
 
   .display-text,
   .flu-display-text {
+    background-color: rgba(0, 0, 0, 0.4);
     font-weight: 400;
     font-size: 80%;
     display: block;
@@ -512,6 +515,7 @@ footer.footer {
 
   textarea#answer,
   textarea#flu-answer {
+    background-color: rgba(0, 0, 0, 0.4);
     font-weight: 400;
     font-size: 80%;
     display: block;
@@ -523,6 +527,13 @@ footer.footer {
     padding: 30px 40px;
     height: 300px;
     border-radius: 0;
+  }
+
+  textarea#answer:hover,
+  textarea#answer:focus,
+  textarea#flu-answer:hover,
+  textarea#flu-answer:focus {
+    background-color: rgba(0, 0, 0, 0.6);
   }
 
   textarea#acc-answer {
@@ -576,6 +587,7 @@ footer.footer {
   }
 
   .ui.selection.dropdown {
+    background-color: rgba(255, 255, 255, 0.1);
     height: 80px;
     border-radius: 0px;
     width: 55%;
