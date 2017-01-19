@@ -733,6 +733,19 @@ footer.footer {
     position: relative;
     top: 200px;
   }
+
+  .circle {
+    width: 90px;
+    height: 90px;
+    border-width: 10px;
+  }
+
+  .circle1 {
+    width: 60px;
+    height: 60px;
+    border-width: 10px;
+    top: -110px;
+  }
 }
 
 @media screen and (max-device-width: 768px)
