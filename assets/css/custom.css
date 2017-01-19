@@ -545,12 +545,14 @@ footer.footer {
   textarea#flu-answer.correct {
     border-left: 5px solid rgba(0, 208, 0, 0.9);
     border-right: 5px solid rgba(0, 208, 0, 0.9);
+    background-color: rgba(0, 40, 0, 0.5);
   }
 
   textarea#answer.incorrect,
   textarea#flu-answer.incorrect {
     border-left: 5px solid rgba(255, 0, 0, 0.9);
     border-right: 5px solid rgba(255, 0, 0, 0.9);
+    background-color: rgba(40, 0, 0, 0.5);
   }
 
   .btn {
@@ -753,12 +755,14 @@ footer.footer {
   textarea#flu-answer.correct {
     border-left: 5px solid rgba(0, 208, 0, 0.9);
     border-right: 5px solid rgba(0, 208, 0, 0.9);
+    background-color: rgba(0, 40, 0, 0.5);
   }
 
   textarea#answer.incorrect,
   textarea#flu-answer.incorrect {
     border-left: 5px solid rgba(255, 0, 0, 0.9);
     border-right: 5px solid rgba(255, 0, 0, 0.9);
+    background-color: rgba(40, 0, 0, 0.5);
   }
 
   .btn {
