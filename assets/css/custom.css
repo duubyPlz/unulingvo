@@ -1,9 +1,6 @@
 /*
 
 TODO
-mobile
-  * choose brighter background colours
-
 desktop
   * still something wrong with the incorrect text colour? changes after clicking on flu
 
@@ -656,6 +653,7 @@ footer.footer {
     left: 0;
     display:inline-block;
     transform: rotate(90deg);
+    margin: 0;
   }
 
   footer.footer {
