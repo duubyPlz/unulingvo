@@ -475,7 +475,7 @@ footer.footer {
   }
 
   .main-panel {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.17);
     top: 0;
     width: 100%
   }
@@ -498,7 +498,7 @@ footer.footer {
 
   .display-text,
   .flu-display-text {
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.5);
     font-weight: 400;
     font-size: 80%;
     display: block;
@@ -515,7 +515,7 @@ footer.footer {
 
   textarea#answer,
   textarea#flu-answer {
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.5);
     font-weight: 400;
     font-size: 80%;
     display: block;
@@ -556,8 +556,21 @@ footer.footer {
     border-right: 5px solid rgba(255, 0, 0, 0.9);
   }
 
+  .btn {
+    background: rgba(255, 255, 255, 0.09);
+  }
+
+  .btn:hover,
+  .btn:focus {
+    background: rgba(255, 255, 255, 0.13);
+  }
+
   button.btn-nav {
     font-size: 70%;
+  }
+
+  button.btn-green {
+    color: rgba(0, 208, 0, 0.9);
   }
 
   button#submit {
@@ -587,13 +600,23 @@ footer.footer {
   }
 
   .ui.selection.dropdown {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.17);
     height: 80px;
     border-radius: 0px;
     width: 55%;
     font-size: 40px;
     bottom: 10px;
     padding: 20px;
+  }
+
+  .ui.selection.dropdown:hover,
+  .ui.selection.dropdown:focus,
+  .ui.selection.dropdown:active,
+  .ui.selection.dropdown.active,
+  .ui.selection.dropdown.active:hover,
+  .ui.selection.dropdown.active:focus,
+  .ui.selection.dropdown.active:active {
+    background-color: rgba(255, 255, 255, 0.19);
   }
 
 /*  .ui.selection.dropdown .menu>.item {
