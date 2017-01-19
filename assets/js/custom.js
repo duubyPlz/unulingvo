@@ -1,8 +1,8 @@
 // TODO:
+// * add LOADER to all loading phases
 // * alternative answers
 //     * implement parsing of custom regex [|]
 //     * collect alternate translations
-// * dropdown to bootstrap
 // * populate older topics w/ more data
 // * refactor flu (e.g. global bool flag)
 //     * have a keypress for randomisation
