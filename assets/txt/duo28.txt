@@ -64,4 +64,98 @@
     1 retpoŝtadreso
     2 email address
 
-    
+    1 Mi sendus al vi retmesaĝon, se vi dirus al mi, kio estas via retpoŝtadreso.
+    2 I would send you an email, if you would tell me what your email address is.
+
+> Three
+    1 Bonvolu meti tion en dosierujon.
+    2 Please put that in a folder.
+
+    1 Tiu ludanto bezonas ŝanĝi sian kaŝnomon.
+    2 That player needs to change their nickname.
+
+    1 Laŭ mi, la interreto bonas por Esperanto.
+    2 In my opinion, the internet is good for Esperanto.
+
+    1 Se li povus tajpi pli rapide, ĉu vi dungus lin?
+    2 If he could type faster, would you hire him?
+
+    1 Kiom da dosieroj estas en la dosierujo?
+    2 How many files are in the folder?
+
+    1 Ludantoj devas akcepti la regulojn de la ludo.
+    2 Players must accept the rules of the game.
+
+    1 Esperanto bonas.
+    2 Esperanto is good.
+
+> Four
+    1 Mi havas komputilon, klavaron, kaj muson.
+    2 I have a computer, a keyboard, and a mouse.
+
+    1 Ni alŝutis belajn fotojn.
+    2 We uploaded beautiful photos.
+
+    1 Mi devas elsaluti la babilejon.
+    2 I have to log out of the chatroom.
+
+    1 Kiun retumilon vi uzas?
+    2 Which web browser do you use?
+
+    # I do tho.
+    1 Mi ne ŝatas erari.
+    2 I don't like to make mistakes.
+
+    # If I were to have a lot of money, I would be rich!
+    1 Se mi havus multe da mono, mi estus riĉa!
+    2 If I had a lot of money, I would be rich!
+
+    1 La retumilo ne funkcias.
+    2 The web browser doesn't work.
+
+    1 Se mi havus komputilon, mi povus uzi la babilejon.
+    2 If I had a computer, I could use the chatroom.
+
+    1 Mi ne komprenas, kiel uzi vian retumilon.
+    2 I do not understand how to use your browser.
+
+    1 Se mi havus klavaron, mi povus uzi tiun ĉi komputilon.
+    2 If I had a keyboard, I could use this computer.
+
+    1 Estus bone, se la estraro povus progresi.
+    2 It would be good if the board of directors could make progress.
+
+    1 Se mi havus kaŝnomon, mi estus feliĉa.
+    2 If I had a nickname, I would be happy.
+
+    1 Mi tajpas rapide per komputila klavaro.
+    2 I type fast on a computer keyboard
+
+> Five
+    1 Mi havas kelkajn problemojn pri tiu programo.
+    2 I have some problems with that program.
+
+    1 Kio estas via uzantnomo?
+    2 What is your username?
+
+    2 Ĉu vi ĝuas retumi?
+    2 Do you enjoy browsing the internet?
+
+    1 Mi ŝatus trinkaĵon.
+    2 I would like a drink.
+
+    1 Se via uzantnomo estus pli bela, mi ŝatus ĝin.
+    2 If your username were more beautiful, I would like it.
+
+    1 Tiu programo funkcias tre bone.
+    2 That program works very well.
+
+    1 Sofia ĝuas babili kun Adamo en la babilejo.
+    2 Sofia enjoys chatting with Adamo in the chat room.
+
+    1 Se ŝi havus sufiĉe da mono, ŝi ne havus problemojn.
+    2 If she had enough money, she would not have problems.
+
+    # ?? could or would?
+    1 Se mi havus tempon, mi povus ensaluti.
+    2 If I had time, I could log in.
