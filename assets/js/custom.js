@@ -52,8 +52,8 @@ $('#duoButton').on('click', function() {
 
         // init duo
         selectedModule = $('select#contents-' + language).val();
+        display_loader(false);
         parse(selectedModule, language);
-
         setTimeout(function () {
             display(false);
         }, 1000);
@@ -85,6 +85,7 @@ $('#fluButton').on('click', function() {
         $('#flu').parent().show();
         selectedModule = $('#flu').val();
 
+        display_loader(true);
         parse(selectedModule, 'flu');
         setTimeout(function () {
             display(true);
@@ -163,8 +164,8 @@ $('.nav-pills li').on('click', function() {
         if (!$.isNumeric(selectedModule)) {
             $.error("Selected module isn't a valid one: " + selectedModule);
         }
+        display_loader(false);
         parse(selectedModule, language);
-
         var correctEO = "";
         setTimeout(function () {
             display(false);
@@ -185,6 +186,7 @@ $('select#contents-eo, select#contents-ja').change(function() {
     if (!$.isNumeric(selectedModule)) {
         $.error("Selected module isn't a valid one: " + selectedModule);
     }
+    display_loader(false);
     parse(selectedModule, language);
     setTimeout(function () {
         display(false);
@@ -197,6 +199,7 @@ $('select#flu').change(function() {
     if (!$.isNumeric(selectedModule)) {
         $.error("Selected module isn't a valid one: " + selectedModule);
     }
+    display_loader(true);
     parse(selectedModule, 'flu');
     setTimeout(function () {
         display(true);
@@ -223,6 +226,7 @@ $('button#randomise').click(function() {
     }
     selectedModule = random;
 
+    display_loader(false);
     parse(selectedModule, language);
     setTimeout(function () {
         display(false);
@@ -237,6 +241,7 @@ $('button#flu-randomise').click(function() {
     $('#flu').dropdown('set selected', random);
     selectedModule = random;
 
+    display_loader(true);
     parse(selectedModule, 'flu');
     setTimeout(function () {
         display(true);
@@ -354,6 +359,15 @@ function parse(module, language) {
         }, 'text');
     } catch (e) {
         console.warn(e);
+    }
+}
+
+function display_loader(isFlu) {
+    var loader = '<br><br><div class="circle"></div><div class="circle1"></div>';
+    if(isFlu) {
+        $('.flu-display-text').html(loader);
+    } else {
+        $('.display-text').html(loader);
     }
 }
 

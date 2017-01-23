@@ -26,6 +26,12 @@
     1 Mi devus tuj elsaluti.
     2 I should sign out now.
 
+    1 Vi devus ensaluti.
+    2 You should log in.
+
+    1 Ĝis tiam.
+    2 Until then.
+
 > Two
     1 Mi alklakis la ligilon.
     2 I clicked on the link.
@@ -67,6 +73,27 @@
     1 Mi sendus al vi retmesaĝon, se vi dirus al mi, kio estas via retpoŝtadreso.
     2 I would send you an email, if you would tell me what your email address is.
 
+    1 Kiel oni elŝutas foton de tiu retpaĝo?
+    2 How does one download a photo from that webpage?
+
+    1 Se vi ne havus ĉi tiun, vi povus elŝuti ĝin nun.
+    2 If you did not have this one, you could download it now.
+
+    1 Se la foto estus pli bela, mi elŝutus ĝin.
+    2 If the photo were more beautiful, I would download it.
+
+    1 Ĉu vi ne legis mian retmesaĝon?
+    2 Have you not read my email?
+
+    1 Kiam mi retumas, mi trovas multajn interesajn aferojn.
+    2 When I surf the internet, I find many interesting things.
+
+    1 Ekde kiam vi uzas retpoŝton?
+    2 Since when do you use email?
+
+    1 Ĉu vi povus sendi ĝin per retpoŝto?
+    2 Could you send it by email?
+
 > Three
     1 Bonvolu meti tion en dosierujon.
     2 Please put that in a folder.
@@ -88,6 +115,10 @@
 
     1 Esperanto bonas.
     2 Esperanto is good.
+
+    1 Kio estas en la dosierujo?
+    2 What is in the folder?
+
 
 > Four
     1 Mi havas komputilon, klavaron, kaj muson.
@@ -130,6 +161,15 @@
 
     1 Mi tajpas rapide per komputila klavaro.
     2 I type fast on a computer keyboard
+
+    1 Se mi havus uzantnomon, mi povus ensaluti.
+    2 If I had a username, I could log in.
+
+    1 Mi alŝutas dosieron kaj vi elŝutos ĝin poste.
+    2 I upload a file and you will download it later.
+
+    1 Se mi estus aktoro, mi povus roli en teatraĵo.
+    2 If I were an actor, I could perform in a play.
 
 > Five
     1 Mi havas kelkajn problemojn pri tiu programo.
