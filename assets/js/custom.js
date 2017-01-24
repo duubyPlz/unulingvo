@@ -1,5 +1,4 @@
 // TODO:
-// * add LOADER to all loading phases
 // * alternative answers
 //     * implement parsing of custom regex [|]
 //     * collect alternate translations
