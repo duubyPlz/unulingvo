@@ -1,4 +1,7 @@
 // TODO:
+// * compare every word:
+//     * split both answer & user input by /\s+/, compare every element
+//     * if different, "bold" the word
 // * alternative answers
 //     * implement parsing of custom regex [|]
 //     * collect alternate translations
