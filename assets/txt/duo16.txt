@@ -178,7 +178,7 @@
     E: I hope you want that.
 
     O: Via libro estas mirinda!
-    E: You book is amazing!
+    E: Your book is amazing!
 
     O: Ili ĉiam estas feliĉaj.
     E: They are always happy.
