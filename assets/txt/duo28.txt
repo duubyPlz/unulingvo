@@ -219,7 +219,7 @@
     O: Kio estas via uzantnomo?
     E: What is your username?
 
-    E: Ĉu vi ĝuas retumi?
+    O: Ĉu vi ĝuas retumi?
     E: Do you enjoy browsing the internet?
 
     O: Mi ŝatus trinkaĵon.
