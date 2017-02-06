@@ -24,7 +24,7 @@
     E: Did you forget your password?
 
     O: Mi devus tuj elsaluti.
-    E: I should sign out now.
+    E: I should sign out immediately.
 
     O: Vi devus ensaluti.
     E: You should log in.

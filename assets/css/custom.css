@@ -7,6 +7,9 @@ desktop
   * dropdown active placeholder? font colour
   * hide corners to make irregular shapes
 
+mobile
+  * randomise button size
+
 */
 
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
@@ -463,8 +466,8 @@ footer.footer {
 }
 
 /*== START LOADER ==*/
-/*https://codepen.io/trakout/pen/rKnfo*/
-/*original colours: border rgba(0,183,229,0.9) box-shadow #2187e7 rgb(33, 135, 231) */
+/* https://codepen.io/trakout/pen/rKnfo */
+/* original colours: border rgba(0,183,229,0.9) box-shadow #2187e7 rgb(33, 135, 231) */
 .circle {
     background-color: rgba(0,0,0,0);
     border:5px solid rgba(255, 165, 0, 0.9);
@@ -520,7 +523,6 @@ footer.footer {
     0% { -webkit-transform:rotate(0deg); }
     100% { -webkit-transform:rotate(360deg); }
 }
-
 /*== END LOADER ==*/
 
 @media screen and (max-device-width: 768px)
