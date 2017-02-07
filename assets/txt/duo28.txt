@@ -173,7 +173,7 @@
     O: Mi ne komprenas, kiel uzi vian retumilon.
     E: I do not understand how to use your browser.
 
-    O: Se mi havus klavaron, mi povus uzi tiun ĉi komputilon.
+    O: Se mi havus klavaron, mi povus uzi ĉi tiun komputilon.
     E: If I had a keyboard, I could use this computer.
 
     O: Estus bone, se la estraro povus progresi.
