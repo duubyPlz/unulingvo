@@ -1,74 +1,209 @@
-== 基本一 ==
+== Hiragana O: ==
 > One
-    O: 一人の男性。
-    E: A man.
+    O: いち
+    E: One
 
-    O: 彼は太郎です。
-    E: He is Taro.
-
-    O: 私は太郎です。
-    E: I am Taro.
-
-    # 彼は男性です。
-    O: 彼は男性の人です。
-    E: He is a man.
-
-    O: 太郎は少年です。
-    E: Taro is a boy.
-
-    O: 彼は少年です。
-    E: He is a boy.
-
-    O: 僕は男の子です。
-    E: I am a boy.
+    O: に
+    E: Two
 
 > Two
-    O: 私は食べます。
-    E: I eat.
+    O: さん
+    E: Three
 
-    O: 私は歩きます。
-    E: I walk.
-
-    # その... = the
-    O: 少年は歩きます。
-    E: A boy walks.
-
-    O: あなたは歩きます。
-    E: You walk.
-
-    O: 太郎と私は食べます。
-    E: Taro and I eat.
-
-    O: 私たちは食べます。
-    E: We eat.
-
-    O: 彼は歩きます。
-    E: He walks.
-
-    O: 太郎は歩きます。
-    E: Taro walks.
-
-    O: 私たちは歩きます。
-    E: We walk.
-
-    O: あなたと私は歩きます。
-    E: You and I walk.
+    O: よん
+    E: Four
 
 > Three
-    O: あなたは水を飲みます。
-    E: You drink water.
+    O: ろく
+    E: Six
 
-    O: あなたはリンゴを食べます。
-    E: You eat an apple.
+    O: なな
+    E: Seven
 
-    O: 私は牛乳を飲みます。
-    E: I drink milk.
+> Four
+    # おはようございます
+    O: おはよう
+    E: Good morning
 
-    O: 私たちは一つのリンゴを食べる。
-    E: We eat one apple.
+    O: はい
+    E: Yes
 
-    O: 私たちは水を飲みます。
-    E: We drink water.
+> Five
+    O: しろ
+    E: White
 
-    O: あなたは牛乳を飲みます。
-    E: You drink milk.
+    O: あか
+    E: Red
+
+    O: あお
+    E: Blue
+
+== Hiragana E: ==
+> One
+    O: よる
+    E: Night
+
+    O: よむ
+    E: Read
+
+    O: きる
+    E: Wear
+
+> Two
+    O: やさい
+    E: Vegetables
+
+    O: おさけ
+    E: Alcohol
+
+    O: のむ
+    E: Drink
+
+> Three
+    O: すき
+    E: Like
+
+    O: てりやき
+    E: Teriyaki
+
+    O: すし
+    E: Sushi
+
+> Four
+    O: あまい
+    E: Sweet
+
+    O: ほしい
+    E: Want
+
+    O: きたない
+    E: Dirty
+
+> Five
+    O: こんにちは
+    E: Hello
+
+    O: さようなら
+    E: Bye
+
+    O: わたし
+    E: Me
+
+== Hiragana 3 ==
+> One
+    O: いぬ
+    E: Dog
+
+    O: ねこ
+    E: Cat
+
+    O: とり
+    E: Bird
+
+> Two
+    O: せなか
+    E: Back
+
+    O: みみ
+    E: Ear
+
+    O: め
+    E: Eye
+
+> Three
+    O: なつ
+    E: Summer
+
+    O: ふゆ
+    E: Winter
+
+> Four
+    O: くもり
+    E: Cloudy
+
+    O: はれ
+    E: Sunny
+
+    O: ひる
+    E: Daytime
+
+> Five
+    O: いえ
+    E: House
+
+    O: へや
+    E: Room
+
+    O: そと
+    E: Outside
+
+== Hiragana 4 ==
+> One
+    O: まんが
+    E: Manga
+
+    O: ぎんこう
+    E: Bank
+
+> Two
+    O: えもじ
+    E: Emoji
+
+    O: ちず
+    E: Map
+
+    O: かぜ
+    E: Wind
+
+> Three
+    O: くだもの
+    E: Fruit
+
+    O: でんわ
+    E: Phone
+
+> Four
+    O: かばん
+    E: Bag
+
+    O: べんとう
+    E: Obento
+
+> Five
+    O: えんぴつ
+    E: Pencil
+
+    O: てんぷら
+    E: Tempura
+
+> Six
+    O: おちゃ
+    E: Green tea
+
+    O: ぎゅうにゅう
+    E: Milk
+
+    O: とうきょう
+    E: Tokyo
+
+> Seven
+    O: なっとう
+    E: Natto
+
+    O: がっこう
+    E: School
+
+    O: きっぷ
+    E: Ticket
+
+== Introduction ==
+> One
+    O: アメリカ
+    E: USA
+
+> Two
+    O: マリア
+    E: Maria
+
+    O: ジョン
+    E: John

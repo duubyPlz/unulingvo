@@ -1,47 +1,183 @@
+# ||
 == Adverbs ==
 > One
-    1 Do, precize kiam?
-    2 So, exactly when?
+    O: Do, precize kiam?
+    E: So, exactly when?
 
-    1 Tiu granda birdo subite kaptis la insekton.
-    2 That big bird suddenly caught the insect.
+    O: Tiu granda birdo subite kaptis la insekton.
+    E: That big bird suddenly caught the insect.
 
-    1 Mi helpos vin farti pli bone.
-    2 I will help you feel better.
+    O: Mi helpos vin farti pli bone.
+    E: I will help you feel better.
 
-    1 Mi bezonos kvar ovojn por la kuko.
-    2 I will need four eggs for the cake.
+    O: Mi bezonos kvar ovojn por la kuko.
+    E: I will need four eggs for the cake.
 
-    1 Ni ne vivas eterne.
-    2 We don't live forever.
+    O: Ni ne vivas eterne.
+    E: We don't live forever.
 
-    1 Sofia esperas, ke Adamo baldaŭ revenos.
-    2 Sofia hopes that Adamo will come back soon.
+    O: Sofia esperas, ke Adamo baldaŭ revenos.
+    E: Sofia hopes that Adamo will come back soon.
 
-    1 Ili almenaŭ dormis.
-    2 They at least slept.
+    O: Ili almenaŭ dormis.
+    E: They at least slept.
+
+    O: Mi havas almenaŭ ses seĝojn en mia domo.
+    E: I have at least six chairs in my house.
+
+    O: Do, ĉu vi amas lin?
+    E: So, do you love him?
+
+    O: Ili eterne parolas.
+    E: They talk eternally.
+
+    O: Mi subite sciis, ke mi amas ŝin.
+    E: I suddenly knew that I love her.
+
+    O: Kato kaptis muson.
+    E: A cat caught a mouse.
 
 > Two
-    1 Pro manko de mono, mi apenaŭ povas vojaĝi.
-    2 Because of the lack of money I hardly can travel.
+    O: Pro manko de mono, mi apenaŭ povas vojaĝi.
+    E: Because of the lack of money I hardly can travel.
 
-    1 Mi preferas puran domon, tamen.
-    2 I prefer a clean house, however.
+    O: Mi preferas puran domon, tamen mi ne volas purigi ĝin.
+    E: I prefer a clean house, however I do not want to clean it.
 
-    1 Eĉ mi povas lerni ĉi tiun lingvon.
-    2 Even I can learn this language.
+    O: Eĉ mi povas lerni ĉi tiun lingvon.
+    E: Even I can learn this language.
 
-    1 Ŝia monujo estas preskaŭ malplena.
-    2 Her wallet is nearly empty.
+    O: Ŝia monujo estas preskaŭ malplena.
+    E: Her wallet is nearly empty.
 
-    1 Mi ne plu bezonas labori.
-    2 I no longer need to work.
+    O: Mi ne plu bezonas labori.
+    E: I no longer need to work.
 
-    1 Mia patro kutime laboras po kvardek horoj semajne.
-    2 My father generally works forty hours weekly.
+    O: Mia patro kutime laboras po kvardek horoj semajne.
+    E: My father generally works forty hours weekly.
 
-    1 Mi unuafoje aŭdis Esperanton en Usono.
-    2 I heard esperanto for the first time in USA.
+    O: Mi unuafoje aŭdis Esperanton en Usono.
+    E: I heard esperanto for the first time in USA.
+
+    O: Vi ne plu povas labori ĉi tie.
+    E: You can no longer work here.
+
+    O: Ŝi kutime legas po du libroj monate.
+    E: She usually reads two books each month.
+
+    O: Estis preskaŭ la sepa kaj duono, kiam li alvenis.
+    E: It was almost seven thirty when he arrived.
+
+    # Li kutime manĝas tagmanĝon tagmeze.
+    O: Li kutime tagmanĝas je tagmezo.
+    E: He usually eats lunch at noon.
+
+    O: Kvankam ŝi ne parolas la japanan, ŝi tamen parolas la ĉinan.
+    E: Although she does not speak Japanese, she does however speak Chinese.
+
+    O: Mi apenaŭ povas aŭdi vin.
+    E: I can hardly hear you.
+
+    O: Mi unuafoje renkontis lin en Pollando.
+    E: I met him for the first time in Poland.
+
+    O: Pro manko de akvo ni ne povis kuiri.
+    E: Due to lack of water we couldn't cook.
+
+    O: Ŝi apenaŭ povis fini sian laboron pro manko de tempo.
+    E: She could hardly finish her work for lack of time.
 
 > Three
-    
+    O: Estas varme.
+    E: It's warm.
+
+    O: Finfine!
+    E: Finally!
+
+    O: Ĉu vere?
+    E: Really?
+
+    O: Estas facile manĝi ĉokoladon.
+    E: It's easy to eat chocolate.
+
+    O: Mia instruisto estas aparte bona.
+    E: My teacher is especially good.
+
+    O: Li ne perfekte vidas.
+    E: He doesn't see perfectly.
+
+    # "Foje" is officially ambiguous. Sometimes it means "unufoje". Sometimes it means "kelkfoje." Best to avoid it.
+    # https://lernu.net/eo/forumo/temo/9E:E:E:
+    O: Foje ni pravas kaj foje ni malpravas.
+    E: Sometimes we are right and sometimes we are wrong.
+
+    O: Mia fratino finfine lernis la anglan.
+    E: My sister finally learned English.
+
+    O: Tio estas vere bela.
+    E: That is really beautiful.
+
+    O: Mia avino perfekte parolis la ĉinan.
+    E: My grandmother perfectly spoke Chinese.
+
+    O: Mi foje timas hundojn.
+    E: I am sometimes scared of dogs.
+
+    O: Lerni lingvon foje estas facile.
+    E: Learning a language is sometimes easy.
+
+    O: Mi ŝatas fruktojn sed mi aparte ŝatas fragojn.
+    E: I like fruit, but I especially like strawberries.
+
+> Four
+    O: Dufoje li alvenis malfrue.
+    E: Twice he came late.
+
+    O: Mi precipe manĝas legomojn.
+    E: I mainly eat vegetables.
+
+    O: Miaj geavoj loĝas malproksime de ni.
+    E: My grandparents live far away from us.
+
+    O: Mi lernis la francan malbone.
+    E: I learnt French badly.
+
+    O: Ambaŭ lingvoj estas malfacilaj.
+    E: Both languages are hard.
+
+    O: Vi estas la malplej juna el ni.
+    E: You are the least young out of us.
+
+    O: Mi aktuale lernas Esperanton.
+    E: I currently learn Esperanto.
+
+    O: Ĉu ŝi fartis bone hieraŭ?
+    E: Did she feel well yesterday?
+
+    O: Eble vi fartos pli bone morgaŭ.
+    E: Maybe you will feel better tomorrow.
+
+> Five
+    # Ili komprenas unu la alian.
+    O: Ili sin komprenas reciproke.
+    E: They understand each other.
+
+    # taksi - rate, appraise, estimate; pensi - ponder,  contemplate, ruminate
+    O: Adamo taksas, ke estas danĝere.
+    E: Adamo thinks that it is dangerous.
+
+    O: Kio alia?
+    E: What else?
+
+    O: Ni pensas alie.
+    E: We think otherwise.
+
+    O: Mi perdis ĝin en la parko.
+    E: I lost it in the park.
+
+    O: La infano parolas normale.
+    E: The child speaks normally.
+
+    O: Miaj geavoj havas proksimume dudek genepojn.
+    E: My grandparents have approximately twenty grandchildren.
+
