@@ -6,8 +6,7 @@
     O: はじめまして、ジョンです。
     E: Nice to meet you, I'm John.
 
-    # ~だ
-    # ~である
+    # ~だ, ~である
     O: アメリカ人です。
     E: I'm American.
 
@@ -15,26 +14,26 @@
     E: I come from America.
 
 > Five
-    1 日本
-    2 Japan
+    O: 日本
+    E: Japan
 
-    1 中国人です。
-    2 I'm Chinese.
+    O: 中国人です。
+    E: I'm Chinese.
 
-    1 マリアといいます。
-    2 I'm Maria.
+    O: マリアといいます。
+    E: I'm Maria.
 
-    1 はじめまして、田中です。
-    2 Nice to meet you, I'm Tanaka.
+    O: はじめまして、田中です。
+    E: Nice to meet you, I'm Tanaka.
 
-    1 マリアさんは中国しゅっしんです。
-    2 Ms. Maria is from China.
+    O: マリアさんは中国しゅっしんです。
+    E: Ms. Maria is from China.
 
-    1 はじめまして、ジョンといいます。
-    2 Nice to meet you, I'm John.
+    O: はじめまして、ジョンといいます。
+    E: Nice to meet you, I'm John.
 
-    1 マリアさんは中国人です。
-    2 Ms. Maria is Chinese.
+    O: マリアさんは中国人です。
+    E: Ms. Maria is Chinese.
 
-    1 タナカさんは日本人です。
-    2 Mr. Tanaka is Japanese.
+    O: タナカさんは日本人です。
+    E: Mr. Tanaka is Japanese.
