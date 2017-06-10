@@ -28,7 +28,7 @@
     O: Do, ĉu vi amas lin?
     E: So, do you love him?
 
-    O: Ili eterne parolas.
+    O: Ili parolas eterne.
     E: They talk eternally.
 
     O: Mi subite sciis, ke mi amas ŝin.
@@ -54,7 +54,7 @@
     E: I no longer need to work.
 
     O: Mia patro kutime laboras po kvardek horoj semajne.
-    E: My father generally works forty hours weekly.
+    E: My father normally works forty hours weekly.
 
     O: Mi unuafoje aŭdis Esperanton en Usono.
     E: I heard esperanto for the first time in USA.
@@ -103,7 +103,7 @@
     O: Mia instruisto estas aparte bona.
     E: My teacher is especially good.
 
-    O: Li ne perfekte vidas.
+    O: Li ne vidas perfekte.
     E: He doesn't see perfectly.
 
     # "Foje" is officially ambiguous. Sometimes it means "unufoje". Sometimes it means "kelkfoje." Best to avoid it.
