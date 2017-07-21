@@ -50,7 +50,7 @@ $('#duoButton').on('click', function() {
     if (duo.is(':visible')) {
        // do nothing 
     } else if (flu.is(':visible')) {
-        flu.addClass('animated bounceOutUp');
+        flu.addClass('animated fadeOut');
 
         // init duo
         selectedModule = $('select#contents-' + language).val();
@@ -65,11 +65,11 @@ $('#duoButton').on('click', function() {
             // show the next module
             flu.hide();
             if (duo.is(':visible')) {
-                duo.addClass('animated bounceInDown');
-                flu.removeClass('animated bounceOutUp');
+                duo.addClass('animated fadeIn');
+                flu.removeClass('animated fadeOut');
             } else if (flu.is(':visible')) {
-                flu.addClass('animated bounceInDown');
-                duo.removeClass('animated bounceOutUp');
+                flu.addClass('animated fadeIn');
+                duo.removeClass('animated fadeOut');
             }
         }, 760);
     }
@@ -81,7 +81,7 @@ $('#fluButton').on('click', function() {
     if (flu.is(':visible')) {
        // do nothing 
     } else if (duo.is(':visible')) {
-        duo.addClass('animated bounceOutUp');
+        duo.addClass('animated fadeOut');
 
         // init flu
         $('#flu').parent().show();
@@ -98,11 +98,11 @@ $('#fluButton').on('click', function() {
             // show the next module
             duo.hide();
             if (duo.is(':visible')) {
-                duo.addClass('animated bounceInDown');
-                flu.removeClass('animated bounceOutUp');
+                duo.addClass('animated fadeIn');
+                flu.removeClass('animated fadeOut');
             } else if (flu.is(':visible')) {
-                flu.addClass('animated bounceInDown');
-                duo.removeClass('animated bounceOutUp');
+                flu.addClass('animated fadeIn');
+                duo.removeClass('animated fadeOut');
             }
         }, 760);
     }
@@ -113,20 +113,20 @@ $('#fluButton').on('click', function() {
 //     var duo = $('#duo-module');
 //     var flu = $('#flu-module');
 //     if (duo.is(':visible')) {
-//         duo.addClass('animated bounceOutUp');
+//         duo.addClass('animated fadeOut');
 //     } else if (flu.is(':visible')) {
-//         flu.addClass('animated bounceOutUp');
+//         flu.addClass('animated fadeOut');
 //     }
 //     setTimeout(function() {
 //         duo.toggle();
 //         // show the next module
 //         flu.toggle();
 //         if (duo.is(':visible')) {
-//             duo.addClass('animated bounceInDown');
-//             flu.removeClass('animated bounceOutUp');
+//             duo.addClass('animated fadeIn');
+//             flu.removeClass('animated fadeOut');
 //         } else if (flu.is(':visible')) {
-//             flu.addClass('animated bounceInDown');
-//             duo.removeClass('animated bounceOutUp');
+//             flu.addClass('animated fadeIn');
+//             duo.removeClass('animated fadeOut');
 //         }
 //     }, 760);
 // });
