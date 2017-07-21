@@ -15,12 +15,16 @@ mobile
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
 @import url('https://fonts.googleapis.com/css?family=Exo:200,400,700&subset=latin-ext');
 
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
 body {
   font-family: 'Exo', 'Noto Sans Japanese', sans-serif;
   font-size: 16px;
   background-color: #0b0f12;
   color: rgba(255, 255, 255, 0.9);
-  font-weight: 300;
+  font-weight: 200;
   overflow-x: auto;
 }
 
@@ -111,7 +115,7 @@ a.link-blue:focus {
 .display-text,
 .flu-display-text {
   font-weight: 200;
-  letter-spacing: 0.7px;
+  /*letter-spacing: 0.7px;*/
   cursor: default;
   display: inline-block;
   line-height: 26px;
@@ -126,7 +130,8 @@ a.link-blue:focus {
 
 textarea#answer,
 textarea#flu-answer {
-  letter-spacing: 0.8px;
+  font-weight: 300;
+  /*letter-spacing: 0.8px;*/
   margin: 30px;
   overflow: hidden;
   word-wrap: break-word;

@@ -50,7 +50,7 @@ $('#duoButton').on('click', function() {
     if (duo.is(':visible')) {
        // do nothing 
     } else if (flu.is(':visible')) {
-        flu.addClass('animated fadeOut');
+        flu.fadeIn();
 
         // init duo
         selectedModule = $('select#contents-' + language).val();
@@ -60,17 +60,9 @@ $('#duoButton').on('click', function() {
             display(false);
         }, 1000);
 
+        flu.fadeOut();
         setTimeout(function() {
-            duo.show();
-            // show the next module
-            flu.hide();
-            if (duo.is(':visible')) {
-                duo.addClass('animated fadeIn');
-                flu.removeClass('animated fadeOut');
-            } else if (flu.is(':visible')) {
-                flu.addClass('animated fadeIn');
-                duo.removeClass('animated fadeOut');
-            }
+            duo.fadeIn();
         }, 760);
     }
 });
@@ -81,7 +73,7 @@ $('#fluButton').on('click', function() {
     if (flu.is(':visible')) {
        // do nothing 
     } else if (duo.is(':visible')) {
-        duo.addClass('animated fadeOut');
+        duo.fadeOut();
 
         // init flu
         $('#flu').parent().show();
@@ -93,43 +85,12 @@ $('#fluButton').on('click', function() {
             display(true);
         }, 1000);
 
+        duo.fadeOut();
         setTimeout(function() {
-            flu.show();
-            // show the next module
-            duo.hide();
-            if (duo.is(':visible')) {
-                duo.addClass('animated fadeIn');
-                flu.removeClass('animated fadeOut');
-            } else if (flu.is(':visible')) {
-                flu.addClass('animated fadeIn');
-                duo.removeClass('animated fadeOut');
-            }
+            flu.fadeIn();
         }, 760);
     }
 });
-
-// if we need a one button toggle:
-// $('#test').on('click', function() {
-//     var duo = $('#duo-module');
-//     var flu = $('#flu-module');
-//     if (duo.is(':visible')) {
-//         duo.addClass('animated fadeOut');
-//     } else if (flu.is(':visible')) {
-//         flu.addClass('animated fadeOut');
-//     }
-//     setTimeout(function() {
-//         duo.toggle();
-//         // show the next module
-//         flu.toggle();
-//         if (duo.is(':visible')) {
-//             duo.addClass('animated fadeIn');
-//             flu.removeClass('animated fadeOut');
-//         } else if (flu.is(':visible')) {
-//             flu.addClass('animated fadeIn');
-//             duo.removeClass('animated fadeOut');
-//         }
-//     }, 760);
-// });
 
 // 3. Pills are toggled (language changed)
 $('.nav-pills li').on('click', function() {
