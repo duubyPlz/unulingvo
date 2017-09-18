@@ -20,12 +20,14 @@ $('.ui.dropdown').dropdown();
 // default language
 var language = 'eo';
 // hide unwanted dropdowns
+$('select#contents-ko').parent().hide();
 $('select#contents-ja').parent().hide();
 
 // TODO can't get semantic ui <select>.dropdown('set selected', random) to work
 var sizeHash = {
-                    'eo': 26,
-                    'ja': 4,
+                    'eo': 29,
+                    'ko': 1,
+                    'ja': 2,
                     'flu': 2
                };
 
@@ -101,7 +103,6 @@ $('.nav-pills li').on('click', function() {
         $('.nav-pills li').each(function() {
             $(this).removeClass();
         });
-        $('textarea#answer').removeClass('ja');
 
         // b) Make this pill active
         currentPill.addClass('active');
@@ -117,6 +118,8 @@ $('.nav-pills li').on('click', function() {
         // refactor if more languages
         if (language == 'eo') {
             $('textarea#answer').attr('placeholder', 'Esperanto');
+        } else if (language == 'ko') {
+            $('textarea#answer').attr('placeholder', '한국어');
         } else if (language == 'ja') {
             $('textarea#answer').attr('placeholder', '日本語');
         }
@@ -133,18 +136,13 @@ $('.nav-pills li').on('click', function() {
         setTimeout(function () {
             display(false);
         }, 1000);
-
-        // g) if japanese, thin fonts
-        if (currentPill.attr('id') == 'ja') {
-            $('textarea#answer').addClass('ja');
-        }
     } else {
         // Already active pill
     }
 });
 
 // 3. If module is changed, reparse & display
-$('select#contents-eo, select#contents-ja').change(function() {
+$('select#contents-eo, select#contents-ko, select#contents-ja').change(function() {
     selectedModule = $(this).val();
     if (!$.isNumeric(selectedModule)) {
         $.error("Selected module isn't a valid one: " + selectedModule);
@@ -184,9 +182,13 @@ $('button#randomise').click(function() {
     // http://semantic-ui.com/modules/dropdown.html#behavior
     if (language == 'eo') {
         $('#contents-eo').dropdown('set selected', random);
+    } else if (language == 'ko') {
+        $('#contents-ko').dropdown('set selected', random);
     } else if (language == 'ja') {
         $('#contents-ja').dropdown('set selected', random);
     }
+    // $('#contents-' + language).dropdown('set selected', random);
+
     selectedModule = random;
 
     display_loader(false);
@@ -295,6 +297,8 @@ function parse(module, language) {
     // refactor if lots of languages
     if (language == 'eo') {
         fileName = 'assets/txt/duo' + module + '.txt';
+    } else if (language == 'ko') {
+        fileName = 'assets/txt/kor' + module + '.txt';
     } else if (language == 'ja') {
         fileName = 'assets/txt/jpn' + module + '.txt';
     } else if (language == 'flu') {
@@ -307,9 +311,14 @@ function parse(module, language) {
         $.get(fileName, function(data) {
             // console.log(fileName);
             // console.log(data);
+
             // Break result into line by line
             var lines = data.split("\n");
             var currentEsperanto = "";
+
+            // console.log(lines);
+            // console.log(lines.length);
+
             for (var i=0; i<lines.length; i++) {
                 var current = lines[i];
                 if (matchesEO = current.match(/\ {4}O:.*$/)) { // EO
@@ -319,6 +328,7 @@ function parse(module, language) {
                     hash[english] = currentEsperanto;
                 }
             }
+            // console.log(hash);
         }, 'text');
     } catch (e) {
         console.warn(e);
@@ -336,7 +346,9 @@ function display_loader(isFlu) {
 
 function display(isFlu) {
     var length = Object.keys(hash).length;
-    var index = Math.floor((Math.random() * (length - 1)) + 0);
+    // https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascript
+    // 0 -> 10: Math.floor(Math.random() * 11);
+    var index = Math.floor(Math.random() * length);
     var keys = Object.keys(hash);
     var wantedEng = keys[index];
     correctEO = hash[wantedEng];
@@ -360,7 +372,8 @@ function logic(language) {
         if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
             ok = true;
         }
-    } else if (language == 'ja') {
+    } else if ((language == 'ja')
+            || (language == 'ko')) {
         var inputString = $('textarea#answer').val();
         // unicode: \p{Han}\p{Kata}\p{Hira}
         // > no punctuation yet...
@@ -369,13 +382,13 @@ function logic(language) {
         // http://stackoverflow.com/questions/280712/javascript-unicode-regexes
         var sanitisedString = inputString
         .replace(/[^\u2E80-\u2E99\u2E9B-\u2EF3\u2F00-\u2FD5\u3005\u3007\u3021-\u3029\u3038-\u303B\u3400-\u4DB5\u4E00-\u9FD5\uF900-\uFA6D\uFA70-\uFAD9\U00020000-\U0002A6D6\U0002A700-\U0002B734\U0002B740-\U0002B81D\U0002B820-\U0002CEA1\U0002F800-\U0002FA1D\u30A1-\u30FA\u30FD-\u30FF\u31F0-\u31FF\u32D0-\u32FE\u3300-\u3357\uFF66-\uFF6F\uFF71-\uFF9D\U0001B000\u3041-\u3096\u309D-\u309F\U0001B001\U0001F200]/g
-        , "");
+        , ""); // CJK only whitelist
 
-        var sanitisedJA = correctEO
+        var sanitisedCJK = correctEO
         .replace(/[^\u2E80-\u2E99\u2E9B-\u2EF3\u2F00-\u2FD5\u3005\u3007\u3021-\u3029\u3038-\u303B\u3400-\u4DB5\u4E00-\u9FD5\uF900-\uFA6D\uFA70-\uFAD9\U00020000-\U0002A6D6\U0002A700-\U0002B734\U0002B740-\U0002B81D\U0002B820-\U0002CEA1\U0002F800-\U0002FA1D\u30A1-\u30FA\u30FD-\u30FF\u31F0-\u31FF\u32D0-\u32FE\u3300-\u3357\uFF66-\uFF6F\uFF71-\uFF9D\U0001B000\u3041-\u3096\u309D-\u309F\U0001B001\U0001F200]/g
-        , "");
+        , ""); // CJK only whitelist
 
-        if (sanitisedJA == sanitisedString) {
+        if (sanitisedCJK == sanitisedString) {
             ok = true;
         }
     } else if (language == 'flu') {

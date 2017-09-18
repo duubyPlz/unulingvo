@@ -12,15 +12,16 @@ mobile
 
 */
 
-@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
 @import url('https://fonts.googleapis.com/css?family=Exo:200,300,400,700&subset=latin-ext');
+@import url('https://fonts.googleapis.com/earlyaccess/notosanskr.css');
+@import url('https://fonts.googleapis.com/earlyaccess/notosansjapanese.css');
 
 html {
   -webkit-font-smoothing: antialiased;
 }
 
 body {
-  font-family: 'Exo', 'Noto Sans Japanese', sans-serif;
+  font-family: 'Exo', 'Noto Sans KR', 'Noto Sans Japanese', sans-serif;
   font-size: 16px;
   background-color: #0b0f12;
   color: rgba(255, 255, 255, 0.9);
@@ -33,11 +34,6 @@ body {
 }
 ::selection {
   background: rgba(255, 165, 0, 0.2);
-}
-
-select.ja,
-textarea.ja {
-  font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -452,6 +448,7 @@ div#flu-top-bar {
 }
 
 select#contents-eo,
+select#contents-ko,
 select#contents-ja,
 select#flu {
   width: 350px;
@@ -910,7 +907,9 @@ footer.footer {
     height: 70px;
   }
 
-  select#contents-eo, select#contents-ja {
+  select#contents-eo,
+  select#contents-ko,
+  select#contents-ja {
     font-size: 90%;
   }
 
