@@ -13,7 +13,7 @@ mobile
 */
 
 @import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
-@import url('https://fonts.googleapis.com/css?family=Exo:200,400,700&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Exo:200,300,400,700&subset=latin-ext');
 
 html {
   -webkit-font-smoothing: antialiased;
@@ -37,12 +37,12 @@ body {
 
 select.ja,
 textarea.ja {
-  font-weight: 200;
+  font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Exo', sans-serif;
-  font-weight: 200;
+  font-weight: 300;
   /*text-shadow: 0px 0px 3px rgba(255, 255, 255, 0.7);*/
 }
 
@@ -114,7 +114,8 @@ a.link-blue:focus {
 
 .display-text,
 .flu-display-text {
-  font-weight: 200;
+  /*font-weight: 300;*/
+  font-weight: 400;
   /*letter-spacing: 0.7px;*/
   cursor: default;
   display: inline-block;
@@ -130,7 +131,8 @@ a.link-blue:focus {
 
 textarea#answer,
 textarea#flu-answer {
-  font-weight: 300;
+  /*font-weight: 300;*/
+  font-weight: 400;
   /*letter-spacing: 0.8px;*/
   margin: 30px;
   overflow: hidden;
@@ -333,7 +335,7 @@ button#submit {
   cursor: pointer;
   width: 300px;
   padding: 7px 1.1em 9px 1.1em;
-  font-weight: 200;
+  font-weight: 300;
   border-radius: 0;
   border: none;
   border-left: solid 3px rgba(255, 255, 255, 0.2);
@@ -365,7 +367,7 @@ button#submit {
 }
 
 .ui.selection.dropdown .menu>.item {
-  font-weight: 200;
+  font-weight: 300;
   color: rgba(255, 255, 255, 0.7);
 }
 
@@ -407,6 +409,14 @@ div#flu-top-bar {
 .nav-pills {
   margin-left: 25px;
   top: 10px;
+}
+
+.nav-pills span.media {
+  display: none;
+}
+
+.nav-pills span.full {
+  display: inline;
 }
 
 .nav-pills > li > a {
@@ -468,7 +478,7 @@ div.popup {
 footer.footer {
   text-align: center;
   color: rgba(255, 255, 255, 0.4);
-  font-weight: 200;
+  font-weight: 300;
   /*color: #777;*/
   font-size: 75%;
   position: relative;
@@ -544,7 +554,7 @@ footer.footer {
   
   h1, h2 {
     font-size: 130%;
-    font-weight: 200;
+    font-weight: 300;
   }
 
   .main-panel {
@@ -725,6 +735,14 @@ footer.footer {
     font-size: 80%;
   }
 
+  .nav-pills span.media {
+    display: inline;
+  }
+
+  .nav-pills span.full {
+    display: none;
+  }
+
   #arrow {
     position: relative;
     top: 0;
@@ -772,7 +790,7 @@ footer.footer {
   
   h1, h2 {
     font-size: 150%;
-    font-weight: 200;
+    font-weight: 300;
   }
 
   .main-panel {
@@ -932,6 +950,13 @@ footer.footer {
     font-size: 90%;
   }
 
+  .nav-pills span.media {
+    display: inline;
+  }
+
+  .nav-pills span.full {
+    display: none;
+  }
 
   #arrow {
     position: relative;
