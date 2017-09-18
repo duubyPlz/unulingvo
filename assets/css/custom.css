@@ -479,7 +479,8 @@ footer.footer {
   /*color: #777;*/
   font-size: 75%;
   position: relative;
-  top: 300px;
+  top: 280px;
+  bottom: 100px;
 }
 
 /*== START LOADER ==*/
