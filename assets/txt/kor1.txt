@@ -1,10 +1,72 @@
-== test ==
+== Basics 1 ==
 > One
-    O: 1.
-    E: 1.
+    O: 또는
+    E: Or
 
-    O: 2.
-    E: 2.
+    1 여자
+    2 A woman
 
-    O: 3.
-    E: 3.
+    1 여자들
+    2 Women
+
+    O: 남자들
+    E: Men
+
+    1 남자들과여자들
+    2 Men and(w) women.
+
+    1 남자또는여자
+    2 A man or a woman.
+
+    1 여자또는남자
+    2 A woman or a man.
+
+    O: 남자와여자
+    E: A man and(w) a woman.
+
+    1 여자와남자
+    2 A woman and(w) a man.
+
+> Two
+    1 책과연필
+    2 A book and(w) a pencil.
+
+    1 여자하고연필
+    2 A woman and(s) a pencil.
+
+    1 사과
+    2 Apple
+
+    1 빵
+    2 Bread
+
+    1 남자하고여자
+    2 Man and(s) woman.
+
+    1 남자와집
+    2 A man and(w) a house.
+
+    1 여자또는책
+    2 A woman or a book.
+
+    1 책하고남자
+    2 A book and(s) a man.
+
+    1 빵과사과들
+    2 Bread and(w) apples.
+
+    1 여자하고여필
+    2 A woman and(s) a pencil.
+
+    1 남자와연필
+    2 A man and(w) a pencil.
+
+    1 빵과사과
+    2 Bread and(w) apple.
+
+    1 집또는책
+    2 A house or a book.
+
+> Three
+    1 여자는여자입니다.
+    2 A woman is a woman.
