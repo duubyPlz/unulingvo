@@ -92,7 +92,7 @@
     O: 빵이 맛없습니다.
     E: The bread tastes bad.
 
-    O: 남자가 넛있습니다.
+    O: 남자가 멋있습니다.
     E: The man is cool.
 
     O: 공원은 재미없습니다.
