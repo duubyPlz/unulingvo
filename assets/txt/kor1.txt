@@ -169,7 +169,7 @@
     O: 저는 동물이 아닙니다.
     E: I am not an animal.
 
-    O: 저는 가람이 아닙니다.
+    O: 저는 사람이 아닙니다.
     E: I am not a person.
 
     O: 남자는 음식이 아닙니다. 

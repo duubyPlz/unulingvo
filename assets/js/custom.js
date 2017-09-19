@@ -404,6 +404,9 @@ function logic(language) {
         .replace(/[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]/g
         , ""); // CJK only whitelist
 
+        console.log('input: ' + sanitisedString);
+        console.log('output: ' + sanitisedCJK);
+
         if (sanitisedCJK == sanitisedString) {
             ok = true;
         }
