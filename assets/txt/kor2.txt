@@ -1,117 +1,117 @@
 == Basics Two ==
 > One
-    1 방
-    2 Room
+    O: 방
+    E: Room
 
-    1 방이 집에 있습니다.
-    2 The room is in the house.
+    O: 방이 집에 있습니다.
+    E: The room is in the house.
 
-    1 저는 한국에 없습니다.
-    2 I am not in Korea.
+    O: 저는 한국에 없습니다.
+    E: I am not in Korea.
 
-    1 공원
-    2 Park
+    O: 공원
+    E: Park
 
-    1 길
-    2 A road
+    O: 길
+    E: A road
 
-    1 남자가 한국에 있습니다.
-    2 The man is in Korea
+    O: 남자가 한국에 있습니다.
+    E: The man is in Korea
 
-    1 공원이 없습니다.
-    2 There is no park.
+    O: 공원이 없습니다.
+    E: There is no park.
 
-    1 산은 공원에 았습니다.
-    2 The mountain is in the park.
+    O: 산은 공원에 았습니다.
+    E: The mountain is in the park.
 
-    1 산은 바다에 없습니다.
-    2 A mountain is not at the sea.
+    O: 산은 바다에 없습니다.
+    E: A mountain is not at the sea.
 
-    1 길이 한국에 없습니다.
-    2 The road is not in Korea.
+    O: 길이 한국에 없습니다.
+    E: The road is not in Korea.
 
-    1 바다
-    2 The sea
+    O: 바다
+    E: The sea
 
-    1 산
-    2 Mountain
+    O: 산
+    E: Mountain
 
-    1 한국
-    2 Korea
+    O: 한국
+    E: Korea
 
-    1 공원이 없습니다.
-    2 There is no park.
+    O: 공원이 없습니다.
+    E: There is no park.
 
 > Two
-    1 친구
-    2 Friend
+    O: 친구
+    E: Friend
 
-    1 신문
-    2 Newspaper
+    O: 신문
+    E: Newspaper
 
-    1 공
-    2 Zero
+    O: 공
+    E: Zero
 
-    1 메시지
-    2 Message(s)
+    O: 메시지
+    E: Message(s)
 
-    1 가족
-    2 Family
+    O: 가족
+    E: Family
 
-    1 차
-    2 Tea
+    O: 차
+    E: Tea
 
-    1 공
-    2 Ball
+    O: 공
+    E: Ball
 
-    1 한국의 신문
-    2 Korean newspaper
+    O: 한국의 신문
+    E: Korean newspaper
 
-    1 자동차
-    2 Car
+    O: 자동차
+    E: Car
 
-    1 남자는 메시지가 있습니다.
-    2 The man has a message.
+    O: 남자는 메시지가 있습니다.
+    E: The man has a message.
 
-    1 공과 차
-    2 A ball and tea.
+    O: 공과 차
+    E: A ball and tea.
 
-    1 저는 친구의 차가 있습니다.
-    2 I have a friend's tea.
+    O: 저는 친구의 차가 있습니다.
+    E: I have a friend's tea.
 
 > Three
-    1 학생이 멋없습니다.
-    2 The student is not cool.
+    O: 학생이 멋없습니다.
+    E: The student is not cool.
 
-    1 영화
-    2 Movie
+    O: 영화
+    E: Movie
 
-    1 음식은 맛있습니다. 
-    2 Food is delicious.
+    O: 음식은 맛있습니다. 
+    E: Food is delicious.
 
-    1 빵이 맛없습니다.
-    2 The bread tastes bad.
+    O: 빵이 맛없습니다.
+    E: The bread tastes bad.
 
-    1 남자가 넛있습니다.
-    2 The man is cool.
+    O: 남자가 넛있습니다.
+    E: The man is cool.
 
-    1 공원은 재미없습니다.
-    2 Parks are uninteresting.
+    O: 공원은 재미없습니다.
+    E: Parks are uninteresting.
 
-    1 책은 재미있습니다.
-    2 Books are interesting.
+    O: 책은 재미있습니다.
+    E: Books are interesting.
 
-    1 음식은 맛없습니다.
-    2 Food is not delicious.
+    O: 음식은 맛없습니다.
+    E: Food is not delicious.
 
-    1 영화는 재미있슴니다.
-    2 A movie is fun.
+    O: 영화는 재미있슴니다.
+    E: A movie is fun.
 
-    1 사과는 맛있습니다.
-    2 Apples are delicious.
+    O: 사과는 맛있습니다.
+    E: Apples are delicious.
 
-    1 책이 재미없습니다.
-    2 The book is uninteresting.
+    O: 책이 재미없습니다.
+    E: The book is uninteresting.
 
-    1 자동차가 멋있습니다.
-    2 The car is cool.
+    O: 자동차가 멋있습니다.
+    E: The car is cool.
