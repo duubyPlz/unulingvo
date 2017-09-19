@@ -375,19 +375,35 @@ function logic(language) {
     } else if ((language == 'ja')
             || (language == 'ko')) {
         var inputString = $('textarea#answer').val();
-        // unicode: \p{Han}\p{Kata}\p{Hira}
-        // > no punctuation yet...
-        // whitelist
+
+        // \p{Han} [\x3400-\x4DB5\x4E00-\x9FCB\xF900-\xFA6A]
+        // Hangul Compatibility Jamo [\x3130-\x318F]
+        // Hangul Jamo [\x1100-\x11FF]
+        // Hangul Jamo Extended-A [\xA960-\xA97F]
+        // Hangul Jamo Extended-B [\xD7B0-\xD7FF]
+        // Hangul Syllables [\xAC00-\xD7AF]
+        // \p{Hiragana} [\x3040-\x309F]
+        // \p{Katakana} [\x30A0-\x30FF]
+        // Kanji radicals [\x2E80-\x2FD5]
+        // Half width [\xFF5F-\xFF9F]
+        // Punctuation [\x3000-\x303F]
+
+        // links:
+        // http://jrgraphix.net/research/unicode.php
+        // http://www.alanwood.net/unicode/menu.html
+        // http://www.localizingjapan.com/blog/2012/01/20/regular-expressions-for-japanese-text/
         // http://stackoverflow.com/questions/30069846/how-to-find-out-chinese-or-japanese-character-in-a-string-in-python
         // http://stackoverflow.com/questions/280712/javascript-unicode-regexes
         var sanitisedString = inputString
-        .replace(/[^\u2E80-\u2E99\u2E9B-\u2EF3\u2F00-\u2FD5\u3005\u3007\u3021-\u3029\u3038-\u303B\u3400-\u4DB5\u4E00-\u9FD5\uF900-\uFA6D\uFA70-\uFAD9\U00020000-\U0002A6D6\U0002A700-\U0002B734\U0002B740-\U0002B81D\U0002B820-\U0002CEA1\U0002F800-\U0002FA1D\u30A1-\u30FA\u30FD-\u30FF\u31F0-\u31FF\u32D0-\u32FE\u3300-\u3357\uFF66-\uFF6F\uFF71-\uFF9D\U0001B000\u3041-\u3096\u309D-\u309F\U0001B001\U0001F200]/g
-        , ""); // CJK only whitelist
+        // .replace(/[^\u2E80-\u2E99\u2E9B-\u2EF3\u2F00-\u2FD5\u3005\u3007\u3021-\u3029\u3038-\u303B\u3400-\u4DB5\u4E00-\u9FD5\uF900-\uFA6D\uFA70-\uFAD9\U00020000-\U0002A6D6\U0002A700-\U0002B734\U0002B740-\U0002B81D\U0002B820-\U0002CEA1\U0002F800-\U0002FA1D\u30A1-\u30FA\u30FD-\u30FF\u31F0-\u31FF\u32D0-\u32FE\u3300-\u3357\uFF66-\uFF6F\uFF71-\uFF9D\U0001B000\u3041-\u3096\u309D-\u309F\U0001B001\U0001F200]/g
+        .replace(/[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]/g
+        , ""); // CJK only whitelist, no spaces
 
         var sanitisedCJK = correctEO
-        .replace(/[^\u2E80-\u2E99\u2E9B-\u2EF3\u2F00-\u2FD5\u3005\u3007\u3021-\u3029\u3038-\u303B\u3400-\u4DB5\u4E00-\u9FD5\uF900-\uFA6D\uFA70-\uFAD9\U00020000-\U0002A6D6\U0002A700-\U0002B734\U0002B740-\U0002B81D\U0002B820-\U0002CEA1\U0002F800-\U0002FA1D\u30A1-\u30FA\u30FD-\u30FF\u31F0-\u31FF\u32D0-\u32FE\u3300-\u3357\uFF66-\uFF6F\uFF71-\uFF9D\U0001B000\u3041-\u3096\u309D-\u309F\U0001B001\U0001F200]/g
-        , ""); // CJK only whitelist
-
+        // .replace(/[^\u2E80-\u2E99\u2E9B-\u2EF3\u2F00-\u2FD5\u3005\u3007\u3021-\u3029\u3038-\u303B\u3400-\u4DB5\u4E00-\u9FD5\uF900-\uFA6D\uFA70-\uFAD9\U00020000-\U0002A6D6\U0002A700-\U0002B734\U0002B740-\U0002B81D\U0002B820-\U0002CEA1\U0002F800-\U0002FA1D\u30A1-\u30FA\u30FD-\u30FF\u31F0-\u31FF\u32D0-\u32FE\u3300-\u3357\uFF66-\uFF6F\uFF71-\uFF9D\U0001B000\u3041-\u3096\u309D-\u309F\U0001B001\U0001F200]/g
+        .replace(/[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]/g
+        , ""); // same whitelist as above
+        
         if (sanitisedCJK == sanitisedString) {
             ok = true;
         }
