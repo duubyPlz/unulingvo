@@ -37,6 +37,12 @@
     O: Kato kaptis muson.
     E: A cat caught a mouse.
 
+    O: En Junio estas malvarme en Aŭstralio.
+    E: In June it is cold in Australia.
+
+    O: Mi baldaŭ ricevos monon de miaj gepatroj.
+    E: I will soon receive money from my parents.
+
 > Two
     O: Pro manko de mono, mi apenaŭ povas vojaĝi.
     E: Because of the lack of money I hardly can travel.
@@ -157,6 +163,28 @@
     O: Eble vi fartos pli bone morgaŭ.
     E: Maybe you will feel better tomorrow.
 
+    O: Vi ambaŭ preferas kafon, ĉu ne?
+    E: You both prefer coffee, don't you?
+
+    # Via nepo nuntempe loĝas en Japanio, ĉu ne?
+    O: Via nepo aktuale loĝas en Japanio, ĉu?
+    E: Your grandson currently lives in Japan, right?
+
+    O: Ĉu via nepo aktuale loĝas en Japanio?
+    E: Does your grandson currently live in Japan?
+
+    O: Precipe, li bezonas pli da mono.
+    E: Chiefly, he needs more money.
+
+    O: Kial li ludas la ludon tiel malbone?
+    E: Why does he play the game so badly?
+
+    O: Kial ili alvenis malfrue?
+    E: Why did they arrive late?
+
+    O: Ŝi estas la plej juna el miaj infanoj.
+    E: She is the youngest of my children.
+
 > Five
     # Ili komprenas unu la alian.
     O: Ili sin komprenas reciproke.
@@ -180,3 +208,24 @@
 
     O: Miaj geavoj havas proksimume dudek genepojn.
     E: My grandparents have approximately twenty grandchildren.
+
+    O: Mi pensas, ke li fartos bone.
+    E: I think that he will be fine.
+
+    O: Sofia taksas sin tre bela.
+    E: Sofia considers herself very beautiful.
+
+    O: Estis multaj aliaj.
+    E: There were many others.
+
+    O: Mi volas aĉeti alian.
+    E: I want to buy another.
+
+    O: Li havas proksimume kvardek jarojn.
+    E: He is approximately forty years old.
+
+    O: Ŝi perdis sian apetiton.
+    E: She lost her appetite.
+
+    O: Vi perdas vian tempon.
+    E: You are wasting your time.
