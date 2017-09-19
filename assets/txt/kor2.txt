@@ -1,0 +1,117 @@
+== Basics Two ==
+> One
+    1 방
+    2 Room
+
+    1 방이 집에 있습니다.
+    2 The room is in the house.
+
+    1 저는 한국에 없습니다.
+    2 I am not in Korea.
+
+    1 공원
+    2 Park
+
+    1 길
+    2 A road
+
+    1 남자가 한국에 있습니다.
+    2 The man is in Korea
+
+    1 공원이 없습니다.
+    2 There is no park.
+
+    1 산은 공원에 았습니다.
+    2 The mountain is in the park.
+
+    1 산은 바다에 없습니다.
+    2 A mountain is not at the sea.
+
+    1 길이 한국에 없습니다.
+    2 The road is not in Korea.
+
+    1 바다
+    2 The sea
+
+    1 산
+    2 Mountain
+
+    1 한국
+    2 Korea
+
+    1 공원이 없습니다.
+    2 There is no park.
+
+> Two
+    1 친구
+    2 Friend
+
+    1 신문
+    2 Newspaper
+
+    1 공
+    2 Zero
+
+    1 메시지
+    2 Message(s)
+
+    1 가족
+    2 Family
+
+    1 차
+    2 Tea
+
+    1 공
+    2 Ball
+
+    1 한국의 신문
+    2 Korean newspaper
+
+    1 자동차
+    2 Car
+
+    1 남자는 메시지가 있습니다.
+    2 The man has a message.
+
+    1 공과 차
+    2 A ball and tea.
+
+    1 저는 친구의 차가 있습니다.
+    2 I have a friend's tea.
+
+> Three
+    1 학생이 멋없습니다.
+    2 The student is not cool.
+
+    1 영화
+    2 Movie
+
+    1 음식은 맛있습니다. 
+    2 Food is delicious.
+
+    1 빵이 맛없습니다.
+    2 The bread tastes bad.
+
+    1 남자가 넛있습니다.
+    2 The man is cool.
+
+    1 공원은 재미없습니다.
+    2 Parks are uninteresting.
+
+    1 책은 재미있습니다.
+    2 Books are interesting.
+
+    1 음식은 맛없습니다.
+    2 Food is not delicious.
+
+    1 영화는 재미있슴니다.
+    2 A movie is fun.
+
+    1 사과는 맛있습니다.
+    2 Apples are delicious.
+
+    1 책이 재미없습니다.
+    2 The book is uninteresting.
+
+    1 자동차가 멋있습니다.
+    2 The car is cool.

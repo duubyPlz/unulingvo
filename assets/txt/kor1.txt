@@ -13,7 +13,7 @@
     E: Men
 
     O: 남자들과 여자들
-    E: Men and(w) women.
+    E: Men and women.
 
     O: 남자 또는 여자
     E: A man or a woman.
@@ -22,17 +22,17 @@
     E: A woman or a man.
 
     O: 남자와 여자
-    E: A man and(w) a woman.
+    E: A man and a woman.
 
     O: 여자와 남자
-    E: A woman and(w) a man.
+    E: A woman and a man.
 
 > Two
     O: 책과 연필
-    E: A book and(w) a pencil.
+    E: A book and a pencil.
 
     O: 여자하고 연필
-    E: A woman and(s) a pencil.
+    E: A woman and[s] a pencil.
 
     O: 사과
     E: Apple
@@ -41,34 +41,34 @@
     E: Bread
 
     O: 남자하고 여자
-    E: Man and(s) woman.
+    E: Man and[s] woman.
 
     O: 남자와 집
-    E: A man and(w) a house.
+    E: A man and a house.
 
     O: 여자 또는 책
     E: A woman or a book.
 
     O: 책하고 남자
-    E: A book and(s) a man.
+    E: A book and[s] a man.
 
     O: 빵과 사과들
-    E: Bread and(w) apples.
+    E: Bread and apples.
 
     O: 여자하고 여필
-    E: A woman and(s) a pencil.
+    E: A woman and[s] a pencil.
 
     O: 남자와 연필
-    E: A man and(w) a pencil.
+    E: A man and a pencil.
 
     O: 빵과 사과
-    E: Bread and(w) apple.
+    E: Bread and apple.
 
     O: 집 또는 책
     E: A house or a book.
 
     O: 사과와 연필
-    E: Apple and(w) pencil.
+    E: Apple and pencil.
 
     O: 연필은 물곤입니다.
     E: Pencils are things.
@@ -90,7 +90,7 @@
     E: Yes.
 
     O: 음식과 아이
-    E: Food and(w) a child.
+    E: Food and a child.
 
     O: 연필이 물건입니다.
     E: The pencil is a thing.
