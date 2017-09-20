@@ -26,7 +26,7 @@ $('select#contents-ja').parent().hide();
 // TODO can't get semantic ui <select>.dropdown('set selected', random) to work
 var sizeHash = {
                     'eo': 29,
-                    'ko': 1,
+                    'ko': 2,
                     'ja': 2,
                     'flu': 2
                };
@@ -95,26 +95,48 @@ $('#fluButton').on('click', function() {
 });
 
 // 3. Pills are toggled (language changed)
+// a) Button clicks
 $('.nav-pills li').on('click', function() {
     var currentPill = $(this);
+    goToPill(currentPill);
+});
+
+// b) Keyboard shortcuts
+$('body').keydown(function (e) {
+    if (e.keyCode == 49)  { // '!' Esperanto
+        e.preventDefault();
+        var currentPill = $('.nav-pills li#eo');
+        goToPill(currentPill);
+    } else if (e.keyCode == 50) { // '@' Korean
+        e.preventDefault();
+        var currentPill = $('.nav-pills li#ko');
+        goToPill(currentPill);
+    } else if (e.keyCode == 51) { // '#' Japanese
+        e.preventDefault();
+        var currentPill = $('.nav-pills li#ja');
+        goToPill(currentPill);
+    }
+});
+
+function goToPill(currentPill) {
     language = currentPill.attr('id');
     if (!currentPill.hasClass('active')) {
-        // a) Make all pills inactive
+        // i) Make all pills inactive
         $('.nav-pills li').each(function() {
             $(this).removeClass();
         });
 
-        // b) Make this pill active
+        // ii) Make this pill active
         currentPill.addClass('active');
 
-        // c) top previously active dropdown
+        // iii) top previously active dropdown
         $('select').parent().hide();
         // $('select').parent().show();
 
-        // d) Show only current language's dropdown
+        // iv) Show only current language's dropdown
         $('select#contents-'+language).parent().show();
 
-        // e) Change textarea#answer's placeholder
+        // v) Change textarea#answer's placeholder
         // refactor if more languages
         if (language == 'eo') {
             $('textarea#answer').attr('placeholder', 'Esperanto');
@@ -124,7 +146,7 @@ $('.nav-pills li').on('click', function() {
             $('textarea#answer').attr('placeholder', '日本語');
         }
 
-        // f) reparse/redisplay
+        // vi) reparse/redisplay
         // o_O" .. code reuse from 1. ......
         var selectedModule = $('select#contents-' + language).val();
         if (!$.isNumeric(selectedModule)) {
@@ -139,9 +161,9 @@ $('.nav-pills li').on('click', function() {
     } else {
         // Already active pill
     }
-});
+}
 
-// 3. If module is changed, reparse & display
+// 4. If module is changed, reparse & display
 $('select#contents-eo, select#contents-ko, select#contents-ja').change(function() {
     selectedModule = $(this).val();
     if (!$.isNumeric(selectedModule)) {
@@ -167,7 +189,7 @@ $('select#flu').change(function() {
     }, 1000);
 });
 
-// 4. Randomise modules
+// 5. Randomise modules
 $('button#randomise').click(function() {
     // var size = 0;
     // if (language == 'eo') {
@@ -213,7 +235,7 @@ $('button#flu-randomise').click(function() {
     }, 1000);
 });
 
-// 5. Logic - check results, see if input field is correct
+// 6. Logic - check results, see if input field is correct
 // a) Click 'check' button
 $('button#checking').on('click', function() {
     if (!$('textarea#answer').hasClass('incorrect') && !$('textarea#answer').hasClass('correct')) {
@@ -246,7 +268,7 @@ $('textarea#flu-answer').keydown(function (e) {
     }
 });
 
-// 6. Skipping current
+// 7. Skipping current
 // > a) Click 'skip' button
 $('button#skip').on('click', function() {
     // clear input field & makes it normal again
@@ -268,7 +290,7 @@ $('button#flu-skip').on('click', function() {
     display(true);
 });
 
-// b) Press '`' key
+// b) Press '`' backtick key
 $('textarea#answer').keydown(function (e) {
     if (e.keyCode == 192)  {
         e.preventDefault();

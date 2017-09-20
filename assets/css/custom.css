@@ -317,7 +317,7 @@ button#submit {
   font-size: 10px;
 }
 
-.tooltip.bottom .tooltip-arrow {
+.tooltip .tooltip-arrow {
   display: none;
 }
 
