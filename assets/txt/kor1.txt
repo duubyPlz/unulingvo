@@ -138,7 +138,7 @@
     E: A school is a place.
 
 > Four
-    O: 동몰은 물건이아닙니다.
+    O: 동물은 물건이 아닙니다.
     E: An animal is not a thing. 
 
     O: 저의 개

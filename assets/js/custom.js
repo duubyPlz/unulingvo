@@ -383,8 +383,20 @@ function display(isFlu) {
 
 function logic(language) {
     var correct = false;
+    var inputString = $('textarea#answer').val();
+
     if (language == 'eo') {    
-        var inputString = $('textarea#answer').val();
+        var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
+        var simplifiedString = sanitisedString.replace(/[.,?!:"]/g, "").toLowerCase().trim(); // blacklist
+
+        var simplifiedEO = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
+        var simplifiedEONoHyphens = simplifiedEO.replace(/\-/g, " ");
+
+        if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
+            correct = true;
+        }
+    } else if (language == 'flu') { // [TODO] refactor
+        inputString = $('textarea#flu-answer').val();
         var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
         var simplifiedString = sanitisedString.replace(/[.,?!:"]/g, "").toLowerCase().trim(); // blacklist
 
@@ -396,8 +408,6 @@ function logic(language) {
         }
     } else if ((language == 'ja')
             || (language == 'ko')) {
-        var inputString = $('textarea#answer').val();
-
         /// Whitelisting CJK:
         //     \p{Han} [\x3400-\x4DB5\x4E00-\x9FCB\xF900-\xFA6A]
         //     Hangul Compatibility Jamo [\x3130-\x318F]
@@ -428,17 +438,6 @@ function logic(language) {
         if (sanitisedCJK === sanitisedString) {
             correct = true;
         }
-    } else if (language == 'flu') {
-        var inputString = $('textarea#flu-answer').val();
-        var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
-        var simplifiedString = sanitisedString.replace(/[.,?!:"]/g, "").toLowerCase().trim(); // blacklist
-
-        var simplifiedEO = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
-        var simplifiedEONoHyphens = simplifiedEO.replace(/\-/g, " ");
-
-        if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
-            correct = true;
-        }
     } else {
         console.warn("No such language: + " + language);
     }
@@ -453,7 +452,6 @@ function logic(language) {
                 $('textarea#flu-answer').removeClass('correct');
             }, 700);
         } else {        
-            // console.log("correct " + simplifiedString + " " + simplifiedEO);
             $('textarea#answer').addClass('correct');
             // display new one
             setTimeout(function () {
@@ -469,7 +467,7 @@ function logic(language) {
         //      * html += word or html += <b>word</b>
         //      * but it's .val().. check
 
-        if (language == 'flu') {
+        if (language == 'flu') { // [TODO] refactor
             // Change to correct answer
             $('textarea#flu-answer').addClass('incorrect');
             $('textarea#flu-answer').val(correctEO);
@@ -490,7 +488,6 @@ function logic(language) {
                 }
             }, 3000);
         } else {      
-            // console.log("incorrect " + simplifiedString + " " + simplifiedEO);
             // Change to correct answer
             $('textarea#answer').addClass('incorrect');
             $('textarea#answer').val(correctEO);
