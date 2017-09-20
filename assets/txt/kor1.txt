@@ -148,7 +148,7 @@
     O: 아니요, 고양이는 사람이 아닙니다.
     E: No, cats aren't people.
 
-    O: 아니요, 남가아이는 여자가 아닙니다.
+    O: 아니요, 남자아이는 여자가 아닙니다.
     E: No, boys aren't women.
 
     O: 제가 여자입니다.
