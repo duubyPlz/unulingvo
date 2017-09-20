@@ -1,0 +1,43 @@
+== Phrases One ==
+> One
+    O: 안녕하세요, 만나서 반갑습니다.
+    E: Hello, nice to meet you.
+
+    O: 환영합니다!
+    E: Welcome!
+
+    O: 이름
+    E: Name
+
+    O: 고마워!
+    E: Thanks!
+
+    O: 안녕하십니까?
+    E: Hello?
+
+    O: 고맙습니다.
+    E: Thank you.
+
+    O: 안녕!
+    E: Hi!
+
+    O: 네, 환영합니다.
+    E: Yes, welcome.
+
+    O: 예, 안녕하세요.
+    E: Yes, hello.
+
+    O: 환영힙니다! 만나서 반갑습니다!
+    E: Welcome! Nice to meet you!
+
+    O: 만나서 반갑습니다, 고맙습니다!
+    E: Nice to meet you, thank you!
+
+    O: 안년하세요!
+    E: Hello!
+
+    O: 안녕하세요! 환영합니다.
+    E: Hello! Welcome.
+
+> Two
+    
