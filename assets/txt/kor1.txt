@@ -134,7 +134,7 @@
     O: 아이, 사람
     E: Child, person
 
-    O: 하교는 장소입니다.
+    O: 학교는 장소입니다.
     E: A school is a place.
 
 > Four
