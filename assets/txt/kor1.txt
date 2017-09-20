@@ -55,9 +55,6 @@
     O: 빵과 사과들
     E: Bread and apples.
 
-    O: 여자하고 여필
-    E: A woman and[s] a pencil.
-
     O: 남자와 연필
     E: A man and a pencil.
 
