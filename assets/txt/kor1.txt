@@ -55,9 +55,6 @@
     O: 빵과 사과들
     E: Bread and apples.
 
-    O: 여자하고 여필
-    E: A woman and[s] a pencil.
-
     O: 남자와 연필
     E: A man and a pencil.
 
@@ -138,7 +135,7 @@
     E: A school is a place.
 
 > Four
-    O: 동몰은 물건이아닙니다.
+    O: 동물은 물건이 아닙니다.
     E: An animal is not a thing. 
 
     O: 저의 개
@@ -148,7 +145,7 @@
     O: 아니요, 고양이는 사람이 아닙니다.
     E: No, cats aren't people.
 
-    O: 아니요, 남가아이는 여자가 아닙니다.
+    O: 아니요, 남자아이는 여자가 아닙니다.
     E: No, boys aren't women.
 
     O: 제가 여자입니다.

@@ -26,7 +26,7 @@ $('select#contents-ja').parent().hide();
 // TODO can't get semantic ui <select>.dropdown('set selected', random) to work
 var sizeHash = {
                     'eo': 29,
-                    'ko': 1,
+                    'ko': 2,
                     'ja': 2,
                     'flu': 2
                };
@@ -95,26 +95,48 @@ $('#fluButton').on('click', function() {
 });
 
 // 3. Pills are toggled (language changed)
+// a) Button clicks
 $('.nav-pills li').on('click', function() {
     var currentPill = $(this);
+    goToPill(currentPill);
+});
+
+// b) Keyboard shortcuts
+$('body').keydown(function (e) {
+    if (e.keyCode == 49)  { // '!' Esperanto
+        e.preventDefault();
+        var currentPill = $('.nav-pills li#eo');
+        goToPill(currentPill);
+    } else if (e.keyCode == 50) { // '@' Korean
+        e.preventDefault();
+        var currentPill = $('.nav-pills li#ko');
+        goToPill(currentPill);
+    } else if (e.keyCode == 51) { // '#' Japanese
+        e.preventDefault();
+        var currentPill = $('.nav-pills li#ja');
+        goToPill(currentPill);
+    }
+});
+
+function goToPill(currentPill) {
     language = currentPill.attr('id');
     if (!currentPill.hasClass('active')) {
-        // a) Make all pills inactive
+        // i) Make all pills inactive
         $('.nav-pills li').each(function() {
             $(this).removeClass();
         });
 
-        // b) Make this pill active
+        // ii) Make this pill active
         currentPill.addClass('active');
 
-        // c) top previously active dropdown
+        // iii) top previously active dropdown
         $('select').parent().hide();
         // $('select').parent().show();
 
-        // d) Show only current language's dropdown
+        // iv) Show only current language's dropdown
         $('select#contents-'+language).parent().show();
 
-        // e) Change textarea#answer's placeholder
+        // v) Change textarea#answer's placeholder
         // refactor if more languages
         if (language == 'eo') {
             $('textarea#answer').attr('placeholder', 'Esperanto');
@@ -124,7 +146,7 @@ $('.nav-pills li').on('click', function() {
             $('textarea#answer').attr('placeholder', '日本語');
         }
 
-        // f) reparse/redisplay
+        // vi) reparse/redisplay
         // o_O" .. code reuse from 1. ......
         var selectedModule = $('select#contents-' + language).val();
         if (!$.isNumeric(selectedModule)) {
@@ -139,9 +161,9 @@ $('.nav-pills li').on('click', function() {
     } else {
         // Already active pill
     }
-});
+}
 
-// 3. If module is changed, reparse & display
+// 4. If module is changed, reparse & display
 $('select#contents-eo, select#contents-ko, select#contents-ja').change(function() {
     selectedModule = $(this).val();
     if (!$.isNumeric(selectedModule)) {
@@ -167,7 +189,7 @@ $('select#flu').change(function() {
     }, 1000);
 });
 
-// 4. Randomise modules
+// 5. Randomise modules
 $('button#randomise').click(function() {
     // var size = 0;
     // if (language == 'eo') {
@@ -213,7 +235,7 @@ $('button#flu-randomise').click(function() {
     }, 1000);
 });
 
-// 5. Logic - check results, see if input field is correct
+// 6. Logic - check results, see if input field is correct
 // a) Click 'check' button
 $('button#checking').on('click', function() {
     if (!$('textarea#answer').hasClass('incorrect') && !$('textarea#answer').hasClass('correct')) {
@@ -246,7 +268,7 @@ $('textarea#flu-answer').keydown(function (e) {
     }
 });
 
-// 6. Skipping current
+// 7. Skipping current
 // > a) Click 'skip' button
 $('button#skip').on('click', function() {
     // clear input field & makes it normal again
@@ -268,7 +290,7 @@ $('button#flu-skip').on('click', function() {
     display(true);
 });
 
-// b) Press '`' key
+// b) Press '`' backtick key
 $('textarea#answer').keydown(function (e) {
     if (e.keyCode == 192)  {
         e.preventDefault();
@@ -360,9 +382,10 @@ function display(isFlu) {
 }
 
 function logic(language) {
-    var ok = false;
+    var correct = false;
+    var inputString = $('textarea#answer').val();
+
     if (language == 'eo') {    
-        var inputString = $('textarea#answer').val();
         var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
         var simplifiedString = sanitisedString.replace(/[.,?!:"]/g, "").toLowerCase().trim(); // blacklist
 
@@ -370,59 +393,62 @@ function logic(language) {
         var simplifiedEONoHyphens = simplifiedEO.replace(/\-/g, " ");
 
         if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
-            ok = true;
+            correct = true;
+        }
+    } else if (language == 'flu') { // [TODO] refactor
+        inputString = $('textarea#flu-answer').val();
+        var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
+        var simplifiedString = sanitisedString.replace(/[.,?!:"]/g, "").toLowerCase().trim(); // blacklist
+
+        var simplifiedEO = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
+        var simplifiedEONoHyphens = simplifiedEO.replace(/\-/g, " ");
+
+        if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
+            correct = true;
         }
     } else if ((language == 'ja')
             || (language == 'ko')) {
-        var inputString = $('textarea#answer').val();
-
-        // \p{Han} [\x3400-\x4DB5\x4E00-\x9FCB\xF900-\xFA6A]
-        // Hangul Compatibility Jamo [\x3130-\x318F]
-        // Hangul Jamo [\x1100-\x11FF]
-        // Hangul Jamo Extended-A [\xA960-\xA97F]
-        // Hangul Jamo Extended-B [\xD7B0-\xD7FF]
-        // Hangul Syllables [\xAC00-\xD7AF]
-        // \p{Hiragana} [\x3040-\x309F]
-        // \p{Katakana} [\x30A0-\x30FF]
-        // Kanji radicals [\x2E80-\x2FD5]
-        // Half width [\xFF5F-\xFF9F]
-        // Punctuation [\x3000-\x303F]
+        /// Whitelisting CJK:
+        //     \p{Han} [\x3400-\x4DB5\x4E00-\x9FCB\xF900-\xFA6A]
+        //     Hangul Compatibility Jamo [\x3130-\x318F]
+        //     Hangul Jamo [\x1100-\x11FF]
+        //     Hangul Jamo Extended-A [\xA960-\xA97F]
+        //     Hangul Jamo Extended-B [\xD7B0-\xD7FF]
+        //     Hangul Syllables [\xAC00-\xD7AF]
+        //     \p{Hiragana} [\x3040-\x309F]
+        //     \p{Katakana} [\x30A0-\x30FF]
+        //     Kanji radicals [\x2E80-\x2FD5]
+        //     Half width [\xFF5F-\xFF9F]
+        //     Punctuation [\x3000-\x303F]
 
         // links:
-        // http://jrgraphix.net/research/unicode.php
-        // http://www.alanwood.net/unicode/menu.html
-        // http://www.localizingjapan.com/blog/2012/01/20/regular-expressions-for-japanese-text/
-        // http://stackoverflow.com/questions/30069846/how-to-find-out-chinese-or-japanese-character-in-a-string-in-python
-        // http://stackoverflow.com/questions/280712/javascript-unicode-regexes
+        //     http://jrgraphix.net/research/unicode.php
+        //     http://www.alanwood.net/unicode/menu.html
+        //     http://www.localizingjapan.com/blog/2012/01/20/regular-expressions-for-japanese-text/
+        //     http://stackoverflow.com/questions/30069846/how-to-find-out-chinese-or-japanese-character-in-a-string-in-python
+        //     http://stackoverflow.com/questions/280712/javascript-unicode-regexes
         var sanitisedString = inputString
-        // .replace(/[^\u2E80-\u2E99\u2E9B-\u2EF3\u2F00-\u2FD5\u3005\u3007\u3021-\u3029\u3038-\u303B\u3400-\u4DB5\u4E00-\u9FD5\uF900-\uFA6D\uFA70-\uFAD9\U00020000-\U0002A6D6\U0002A700-\U0002B734\U0002B740-\U0002B81D\U0002B820-\U0002CEA1\U0002F800-\U0002FA1D\u30A1-\u30FA\u30FD-\u30FF\u31F0-\u31FF\u32D0-\u32FE\u3300-\u3357\uFF66-\uFF6F\uFF71-\uFF9D\U0001B000\u3041-\u3096\u309D-\u309F\U0001B001\U0001F200]/g
         .replace(/[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]/g
         , ""); // CJK only whitelist, no spaces
 
         var sanitisedCJK = correctEO
-        // .replace(/[^\u2E80-\u2E99\u2E9B-\u2EF3\u2F00-\u2FD5\u3005\u3007\u3021-\u3029\u3038-\u303B\u3400-\u4DB5\u4E00-\u9FD5\uF900-\uFA6D\uFA70-\uFAD9\U00020000-\U0002A6D6\U0002A700-\U0002B734\U0002B740-\U0002B81D\U0002B820-\U0002CEA1\U0002F800-\U0002FA1D\u30A1-\u30FA\u30FD-\u30FF\u31F0-\u31FF\u32D0-\u32FE\u3300-\u3357\uFF66-\uFF6F\uFF71-\uFF9D\U0001B000\u3041-\u3096\u309D-\u309F\U0001B001\U0001F200]/g
         .replace(/[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]/g
         , ""); // same whitelist as above
         
-        if (sanitisedCJK == sanitisedString) {
-            ok = true;
+        if (sanitisedCJK === sanitisedString) {
+            correct = true;
         }
-    } else if (language == 'flu') {
-        var inputString = $('textarea#flu-answer').val();
-        var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
-        var simplifiedString = sanitisedString.replace(/[.,?!:"]/g, "").toLowerCase().trim(); // blacklist
-
-        var simplifiedEO = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
-        var simplifiedEONoHyphens = simplifiedEO.replace(/\-/g, " ");
-
-        if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
-            ok = true;
-        }
+        // currently infeasible, doesn't retain spaces from `inputString`
+        // correct = true;
+        // for (var i=0; i<sanitisedCJK.length; i++) {
+        //     var currentChar = sanitisedString[i];
+        //     console.log(i + ': ' + sanitisedCJK[i] + ' ' + sanitisedString[i]);
+        // }
     } else {
         console.warn("No such language: + " + language);
     }
 
-    if (ok) {
+    if (correct) {
         if (language == 'flu') {
             $('textarea#flu-answer').addClass('correct');
             // display new one
@@ -432,7 +458,6 @@ function logic(language) {
                 $('textarea#flu-answer').removeClass('correct');
             }, 700);
         } else {        
-            // console.log("correct " + simplifiedString + " " + simplifiedEO);
             $('textarea#answer').addClass('correct');
             // display new one
             setTimeout(function () {
@@ -448,7 +473,7 @@ function logic(language) {
         //      * html += word or html += <b>word</b>
         //      * but it's .val().. check
 
-        if (language == 'flu') {
+        if (language == 'flu') { // [TODO] refactor
             // Change to correct answer
             $('textarea#flu-answer').addClass('incorrect');
             $('textarea#flu-answer').val(correctEO);
@@ -469,7 +494,6 @@ function logic(language) {
                 }
             }, 3000);
         } else {      
-            // console.log("incorrect " + simplifiedString + " " + simplifiedEO);
             // Change to correct answer
             $('textarea#answer').addClass('incorrect');
             $('textarea#answer').val(correctEO);
