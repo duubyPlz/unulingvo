@@ -79,7 +79,19 @@
     O: 저는 친구의 차가 있습니다.
     E: I have a friend's tea.
 
+    O: 가족은 집이 있습니다.
+    E: The family has a house.
+
+    O: 개는 친구가 있습니다.
+    E: The dog has a friend.
+
+    O: 개는 가족이 있습니다.
+    E: The dog has a family.
+
 > Three
+    O: 학생
+    E: Student
+
     O: 학생이 멋없습니다.
     E: The student is not cool.
 
@@ -115,3 +127,58 @@
 
     O: 자동차가 멋있습니다.
     E: The car is cool.
+
+    O: 신문은 재미있습니다.
+    E: The newspaper is interesting.
+
+    O: 남자가 멋없습니다.
+    E: The man is uncool.
+
+    O: 빵은 맛있습니다.
+    E: Bread is delicious.
+
+    O: 고양이가 재미없습니다.
+    E: The cat is not fun.
+
+> Four
+    O: 여자는 한국 출신입니다.
+    E: A woman is from Korea.
+
+    O: 남지는 인기가 없습니다.
+    E: A man is unpopular.
+
+    O: 음식은 의미가 있습니다.
+    E: Food is meaningful.
+
+    O: 가수는 재미없습니다.
+    E: A singer is not fun.
+
+    O: 학생은 매력이 없습니다. 
+    E: The student is not charming.
+
+    O: 책은 의미가 없습니다.
+    E: Books are without meaning.
+
+    O: 저는 한국 출신입니다.
+    E: I am from Korea.
+
+    O: 여자는 인기가 없습니다.
+    E: The woman is not popular.
+
+    O: 영화는 의미가 없습니다.
+    E: Movies are meaningless.
+
+    O: 여자는 매력이 있습니다.
+    E: A woman is charming.
+
+    O: 남자는 한국 출신입니다.
+    E: The man is from Korea.
+
+    O: 가수는 인기가 없습니다.
+    E: The singer is not popular.
+
+    O: 남자는 매력이 있습니다.
+    E: The man is charming.
+
+    O: 여자는 한국 출신입니다.
+    E: The woman is from Korea.
