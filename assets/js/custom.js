@@ -438,6 +438,12 @@ function logic(language) {
         if (sanitisedCJK === sanitisedString) {
             correct = true;
         }
+        // currently infeasible, doesn't retain spaces from `inputString`
+        // correct = true;
+        // for (var i=0; i<sanitisedCJK.length; i++) {
+        //     var currentChar = sanitisedString[i];
+        //     console.log(i + ': ' + sanitisedCJK[i] + ' ' + sanitisedString[i]);
+        // }
     } else {
         console.warn("No such language: + " + language);
     }
