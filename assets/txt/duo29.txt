@@ -43,6 +43,18 @@
     O: Mi baldaŭ ricevos monon de miaj gepatroj.
     E: I will soon receive money from my parents.
 
+    O: Ŝi subite kisis lin.
+    E: She suddenly kissed him.
+
+    O: Li neniam fartis pli bone.
+    E: He has never felt better.
+
+    O: Ili varme diris "Saluton".
+    E: They said "Hello" warmly.
+
+    O: Li amas sin.
+    E: He loves himself.
+
 > Two
     O: Pro manko de mono, mi apenaŭ povas vojaĝi.
     E: Because of the lack of money I hardly can travel.
@@ -93,6 +105,9 @@
     O: Ŝi apenaŭ povis fini sian laboron pro manko de tempo.
     E: She could hardly finish her work for lack of time.
 
+    O: Eĉ infanoj scias tion.
+    E: Even children know this.
+
 > Three
     O: Estas varme.
     E: It's warm.
@@ -134,6 +149,15 @@
 
     O: Mi ŝatas fruktojn sed mi aparte ŝatas fragojn.
     E: I like fruit, but I especially like strawberries.
+
+    O: Labori ofte ne estas facile.
+    E: Working often is not easy.
+
+    O: Ŝia kuko estis aparte bongusta.
+    E: Her cake was especially delicious.
+
+    O: Ŝi ŝatas bestojn, aparte ĉevalojn.
+    E: She likes animals, especially horses.
 
 > Four
     O: Dufoje li alvenis malfrue.
@@ -185,6 +209,21 @@
     O: Ŝi estas la plej juna el miaj infanoj.
     E: She is the youngest of my children.
 
+    O: La preĝejo estis malproksime de la domo.
+    E: The church was far from the house.
+
+    O: Ŝi malbone parolas la ĉinan.
+    E: She speaks Chinese badly.
+
+    O: Hodiaŭ ni tagmanĝos malfrue.
+    E: Today we will eat lunch late.
+
+    O: M loĝas tro malproksime.
+    E: I live too far away.
+
+    O: Tiu inĝeniero neniam alvenis malfrue.
+    E: That engineer never arrived late.
+
 > Five
     # Ili komprenas unu la alian.
     O: Ili sin komprenas reciproke.
@@ -229,3 +268,27 @@
 
     O: Vi perdas vian tempon.
     E: You are wasting your time.
+
+    O: Ni helpis nin reciproke.
+    E: We helped each other.
+
+    O: Li estas el alia mondo.
+    E: He is from another world.
+
+    O: Ni venis antaŭ la aliaj.
+    E: We came before the others.
+
+    O: Estas tre danĝere.
+    E: It's very dangerous.
+
+    O: Ĉu via bebo dormas normale?
+    E: Does your baby sleep normally?
+
+    O: Kiom aĝa vi taksas min?
+    E: What age do you think I am?
+
+    O: Estas proksimume dek domoj en nia strato.
+    E: There are approximately ten houses on our street.
+
+    O: Ŝi perdis ĉion pasintmonate.
+    E: She lost everything last month.
