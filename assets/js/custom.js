@@ -25,7 +25,7 @@ $('select#contents-ja').parent().hide();
 
 // TODO can't get semantic ui <select>.dropdown('set selected', random) to work
 var sizeHash = {
-                    'eo': 29,
+                    'eo': 30,
                     'ko': 3,
                     'ja': 2,
                     'flu': 2
@@ -103,15 +103,15 @@ $('.nav-pills li').on('click', function() {
 
 // b) Keyboard shortcuts
 $('body').keydown(function (e) {
-    if (e.keyCode == 49)  { // '!' Esperanto
+    if (e.shiftKey && e.keyCode == 49)  { // '!' Esperanto
         e.preventDefault();
         var currentPill = $('.nav-pills li#eo');
         goToPill(currentPill);
-    } else if (e.keyCode == 50) { // '@' Korean
+    } else if (e.shiftKey && e.keyCode == 50) { // '@' Korean
         e.preventDefault();
         var currentPill = $('.nav-pills li#ko');
         goToPill(currentPill);
-    } else if (e.keyCode == 51) { // '#' Japanese
+    } else if (e.shiftKey && e.keyCode == 51) { // '#' Japanese
         e.preventDefault();
         var currentPill = $('.nav-pills li#ja');
         goToPill(currentPill);

@@ -1,0 +1,24 @@
+== Feelings ==
+> One
+    1 Mi sentas min malsata.
+    2 I feel hungry.
+
+    1 Ili estas lacaj, do ili volas ripozi.
+    2 They're tired, so they want to rest.
+
+    1 Kio estas amo?
+    2 What is love?
+
+    1 Kial vi ploras?
+    2 Why are you crying?
+
+    1 Ĉu ili estas sataj?
+    2 Are they full?
+
+    1 Duono de la lernejanoj kontentas.
+    2 Half of the pupils are pleased.
+
+    1 La knabo estas malkontenta, ĉar li ne havas katon.
+    2 The boy is discontented, because he doesn't have a cat.
+
+> Two
