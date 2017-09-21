@@ -1,2 +1,3 @@
-# Esperanto practice
-Data from Duolingo.com
+# Unulingvo | Language study supplement
+
+Quick, infinite practice of duolingo's sentences; personal flash cards
