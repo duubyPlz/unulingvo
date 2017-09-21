@@ -3,6 +3,9 @@
     1 Mi sentas min malsata.
     2 I feel hungry.
 
+    1 Mi sentas min feliĉa.
+    2 I feel happy.
+
     1 Ili estas lacaj, do ili volas ripozi.
     2 They're tired, so they want to rest.
 
@@ -19,6 +22,9 @@
     2 Half of the pupils are pleased.
 
     1 La knabo estas malkontenta, ĉar li ne havas katon.
-    2 The boy is discontented, because he doesn't have a cat.
+    2 The boy is discontented, because he doesn't have a cat.e
+
+    1 Kia vi sentas vin?
+    2 How do you feel?
 
 > Two
