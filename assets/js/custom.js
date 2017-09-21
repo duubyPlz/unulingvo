@@ -343,9 +343,9 @@ function parse(module, language) {
 
             for (var i=0; i<lines.length; i++) {
                 var current = lines[i];
-                if (matchesEO = current.match(/\ {4}O:.*$/)) { // EO
+                if (matchesEO = current.match(/^\ {4}O:.*/)) { // EO
                     currentEsperanto = matchesEO[0].replace(/\ {4}O:\ /, "");
-                } else if (matchesEN = current.match(/\ {4}E:.*$/)) { // EN
+                } else if (matchesEN = current.match(/^\ {4}E:.*/)) { // EN
                     var english = matchesEN[0].replace(/\ {4}E:\ /, "");
                     hash[english] = currentEsperanto;
                 }
