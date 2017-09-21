@@ -1,30 +1,30 @@
 == Feelings ==
 > One
-    1 Mi sentas min malsata.
-    2 I feel hungry.
+    O: Mi sentas min malsata.
+    E: I feel hungry.
 
-    1 Mi sentas min feliĉa.
-    2 I feel happy.
+    O: Mi sentas min feliĉa.
+    E: I feel happy.
 
-    1 Ili estas lacaj, do ili volas ripozi.
-    2 They're tired, so they want to rest.
+    O: Ili estas lacaj, do ili volas ripozi.
+    E: They're tired, so they want to rest.
 
-    1 Kio estas amo?
-    2 What is love?
+    O: Kio estas amo?
+    E: What is love?
 
-    1 Kial vi ploras?
-    2 Why are you crying?
+    O: Kial vi ploras?
+    E: Why are you crying?
 
-    1 Ĉu ili estas sataj?
-    2 Are they full?
+    O: Ĉu ili estas sataj?
+    E: Are they full?
 
-    1 Duono de la lernejanoj kontentas.
-    2 Half of the pupils are pleased.
+    O: Duono de la lernejanoj kontentas.
+    E: Half of the pupils are pleased.
 
-    1 La knabo estas malkontenta, ĉar li ne havas katon.
-    2 The boy is discontented, because he doesn't have a cat.e
+    O: La knabo estas malkontenta, ĉar li ne havas katon.
+    E: The boy is discontented, because he doesn't have a cat.e
 
-    1 Kia vi sentas vin?
-    2 How do you feel?
+    O: Kia vi sentas vin?
+    E: How do you feel?
 
 > Two
