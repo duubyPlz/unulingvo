@@ -212,7 +212,7 @@
     O: La preĝejo estis malproksime de la domo.
     E: The church was far from the house.
 
-    O: Ŝi malbone parolas la ĉinan.
+    O: Ŝi parolas la ĉinan malbone.
     E: She speaks Chinese badly.
 
     O: Hodiaŭ ni tagmanĝos malfrue.
