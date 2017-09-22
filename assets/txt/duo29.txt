@@ -49,7 +49,7 @@
     O: Li neniam fartis pli bone.
     E: He has never felt better.
 
-    O: Ili varme diris "Saluton".
+    O: Ili diris "Saluton" varme.
     E: They said "Hello" warmly.
 
     O: Li amas sin.
@@ -212,13 +212,13 @@
     O: La preĝejo estis malproksime de la domo.
     E: The church was far from the house.
 
-    O: Ŝi malbone parolas la ĉinan.
+    O: Ŝi parolas la ĉinan malbone.
     E: She speaks Chinese badly.
 
     O: Hodiaŭ ni tagmanĝos malfrue.
     E: Today we will eat lunch late.
 
-    O: M loĝas tro malproksime.
+    O: Mi loĝas tro malproksime.
     E: I live too far away.
 
     O: Tiu inĝeniero neniam alvenis malfrue.
