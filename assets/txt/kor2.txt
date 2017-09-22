@@ -144,7 +144,7 @@
     O: 여자는 한국 출신입니다.
     E: A woman is from Korea.
 
-    O: 남지는 인기가 없습니다.
+    O: 남자는 인기가 없습니다.
     E: A man is unpopular.
 
     O: 음식은 의미가 있습니다.
