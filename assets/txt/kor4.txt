@@ -41,3 +41,5 @@
 
     O: 남자가 웃습니다.
     E: The man laughs.
+
+> Two

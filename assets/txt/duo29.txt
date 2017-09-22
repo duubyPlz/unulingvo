@@ -49,7 +49,7 @@
     O: Li neniam fartis pli bone.
     E: He has never felt better.
 
-    O: Ili varme diris "Saluton".
+    O: Ili diris "Saluton" varme.
     E: They said "Hello" warmly.
 
     O: Li amas sin.
