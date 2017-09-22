@@ -218,7 +218,7 @@
     O: Hodiaŭ ni tagmanĝos malfrue.
     E: Today we will eat lunch late.
 
-    O: M loĝas tro malproksime.
+    O: Mi loĝas tro malproksime.
     E: I live too far away.
 
     O: Tiu inĝeniero neniam alvenis malfrue.
