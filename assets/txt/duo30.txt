@@ -22,7 +22,7 @@
     E: Half of the pupils are pleased.
 
     O: La knabo estas malkontenta, ĉar li ne havas katon.
-    E: The boy is discontented, because he doesn't have a cat.e
+    E: The boy is discontented, because he doesn't have a cat.
 
     O: Kia vi sentas vin?
     E: How do you feel?
