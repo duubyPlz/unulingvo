@@ -116,7 +116,7 @@
     O: 음식은 맛없습니다.
     E: Food is not delicious.
 
-    O: 영화는 재미있슴니다.
+    O: 영화는 재미있습니다.
     E: A movie is fun.
 
     O: 사과는 맛있습니다.
