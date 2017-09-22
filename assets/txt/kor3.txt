@@ -39,5 +39,57 @@
     O: 안녕하세요! 환영합니다.
     E: Hello! Welcome.
 
+    O: 남자의 이름.
+    E: The man's name.
+
+    O: 만나서 반갑습니다.
+    E: Nice to meet you.
+
 > Two
-    
+    O: 죄송합니다. 괜찮습니다. 
+    E: I'm sorry. It's okay.
+
+    O: 실례합니다.
+    E: Excuse me.
+
+    O: 미안합니다.
+    E: Sorry.
+
+    O: 감사합니다! 환영합니다.
+    E: Thank you! Welcome.
+
+    O: 네, 고맙습니다.
+    E: Yes, thank you.
+
+    O: 네, 감사합니다.
+    E: Yes, thank you.
+
+    O: 실례합니다. 감사합니다.
+    E: Excuse me. Thank you.
+
+    O: 저는 괜찮습니다.
+    E: I am okay.
+
+    O: 저는 미안합니다.
+    E: I'm sorry.
+
+    O: 아니요, 죄송합니다.
+    E: No, sorry.
+
+    O: 아뇨, 괜찮습니다.
+    E: No, I'm okay.
+
+    O: 아니요, 감사합니다.
+    E: No, thank you.
+
+    O: 죄송합니다.
+    E: Excuse me.
+
+    O: 괜찮습니다.
+    E: It's okay.
+
+    O: 죄송합니다!
+    E: Sorry!
+
+    O: 죄송합니다, 미안합니다.
+    E: Sorry, sorry.
