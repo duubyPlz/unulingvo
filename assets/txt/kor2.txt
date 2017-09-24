@@ -21,7 +21,7 @@
     O: 공원이 없습니다.
     E: There is no park.
 
-    O: 산은 공원에 았습니다.
+    O: 산은 공원에 있습니다.
     E: The mountain is in the park.
 
     O: 산은 바다에 없습니다.
