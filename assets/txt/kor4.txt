@@ -1,7 +1,7 @@
 == Regular Verbs ==
 > One
     O: 여자하고 남자아이가 함께 생각합니다.
-    E: The woman and boy think together.
+    E: The woman and[s] boy think together.
 
     O: 자는 방에서 웃습니다.
     E: I laugh in the room.
