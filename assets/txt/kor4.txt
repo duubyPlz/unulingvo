@@ -6,6 +6,7 @@
     O: 저는 방에서 웃습니다.
     E: I laugh in the room.
 
+    # 서다 + ㅂ니다 → 섭니다
     O: 개가 섭니다.
     E: The dog stands.
 
@@ -44,10 +45,10 @@
 
 > Two
     O: 남자가 집까지 수영합니다.
-    E: The man swims to[t] the house.
+    E: The man swims to the house.
 
     O: 개가 집으로 갑니다.
-    E: The dog goes to a house.
+    E: The dog goes towards a house.
 
     O: 섬하고 바다.
     E: Island and sea.
@@ -62,10 +63,10 @@
     E: The man runs at the park.
 
     O: 학셍이 도서관까지 달립니다.
-    E: The student runs to[t] the library.
+    E: The student runs to the library.
 
     O: 남자가 바다로 달립니다.
-    E: The man runs to the sea.
+    E: The man runs towards the sea.
 
     O: 저는 수영합니다.
     E: I swim.
