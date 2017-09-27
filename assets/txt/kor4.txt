@@ -3,7 +3,7 @@
     O: 여자하고 남자아이가 함께 생각합니다.
     E: The woman and[s] boy think together.
 
-    O: 자는 방에서 웃습니다.
+    O: 저는 방에서 웃습니다.
     E: I laugh in the room.
 
     O: 개가 섭니다.
@@ -16,15 +16,15 @@
     E: The man falls.
 
     O: 남자들이 같이 생각합니다.
-    E: The men think together.
+    E: The men think together[s].
 
-    O: 자는 앉습니다.
+    O: 저는 앉습니다.
     E: I sit.
 
     O: 여자와 남자는 함께 웃습니다.
     E: The woman and the man laugh together.
 
-    O: 동물이 옷습니다.
+    O: 동물이 웃습니다.
     E: The animal laughs.
 
     O: 남자가 앉습니다.
