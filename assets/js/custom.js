@@ -103,15 +103,15 @@ $('.nav-pills li').on('click', function() {
 
 // b) Keyboard shortcuts
 $('body').keydown(function (e) {
-    if (e.shiftKey && e.keyCode == 49)  { // '!' Esperanto
+    if (e.shiftKey && e.keyCode == 50)  { // '@' Esperanto
         e.preventDefault();
         var currentPill = $('.nav-pills li#eo');
         goToPill(currentPill);
-    } else if (e.shiftKey && e.keyCode == 50) { // '@' Korean
+    } else if (e.shiftKey && e.keyCode == 51) { // '#' Korean
         e.preventDefault();
         var currentPill = $('.nav-pills li#ko');
         goToPill(currentPill);
-    } else if (e.shiftKey && e.keyCode == 51) { // '#' Japanese
+    } else if (e.shiftKey && e.keyCode == 52) { // '$' Japanese
         e.preventDefault();
         var currentPill = $('.nav-pills li#ja');
         goToPill(currentPill);
