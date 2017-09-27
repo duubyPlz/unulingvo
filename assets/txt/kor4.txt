@@ -57,7 +57,7 @@
     E: The cat comes from the house.
 
     O: 여자하고 남자가 도서관에서 걷습니다.
-    E: The woman and the man walk in the library.
+    E: The woman and the man walk inside the library.
 
     O: 남자가 공원에서 뜁니다.
     E: The man runs at the park.
@@ -75,7 +75,7 @@
     E: I go.
 
     O: 남자가 도서관에서 걷습니다.
-    E: The man walks in the library.
+    E: The man walks inside the library.
 
     O: 개가 집에 옵니다.
     E: The dog comes home.
