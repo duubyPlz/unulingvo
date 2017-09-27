@@ -97,6 +97,3 @@
 > Three
     O: 저는 메시지를 적습니다.
     E: I write a message.
-
-    O: 
-    E: 
