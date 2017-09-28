@@ -18,7 +18,7 @@
     O: 남자가 공원에서 뜁니다.
     E: The man runs[j] at the park.
 
-    O: 학셍이 도서관까지 달립니다.
+    O: 학생이 도서관까지 달립니다.
     E: The student runs to the library.
 
     O: 남자가 바다로 달립니다.
