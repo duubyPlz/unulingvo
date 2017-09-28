@@ -23,7 +23,7 @@
     O: 남자가 저의 메시지를 읽습니다.
     E: The man reads my message.
 
-    O: 남자가 신문은 씁니다.
+    O: 남자가 신문을 씁니다.
     E: The man writes the newspaper.
 
     O: 남자아이와 여자아이는 적습니다.
