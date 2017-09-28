@@ -1,0 +1,46 @@
+> Four
+    O: 여자의 학생이 영어를 합니다.
+    E: The woman's student speaks English.
+
+    O: 저는 대화합니다.
+    E: I converse.
+
+    O: 아이들이 말합니다.
+    E: The children talk.
+
+    O: 개가 빵을 조금 먹습니다.
+    E: The dog eats a little bit of the bread.
+
+    O: 항국어와 영어.
+    E: Korean and English.
+
+    O: 저는 한국어를 잘합니다.
+    E: I speak Korean well.
+
+    O: 남저는 영어를 잘합니다.
+    E: A man speaks English well.
+
+    O: 저는 말합니다.
+    E: I speak.
+
+    O: 남자가 영어를 잘합니다.
+    E: The man speaks English well.
+
+    O: 남자가 한국어로 말합니다.
+    E: The man speaks in Korean.
+
+    O: 개와 고영아가 한국어로 대화합니다.
+    E: The dog and cat converse in Korean.
+
+    O: 저는 한국어를 조금 합니다.
+    E: I speak a little Korean.
+
+    # 이야기하다 means "to tell/talk"
+    O: 아이들이 조금 이야기합니다.
+    E: The children talk a little.
+
+    O: 남자들이 영어로 이야기합니다.
+    E: The men talk in English.
+
+    O: 고양이가 빵을 먹습니다.
+    E: The cat eats bread.

@@ -1,0 +1,52 @@
+> Three
+    O: 저는 메시지를 적습니다.
+    E: I write a message.
+
+    O: 여자는 읽습니다.
+    E: A woman reads.
+
+    O: 저는 마십니다.
+    E: I drink.
+
+    O: 저는 도서관에서 먹습니다.
+    E: I eat at the library.
+
+    O: 동물은 물이 있습니다.
+    E: An animal has water.
+
+    O: 동물이 메시지를 씁니다.
+    E: The animal writes a message.
+
+    O: 저는 물을 마십니다.
+    E: I drink water.
+
+    O: 남자가 저의 메시지를 읽습니다.
+    E: The man reads my message.
+
+    O: 남자가 신문은 씁니다.
+    E: The man writes the newspaper.
+
+    O: 남자아이와 여자아이는 적습니다.
+    E: A boy and a girl write.
+
+    O: 저는 도서관에서 먹습니다.
+    E: I eat at the library.
+
+    O: 남자는 적습니다.
+    E: A man writes.
+
+    # "-로 here marks the instrumental case. The hands are being used for the action of eating. If it were an object, the hands would be the thing being eaten!" - LiKenun
+    O: 아이가 손으로 먹습니다.
+    E: The child eats with his hands.
+
+    O: 저는 책을 씁니다.
+    E: I write a book.
+
+    O: 손
+    E: Hand
+
+    O: 저는 사과를 먹습니다.
+    E: I eat an apple.
+
+    O: 저는 신문을 읽습니다.
+    E: I read the newspaper.
