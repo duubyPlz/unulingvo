@@ -1,0 +1,58 @@
+> Two
+    O: 남자가 집까지 수영합니다.
+    E: The man swims to the house.
+
+    # The dog goes towards a house.
+    O: 개가 집으로 갑니다.
+    E: The dog goes home.
+
+    O: 섬하고 바다.
+    E: Island and sea.
+
+    O: 고영이가 집에서 옵니다.
+    E: The cat comes from the house.
+
+    O: 여자하고 남자가 도서관에서 걷습니다.
+    E: The woman and the man walk inside the library.
+
+    O: 남자가 공원에서 뜁니다.
+    E: The man runs at the park.
+
+    O: 학셍이 도서관까지 달립니다.
+    E: The student runs to the library.
+
+    O: 남자가 바다로 달립니다.
+    E: The man runs towards the sea.
+
+    O: 저는 수영합니다.
+    E: I swim.
+
+    O: 제가 갑니다.
+    E: I go.
+
+    O: 남자가 도서관에서 걷습니다.
+    E: The man walks inside the library.
+
+    O: 개가 집에 옵니다.
+    E: The dog comes home.
+
+    O: 저는 집에 갑니다.
+    E: I go home.
+
+    O: 남자는 걷습니다.
+    E: A man walks.
+
+    O: 개가 섬까지 수영합니다.
+    E: The dog swims to the island.
+
+    O: 아이가 길에서 뜁니다.
+    E: The child jumps in the street.
+
+    O: 갑니다!
+    E: I'm going!
+
+    O: 저의 섬.
+    E: My island.
+
+    O: 학생이 도서관으로 뜁니다.
+    E: The student jumps toward the library.
