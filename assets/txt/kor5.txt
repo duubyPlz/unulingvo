@@ -2,9 +2,9 @@
     O: 남자가 집까지 수영합니다.
     E: The man swims to the house.
 
-    # The dog goes towards a house.
+    # The dog goes home.
     O: 개가 집으로 갑니다.
-    E: The dog goes home.
+    E: The dog goes towards a house.
 
     O: 섬하고 바다.
     E: Island and[s] sea.
