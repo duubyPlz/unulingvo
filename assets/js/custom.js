@@ -26,7 +26,7 @@ $('select#contents-ja').parent().hide();
 // TODO can't get semantic ui <select>.dropdown('set selected', random) to work
 var sizeHash = {
                     'eo': 30,
-                    'ko': 4,
+                    'ko': 10,
                     'ja': 2,
                     'flu': 2
                };
