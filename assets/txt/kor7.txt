@@ -17,7 +17,7 @@
     O: 저는 한국어를 잘합니다.
     E: I speak Korean well.
 
-    O: 남저는 영어를 잘합니다.
+    O: 남자는 영어를 잘합니다.
     E: A man speaks English well.
 
     O: 저는 말합니다.
