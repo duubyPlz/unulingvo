@@ -29,7 +29,7 @@
     O: 남자가 한국어로 말합니다.
     E: The man speaks in Korean.
 
-    O: 개와 고양아가 한국어로 대화합니다.
+    O: 개와 고양이가 한국어로 대화합니다.
     E: The dog and cat converse in Korean.
 
     O: 저는 한국어를 조금 합니다.
