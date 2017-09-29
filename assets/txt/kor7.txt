@@ -11,7 +11,7 @@
     O: 개가 빵을 조금 먹습니다.
     E: The dog eats a little bit of the bread.
 
-    O: 항국어와 영어.
+    O: 한국어와 영어.
     E: Korean and English.
 
     O: 저는 한국어를 잘합니다.
