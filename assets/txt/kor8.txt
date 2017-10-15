@@ -33,4 +33,4 @@
     E: A man receives a gift from a woman.
 
     O: 가수는 저에게서 선물을 받습니다.
-    E: The singer gets a gift from me.
+    E: A singer gets a gift from me.
