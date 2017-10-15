@@ -9,7 +9,7 @@
     O: 섬하고 바다.
     E: Island and[s] sea.
 
-    O: 고영이가 집에서 옵니다.
+    O: 고양이가 집에서 옵니다.
     E: The cat comes from the house.
 
     O: 여자하고 남자가 도서관에서 걷습니다.

@@ -35,7 +35,7 @@
     O: 남자가 길에서 섭니다.
     E: The man stands up in the street.
 
-    O: 고영이가 넘어집니다.
+    O: 고양이가 넘어집니다.
     E: The cat falls.
 
     O: 학생이 도서관에서 생각합니다.

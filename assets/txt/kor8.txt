@@ -1,6 +1,6 @@
 > Five
     O: 여자아이는 남자에게서 개를 받습니다.
-    E: The girl gets a dog from the man.
+    E: A girl gets a dog from the man.
 
     O: 친구가 개에게 영어를 가르칩니다.
     E: The friend teaches English to the dog.
@@ -26,7 +26,7 @@
     O: 저는 아이를 가르칩니다.
     E: I teach a child.
 
-    O: 저는 친구에게 편지를 보넵니다.
+    O: 저는 친구에게 편지를 보냅니다.
     E: I send a letter to the friend.
 
     O: 남자는 여자에게서 선물을 받습니다. 
