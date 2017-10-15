@@ -6,7 +6,7 @@
     E: The woman and the man sing.
 
     O: 아이는 잠잡니다.
-    E: The child sleeps.
+    E: A child sleeps.
 
     O: 고영이들이 잡니다.
     E: The cats sleep[s].
