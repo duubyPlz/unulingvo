@@ -1,46 +1,46 @@
-> Four
-    O: 여자의 학생이 영어를 합니다.
-    E: The woman's student speaks English.
+> Seven
+    O: 저는 친구를 던지지 않습니다.
+    E: I do not throw my friend.
 
-    O: 저는 대화합니다.
-    E: I converse.
+    O: 여자는 한국어를 안 배웁니다.
+    E: A woman does not learn Korean.
 
-    O: 아이들이 말합니다.
-    E: The children talk.
+    O: 공부
+    E: Study
 
-    O: 개가 빵을 조금 먹습니다.
-    E: The dog eats a little bit of the bread.
+    O: 학생들이 학교에서 운동합니다.
+    E: The students exercise at school.
 
-    O: 한국어와 영어.
-    E: Korean and English.
+    O: 학생들이 학교에서 공부합니다.
+    E: The students study at school.
 
-    O: 저는 한국어를 잘합니다.
-    E: I speak Korean well.
+    O: 남자아이가 공을 안 잡습니다.
+    E: The boy does not catch the ball.
 
-    O: 남자는 영어를 잘합니다.
-    E: A man speaks English well.
+    O: 개가 공을 잡지 않습니다.
+    E: The dog does not catch the ball.
 
-    O: 저는 말합니다.
-    E: I speak.
+    O: 아이가 공을 던집니다.
+    E: The child throws the ball.
 
-    O: 남자가 영어를 잘합니다.
-    E: The man speaks English well.
+    O: 저는 공부하지 않습니다.
+    E: I do not study.
 
-    O: 남자가 한국어로 말합니다.
-    E: The man speaks in Korean.
+    O: 저는 영어를 배우지 않습니다.
+    E: I do not learn English.
 
-    O: 개와 고양이가 한국어로 대화합니다.
-    E: The dog and cat converse in Korean.
+    O: 남자가 공원에서 운동합니다.
+    E: The man exercises at the park.
 
-    O: 저는 한국어를 조금 합니다.
-    E: I speak a little Korean.
+    O: 여자가 한국어를 공부합니다.
+    E: The woman studies Korean.
 
-    # 이야기하다 means "to tell/talk"
-    O: 아이들이 조금 이야기합니다.
-    E: The children talk a little.
+    O: 저는 한국어를 배웁니다.
+    E: I learn Korean.
 
-    O: 남자들이 영어로 이야기합니다.
-    E: The men talk in English.
+    # The dog does not catch the cat.
+    O: 개가 고영이를 안잡습니다.
+    E: The dog does not catch a cat.
 
-    O: 고양이가 빵을 먹습니다.
-    E: The cat eats bread.
+    O: 여자가 운동합니다.
+    E: The woman exercises.

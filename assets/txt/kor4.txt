@@ -46,3 +46,162 @@
 
     O: 아이들이 함께 앉습니다.
     E: The children sit together.
+
+> Two
+    O: 남자가 집까지 수영합니다.
+    E: The man swims to the house.
+
+    # The dog goes home.
+    O: 개가 집으로 갑니다.
+    E: The dog goes towards a house.
+
+    O: 섬하고 바다.
+    E: Island and[s] sea.
+
+    O: 고양이가 집에서 옵니다.
+    E: The cat comes from the house.
+
+    O: 여자하고 남자가 도서관에서 걷습니다.
+    E: The woman and[s] the man walk inside the library.
+
+    O: 남자가 공원에서 뜁니다.
+    E: The man runs[j] at the park.
+
+    O: 학생이 도서관까지 달립니다.
+    E: The student runs to the library.
+
+    O: 남자가 바다로 달립니다.
+    E: The man runs towards the sea.
+
+    O: 저는 수영합니다.
+    E: I swim.
+
+    O: 제가 갑니다.
+    E: I go.
+
+    O: 남자가 도서관에서 걷습니다.
+    E: The man walks inside the library.
+
+    O: 개가 집에 옵니다.
+    E: The dog comes home.
+
+    O: 저는 집에 갑니다.
+    E: I go home.
+
+    O: 남자는 걷습니다.
+    E: A man walks.
+
+    O: 개가 섬까지 수영합니다.
+    E: The dog swims to the island.
+
+    O: 아이가 길에서 뜁니다.
+    E: The child jumps in the street.
+
+    O: 갑니다!
+    E: I'm going!
+
+    O: 저의 섬.
+    E: My island.
+
+    O: 학생이 도서관으로 뜁니다.
+    E: The student jumps toward the library.
+
+> Three
+    O: 저는 메시지를 적습니다.
+    E: I write a message.
+
+    O: 여자는 읽습니다.
+    E: A woman reads.
+
+    O: 저는 마십니다.
+    E: I drink.
+
+    O: 저는 도서관에서 먹습니다.
+    E: I eat at the library.
+
+    O: 동물은 물이 있습니다.
+    E: An animal has water.
+
+    O: 동물이 메시지를 씁니다.
+    E: The animal writes a message.
+
+    O: 저는 물을 마십니다.
+    E: I drink water.
+
+    O: 남자가 저의 메시지를 읽습니다.
+    E: The man reads my message.
+
+    O: 남자가 신문을 씁니다.
+    E: The man writes the newspaper.
+
+    O: 남자아이와 여자아이는 적습니다.
+    E: A boy and a girl write.
+
+    O: 저는 도서관에서 먹습니다.
+    E: I eat at the library.
+
+    O: 남자는 적습니다.
+    E: A man writes.
+
+    # "-로 here marks the instrumental case. The hands are being used for the action of eating. If it were an object, the hands would be the thing being eaten!" - LiKenun
+    O: 아이가 손으로 먹습니다.
+    E: The child eats with his hands.
+
+    O: 저는 책을 씁니다.
+    E: I write a book.
+
+    O: 손
+    E: Hand
+
+    O: 저는 사과를 먹습니다.
+    E: I eat an apple.
+
+    O: 저는 신문을 읽습니다.
+    E: I read the newspaper.
+
+> Four
+    O: 여자의 학생이 영어를 합니다.
+    E: The woman's student speaks English.
+
+    O: 저는 대화합니다.
+    E: I converse.
+
+    O: 아이들이 말합니다.
+    E: The children talk.
+
+    O: 개가 빵을 조금 먹습니다.
+    E: The dog eats a little bit of the bread.
+
+    O: 한국어와 영어.
+    E: Korean and English.
+
+    O: 저는 한국어를 잘합니다.
+    E: I speak Korean well.
+
+    O: 남자는 영어를 잘합니다.
+    E: A man speaks English well.
+
+    O: 저는 말합니다.
+    E: I speak.
+
+    O: 남자가 영어를 잘합니다.
+    E: The man speaks English well.
+
+    O: 남자가 한국어로 말합니다.
+    E: The man speaks in Korean.
+
+    O: 개와 고양이가 한국어로 대화합니다.
+    E: The dog and cat converse in Korean.
+
+    O: 저는 한국어를 조금 합니다.
+    E: I speak a little Korean.
+
+    # 이야기하다 means "to tell/talk"
+    O: 아이들이 조금 이야기합니다.
+    E: The children talk a little.
+
+    O: 남자들이 영어로 이야기합니다.
+    E: The men talk in English.
+
+    O: 고양이가 빵을 먹습니다.
+    E: The cat eats bread.
