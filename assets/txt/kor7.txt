@@ -39,7 +39,7 @@
     E: I learn Korean.
 
     # The dog does not catch the cat.
-    O: 개가 고영이를 안잡습니다.
+    O: 개가 고양이를 안잡습니다.
     E: The dog does not catch a cat.
 
     O: 여자가 운동합니다.
