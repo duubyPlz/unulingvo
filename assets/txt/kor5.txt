@@ -1,51 +1,74 @@
 == Adjectives ==
 > One
-    1 자동차가 많습니다.
-    2 There are many cars.
+    O: 자동차가 많습니다.
+    E: There are many cars.
 
-    1 길이 짧습니다.
-    2 The road is short.
+    O: 길이 짧습니다.
+    E: The road is short.
 
-    1 여자는 좋습니다.
-    2 Women are good.
+    O: 여자는 좋습니다.
+    E: Women are good.
 
-    1 아니요, 저는 나쁩니다.
-    2 No, I am bad.
+    O: 아니요, 저는 나쁩니다.
+    E: No, I am bad.
 
-    1 물건이 작습니다.
-    2 The thing is small.
+    O: 물건이 작습니다.
+    E: The thing is small.
 
-    1 영화가 깁니다.
-    2 The movie is long.
+    O: 영화가 깁니다.
+    E: The movie is long.
 
-    1 공들이 많습니다.
-    2 There are many balls.
+    O: 공들이 많습니다.
+    E: There are many balls.
 
-    1 사과가 나쁩니다.
-    2 The apple is bad.
+    O: 사과가 나쁩니다.
+    E: The apple is bad.
 
-    1 영화가 짧습니다.
-    2 The movie is short.
+    O: 영화가 짧습니다.
+    E: The movie is short.
 
-    1 빵이 작습니다.
-    2 The bread is small.
+    O: 빵이 작습니다.
+    E: The bread is small.
 
-    1 책이 깁니다.
-    2 The book is long.
+    O: 책이 깁니다.
+    E: The book is long.
 
-    1 예, 사람들은 나쁩니다.
-    2 Yes, people are bad.
+    O: 예, 사람들은 나쁩니다.
+    E: Yes, people are bad.
 
-    1 친구들은 좋습니다.
-    2 Friends are good.
+    O: 친구들은 좋습니다.
+    E: Friends are good.
 
-    1 사람들이 많습니다.
-    2 There are a lot of people.
+    O: 사람들이 많습니다.
+    E: There are a lot of people.
 
-    1 연필이 짧습니다.
-    2 The pencil is short.
+    O: 연필이 짧습니다.
+    E: The pencil is short.
 
-    1 길이 깁니다.
-    2 The road is long.
+    O: 길이 깁니다.
+    E: The road is long.
 
 > Two
+    O: 물건이 뜨겁습니다
+    E: The thing is hot.
+
+    O: 남자는 빠릅니다.
+    E: A man is fast.
+
+    O: 사과는 가볍습니다.
+    E: An apple is light.
+
+    O: 책이 쌉니다.
+    E: The book is cheap.
+    
+    O: 남자의 신문이 무겁습니다.
+    E:  The man's newspaper is heavy.
+
+    O: 여자의 자동차가 느립니다.
+    E: The woman's car is slow.
+
+    O: 차가 차갑습니다.
+    E: The car is cold.
+
+    O: The food is expensive.
+    E: 음식이 비쌉니다.
