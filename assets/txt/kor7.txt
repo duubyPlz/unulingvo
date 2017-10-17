@@ -24,7 +24,7 @@
     E: The child throws the ball.
 
     O: 저는 공부하지 않습니다.
-    E: I do not study.
+    E: I do not[l] study.
 
     O: 저는 영어를 배우지 않습니다.
     E: I do not[l] learn English.
