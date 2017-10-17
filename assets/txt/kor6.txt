@@ -36,7 +36,7 @@
     O: 개가 춤을 춥니다.
     E: The dog dances.
 
-    O: 여자가 꿈을 꼽니다.
+    O: 여자가 꿈을 꿉니다.
     E: The woman dreams.
 
     O: 저는 노래를 합니다.
