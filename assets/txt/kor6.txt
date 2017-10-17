@@ -14,7 +14,7 @@
     O: 남자가 잠을 잡니다.
     E: The man sleeps.
 
-    O: 학상이 도서관에서 꿈을 꿉니다.
+    O: 학생이 도서관에서 꿈을 꿉니다.
     E: The student dreams at the library.
 
     O: 저는 도서관에서 노래를 합니다.
