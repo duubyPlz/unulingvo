@@ -1,36 +1,51 @@
-> Five
-    O: 여자아이는 남자에게서 개를 받습니다.
-    E: A girl gets a dog from the man.
+== Adjectives ==
+> One
+    1 자동차가 많습니다.
+    2 There are many cars.
 
-    O: 친구가 개에게 영어를 가르칩니다.
-    E: The friend teaches English to the dog.
+    1 길이 짧습니다.
+    2 The road is short.
 
-    O: 여자아이는 남자아이에게 편지를 보냅니다.
-    E: A girl sends a boy a letter.
+    1 여자는 좋습니다.
+    2 Women are good.
 
-    O: 제가 친구에게 선물을 줍니다.
-    E: I give my friend a present.
+    1 아니요, 저는 나쁩니다.
+    2 No, I am bad.
 
-    O: 저는 여자에게 선물을 줍니다.
-    E: I give the woman a present.
+    1 물건이 작습니다.
+    2 The thing is small.
 
-    O: 저는 한국어를 가르칩니다.
-    E: I teach Korean.
+    1 영화가 깁니다.
+    2 The movie is long.
 
-    O: 남자가 편지를 보냅니다.
-    E: The man sends a letter.
+    1 공들이 많습니다.
+    2 There are many balls.
 
-    O: 저는 선물을 받습니다.
-    E: I receive a present.
+    1 사과가 나쁩니다.
+    2 The apple is bad.
 
-    O: 저는 아이를 가르칩니다.
-    E: I teach a child.
+    1 영화가 짧습니다.
+    2 The movie is short.
 
-    O: 저는 친구에게 편지를 보냅니다.
-    E: I send a letter to the friend.
+    1 빵이 작습니다.
+    2 The bread is small.
 
-    O: 남자는 여자에게서 선물을 받습니다. 
-    E: A man receives a gift from a woman.
+    1 책이 깁니다.
+    2 The book is long.
 
-    O: 가수는 저에게서 선물을 받습니다.
-    E: A singer gets a gift from me.
+    1 예, 사람들은 나쁩니다.
+    2 Yes, people are bad.
+
+    1 친구들은 좋습니다.
+    2 Friends are good.
+
+    1 사람들이 많습니다.
+    2 There are a lot of people.
+
+    1 연필이 짧습니다.
+    2 The pencil is short.
+
+    1 길이 깁니다.
+    2 The road is long.
+
+> Two
