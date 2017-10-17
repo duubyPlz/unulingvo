@@ -6,10 +6,10 @@
     E: The woman and the man sing.
 
     O: 아이는 잠잡니다.
-    E: A child sleeps.
+    E: A child sleeps[s].
 
-    O: 고영이들이 잡니다.
-    E: The cats sleep[s].
+    O: 고양이들이 잡니다.
+    E: The cats sleep[ss].
     
     O: 남자가 잠을 잡니다.
     E: The man sleeps.
@@ -18,7 +18,7 @@
     E: The student dreams at the library.
 
     O: 저는 도서관에서 노래를 합니다.
-    E: I sing at the library.
+    E: I sing[l] at the library.
 
     O: 가수가 공원에서 노래합니다.
     E: The singer sings at the park.
@@ -40,4 +40,4 @@
     E: The woman dreams.
 
     O: 저는 노래를 합니다.
-    E: I sing.
+    E: I sing[l].
