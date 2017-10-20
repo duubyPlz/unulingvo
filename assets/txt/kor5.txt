@@ -70,5 +70,5 @@
     O: 차가 차갑습니다.
     E: The car is cold.
 
-    O: The food is expensive.
-    E: 음식이 비쌉니다.
+    O: 음식이 비쌉니다.
+    E: The food is expensive.
