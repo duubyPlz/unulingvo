@@ -73,97 +73,95 @@
     O: The food is expensive.
     E: 음식이 비쌉니다.
 
-    1 물건이 차갑습니다.
-    2 The thing is cold.
+    O: 물건이 차갑습니다.
+    E: The thing is cold.
 
-    1 빵이 쌉니다.
-    2 The bread is cheap.
+    O: 빵이 쌉니다.
+    E: The bread is cheap.
 
-    1 저는 느립니다.
-    2 I am slow.
+    O: 저는 느립니다.
+    E: I am slow.
 
-    1 빵이 가볍습니다.
-    2 The bread is light.
+    O: 빵이 가볍습니다.
+    E: The bread is light.
 
-    1 학생의 책들이 무겁습니다.
-    2 The student's books are heavy.
+    O: 학생의 책들이 무겁습니다.
+    E: The student's books are heavy.
 
-    1 자동차가 빠릅니다.
-    2 The car is fast.
+    O: 자동차가 빠릅니다.
+    E: The car is fast.
 
-    1 빵이 뜨겁습니다.
-    2 The bread is hot.
+    O: 빵이 뜨겁습니다.
+    E: The bread is hot.
 
 > Three
     # The TTS says [나씀니다], which is what you are most likely to hear from native speakers when they speak fast, but [낟씀니다] is correct.
-    1 장소가 낮습니다.
-    2 The place is low.
+    O: 장소가 낮습니다.
+    E: The place is low.
 
-    1 방이 덥습니다.
-    2 The room is hot.
+    O: 방이 덥습니다.
+    E: The room is hot.
 
-    1 저의 방이 좁습니다.
-    2 My room is narrow.
+    O: 저의 방이 좁습니다.
+    E: My room is narrow.
 
-    1 한국은 춥습니다.
-    2 Korea is cold.
+    O: 한국은 춥습니다.
+    E: Korea is cold.
 
-    1 학교가 높습니다.
-    2 The school is tall.
+    O: 학교가 높습니다.
+    E: The school is tall.
 
-    1 방이 넓습니다.
-    2 The room is wide.
+    O: 방이 넓습니다.
+    E: The room is wide.
 
 > Four
-    1 여자가 날씬합니다.
-    2 The woman is thin.
+    O: 여자가 날씬합니다.
+    E: The woman is thin.
 
-    1 바다가 더럽습니다.
-    2 The sea is dirty.
+    O: 바다가 더럽습니다.
+    E: The sea is dirty.
 
-    1 저는 뚱뚱합니다.
-    2 I am fat.
+    O: 저는 뚱뚱합니다.
+    E: I am fat.
 
-    1 여자는 예쁩니다.
-    2 A woman is pretty.
+    O: 여자는 예쁩니다.
+    E: A woman is pretty.
 
-    1 아이들이 귀엽습니다.
-    2 The children are cute.
+    O: 아이들이 귀엽습니다.
+    E: The children are cute.
 
-    1 한국은 아름답습니다.
-    2 Korea is beautiful.
+    O: 한국은 아름답습니다.
+    E: Korea is beautiful.
 
-    1 남자아이는 키가 큽니다.
-    2 The boy is tall.
+    O: 남자아이는 키가 큽니다.
+    E: The boy is tall.
 
-    1 아이가 깨끗합니다.
-    2 The child is clean.
+    O: 아이가 깨끗합니다.
+    E: The child is clean.
 
 > Five
-    1 저는 바쁩니다.
-    2 I am busy.
+    O: 저는 바쁩니다.
+    E: I am busy.
 
-    1 학생이 게으릅니다.
-    2 The student is lazy.
+    O: 학생이 게으릅니다.
+    E: The student is lazy.
 
-    1 여자들은 이상합니다.
-    2 Women are strange.
+    O: 여자들은 이상합니다.
+    E: Women are strange.
 
-    1 가수가 친절합니다.
-    2 The singer is kind.
+    O: 가수가 친절합니다.
+    E: The singer is kind.
 
-    1 저의 친구들은 비열합니다.
-    2 My friends are mean.
+    O: 저의 친구들은 비열합니다.
+    E: My friends are mean.
 
-    1 여자아이가 착합니다.
-    2 The girl is good.
+    O: 여자아이가 착합니다.
+    E: The girl is good.
 
-    1 여자아이가 영리합니다.
-    2 The girl is clever.
+    O: 여자아이가 영리합니다.
+    E: The girl is clever.
 
-    1 여자아이가 똑똑합니다.
-    2 The girl is smart.
+    O: 여자아이가 똑똑합니다.
+    E: The girl is smart.
 
 > Six
-    1 
-    2 
