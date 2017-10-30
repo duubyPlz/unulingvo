@@ -215,6 +215,12 @@
     O: 산이 아름답습니다.
     E: The mountain is beautiful.
 
+    O: 고양이가 뚱뚱합니다.
+    E: The cat is fat.
+
+    O: 여자는 키가 큽니다.
+    E: The woman is tall.
+
 > Five
     O: 저는 바쁩니다.
     E: I am busy.
@@ -276,6 +282,9 @@
     O: 개는 영리합니다.
     E: The dog is clever.
 
+    O: 저는 착합니다.
+    E: I am nice.
+
 > Six
     O: 동물들이 아픕니다.
     E: Animals are ill.
@@ -306,3 +315,12 @@
 
     O: 아이들이 기쁩니다.
     E: The children are glad.
+
+    O: 저는 슬픕니다.
+    E: I am sad.
+    
+    O: 저는 피곤합니다.
+    E: I am tired.
+    
+    O: 고양이가 행복합니다.
+    E: The cat is happy.
