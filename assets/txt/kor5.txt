@@ -52,6 +52,7 @@
     O: 물건이 뜨겁습니다
     E: The thing is hot.
 
+    # Men are fast.
     O: 남자는 빠릅니다.
     E: A man is fast.
 
@@ -62,7 +63,7 @@
     E: The book is cheap.
     
     O: 남자의 신문이 무겁습니다.
-    E:  The man's newspaper is heavy.
+    E: The man's newspaper is heavy.
 
     O: 여자의 자동차가 느립니다.
     E: The woman's car is slow.
@@ -70,8 +71,8 @@
     O: 차가 차갑습니다.
     E: The car is cold.
 
-    O: The food is expensive.
-    E: 음식이 비쌉니다.
+    O: 음식이 비쌉니다.
+    E: The food is expensive.
 
     O: 물건이 차갑습니다.
     E: The thing is cold.
@@ -94,6 +95,30 @@
     O: 빵이 뜨겁습니다.
     E: The bread is hot.
 
+    O: 개가 느립니다.
+    E: The dog is slow.
+
+    O: 빵이 차갑습니다.
+    E: The bread is cold.
+
+    O: 고양이가 빠릅니다.
+    E: The cat is fast.
+
+    O: 사과가 뜨겁습니다.
+    E: The apple is hot.
+
+    O: 방이 쌉니다.
+    E: The room is cheap.
+
+    O: 자동차가 비쌉니다
+    E: The car is expensive.
+
+    O: 책이 비쌉니다.
+    E: The book is expensive.
+
+    O: 여자가 무겁습니다.
+    E: The woman is heavy.
+
 > Three
     # The TTS says [나씀니다], which is what you are most likely to hear from native speakers when they speak fast, but [낟씀니다] is correct.
     O: 장소가 낮습니다.
@@ -103,7 +128,7 @@
     E: The room is hot.
 
     O: 저의 방이 좁습니다.
-    E: My room is narrow.
+    E: My room is small.
 
     O: 한국은 춥습니다.
     E: Korea is cold.
@@ -112,7 +137,31 @@
     E: The school is tall.
 
     O: 방이 넓습니다.
-    E: The room is wide.
+    E: The room is spacious.
+
+    O: 장소가 덥습니다.
+    E: The place is hot.
+
+    O: 저는 덥습니다.
+    E: I am hot.
+
+    O: 길이 넓습니다.
+    E: The road is wide.
+
+    O: 학교가 춥습니다.
+    E: The school is cold.
+
+    O: 산이 낮습니다.
+    E: The mountain is low.
+
+    O: 산이 높습니다.
+    E: The mountain is high.
+
+    O: 바다가 넓습니다.
+    E: The ocean is wide.
+
+    O: 집이 좁습니다.
+    E: The house is small.
 
 > Four
     O: 여자가 날씬합니다.
@@ -139,6 +188,33 @@
     O: 아이가 깨끗합니다.
     E: The child is clean.
 
+    O: 남자는 키가 작습니다.
+    E: The man is short.
+
+    O: 개가 뚱뚱합니다.
+    E: The dog is fat.
+
+    O: 자동차가 더럽습니다.
+    E: The car is dirty.
+
+    O: 저는 날씬합니다.
+    E: I am thin.
+
+    O: 산이 예쁩니다.
+    E: The mountain is pretty.
+
+    O: 가수가 예쁩니다.
+    E: The singer is pretty.
+
+    O: 남자의 고양이가 귀엽습니다.
+    E: The man's cat is cute.
+
+    O: 공원이 깨끗합니다.
+    E: The park is clean.
+
+    O: 산이 아름답습니다.
+    E: The mountain is beautiful.
+
 > Five
     O: 저는 바쁩니다.
     E: I am busy.
@@ -156,7 +232,7 @@
     E: My friends are mean.
 
     O: 여자아이가 착합니다.
-    E: The girl is good.
+    E: The girl is nice.
 
     O: 여자아이가 영리합니다.
     E: The girl is clever.
@@ -164,4 +240,69 @@
     O: 여자아이가 똑똑합니다.
     E: The girl is smart.
 
+    O: 개가 착합니다.
+    E: The dog is nice.
+
+    O: 여자아이가 착합니다.
+    E: The girl is nice.
+
+    O: 남자가 똑똑합니다.
+    E: The man is smart.
+
+    O: 학생들이 바쁩니다.
+    E: The students are busy.
+
+    O: 개가 게으릅니다.
+    E: The dog is lazy.
+
+    O: 책이 이상합니다.
+    E: The book is strange.
+
+    O: 여자가 비열합니다.
+    E: The woman is mean.
+
+    O: 아이가 게으릅니다.
+    E: The child is lazy.
+
+    O: 사람은 비열합니다.
+    E: People are mean.
+
+    O: 사람은 영리합니다. 
+    E: People are clever.
+
+    O: 남자가 이상합니다.
+    E: The man is strange.
+
+    O: 개는 영리합니다.
+    E: The dog is clever.
+
 > Six
+    O: 동물들이 아픕니다.
+    E: Animals are ill.
+
+    O: 가수가 행복합니다.
+    E: The singer is happy.
+
+    O: 아이들이 피곤합니다.
+    E: The children are tired.
+
+    O: 여자가 슬픕니다.
+    E: The woman is sad.
+
+    O: 사람들이 기쁩니다.
+    E: The people are glad.
+
+    O: 학교는 지루합니다.
+    E: School is boring.
+
+    O: 여자의 개가 아픕니다.
+    E: The woman's dog is sick.
+
+    O: 사람들은 지루합니다.
+    E: People are boring.
+
+    O: 저는 기쁩니다.
+    E: I am glad.
+
+    O: 아이들이 기쁩니다.
+    E: The children are glad.
