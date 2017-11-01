@@ -67,8 +67,8 @@
     O: Ĉu vi ĝojas aŭ malĝojas?
     E: Are you happy or sad?
 
-    O: Smile!
-    E: Ridetu!
+    O: Ridetu!
+    E: Smile!
 
     O: Mia avino ĉiam estas trankvila.
     E: My grandmother is always calm.
