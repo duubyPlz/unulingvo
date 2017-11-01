@@ -167,7 +167,7 @@
     O: Kolero estas forta emocio.
     E: Anger is a strong emotion.
 
-    O: Tiu kanto esprimas fortajn emociojn.
+    O: Ĉi tiu kanto esprimas fortajn emociojn.
     E: This song expresses strong emotions.
 
     O: Kia kuraĝa knabino!
