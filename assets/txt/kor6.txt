@@ -1,4 +1,146 @@
 == Demonstratives ==
 > One
-    1 
-    2 
+    1 그 여자
+    2 That woman
+
+    1 이 카메라
+    2 This camera
+
+    1 이것, 그것, 저것
+    2 This thing, that thing, that thing over there
+
+    1 저 사람
+    2 That person over there
+
+    1 이 사과
+    2 This apple
+
+    1 저것은 집입니다.
+    2 That is a house.
+
+    1 이 책상이 큽니다.
+    2 This desk is big.
+
+    1 그 카메라는 비쌉니다.
+    2 That camera is expensive.
+
+    1 저는 이것을 먹습니다.
+    2 I eat this thing.
+
+    1 그 사람
+    2 That person
+
+    1 이 여자
+    2 This woman
+
+    1 그 사람은 남자입니다.
+    2 That person is a man.
+
+    1 저 카메라
+    2 That camera over there
+
+    1 이것은 책상입니다.
+    2 This is a desk.
+
+    1 그 연필은 작습니다.
+    2 That pencil is small.
+
+    1 이 학생
+    2 This student
+
+    1 호텔이 비쌉니다.
+    2 The hotel is expensive.
+
+    1 아이들이 저 건물로 달립니다.
+    2 The children run to that building.
+
+    1 그것은 개입니다.
+    2 That is a dog.
+
+    1 그 남자가 저것을 읽습니다.
+    2 That man reads that over there.
+
+    1 저 사람
+    2 That person over there
+
+    1 여자가 저것을 마십니다.
+    2 The woman drinks that over there.
+
+> Two
+    1 남자가 이쪽으로 옵니다.
+    2 The man comes this way.
+
+    1 그쪽
+    2 That way
+
+    1 이 식당은 큽니다.
+    2 This restaurant is big.
+
+    1 저기
+    2 Over there
+
+    1 이쪽, 그쪽, 저쪽
+    2 This way, that way, that way over there
+
+    1 식당은 여기에 있습니다.
+    2 The restaurant is here.
+
+    # This place, that place, that place over there
+    1 여기, 거기, 저기
+    2 Here, there, over there
+
+    1 여기는 호텔입니다.
+    2 This is a hotel.
+
+    1 남자가 화장실에 있습니다.
+    2 The man is in the bathroom.
+
+    1 화장실은 이쪽에 있습니다.
+    2 The bathroom is this way.
+
+    # It is over there.
+    1 그것은 저쪽에 있습니다.
+    2 That is over there.
+
+    1 이것은 거기에 있습니다.
+    2 This is there.
+
+    1 이것은 저쪽에 있습니다.
+    2 This is over there.
+
+> Three
+    1 침대는 음식입니다.
+    2 A bed is food.
+
+    1 저는 저편으로 갑니다.
+    2 I go in that direction.
+
+    1 이편, 그편, 저편
+    2 This side, that side, that side over there
+
+    1 이만큼, 그만큼, 저만큼
+    2 This much, that much, that much over there
+
+    1 가수가 가방을 방에서 던집니다.
+    2 The singer throws a bag in the room.
+
+    1 저는 저만큼 한국어를 합니다.
+    2 I speak Korean to that extent.
+
+    1 그 나무는 그만큼 높습니다.
+    2 That tree is that tall.
+
+    1 그 여자아이의 가방은 그만큼 쌉니다.
+    2 That girl's bag is that cheap.
+
+    1 저 여자는 키가 이만큼 큽니다.
+    2 That woman over there is this tall.
+
+    1 저 여자가 저 침대를 저편으로 던집니다.
+    2 That woman throws that bed in that direction.
+
+    1 저의 가방은 저만큼 큽니다.
+    2 My bag is that big.
+
+    1 이것은 건물이 아닙니다.
+    2 This is not a building.
