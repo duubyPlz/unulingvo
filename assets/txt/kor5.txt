@@ -165,3 +165,41 @@
     E: The girl is smart.
 
 > Six
+    O: 동물들이 아픕니다.
+    E: Animals are ill.
+
+    O: 가수가 행복합니다.
+    E: The singer is happy.
+
+    O: 아이들이 피곤합니다.
+    E: The children are tired.
+
+    O: 여자가 슬픕니다.
+    E: The woman is sad.
+
+    O: 사람들이 기쁩니다.
+    E: The people are glad.
+
+    O: 학교는 지루합니다.
+    E: School is boring.
+
+    O: 여자의 개가 아픕니다.
+    E: The woman's dog is sick.
+
+    O: 사람들은 지루합니다.
+    E: People are boring.
+
+    O: 저는 기쁩니다.
+    E: I am glad.
+
+    O: 아이들이 기쁩니다.
+    E: The children are glad.
+
+    O: 저는 슬픕니다.
+    E: I am sad.
+    
+    O: 저는 피곤합니다.
+    E: I am tired.
+    
+    O: 고양이가 행복합니다.
+    E: The cat is happy.
