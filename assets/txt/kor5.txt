@@ -62,16 +62,16 @@
     E: The book is cheap.
     
     O: 남자의 신문이 무겁습니다.
-    E:  The man's newspaper is heavy.
+    E: The man's newspaper is heavy.
 
     O: 여자의 자동차가 느립니다.
     E: The woman's car is slow.
 
     O: 차가 차갑습니다.
-    E: The car is cold.
+    E: The car is cold to touch.
 
-    O: The food is expensive.
-    E: 음식이 비쌉니다.
+    O: 음식이 비쌉니다.
+    E: The food is expensive.
 
     O: 물건이 차갑습니다.
     E: The thing is cold.
