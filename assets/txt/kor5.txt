@@ -134,7 +134,7 @@
     E: Korea is beautiful.
 
     O: 남자아이는 키가 큽니다.
-    E: A boy is tall.
+    E: The boy is tall.
 
     O: 아이가 깨끗합니다.
     E: The child is clean.
