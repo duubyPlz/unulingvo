@@ -100,13 +100,13 @@
 
     # It is over there.
     O: 그것은 저쪽에 있습니다.
-    E: That is over there.
+    E: That is over there (direction).
 
     O: 이것은 거기에 있습니다.
     E: This is there.
 
     O: 이것은 저쪽에 있습니다.
-    E: This is over there.
+    E: This is over there (direction).
 
 > Three
     O: 침대는 음식입니다.
