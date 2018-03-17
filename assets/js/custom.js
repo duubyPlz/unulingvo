@@ -331,8 +331,8 @@ function parse(module, language) {
     // console.log(fileName);
     try {
         $.get(fileName, function(data) {
-            // console.log(fileName);
-            // console.log(data);
+            console.log(fileName);
+            console.log(data);
 
             // Break result into line by line
             var lines = data.split("\n");
@@ -427,13 +427,17 @@ function logic(language) {
         //     http://www.localizingjapan.com/blog/2012/01/20/regular-expressions-for-japanese-text/
         //     http://stackoverflow.com/questions/30069846/how-to-find-out-chinese-or-japanese-character-in-a-string-in-python
         //     http://stackoverflow.com/questions/280712/javascript-unicode-regexes
-        var sanitisedString = inputString
-        .replace(/[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]/g
-        , ""); // CJK only whitelist, no spaces
 
-        var sanitisedCJK = correctEO
-        .replace(/[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]/g
-        , ""); // same whitelist as above
+        // TODO uncomment
+        var sanitisedString = inputString;
+        // var sanitisedString = inputString
+        // .replace(/[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]/g
+        // , ""); // CJK only whitelist, no spaces
+
+        var sanitisedCJK = correctEO;
+        // var sanitisedCJK = correctEO
+        // .replace(/[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]/g
+        // , ""); // same whitelist as above
         
         if (sanitisedCJK === sanitisedString) {
             correct = true;
