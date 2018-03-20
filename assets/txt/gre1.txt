@@ -1,30 +1,30 @@
 == Practice 2.3.3 ==
-    O: ἀδελφος διδασκει ὀχλους.
-    E: A brother is teaching crowds.
+    O: A brother is teaching crowds.
+    E: ἀδελφος διδασκει ὀχλους.
 
-    O: ζητουμεν ἀρτον.
-    E: We are seeking bread.
+    O: We are seeking bread.
+    E: ζητουμεν ἀρτον.
 
-    O: δουλους λυεις.
-    E: You (s.) are untying slaves.
+    O: You (s.) are untying slaves.
+    E: δουλους λυεις.
 
-    O: κυριος λεγει λογον.
-    E: A lord says a word.
+    O: A lord says a word.
+    E: κυριος λεγει λογον.
     
-    O: ἀνθρωποι καλουσιν.
-    E: People are calling.
+    O: People are calling.
+    E: ἀνθρωποι καλουσιν.
     
-    O: ἀγγελοι τηρουσιν νομους.
-    E: Angels are keeping laws.
+    O: Angels are keeping laws.
+    E: ἀγγελοι τηρουσιν νομους.
     
-    O: ἀδελφος βλεπει οἰκον.
-    E: A brother sees a house.
+    O: A brother sees a house.
+    E: ἀδελφος βλεπει οἰκον.
     
-    O: ἀνθρωποι βλεπουσιν.
-    E: People are watching.
+    O: People are watching.
+    E: ἀνθρωποι βλεπουσιν.
     
-    O: φιλουμεν κοσμον.
-    E: We love a world.
+    O: We love a world.
+    E: φιλουμεν κοσμον.
     
-    O: θεος ἀγει.
-    E: God leads.
+    O: God leads.
+    E: θεος ἀγει.

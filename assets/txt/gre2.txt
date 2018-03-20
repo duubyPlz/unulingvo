@@ -1,30 +1,30 @@
-    O: ἐχω υιον.
-    E: I have a son.
+    O: I have a son.
+    E: ἐχω υιον.
 
-    O: ὁ ἀνθρωπος καλει δουλον.
-    E: The person calls a slave.
+    O: The person calls a slave.
+    E: ὁ ἀνθρωπος καλει δουλον.
 
 == Practice 2.4 & 2.5 ==
-    O: οἱ υἱοι ἐχουσιν οἰκον.
-    E: The sons have a house.
+    O: The sons have a house.
+    E: οἱ υἱοι ἐχουσιν οἰκον.
     
-    O: καλειτε τον ἀδελφον.
-    E: You (pl.) call the brother.
+    O: You (pl.) call the brother.
+    E: καλειτε τον ἀδελφον.
     
-    O: ὁ θεος ποιει τους οὐρανοθς.
-    E: God is making the heavens.
+    O: God is making the heavens.
+    E: ὁ θεος ποιει τους οὐρανοθς.
     
-    O: ἀγει ἀγγελος ὀχλους.
-    E: An angel is leading crowds.
+    O: An angel is leading crowds.
+    E: ἀγει ἀγγελος ὀχλους.
     
-    O: ὁ κυριος ἀκουει.
-    E: The lord is listening.
+    O: The lord is listening.
+    E: ὁ κυριος ἀκουει.
     
-    O: ζητουμεν τον Χριστον.
-    E: We are seeking the Messiah.
+    O: We are seeking the Messiah.
+    E: ζητουμεν τον Χριστον.
     
-    O: οἱ υἱοι λαλουσιν (or λεγουσιν) λογους.
-    E: The sons are speaking words.
+    O: The sons are speaking words.
+    E: οἱ υἱοι λαλουσιν (or λεγουσιν) λογους.
 
-    O: ὁ λαος φιλει τον θεον (or οἱ ἀνθρωποι φιλουσιν τον θεον).
-    E: The people love God.
+    O: The people love God.
+    E: ὁ λαος φιλει τον θεον (or οἱ ἀνθρωποι φιλουσιν τον θεον).
