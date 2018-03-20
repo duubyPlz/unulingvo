@@ -464,9 +464,6 @@ function logic(language) {
         var simplifiedGr = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
         var simplifiedGrNoHyphens = simplifiedGr.replace(/\-/g, " ");
 
-        console.log("input = " + simplifiedString);
-        console.log("correct = " + simplifiedGr);
-        console.log("correct no hyphens = " + simplifiedGrNoHyphens);
         if ((simplifiedGr === simplifiedString) || (simplifiedGrNoHyphens === simplifiedString)) {
             correct = true;
         }
