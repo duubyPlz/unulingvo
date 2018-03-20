@@ -12,7 +12,7 @@
     E: καλειτε τον ἀδελφον.
     
     O: God is making the heavens.
-    E: ὁ θεος ποιει τους οὐρανοθς.
+    E: ὁ θεος ποιει τους οὐρανους.
     
     O: An angel is leading crowds.
     E: ἀγει ἀγγελος ὀχλους.
