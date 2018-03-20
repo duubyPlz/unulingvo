@@ -23,7 +23,7 @@
     O: People are watching.
     E: ἀνθρωποι βλεπουσιν.
     
-    O: We love a world.
+    O: We are loving a world.
     E: φιλουμεν κοσμον.
     
     O: God is leading.
