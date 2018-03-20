@@ -74,7 +74,12 @@
             <span class='full'>Japanese</span>
           </a>
         </li>
-        <!-- https://cdn.vectorstock.com/i/thumb-large/65/18/9686518.jpg -->
+        <li role="presentation" id='gr'>
+          <a data-toggle='tooltip' data-placement='top' title='shortcut "%"'>
+            <span class='media'>GR</span>
+            <span class='full'>NT Greek</span>
+          </a>
+        </li>
       </ul>
       <!-- - pills -->
       <!-- + dropdown -->
@@ -125,8 +130,13 @@
       </select>
 
       <select id='contents-ja' class="ui search dropdown select-round pull-right duo" style='display:none'>
-        <option value='1' selected='selected'>1. Hiragana</option>
-        <option value='2'>2. Introduction</option>
+        <option value='1'>1. Hiragana</option>
+        <option value='2' selected='selected'>2. Introduction</option>
+      </select>
+
+      <select id='contents-gr' class="ui search dropdown select-round pull-right duo" style='display:none'>
+        <option value='1' selected='selected'>Section A</option>
+        <option value='2'>Section B</option>
       </select>
       <button id='randomise' class='btn btn-green pull-right'><span class="glyphicon glyphicon-random" aria-hidden="true"></span></button>
       <!-- - dropdown -->

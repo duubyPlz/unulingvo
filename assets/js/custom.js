@@ -22,12 +22,14 @@ var language = 'eo';
 // hide unwanted dropdowns
 $('select#contents-ko').parent().hide();
 $('select#contents-ja').parent().hide();
+$('select#contents-gr').parent().hide();
 
 // TODO can't get semantic ui <select>.dropdown('set selected', random) to work
 var sizeHash = {
                     'eo': 30,
                     'ko': 10,
                     'ja': 2,
+                    'gr': 2,
                     'flu': 2
                };
 
@@ -115,6 +117,10 @@ $('body').keydown(function (e) {
         e.preventDefault();
         var currentPill = $('.nav-pills li#ja');
         goToPill(currentPill);
+    } else if (e.shiftKey && e.keyCode == 53) { // '%' Greek
+        e.preventDefault();
+        var currentPill = $('.nav-pills li#gr');
+        goToPill(currentPill);
     }
 });
 
@@ -144,6 +150,8 @@ function goToPill(currentPill) {
             $('textarea#answer').attr('placeholder', '한국어');
         } else if (language == 'ja') {
             $('textarea#answer').attr('placeholder', '日本語');
+        } else if (language == 'gr') {
+            $('textarea#answer').attr('placeholder', 'Ελληνικά');
         }
 
         // vi) reparse/redisplay
@@ -164,7 +172,7 @@ function goToPill(currentPill) {
 }
 
 // 4. If module is changed, reparse & display
-$('select#contents-eo, select#contents-ko, select#contents-ja').change(function() {
+$('select#contents-eo, select#contents-ko, select#contents-ja, select#contents-gr').change(function() {
     selectedModule = $(this).val();
     if (!$.isNumeric(selectedModule)) {
         $.error("Selected module isn't a valid one: " + selectedModule);
@@ -208,6 +216,8 @@ $('button#randomise').click(function() {
         $('#contents-ko').dropdown('set selected', random);
     } else if (language == 'ja') {
         $('#contents-ja').dropdown('set selected', random);
+    } else if (language == 'gr') {
+        $('#contents-gr').dropdown('set selected', random);
     }
     // $('#contents-' + language).dropdown('set selected', random);
 
@@ -323,6 +333,8 @@ function parse(module, language) {
         fileName = 'assets/txt/kor' + module + '.txt';
     } else if (language == 'ja') {
         fileName = 'assets/txt/jpn' + module + '.txt';
+    } else if (language == 'gr') {
+        fileName = 'assets/txt/gre' + module + '.txt';
     } else if (language == 'flu') {
         fileName = 'assets/txt/flu' + module + '.txt';
     } else {
@@ -331,8 +343,8 @@ function parse(module, language) {
     // console.log(fileName);
     try {
         $.get(fileName, function(data) {
-            console.log(fileName);
-            console.log(data);
+            // console.log(fileName);
+            // console.log(data);
 
             // Break result into line by line
             var lines = data.split("\n");
@@ -387,7 +399,7 @@ function logic(language) {
 
     if (language == 'eo') {    
         var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
-        var simplifiedString = sanitisedString.replace(/[.,?!:"]/g, "").toLowerCase().trim(); // blacklist
+        var simplifiedString = sanitisedString.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
 
         var simplifiedEO = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
         var simplifiedEONoHyphens = simplifiedEO.replace(/\-/g, " ");
@@ -398,7 +410,7 @@ function logic(language) {
     } else if (language == 'flu') { // [TODO] refactor
         inputString = $('textarea#flu-answer').val();
         var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
-        var simplifiedString = sanitisedString.replace(/[.,?!:"]/g, "").toLowerCase().trim(); // blacklist
+        var simplifiedString = sanitisedString.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
 
         var simplifiedEO = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
         var simplifiedEONoHyphens = simplifiedEO.replace(/\-/g, " ");
@@ -428,16 +440,13 @@ function logic(language) {
         //     http://stackoverflow.com/questions/30069846/how-to-find-out-chinese-or-japanese-character-in-a-string-in-python
         //     http://stackoverflow.com/questions/280712/javascript-unicode-regexes
 
-        // TODO uncomment
-        var sanitisedString = inputString;
-        // var sanitisedString = inputString
-        // .replace(/[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]/g
-        // , ""); // CJK only whitelist, no spaces
+        var sanitisedString = inputString
+        .replace(/[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]/g
+        , ""); // CJK only whitelist, no spaces
 
-        var sanitisedCJK = correctEO;
-        // var sanitisedCJK = correctEO
-        // .replace(/[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]/g
-        // , ""); // same whitelist as above
+        var sanitisedCJK = correctEO
+        .replace(/[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]/g
+        , ""); // same whitelist as above
         
         if (sanitisedCJK === sanitisedString) {
             correct = true;
@@ -448,6 +457,19 @@ function logic(language) {
         //     var currentChar = sanitisedString[i];
         //     console.log(i + ': ' + sanitisedCJK[i] + ' ' + sanitisedString[i]);
         // }
+    } else if (language == 'gr') {
+        var sanitisedString = inputString.replace(/[^\u1F00-\u1FFF\u0370-\u03FF ]/g, ""); // whitelist
+        var simplifiedString = sanitisedString.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
+
+        var simplifiedGr = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
+        var simplifiedGrNoHyphens = simplifiedGr.replace(/\-/g, " ");
+
+        console.log("input = " + simplifiedString);
+        console.log("correct = " + simplifiedGr);
+        console.log("correct no hyphens = " + simplifiedGrNoHyphens);
+        if ((simplifiedGr === simplifiedString) || (simplifiedGrNoHyphens === simplifiedString)) {
+            correct = true;
+        }
     } else {
         console.warn("No such language: + " + language);
     }

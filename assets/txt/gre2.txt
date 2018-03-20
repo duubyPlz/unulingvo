@@ -1,0 +1,4 @@
+== Section B ==
+> One
+    O: ὁ ἀνθρωπος καλει δουλον
+    E: The person calls a slave.
