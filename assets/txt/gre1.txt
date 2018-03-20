@@ -17,7 +17,7 @@
     O: Angels are keeping laws.
     E: ἀγγελοι τηρουσιν νομους.
     
-    O: A brother sees a house.
+    O: A brother is seeing a house.
     E: ἀδελφος βλεπει οἰκον.
     
     O: People are watching.
