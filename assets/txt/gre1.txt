@@ -8,7 +8,7 @@
     O: You are untying slaves.
     E: δουλους λυεις.
 
-    O: A lord says a word.
+    O: A lord is saying a word.
     E: κυριος λεγει λογον.
     
     O: People are calling.
