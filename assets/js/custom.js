@@ -458,7 +458,9 @@ function logic(language) {
         //     console.log(i + ': ' + sanitisedCJK[i] + ' ' + sanitisedString[i]);
         // }
     } else if (language == 'gr') {
-        var sanitisedString = inputString.replace(/[^\u1F00-\u1FFF\u0370-\u03FF ]/g, ""); // whitelist
+        // TODO uncomment greek whitelist
+        // var sanitisedString = inputString.replace(/[^\u1F00-\u1FFF\u0370-\u03FF ]/g, ""); // whitelist
+        var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" \-]/g, "");
         var simplifiedString = sanitisedString.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
 
         var simplifiedGr = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
