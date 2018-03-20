@@ -5,7 +5,7 @@
     O: We are seeking bread.
     E: ζητουμεν ἀρτον.
 
-    O: You (s.) are untying slaves.
+    O: You are untying slaves.
     E: δουλους λυεις.
 
     O: A lord says a word.

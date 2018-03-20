@@ -8,7 +8,7 @@
     O: The sons have a house.
     E: οἱ υἱοι ἐχουσιν οἰκον.
     
-    O: You (pl.) call the brother.
+    O: You call the brother.
     E: καλειτε τον ἀδελφον.
     
     O: God is making the heavens.
