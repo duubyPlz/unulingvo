@@ -65,42 +65,43 @@
         
     O: (οἱ) ἀνθρωποι ποιουσιν (τον) ἀρτον.
     E: People are making bread.
+
+== Exercise 2B ==
+    O: οἱ υἱοι λαλουσιν.
+    E: The sons are speaking.
         
-    O: 
-    E: 
+    O: οἱ ἀγγελοι βλεπουσι τον υεον.
+    E: The angels are seeing God.
         
-    O: 
-    E: 
+    O: ὁ ὀχλος τον θεον ζητει.
+    E: The crowd is seeking God.
         
-    O: 
-    E: 
+    O: βαλλετε τον ἀρτον.
+    E: You are throwing the bread.
         
-    O: 
-    E: 
+    O: ὁ Ἰακωβ ἀγει τον ἀδελφον.
+    E: Jacob leads the brother.
         
-    O: 
-    E: 
+    O: τον νομον τηρει ὁ λαος Ἱσραηλ.
+    E: The people of Israel keeps the law.
         
-    O: 
-    E: 
+    O: τον Δαυιδ ὁ κυριος ζητει.
+    E: The lord is seeking David.
         
-    O: 
-    E: 
+    O: ὁ κυριος Χριστος τους ἀνθρωπους λυει.
+    E: The Lord Christ is setting free the people.
         
-    O: 
-    E: 
+    O: ὁ θεος ἐχει αγγελους.
+    E: God has angels.
         
-    O: 
-    E: 
+    O: διδασκω τους υἱους.
+    E: I teach the sons.
         
-    O: 
-    E: 
+    O: ζητουμεν τον κυριον.
+    E: We are seeking the lord.
         
-    O: 
-    E: 
-        
-    O: 
-    E: 
+    O: καλειτε τον ἀδελφον.
+    E: You are calling the brother.
         
     O: 
     E: 
