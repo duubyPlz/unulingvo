@@ -102,7 +102,88 @@
         
     O: καλειτε τον ἀδελφον.
     E: You are calling the brother.
-        
+
+== Practice 3.2 ==
+    O: ἀκουω του κυριου.
+    E: I hear the Lord.
+
+    O: βλεπει τον ἀγγελον του θεου.
+    E: He sees the angel of God.
+
+    O: πιστευομεν τῳ Χριστῳ.
+    E: We have faith in the Christ.
+
+    O: ἀκουετε τους λογους.
+    E: You hear the words.
+
+    O: ἀκουουσιν του θεου.
+    E: They hear God.
+
+    O: πιστευω τῳ κυριῳ.
+    E: I believe the lord.
+
+== H.W. Practice 3 ==
+    O: ἐχομεν τον νομον του θεου.
+    E: We have the law of God.
+
+    O: οἱ δουλοι λαλουσιν τῳ κυριῳ
+    E: The slaves are speaking to the Lord.
+
+    O: ζητω τον οἰκον του Χριστου.
+    E: I am seeking the house of Christ.
+
+    O: ποιειτε ἀρτον τοις ἀδελφοις.
+    E: You are making bread for the brothers.
+
+    O: ὁ ὀχλος ἀκουει τον λογον του κυριου.
+    E: The crowd hears the word of the Lord.
+
+    O: βλεπει τον ἀγγελον και ἀκουει του ἀγγελου.
+    E: He sees the angel and he hears to the angels.
+
+    O: πιστευει τῳ υἱῳ του θεου.
+    E: He believes in the son of God.
+
+    O: ὁ ἀδελφος λυει δουλον τῳ κυριῳ.
+    E: The brother unties a slave for the Lord.
+
+    O: διδασκω τον λογον του θεου.
+    E: I teach the word of God.
+
+    O: ἀκουουσιν του υἱου.
+    E: They hear the son.
+
+    O: τηρουμεν τον νομον του οὐρανου.
+    E: We keep the law of heaven.
+
+    O: λεγεις τῳ ὀχλῳ.
+    E: You speak to the crowd.
+
+== Practice 3.6 ==
+    O: φιλω αὐτον.
+    E: I love him.
+
+    O: τους λογους αὐτου διδασκει.
+    E: He is teaching his words.
+
+    O: ἐχουσιν αὐτο.
+    E: They have it.
+
+    O: ἀκουω την φωνην.
+    E: I hear her voice.
+
+    O: ὁ Παυλος καλει αὐτους.
+    E: Paul is calling them.
+
+    O: βλεπουσιν τον δουλον.
+    E: They see the slave.
+
+    O: τηρει το τεκνον αὐτου.
+    E: She keeps his child.
+
+    O: ὁ Ἰησους φιλει τα τεκνα αὐτων.
+    E: Jesus loves their children.
+
 == Exercise 3A ==
     O: ἡ ἀδελφη λεγει τῳν Ἰησου Κυριε, πιστευω.
     E: The sister is saying to Jesus: 'Lord, I believe.'
