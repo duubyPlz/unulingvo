@@ -1,4 +1,4 @@
-== Exercises 2A ==
+== Exercise 2A ==
     O: I have a son.
     E: ἐχω υἱον.
     
