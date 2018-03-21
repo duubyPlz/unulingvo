@@ -14,7 +14,7 @@
     O: The lord is listening.
     E: ὁ κυριος ἀκουει.
     
-    O: We are seeking the Messiah.
+    O: We are seeking Christ.
     E: ζητουμεν τον Χριστον.
     
     O: The sons are speaking words.
