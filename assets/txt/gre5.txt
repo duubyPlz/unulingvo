@@ -1,0 +1,18 @@
+== Practice 3.2 ==
+    O: I hear the Lord.
+    E: ἀκουω του κυριου.
+
+    O: He sees the angel of God.
+    E: βλεπει τον ἀγγελον του θεου.
+
+    O: We have faith in the Christ.
+    E: πιστευομεν τῳ Χριστῳ.
+
+    O: You hear the words.
+    E: ἀκουετε τους λογους.
+
+    O: They hear God.
+    E: ἀκουουσιν του θεου.
+
+    O: I believe the lord.
+    E: πιστευω τῳ κυριῳ.

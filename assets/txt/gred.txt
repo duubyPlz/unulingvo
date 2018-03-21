@@ -1,0 +1,36 @@
+== Exercise 2B ==
+    O: οἱ υἱοι λαλουσιν.
+    E: The sons are speaking.
+        
+    O: οἱ ἀγγελοι βλεπουσι τον υεον.
+    E: The angels are seeing God.
+        
+    O: ὁ ὀχλος τον θεον ζητει.
+    E: The crowd is seeking God.
+        
+    O: βαλλετε τον ἀρτον.
+    E: You are throwing the bread.
+        
+    O: ὁ Ἰακωβ ἀγει τον ἀδελφον.
+    E: Jacob leads the brother.
+        
+    O: τον νομον τηρει ὁ λαος Ἱσραηλ.
+    E: The people of Israel keeps the law.
+        
+    O: τον Δαυιδ ὁ κυριος ζητει.
+    E: The lord is seeking David.
+        
+    O: ὁ κυριος Χριστος τους ἀνθρωπους λυει.
+    E: The Lord Christ is setting free the people.
+        
+    O: ὁ θεος ἐχει αγγελους.
+    E: God has angels.
+        
+    O: διδασκω τους υἱους.
+    E: I teach the sons.
+        
+    O: ζητουμεν τον κυριον.
+    E: We are seeking the lord.
+        
+    O: καλειτε τον ἀδελφον.
+    E: You are calling the brother.

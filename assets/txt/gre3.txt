@@ -1,0 +1,36 @@
+== Exercises 2A ==
+    O: I have a son.
+    E: ἐχω υἱον.
+    
+    O: The person calls a slave.
+    E: ὁ ἀνθρωπος καλει δουλον.
+    
+    O: You love the law.
+    E: τον νομον φιλεις.
+    
+    O: Amen amen, I say...
+    E: ἀμην ἀμην λεγω...
+    
+    O: The Messiah is teaching the crowd.
+    E: διδασκει ὁ Χριστος τον ὀχλον.
+    
+    O: God makes the world and the heaven.
+    E: ὁ θεος ποιει τον κοσμον και τον οὐρανον.
+    
+    O: Joseph receives the brothers.
+    E: ὁ Ἰωσηφ λαμβανει τους ἀδελφους.
+    
+    O: We hear and love the word.
+    E: ἀκουομεν και φιλουμεν τον λογον.
+        
+    O: Christ says the words.
+    E: ὁ Χριστος λεγει τους λογους.
+        
+    O: The crowd listens to the law.
+    E: ὁ ὀχλος ἀκουει τον νομον.
+        
+    O: You are setting free the slaves.
+    E: λυεις τους δουλους.
+        
+    O: People are making bread.
+    E: (οἱ) ἀνθρωποι ποιουσιν (τον) ἀρτον.
