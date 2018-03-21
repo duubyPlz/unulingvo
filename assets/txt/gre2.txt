@@ -32,7 +32,7 @@
 
     O: λαλουσιν αὐτῳ περι του ἱερου.
     E: They are speaking to him about the temple.
-
+    
     O: λεγει ὁ κυριος της οἰκιας ὑπερ του τεκνου.
     E: The master of the house speaks on behalf of the child.
 
@@ -40,7 +40,7 @@
     E: The son takes the bread with him.
 
     O: ὁ θεος φιλει τα ἐργα κατα τον νομον.
-    E: God loves the deeds acording to the law.
+    E: God loves the deeds according to the law.
 
     O: ὁ Παυλος λεγει τῳ λαῳ κατα του Χριστου του θεου.
     E: Paul speaks to the people against God's messiah.
@@ -52,7 +52,7 @@
     E: I see it in her heart.
 
     O: ὁ Ἰησους διδασκει τον ὀχλον ἐξω του ἱερου.
-    E: Jesus is teaching the crowd oytside the temple.
+    E: Jesus is teaching the crowd outside the temple.
 
     O: ὁ θεος φιλει τους λαους ὑπο τον οὐρανον.
     E: God loves the peoples under heaven.
@@ -66,7 +66,7 @@
 
     O: ὁ θεος οὐκ ἀκουει.
     E: God does not hear.
-
+    
     O: πως ὁ θεος λεγει;
     E: How does God speak?
 
