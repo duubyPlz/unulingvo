@@ -177,8 +177,3 @@
 
     O: οἱ ἀνθρωποι ἐν τῳ πλοιῳ προσκυνουσιν τῳ κυριῳ.
     E: The people in the boat are worshipping the Lord.
-    O: 
-    E: 
-
-    O: 
-    E: 
