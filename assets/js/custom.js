@@ -35,13 +35,14 @@ var sizeHash = {
 
 // 1. Parse & display text of selected module
 var selectedModule = $('select#contents-' + language).val();
-if (!$.isNumeric(selectedModule)) {
-    $.error("Selected module isn't a valid one: " + selectedModule);
-}
+checkIsModuleValid(selectedModule);
+
 // a) Parse
 parse(selectedModule, language);
 
 var correctEO = "";
+var greekFirst = false;
+
 // b) Display
 setTimeout(function () {
     display(false);
@@ -124,6 +125,44 @@ $('body').keydown(function (e) {
     }
 });
 
+// c) Greek toggle
+$('.nav-pills li#gr').on('click', function() {
+    $('#toggle-label-gr').toggle();
+});
+
+$('.main-panel').on('click', function() {
+    $('#toggle-label-gr').hide();
+});
+
+$('#toggle-gr').change(function() {
+    var selectedModule = $('select#contents-' + language).val();
+    greekFirst = $('#toggle-gr').is(":checked");
+    reparse(selectedModule);
+});
+
+
+function reparse(selectedModule) {
+    // reparse/redisplay
+    // o_O" .. code reuse from 1.
+    if (greekFirst) {
+        selectedModule = englishToGreekModule(selectedModule);
+    }
+    
+    checkIsModuleValid(selectedModule);
+
+    display_loader(false);
+    parse(selectedModule, language);
+    var correctEO = "";
+    setTimeout(function () {
+        display(false);
+    }, 1000);
+}
+
+function englishToGreekModule(number) {
+    var charCode = eval(96) + eval(number);
+    return String.fromCharCode(charCode);
+}
+
 function goToPill(currentPill) {
     language = currentPill.attr('id');
     if (!currentPill.hasClass('active')) {
@@ -155,17 +194,17 @@ function goToPill(currentPill) {
         }
 
         // vi) reparse/redisplay
-        // o_O" .. code reuse from 1. ......
+        // o_O" .. more code reuse from 1. ......
         var selectedModule = $('select#contents-' + language).val();
-        if (!$.isNumeric(selectedModule)) {
-            $.error("Selected module isn't a valid one: " + selectedModule);
-        }
-        display_loader(false);
-        parse(selectedModule, language);
-        var correctEO = "";
-        setTimeout(function () {
-            display(false);
-        }, 1000);
+        // checkIsModuleValid(selectedModule);
+
+        // display_loader(false);
+        // parse(selectedModule, language);
+        // var correctEO = "";
+        // setTimeout(function () {
+        //     display(false);
+        // }, 1000);
+        reparse(selectedModule);
     } else {
         // Already active pill
     }
@@ -174,27 +213,27 @@ function goToPill(currentPill) {
 // 4. If module is changed, reparse & display
 $('select#contents-eo, select#contents-ko, select#contents-ja, select#contents-gr').change(function() {
     selectedModule = $(this).val();
-    if (!$.isNumeric(selectedModule)) {
-        $.error("Selected module isn't a valid one: " + selectedModule);
-    }
-    display_loader(false);
-    parse(selectedModule, language);
-    setTimeout(function () {
-        display(false);
-    }, 1000);
+    // checkIsModuleValid(selectedModule);
+    
+    // display_loader(false);
+    // parse(selectedModule, language);
+    // setTimeout(function () {
+    //     display(false);
+    // }, 1000);
+    reparse(selectedModule);
 });
 
 // TODO if UI changed
 $('select#flu').change(function() {
     selectedModule = $(this).val();
-    if (!$.isNumeric(selectedModule)) {
-        $.error("Selected module isn't a valid one: " + selectedModule);
-    }
-    display_loader(true);
-    parse(selectedModule, 'flu');
-    setTimeout(function () {
-        display(true);
-    }, 1000);
+    // checkIsModuleValid(selectedModule);
+    
+    // display_loader(true);
+    // parse(selectedModule, 'flu');
+    // setTimeout(function () {
+    //     display(true);
+    // }, 1000);
+    reparse(selectedModule);
 });
 
 // 5. Randomise modules
@@ -539,5 +578,14 @@ function logic(language) {
                 }
             }, 3000);
         }
+    }
+}
+
+function checkIsModuleValid(selectedModule) {
+    // if (!$.isNumeric(selectedModule)) {
+    //     $.error("Selected module isn't a valid one: " + selectedModule);
+    // }
+    if (!selectedModule.match(/[0-9a-zA-Z]/)) {
+        $.error("Selected module isn't a valid one: " + selectedModule);
     }
 }

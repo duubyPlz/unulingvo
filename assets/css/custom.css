@@ -965,3 +965,44 @@ footer.footer {
     top: 200px;
   }
 }
+
+.switch-toggle {
+  position: relative;
+  display: inline-block;
+  width: 81px;
+  height: 18px;
+  border-radius: 25px;
+  background-color: #333;
+}
+
+.switch-toggle input {
+  display: none;
+}
+
+.switch-toggle div {
+  position: absolute;
+  border-radius: 50%;
+  background-color: #989898;
+  transition: .1s ease;
+}
+
+.switch-toggle input:checked + div {
+  left: 50%;
+  background-color: rgba(255, 165, 0, 0.7);
+}
+
+.switch-toggle.rect {
+  border-radius: 0;
+}
+
+
+.switch-toggle.rect div {
+  border-radius: 0;
+}
+
+.switch-toggle.inner div {
+  width: 39px;
+  height: 14px;
+  top: 2px;
+  left: 3px;
+}
