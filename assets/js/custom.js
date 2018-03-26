@@ -159,6 +159,9 @@ function reparse(selectedModule) {
 }
 
 function englishToGreekModule(number) {
+    if (language != 'gr') {
+        return number;
+    }
     var charCode = eval(96) + eval(number);
     return String.fromCharCode(charCode);
 }
