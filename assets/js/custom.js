@@ -262,11 +262,12 @@ $('button#randomise').click(function() {
 
     selectedModule = random;
 
-    display_loader(false);
-    parse(selectedModule, language);
-    setTimeout(function () {
-        display(false);
-    }, 1000);
+    reparse(selectedModule.toString());
+    // display_loader(false);
+    // parse(selectedModule, language);
+    // setTimeout(function () {
+    //     display(false);
+    // }, 1000);
 });
 
 $('button#flu-randomise').click(function() {
