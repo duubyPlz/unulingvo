@@ -29,7 +29,7 @@ var sizeHash = {
                     'eo': 30,
                     'ko': 10,
                     'ja': 2,
-                    'gr': 2,
+                    'gr': 11,
                     'flu': 2
                };
 
@@ -147,7 +147,7 @@ function reparse(selectedModule) {
     if (greekFirst) {
         selectedModule = englishToGreekModule(selectedModule);
     }
-    
+
     checkIsModuleValid(selectedModule);
 
     display_loader(false);

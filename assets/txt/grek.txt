@@ -1,0 +1,18 @@
+== Practice 4.5 & 4.6 ==
+    O: ὁ θεος ἀκουει;
+    E: Does God hear?
+
+    O: ὁ θεος οὐκ ἀκουει.
+    E: God does not hear.
+    
+    O: πως ὁ θεος λεγει;
+    E: How does God speak?
+
+    O: οὐ πιστευω αὐτῳ.
+    E: I do not believe him.
+
+    O: που ἀγεις τον ὀχλον;
+    E: Where are you leading the crowd?
+
+    O: τον νομον τηρειτε;
+    E: Do you keep the law?
