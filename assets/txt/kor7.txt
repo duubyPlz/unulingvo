@@ -1,155 +1,41 @@
 == Formal Moods ==
 > One
-    1 다시 저를 보십시오.
-    2 Look at me again.
+    O: 다시 저를 보십시오.
+    E: Look at me again.
 
-    1 손님, 조심하십시오. 물이 뜨겁습니다.
-    2 Sir, be careful. The water is hot.
+    O: 손님, 조심하십시오. 물이 뜨겁습니다.
+    E: Sir, be careful. The water is hot.
 
-    1 더 배우십시오.
-    2 Learn more.
+    O: 더 배우십시오.
+    E: Learn more.
 
-    1 노래에 집중하십시오.
-    2 Concentrate on the song.
+    O: 노래에 집중하십시오.
+    E: Concentrate on the song.
     
     # Do it slowly.
-    1 천천히 하십시오.
-    2 Take your time.
+    O: 천천히 하십시오.
+    E: Take your time.
     
-    1 영화를 덜 보십시오.
-    2 Watch less movies.
+    O: 영화를 덜 보십시오.
+    E: Watch less movies.
     
-    1 더 웃으십시오!
-    2 Laugh more!
+    O: 더 웃으십시오!
+    E: Laugh more!
 
-    1 집중하십시오.
-    2 Concentrate.
+    O: 집중하십시오.
+    E: Concentrate.
 
-    1 천천히 오십시오.
-    2 Come slowly.
+    O: 천천히 오십시오.
+    E: Come slowly.
 
-    1 천천히 배우십시오.
-    2 Learn slowly.
+    O: 천천히 배우십시오.
+    E: Learn slowly.
 
-    1 조심하십시오
-    2 Be careful!
+    O: 조심하십시오
+    E: Be careful!
 
-    1 한국어를 배우십시오.
-    2 Learn Korean.
+    O: 한국어를 배우십시오.
+    E: Learn Korean.
 
-    1 손님, 이쪽으로 오십시오.
-    2 Sir, come this way.
-
-> Two
-    1 그것을 만지지 마십시오.
-    2 Don't touch that.
-
-    1 너무 걱정하지 마십시오.
-    2 Don't worry too much.
-
-    1 빨리 오십시오!
-    2 Come quickly!
-
-    1 너무 많이 운동하지 마십시오.
-    2 Don't exercise too much.
-
-    1 만지지 마십시오.
-    2 Don't touch.
-
-    # Sir, don't be too worried.
-    1 손님, 너무 걱정하지 마십시오.
-    2 Sir, don't worry too much.
-
-    1 너무 빨리 배우지 마십시오.
-    2 Don't learn too fast.
-
-    1 저를 만지지 마십시오.
-    2 Don't touch me.
-
-    1 걱정하지 마십시오. 저는 괜찮습니다.
-    2 Don't worry about me. I'm alright.
-
-    1 뛰지 마십시오.
-    2 Don't run.
-
-    1 빨리 가지 마십시오.
-    2 Don't go quickly.
-
-    1 저에게 메시지를 너무 많이 보내지 마십시오.
-    2 Please do not send me too many messages.
-
-> Three
-    1 극장에서 영화를 찍읍시다.
-    2 Let's film a movie at the theatre.
-
-    1 함께 등산합시다.
-    2 Let's climb a mountain together.
-
-    1 이 식당에서 식사합시다.
-    2 Let's eat at this restaurant.
-
-    1 박물관에서 공부합시다!
-    2 Let's study at the museum!
-
-    1 사진을 봅시다.
-    2 Let's look at the photo.
-
-    1 박물관에서 사진을 찍읍시다.
-    2 Let's take a photo at the museum.
-
-    1 다시 등산합시다.
-    2 Let's climb a mountain again.
-
-    1 극장에서 영화를 봅시다.
-    2 Let's see a movie at the theatre.
-
-    1 서울에서 등산합시다.
-    2 Let's climb a mountain in Seoul.
-
-    1 사진을 찍읍시다.
-    2 Let's take a photo.
-
-    1 극장에 갑시다.
-    2 Let's go to the theatre.
-
-    1 식사합시다.
-    2 Let's eat.
-
-> Four
-    1 매일 청소합시다.
-    2 Let's clean every day.
-
-    1 음식을 남기지 맙시다.
-    2 Let's not leave food.
-
-    1 함께 요리합시다.
-    2 Let's cook together.
-
-    1 오늘 공부하지 맙시다.
-    2 Let's not study today.
-
-    1 동물을 요리하지 맙시다.
-    2 Let's not cook animals.
-
-    1 음식을 너무 많이 남기지 맙시다.
-    2 Let's not leave so much food.
-
-    1 매일 공부합시다.
-    2 Let's study every day.
-
-    1 함께 청소합시다.
-    2 Let's clean together.
-
-    1 요리합시다!
-    2 Let's cook!
-
-    1 오늘 극장에 갑시다.
-    2 Let's go to the theatre today.
-
-    1 사진을 남기지 맙시다.
-    2 Let's not leave photos.
-
-    1 매일 한국에 갑시다.
-    2 Let's go to Korea every day.
-
-> Five
+    O: 손님, 이쪽으로 오십시오.
+    E: Sir, come this way.

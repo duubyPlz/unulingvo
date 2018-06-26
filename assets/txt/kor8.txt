@@ -1,0 +1,38 @@
+> Two
+    O: 그것을 만지지 마십시오.
+    E: Don't touch that.
+
+    O: 너무 걱정하지 마십시오.
+    E: Don't worry too much.
+
+    O: 빨리 오십시오!
+    E: Come quickly!
+
+    O: 너무 많이 운동하지 마십시오.
+    E: Don't exercise too much.
+
+    O: 만지지 마십시오.
+    E: Don't touch.
+
+    # Sir, don't be too worried.
+    O: 손님, 너무 걱정하지 마십시오.
+    E: Sir, don't worry too much.
+
+    O: 너무 빨리 배우지 마십시오.
+    E: Don't learn too fast.
+
+    O: 저를 만지지 마십시오.
+    E: Don't touch me.
+
+    O: 걱정하지 마십시오. 저는 괜찮습니다.
+    E: Don't worry about me. I'm alright.
+
+    O: 뛰지 마십시오.
+    E: Don't run.
+
+    O: 빨리 가지 마십시오.
+    E: Don't go quickly.
+
+    O: 저에게 메시지를 너무 많이 보내지 마십시오.
+    E: Please do not send me too many messages.
+
