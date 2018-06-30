@@ -34,5 +34,5 @@
     E: Don't go quickly.
 
     O: 저에게 메시지를 너무 많이 보내지 마십시오.
-    E: Please do not send me too many messages.
+    E: Don't send me too many messages.
 
