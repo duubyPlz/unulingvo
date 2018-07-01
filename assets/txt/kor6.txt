@@ -137,7 +137,7 @@
     E: That woman over there is this tall.
 
     O: 저 여자가 저 침대를 저편으로 던집니다.
-    E: That woman throws that bed in that direction.
+    E: That woman (over there) throws that bed (over there) in that direction (over there).
 
     O: 저의 가방은 저만큼 큽니다.
     E: My bag is that (over there) big.
