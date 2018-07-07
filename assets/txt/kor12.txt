@@ -1,39 +1,39 @@
 > Six
-    1 아주머니, 제가 귀엽습니까?
-    2 Ma'am, am I cute?
+    O: 아주머니, 제가 귀엽습니까?
+    E: Ma'am, am I cute?
 
-    1 이 카메라는 무엇입니까?
-    2 What is this camera?
+    O: 이 카메라는 무엇입니까?
+    E: What is this camera?
 
-    1 어느 자동차가 좋습니까 ?
-    2 Which car is good?
+    O: 어느 자동차가 좋습니까 ?
+    E: Which car is good?
 
-    1 이것은 왜 비쌉니까?
-    2 Why is this expensive?
+    O: 이것은 왜 비쌉니까?
+    E: Why is this expensive?
 
-    1 이 빵은 어떤 빵입니까?
-    2 What kind of bread is this bread?
+    O: 이 빵은 어떤 빵입니까?
+    E: What kind of bread is this bread?
 
-    1 아저씨, 아저씨는 어떤 음식이 좋아요?
-    2 Mister what kind of food do you like?
+    O: 아저씨, 아저씨는 어떤 음식이 좋아요?
+    E: Mister what kind of food do you like?
 
-    1 이것은 무엇입니까?
-    2 What is this?
+    O: 이것은 무엇입니까?
+    E: What is this?
 
-    1 아주머니, 왜 이 카메라는 안 비쌉니까?
-    2 Ma'am, why is this camera not expensive?
+    O: 아주머니, 왜 이 카메라는 안 비쌉니까?
+    E: Ma'am, why is this camera not expensive?
 
-    1 아저씨, 아저씨는 왜 뚱뚱해요?
-    2 Mister, why are you fat?
+    O: 아저씨, 아저씨는 왜 뚱뚱해요?
+    E: Mister, why are you fat?
 
-    1 어느 장소가 안 춥습니까?
-    2 Which place is not cold?
+    O: 어느 장소가 안 춥습니까?
+    E: Which place is not cold?
 
-    1 그것은 무엇입니까?
-    2 What is that?
+    O: 그것은 무엇입니까?
+    E: What is that?
 
-    1 아저씨, 자동차는 왜 빠릅니까?
-    2 Mister, why are cars fast?
+    O: 아저씨, 자동차는 왜 빠릅니까?
+    E: Mister, why are cars fast?
 
-    1 어느 공이 큽니까?
-    2 Which ball is big?
+    O: 어느 공이 큽니까?
+    E: Which ball is big?
