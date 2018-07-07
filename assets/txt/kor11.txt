@@ -1,4 +1,52 @@
 > Five
 
-    O: 
-    E: 
+    O: 무슨 음식이 맛있습니까?
+    E: What food is delicious?
+
+    1 사람들은 언제 행복합니까?
+    2 When are people happy?
+
+    1 여자아이가 어디에 있습니까?
+    2 Where is the girl?
+    
+    1 저 가수는 어떻게 노래합니까?
+    2 How does that singer sing?
+
+    1 그 여자는 누구입니까?
+    2 Who is that woman?
+
+    1 가람 님, 고양이가 어디에 있습니까?
+    2 Mr. Garam, where is the cat?
+
+    1 그 가수는 언제 옵니까?
+    2 When will that singer come?
+
+    1 그 여자는 누구입니까?
+    2 Who is that woman?
+
+    1 가람 님, 누구가 귀엽습니까?
+    2 Mr. Garam who is cute?
+
+    1 저 가수는 어떻게 노래합니까?
+    2 How does that singer sing?
+
+    1 저는 어디에 있습니까?
+    2 Where am I?
+
+    1 가람 님, 어디에 책이 있습니까?
+    2 Mr. Garam where is the book?
+
+    1 가수는 언제 옵니까?
+    2 When does the singer come?
+
+    1 여자들은 어떻게 웃습니까?
+    2 How do women laugh?
+
+    1 개는 물을 어떻게 마십니까? 
+    2 How do dogs drink water?
+
+    1 가람 님, 어디에 책이 있습니까 ?
+    2 Mr. Garam, where is the book?
+
+    1 저는 누구입니까?
+    2 Who am I?
