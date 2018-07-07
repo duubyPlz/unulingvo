@@ -1,5 +1,4 @@
 > Five
-
     O: 무슨 음식이 맛있습니까?
     E: What food is delicious?
 
@@ -9,9 +8,6 @@
     O: 여자아이가 어디에 있습니까?
     E: Where is the girl?
     
-    O: 저 가수는 어떻게 노래합니까?
-    E: How does that singer sing?
-
     O: 그 여자는 누구입니까?
     E: Who is that woman?
 
@@ -28,7 +24,7 @@
     E: Mr. Garam who is cute?
 
     O: 저 가수는 어떻게 노래합니까?
-    E: How does that singer sing?
+    E: How does that (over there) singer sing?
 
     O: 저는 어디에 있습니까?
     E: Where am I?
