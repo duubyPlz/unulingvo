@@ -29,7 +29,7 @@
     O: 저는 어디에 있습니까?
     E: Where am I?
 
-    O: 가람 님, 어디에 책이 있습니까?
+    O: 가람 님, 책이 어디에 있습니까?
     E: Mr. Garam where is the book?
 
     O: 가수는 언제 옵니까?
