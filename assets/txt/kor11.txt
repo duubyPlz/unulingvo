@@ -41,8 +41,5 @@
     O: 개는 물을 어떻게 마십니까? 
     E: How do dogs drink water?
 
-    O: 가람 님, 어디에 책이 있습니까 ?
-    E: Mr. Garam, where is the book?
-
     O: 저는 누구입니까?
     E: Who am I?
