@@ -1,28 +1,47 @@
 == Polite Speech ==
 > One
-    1 아이가 친구하고 텔레비전을 봐요.
-    2 The child watches television with a friend.
+    O: 아이가 친구하고 텔레비전을 봐요.
+    E: The child watches television with a friend.
 
-    1 저는 가수예요.
-    2 I am a singer.
+    O: 저는 가수예요.
+    E: I am a singer.
 
-    1 그 자동차가 사라져요.
-    2 That car disappears.
+    O: 그 자동차가 사라져요.
+    E: That car disappears.
 
-    1 제가 차에서 내려요.
-    2 I get off the car.
+    O: 제가 차에서 내려요.
+    E: I get off the car.
 
-    1 이 편지는 맞지 않아요.
-    2 This letter is not correct.
+    O: 이 편지는 맞지 않아요.
+    E: This letter is not correct.
 
-    1 여자가 울지 않아요.
-    2 The woman does not cry.
+    O: 여자가 울지 않아요.
+    E: The woman does not cry.
 
-    1 학생이 가방을 잠가요.
-    2 The student locks a bag.
+    O: 학생이 가방을 잠가요.
+    E: The student locks a bag.
 
-    1 저 개는 울어요.
-    2 That dog over there cries.
+    O: 저 개는 울어요.
+    E: That dog over there cries.
 
-    1 
-    2 
+    O: 그 책이 맞아요.
+    E: That book is correct.
+
+    O: 저는 남자아이를 봐요.
+    E: I look at the boy.
+
+    O: 저는 가수예요.
+    E: I am a singer.
+
+    O: 맞아요!
+    E: Correct!
+
+    O: 저는 텔레비전을 안 봐요.
+    E: I do not watch television.
+
+    O: 남자아이가 울어요.
+    E: The boy cries.
+
+> Two
+    O: 
+    E: 
