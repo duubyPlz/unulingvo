@@ -1,0 +1,37 @@
+
+> Three
+    O: 이 병과 그 병은 달라요.
+    E: This illness and that illness are different.
+
+    O: 저는 건물을 지어요.
+    E: I build a building.
+
+    O: 그 여자가 그 책을 몰라요.
+    E: That woman does not know that book.
+
+    O: 여자아이가 개를 길러요.
+    E: A girl raises a dog.
+
+    O: 제가 이것들을 이어요.
+    E: I connect these.
+
+    O: 아이가 나아요.
+    E: The child gets well.
+
+    O: 아이가 한국어를 몰라요.
+    E: The child does not know Korean.
+
+    O: 남자들이 집을 지어요.
+    E: The men build the house.
+
+    O: 아이는 병이 나아요.
+    E: The child recovers from the disease.
+
+    O: 저는 동물을 길러요.
+    E: I raise an animal.
+
+    O: 저의 책이 달라요.
+    E: My book is different.
+
+    O: 남자가 이것과 저것을 이어요.
+    E: A man connects this and that.
