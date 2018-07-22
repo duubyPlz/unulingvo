@@ -1,1 +1,39 @@
 > Four
+    1 열쇠는 저래요.
+    2 Keys are like that.
+
+    1 제 음악은 이래요.
+    2 My music is like this.
+
+    1 날씨가 그래요. 
+    2 The weather is like that.
+
+    1 저 남자는 잘 일해요.
+    2 That man over there works well.
+
+    1 학생들이 건강해요.
+    2 The students are healthy.
+
+    1 사람들이 비슷해요.
+    2 The people are similar.
+
+    1 이 학생은 저렇지 않아요.
+    2 This student is not like that.
+
+    1 이것과 저것은 비슷하지 않아요.
+    2 This and that are not similar.
+
+    1 저의 집은 그렇지 않아요.
+    2 My house is not like that.
+
+    1 저는 이렇지 않아요.
+    2 I am not like this.
+
+    1 날씨가 추워요.
+    2 The weather is cold.
+
+    1 저것은 저래요.
+    2 That is like that.
+
+    1 그 빵은 그래요.
+    2 That bread is like that.
