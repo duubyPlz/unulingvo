@@ -62,7 +62,7 @@
     E: The cat comes from the house.
 
     O: 여자하고 남자가 도서관에서 걷습니다.
-    E: The woman and[s] the man walk inside the library.
+    E: The woman and[s] the man walk, inside the library.
 
     O: 남자가 공원에서 뜁니다.
     E: The man runs[j] at the park.
