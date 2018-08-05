@@ -272,7 +272,7 @@
     E: I teach a child.
 
     O: 저는 친구에게 편지를 보냅니다.
-    E: I send a letter to the friend.
+    E: I send a letter to my friend.
 
     O: 남자는 여자에게서 선물을 받습니다. 
     E: A man receives a gift from a woman.

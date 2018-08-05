@@ -48,6 +48,15 @@
     O: 길이 깁니다.
     E: The road is long.
 
+    O: 집은 큽니다.
+    E: A house is big.
+
+    O: 공들이 큽니다.
+    E: The balls are big.
+
+    O: 학교가 좋습니다.
+    E: The school is good.
+    
 > Two
     O: 물건이 뜨겁습니다
     E: The thing is hot.
@@ -94,6 +103,18 @@
     O: 빵이 뜨겁습니다.
     E: The bread is hot.
 
+    O: 자동차가 비쌉니다.
+    E: The car is expensive.
+
+    O: 여자가 무겁습니다.
+    E: The woman is heavy.
+
+    O: 방이 쌉니다.
+    E: The room is cheap.
+
+    O: 빵이 차갑습니다.
+    E: The bread is cold.
+
 > Three
     # The TTS says [나씀니다], which is what you are most likely to hear from native speakers when they speak fast, but [낟씀니다] is correct.
     O: 장소가 낮습니다.
@@ -113,6 +134,27 @@
 
     O: 방이 넓습니다.
     E: The room is wide.
+    
+    O: 장소가 덥습니다.
+    E: The place is hot.
+
+    O: 산이 높습니다.
+    E: The mountain is high.
+
+    O: 길이 좁습니다.
+    E: The road is narrow.
+
+    O: 집이 좁습니다.
+    E: The house is small.
+
+    O: 학교가 낮습니다.
+    E: The school is low.
+
+    O: 한국이 덥습니다.
+    E: Korea is cold.
+
+    O: 저는 덥습니다.
+    E: I am hot.
 
 > Four
     O: 여자가 날씬합니다.
@@ -139,6 +181,42 @@
     O: 아이가 깨끗합니다.
     E: The child is clean.
 
+    O: 자동차가 더럽습니다.
+    E: The car is dirty.
+
+    O: 가수가 날씬합니다.
+    E: The singer is thin.
+
+    O: 저는 귀엽습니다.
+    E: I am cute.
+
+    O: 고양이가 뚱뚱합니다.
+    E: The cat is fat.
+
+    O: 산이 예쁩니다.
+    E: The mountain is pretty.
+
+    O: 여자들이 아름답습니다.
+    E: The women are beautiful.
+
+    O: 남자는 키가 작습니다.
+    E: The man is short.
+
+    O: 가수가 예쁩니다.
+    E: The singer is pretty.
+
+    O: 개가 뚱뚱합니다.
+    E: The dog is fat.
+
+    O: 공이 더럽습니다.
+    E: The ball is dirty.
+
+    O: 남자의 고양이가 귀엽습니다.
+    E: The man's cat is cute.
+
+    O: 여자는 키가 큽니다.
+    E: The woman is tall.
+
 > Five
     O: 저는 바쁩니다.
     E: I am busy.
@@ -163,6 +241,33 @@
 
     O: 여자아이가 똑똑합니다.
     E: The girl is smart.
+
+    O: 개가 게으릅니다.
+    E: The dog is lazy.
+
+    O: 개는 영리합니다.
+    E: Dogs are clever.
+
+    O: 여자가 비열합니다.
+    E: The woman is mean.
+
+    O: 책이 이상합니다.
+    E: The book is strange.
+
+    O: 아이들이 친절합니다.
+    E: The children are kind.
+
+    O: 학생들이 바쁩니다.
+    E: The students are busy.
+
+    O: 저는 착합니다.
+    E: I am nice.
+
+    O: 저는 똑똑합니다.
+    E: I am smart.
+
+    O: 사람들은 비열합니다.
+    E: People are mean.
 
 > Six
     O: 동물들이 아픕니다.
@@ -203,3 +308,12 @@
     
     O: 고양이가 행복합니다.
     E: The cat is happy.
+
+    O: 가수들이 피곤합니다.
+    E: The singers are tired.
+
+    O: 영화가 지루합니다.
+    E: The movie is boring.
+
+    O: 저는 아픕니다.
+    E: I am sick.
