@@ -56,6 +56,33 @@
 
     O: 학교가 좋습니다.
     E: The school is good.
+
+    O: 크 카메라
+    E: That camera
+
+    O: 이 사과
+    E: This apple
+
+    O: 저것은 개입니다.
+    E: That (over there) is a dog.
+
+    O: 그 사람은 남자입니다.
+    E: That person is a man.
+
+    O: 저것은 집입니다.
+    E: That (over there) is a house.
+
+    O: 저 사람은 남자입니다.
+    E: That (over there) person is a man.
+
+    O: 저 건물이 큽니다.
+    E: That (over there) building is big.
+
+    O: 여자아이가 그 책상에 앉습니다.
+    E: The girl sits at that desk.
+
+    O: 그것은 개입니다.
+    E: That is a dog.
     
 > Two
     O: 물건이 뜨겁습니다

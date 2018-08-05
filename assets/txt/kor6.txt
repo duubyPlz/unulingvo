@@ -107,13 +107,16 @@
 
     O: 이것은 저쪽에 있습니다.
     E: This is over there (direction).
+   
+    O: 저의 여자는 저기에 있습니다.
+    E: My woman is over there.
 
 > Three
     O: 침대는 음식입니다.
     E: A bed is food.
 
     O: 저는 저편으로 갑니다.
-    E: I go in that direction.
+    E: I go in that (over there) direction.
 
     O: 이편, 그편, 저편
     E: This side, that side, that side over there
@@ -144,3 +147,15 @@
 
     O: 이것은 건물이 아닙니다.
     E: This is not a building.
+
+    O: 저는 그쪽으로 갑니다. 
+    E: I go that way.
+
+    O: 그 나무는 그만큼 높습니다.
+    E: That tree is that tall.
+
+    O: 이 아이와 이 고양이가 같이 이편으로 달립니다.
+    E: This child and this cat run in this direction together.
+
+    O: 침대는 이만큼 큽니다.
+    E: A bed is this big.
