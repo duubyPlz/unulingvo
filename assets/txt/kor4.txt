@@ -25,6 +25,9 @@
     O: 여자와 남자는 함께 웃습니다.
     E: A woman and a man laugh together.
 
+    O: 여자와 남자가 함께 웃습니다.
+    E: The woman and the man laugh together.
+    
     O: 동물이 웃습니다.
     E: The animal laughs.
 
@@ -47,6 +50,22 @@
     O: 아이들이 함께 앉습니다.
     E: The children sit together.
 
+    O: 도서관의 방.
+    E: The room of the library.
+
+    O: 학생들이 길에 섭니다.
+    E: The students stand in the street.
+
+    O: 여자가 길에서 웃습니다.
+    E: The woman laughs in the street.
+
+    
+    O: 남자아이가 웃습니다.
+    E: The boy laughs.
+
+    O: 남자가 여자와 같이 웃습니다.
+    E: The man laughs with the woman.
+    
 > Two
     O: 남자가 집까지 수영합니다.
     E: The man swims to the house.
@@ -106,6 +125,9 @@
     O: 학생이 도서관으로 뜁니다.
     E: The student jumps toward the library.
 
+    O: 남자아이가 학교에서 집에 달립니다.
+    E: The boy runs home from school.
+    
 > Three
     O: 저는 메시지를 적습니다.
     E: I write a message.
@@ -159,6 +181,18 @@
     O: 저는 신문을 읽습니다.
     E: I read the newspaper.
 
+    O: 남자가 연필로 메시지를 적습니다.
+    E: The man writes a message with a pencil.
+
+    O: 여자는 책을 손으로 씁니다.
+    E: A woman writes a book by hand
+
+    O: 남자가 영어를 잘합니다. 
+    E: The man speaks English well.
+
+    O: 여자가 동물하고 한국어로 대화합니다.
+    E: The woman has a conversation with an animal in Korean.
+
 > Four
     O: 여자의 학생이 영어를 합니다.
     E: The woman's student speaks English.
@@ -170,7 +204,7 @@
     E: The children talk.
 
     O: 개가 빵을 조금 먹습니다.
-    E: The dog eats a little bit of the bread.
+    E: The dog eats a little bit of bread.
 
     O: 한국어와 영어.
     E: Korean and English.
@@ -205,6 +239,9 @@
 
     O: 고양이가 빵을 먹습니다.
     E: The cat eats bread.
+
+    O: 학생들이 한국어로 이야기합니다.
+    E: The students talk in Korean.
 
 > Five
     O: 여자아이는 남자에게서 개를 받습니다.
