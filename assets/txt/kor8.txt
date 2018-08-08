@@ -16,7 +16,7 @@
     E: This letter is not correct.
 
     O: 여자가 울지 않아요.
-    E: The woman does not cry.
+    E: The woman does not[l] cry.
 
     O: 학생이 가방을 잠가요.
     E: The student locks a bag.
