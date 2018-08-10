@@ -13,7 +13,7 @@
     E: I get off the car.
 
     O: 이 편지는 맞지 않아요.
-    E: This letter is not correct.
+    E: This letter is not[l] correct.
 
     O: 여자가 울지 않아요.
     E: The woman does not[l] cry.
