@@ -104,7 +104,7 @@
     E: The woman's car is slow.
 
     O: 차가 차갑습니다.
-    E: The car is cold to touch.
+    E: The car[s] is cold to touch.
 
     O: 음식이 비쌉니다.
     E: The food is expensive.
