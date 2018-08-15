@@ -10,7 +10,7 @@
     E: That car disappears.
 
     O: 제가 차에서 내려요.
-    E: I get off the car.
+    E: I get off the car[s].
 
     O: 이 편지는 맞지 않아요.
     E: This letter is not[l] correct.
