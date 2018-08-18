@@ -13,7 +13,7 @@
     E: A friend lies down on the road.
 
     O: 친구가 저를 도와요.
-    E: A friend helps me.
+    E: The friend helps me.
 
     O: 여기가 어두워요.
     E: It is dark here.
