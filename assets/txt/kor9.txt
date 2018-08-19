@@ -19,7 +19,7 @@
     E: It is dark here.
 
     O: 여기는 어둡지 않아요.
-    E: It is not dark here.
+    E: It is not[l] dark here.
 
     O: 저는 누워요.
     E: I lie down.
