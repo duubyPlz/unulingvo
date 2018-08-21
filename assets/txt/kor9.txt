@@ -15,7 +15,8 @@
     O: 친구가 저를 도와요.
     E: The friend helps me.
 
-    O: 여기가 어두워요.
+    # 여기가 어두워요
+    O: 여기는 어두워요.
     E: It is dark here.
 
     O: 여기는 어둡지 않아요.
