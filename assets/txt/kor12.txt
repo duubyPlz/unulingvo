@@ -1,0 +1,43 @@
+== Food ==
+> One
+    1 아침이 맛있습니다.
+    2 Breakfast is delicious.
+
+    1 식사
+    2 Meal
+
+    1 저는 점심을 안 먹어요.
+    2 I don't eat lunch.
+
+    1 저는 그 남자에게서 접시를 받아요.
+    2 I receive a plate from that man.
+
+    1 저는 그릇을 던지지 않습니다.
+    2 I do not throw a bowl.
+
+    1 학생이 빨리 저녁을 요리해요.
+    2 The student quickly cooks dinner.
+
+    1 반찬
+    2 Side dish
+
+    1 오늘 저는 반찬만 먹어요.
+    2 Today I only eat side dishes.
+
+    1 점심
+    2 Lunch
+
+    1 식사로 이것을 먹읍시다.
+    2 Let's eat this for a meal.
+
+    1 저녁
+    2 Dinner
+
+    1 그릇에 무엇이 있어요?
+    2 What is in the bowl?
+
+    1 이 그릇은 커요.
+    2 This bowl is big.
+
+    1 아침이 맛있습니다.
+    2 Breakfast is delicious.
