@@ -34,4 +34,4 @@
     E: My book is different.
 
     O: 남자가 이것과 저것을 이어요.
-    E: A man connects this and that.
+    E: A man connects this and that over there.
