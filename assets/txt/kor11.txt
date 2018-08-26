@@ -3,7 +3,7 @@
     E: Keys are like that.
 
     O: 제 음악은 이래요.
-    E: My music is like this.
+    E: My[s] music is like this.
 
     O: 날씨가 그래요. 
     E: The weather is like that.
