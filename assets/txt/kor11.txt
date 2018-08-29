@@ -21,7 +21,7 @@
     E: This student is not like that.
 
     O: 이것과 저것은 비슷하지 않아요.
-    E: This and that are not similar.
+    E: This and that over there are not similar.
 
     O: 저의 집은 그렇지 않아요.
     E: My house is not like that.
