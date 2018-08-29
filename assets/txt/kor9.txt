@@ -1,6 +1,6 @@
 > Four
     O: 열쇠는 저래요.
-    E: Keys are like that.
+    E: Keys are like that over there.
 
     O: 제 음악은 이래요.
     E: My[s] music is like this.
@@ -18,7 +18,7 @@
     E: The people are similar.
 
     O: 이 학생은 저렇지 않아요.
-    E: This student is not like that.
+    E: This student is not like that over there.
 
     O: 이것과 저것은 비슷하지 않아요.
     E: This and that over there are not similar.
@@ -33,7 +33,7 @@
     E: The weather is cold.
 
     O: 저것은 저래요.
-    E: That is like that.
+    E: That over there is like that over there.
 
     O: 그 빵은 그래요.
     E: That bread is like that.
