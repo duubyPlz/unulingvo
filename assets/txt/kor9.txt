@@ -1,38 +1,39 @@
+> Four
+    O: 열쇠는 저래요.
+    E: Keys are like that.
 
-> Two
-    O: 저는 라디오를 안 들어요.
-    E: I do not listen to the radio.
+    O: 제 음악은 이래요.
+    E: My[s] music is like this.
 
-    O: 저는 길을 걸어요.
-    E: I walk along the street.
+    O: 날씨가 그래요. 
+    E: The weather is like that.
 
-    O: 학생이 한국어로 물어요.
-    E: The student asks in Korean.
+    O: 저 남자는 잘 일해요.
+    E: That man over there works well.
 
-    O: 친구가 길에 누워요.
-    E: A friend lies down on the road.
+    O: 학생들이 건강해요.
+    E: The students are healthy.
 
-    O: 친구가 저를 도와요.
-    E: The friend helps me.
+    O: 사람들이 비슷해요.
+    E: The people are similar.
 
-    # 여기가 어두워요
-    O: 여기는 어두워요.
-    E: It is dark here.
+    O: 이 학생은 저렇지 않아요.
+    E: This student is not like that.
 
-    O: 여기는 어둡지 않아요.
-    E: It is not[l] dark here.
+    O: 이것과 저것은 비슷하지 않아요.
+    E: This and that over there are not similar.
 
-    O: 저는 누워요.
-    E: I lie down.
+    O: 저의 집은 그렇지 않아요.
+    E: My house is not like that.
 
-    O: 저는 라디오를 들어요.
-    E: I listen to the radio.
+    O: 저는 이렇지 않아요.
+    E: I am not like this.
 
-    O: 저는 물어요.
-    E: I ask.
+    O: 날씨가 추워요.
+    E: The weather is cold.
 
-    O: 고양이가 라디오를 들어요.
-    E: The cat listens to the radio.
+    O: 저것은 저래요.
+    E: That is like that.
 
-    O: 동물이 아이를 도와요.
-    E: The animal helps the child.
+    O: 그 빵은 그래요.
+    E: That bread is like that.

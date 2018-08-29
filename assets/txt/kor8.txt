@@ -41,3 +41,78 @@
 
     O: 남자아이가 울어요.
     E: The boy cries.
+
+> Two
+    O: 저는 라디오를 안 들어요.
+    E: I do not listen to the radio.
+
+    O: 저는 길을 걸어요.
+    E: I walk along the street.
+
+    O: 학생이 한국어로 물어요.
+    E: The student asks in Korean.
+
+    O: 친구가 길에 누워요.
+    E: A friend lies down on the road.
+
+    O: 친구가 저를 도와요.
+    E: The friend helps me.
+
+    # 여기가 어두워요
+    O: 여기는 어두워요.
+    E: It is dark here.
+
+    O: 여기는 어둡지 않아요.
+    E: It is not[l] dark here.
+
+    O: 저는 누워요.
+    E: I lie down.
+
+    O: 저는 라디오를 들어요.
+    E: I listen to the radio.
+
+    O: 저는 물어요.
+    E: I ask.
+
+    O: 고양이가 라디오를 들어요.
+    E: The cat listens to the radio.
+
+    O: 동물이 아이를 도와요.
+    E: The animal helps the child.
+
+> Three
+    O: 이 병과 그 병은 달라요.
+    E: This illness and that illness are different.
+
+    O: 저는 건물을 지어요.
+    E: I build a building.
+
+    O: 그 여자가 그 책을 몰라요.
+    E: That woman does not know that book.
+
+    O: 여자아이가 개를 길러요.
+    E: A girl raises a dog.
+
+    O: 제가 이것들을 이어요.
+    E: I connect these.
+
+    O: 아이가 나아요.
+    E: The child gets well.
+
+    O: 아이가 한국어를 몰라요.
+    E: The child does not know Korean.
+
+    O: 남자들이 집을 지어요.
+    E: The men build the house.
+
+    O: 아이는 병이 나아요.
+    E: The child recovers from the disease.
+
+    O: 저는 동물을 길러요.
+    E: I raise an animal.
+
+    O: 저의 책이 달라요.
+    E: My book is different.
+
+    O: 남자가 이것과 저것을 이어요.
+    E: A man connects this and that over there.

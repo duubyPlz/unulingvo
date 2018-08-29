@@ -1,37 +1,43 @@
+== Food ==
+> One
+    O: 아침이 맛있습니다.
+    E: Breakfast is delicious.
 
-> Three
-    O: 이 병과 그 병은 달라요.
-    E: This illness and that illness are different.
+    O: 식사
+    E: Meal
 
-    O: 저는 건물을 지어요.
-    E: I build a building.
+    O: 저는 점심을 안 먹어요.
+    E: I don't eat lunch.
 
-    O: 그 여자가 그 책을 몰라요.
-    E: That woman does not know that book.
+    O: 저는 그 남자에게서 접시를 받아요.
+    E: I receive a plate from that man.
 
-    O: 여자아이가 개를 길러요.
-    E: A girl raises a dog.
+    O: 저는 그릇을 던지지 않습니다.
+    E: I do not throw a bowl.
 
-    O: 제가 이것들을 이어요.
-    E: I connect these.
+    O: 학생이 빨리 저녁을 요리해요.
+    E: The student quickly cooks dinner.
 
-    O: 아이가 나아요.
-    E: The child gets well.
+    O: 반찬
+    E: Side dish
 
-    O: 아이가 한국어를 몰라요.
-    E: The child does not know Korean.
+    O: 오늘 저는 반찬만 먹어요.
+    E: Today I only eat side dishes.
 
-    O: 남자들이 집을 지어요.
-    E: The men build the house.
+    O: 점심
+    E: Lunch
 
-    O: 아이는 병이 나아요.
-    E: The child recovers from the disease.
+    O: 식사로 이것을 먹읍시다.
+    E: Let's eat this for a meal.
 
-    O: 저는 동물을 길러요.
-    E: I raise an animal.
+    O: 저녁
+    E: Dinner
 
-    O: 저의 책이 달라요.
-    E: My book is different.
+    O: 그릇에 무엇이 있어요?
+    E: What is in the bowl?
 
-    O: 남자가 이것과 저것을 이어요.
-    E: A man connects this and that over there.
+    O: 이 그릇은 커요.
+    E: This bowl is big.
+
+    O: 아침이 맛있습니다.
+    E: Breakfast is delicious.
