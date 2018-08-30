@@ -18,16 +18,16 @@
     E: The people are similar.
 
     O: 이 학생은 저렇지 않아요.
-    E: This student is not like that over there.
+    E: This student is not[l] like that over there.
 
     O: 이것과 저것은 비슷하지 않아요.
-    E: This and that over there are not similar.
+    E: This and that over there are not[l] similar.
 
     O: 저의 집은 그렇지 않아요.
-    E: My house is not like that.
+    E: My house is not[l] like that.
 
     O: 저는 이렇지 않아요.
-    E: I am not like this.
+    E: I am not[l] like this.
 
     O: 날씨가 추워요.
     E: The weather is cold.
