@@ -1,39 +1,43 @@
-> Four
-    O: 열쇠는 저래요.
-    E: Keys are like that over there.
+== Food ==
+> One
+    O: 아침이 맛있습니다.
+    E: Breakfast is delicious.
 
-    O: 제 음악은 이래요.
-    E: My[s] music is like this.
+    O: 식사
+    E: Meal
 
-    O: 날씨가 그래요. 
-    E: The weather is like that.
+    O: 저는 점심을 안 먹어요.
+    E: I don't eat lunch.
 
-    O: 저 남자는 잘 일해요.
-    E: That man over there works well.
+    O: 저는 그 남자에게서 접시를 받아요.
+    E: I receive a plate from that man.
 
-    O: 학생들이 건강해요.
-    E: The students are healthy.
+    O: 저는 그릇을 던지지 않습니다.
+    E: I do not throw a bowl.
 
-    O: 사람들이 비슷해요.
-    E: The people are similar.
+    O: 학생이 빨리 저녁을 요리해요.
+    E: The student quickly cooks dinner.
 
-    O: 이 학생은 저렇지 않아요.
-    E: This student is not[l] like that over there.
+    O: 반찬
+    E: Side dish
 
-    O: 이것과 저것은 비슷하지 않아요.
-    E: This and that over there are not[l] similar.
+    O: 오늘 저는 반찬만 먹어요.
+    E: Today I only eat side dishes.
 
-    O: 저의 집은 그렇지 않아요.
-    E: My house is not[l] like that.
+    O: 점심
+    E: Lunch
 
-    O: 저는 이렇지 않아요.
-    E: I am not[l] like this.
+    O: 식사로 이것을 먹읍시다.
+    E: Let's eat this for a meal.
 
-    O: 날씨가 추워요.
-    E: The weather is cold.
+    O: 저녁
+    E: Dinner
 
-    O: 저것은 저래요.
-    E: That over there is like that over there.
+    O: 그릇에 무엇이 있어요?
+    E: What is in the bowl?
 
-    O: 그 빵은 그래요.
-    E: That bread is like that.
+    O: 이 그릇은 커요.
+    E: This bowl is big.
+
+    O: 아침이 맛있습니다.
+    E: Breakfast is delicious.
