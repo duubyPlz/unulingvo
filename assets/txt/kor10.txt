@@ -1,15 +1,15 @@
 > Two
-    1 어디에 기름이 있습니까?
-    2 Where is the oil?
+    O: 어디에 기름이 있습니까?
+    E: Where is the oil?
 
-    1 커피는 맛없어요.
-    2 Coffee tastes bad.
+    O: 커피는 맛없어요.
+    E: Coffee tastes bad.
 
-    1 우유가 비싸요.
-    2 Milk is expensive.
+    O: 우유가 비싸요.
+    E: Milk is expensive.
 
-    1 그 기름이 뜨겁습니까?
-    2 Is that oil hot?
+    O: 그 기름이 뜨겁습니까?
+    E: Is that oil hot?
 
-    1 고양이가 우유를 마셔요.
-    2 The cat drinks milk.
+    O: 고양이가 우유를 마셔요.
+    E: The cat drinks milk.

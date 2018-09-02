@@ -1,40 +1,25 @@
 > Three
-    1 옥수수
- 수프
-    2 Corn soup
+    O: 옥수수 수프
+    E: Corn soup
 
-    1 바나나
- 우유
-    2 Banana milk
+    O: 바나나 우유
+    E: Banana milk
 
-    1 고추가
- 어디에
- 있습니까
-?
-    2 Where is the chili?
+    O: 고추가 어디에 있습니까?
+    E: Where is the chili?
 
-    1 귤을
- 어떻게
- 요리합니까
-?
-    2 How do you cook a tangerine?
+    O: 귤을 어떻게 요리합니까?
+    E: How do you cook a tangerine?
 
-    1 오렌지
- 주스
-    2 Orange juice
+    O: 오렌지 주스
+    E: Orange juice
 
     # It would, if the sentence were "I eat coffee and banana", but I think the context here is more like: every time I eat a banana, I also have coffee 
-    1 바나나를 커피와 함께 먹습니다.
-    2 I eat a banana with coffee.
+    O: 바나나를 커피와 함께 먹습니다.
+    E: I eat a banana with coffee.
 
-    1 토마토가
- 커요
-.
-    2 The tomato is big.
+    O: 토마토가 커요.
+    E: The tomato is big.
 
-    1 저는
- 고추로
- 요리하지
- 않습니다
-.
-    2 I do not cook with chili peppers. 
+    O: 저는 고추로 요리하지 않습니다.
+    E: I do not cook with chili peppers. 
