@@ -22,4 +22,4 @@
     E: The tomato is big.
 
     O: 저는 고추로 요리하지 않습니다.
-    E: I do not cook with chili peppers. 
+    E: I do not[l] cook with chili peppers. 
