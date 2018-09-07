@@ -1,43 +1,43 @@
 == Food ==
 > One
     O: 아침이 맛있습니다.
-    E: Breakfast is delicious.
+    E: Breakfast is delicious. @formal
 
     O: 식사
     E: Meal
 
     O: 저는 점심을 안 먹어요.
-    E: I don't eat lunch.
+    E: I don't eat lunch. @polite
 
     O: 저는 그 남자에게서 접시를 받아요.
-    E: I receive a plate from that man.
+    E: I receive a plate from that man. @polite
 
     O: 저는 그릇을 던지지 않습니다.
-    E: I do not[l] throw a bowl.
+    E: I do not[l] throw a bowl. @formal
 
     O: 학생이 빨리 저녁을 요리해요.
-    E: The student quickly cooks dinner.
+    E: The student quickly cooks dinner. @polite
 
     O: 반찬
     E: Side dish
 
     O: 오늘 저는 반찬만 먹어요.
-    E: Today I only eat side dishes.
+    E: Today I only eat side dishes. @polite
 
     O: 점심
     E: Lunch
 
     O: 식사로 이것을 먹읍시다.
-    E: Let's eat this for a meal.
+    E: Let's eat this for a meal. @formal
 
     O: 저녁
     E: Dinner
 
     O: 그릇에 무엇이 있어요?
-    E: What is in the bowl?
+    E: What is in the bowl? @polite
 
     O: 이 그릇은 커요.
-    E: This bowl is big.
+    E: This bowl is big. @polite
 
     O: 아침이 맛있습니다.
-    E: Breakfast is delicious.
+    E: Breakfast is delicious. @formal

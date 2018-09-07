@@ -1,15 +1,15 @@
 > Two
     O: 어디에 기름이 있습니까?
-    E: Where is the oil?
+    E: Where is the oil? @formal
 
     O: 커피는 맛없어요.
-    E: Coffee tastes bad.
+    E: Coffee tastes bad. @polite
 
     O: 우유가 비싸요.
-    E: Milk is expensive.
+    E: Milk is expensive. @polite
 
     O: 그 기름이 뜨겁습니까?
-    E: Is that oil hot?
+    E: Is that oil hot? @formal
 
     O: 고양이가 우유를 마셔요.
-    E: The cat drinks milk.
+    E: The cat drinks milk. @polite
