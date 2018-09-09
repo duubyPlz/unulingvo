@@ -1,33 +1,33 @@
 > Five
-    1 저에게 설탕을 주세요.
-    2 Please give me sugar.
+    O: 저에게 설탕을 주세요. @polite
+    E: Please give me sugar.
 
-    1 케이크를 던지십시오.
-    2 Throw the cake.
+    O: 케이크를 던지십시오. @formal
+    E: Throw the cake.
 
-    1 후추 샌드위치
-    2 Pepper sandwich
+    O: 후추 샌드위치
+    E: Pepper sandwich
 
-    1 수프에 후추가 있어요.
-    2 There is pepper in the soup.
+    O: 수프에 후추가 있어요. @polite
+    E: There is pepper in the soup.
 
-    1 저는 식사로 감자만 먹습니다.
-    2 I only eat potato as a meal.
+    O: 저는 식사로 감자만 먹습니다. @formal
+    E: I only eat potato as a meal.
 
-    1 케이크는 맛있어요.
-    2 Cake is delicious.
+    O: 케이크는 맛있어요. @polite
+    E: Cake is delicious.
 
-    1 바나나 케이크가 있습니까?
-    2 Is there banana cake?
+    O: 바나나 케이크가 있습니까? @formal
+    E: Is there banana cake?
 
-    1 설탕 케이크
-    2 Sugar cake
+    O: 설탕 케이크
+    E: Sugar cake
 
-    1 설탕과 후추
-    2 Sugar and pepper
+    O: 설탕과 후추
+    E: Sugar and pepper
 
-    1 파스타를 먹읍시다!
-    2 Let's eat pasta!
+    O: 파스타를 먹읍시다! @formal
+    E: Let's eat pasta!
 
-    1 감자 샌드위치
-    2 Potato sandwich
+    O: 감자 샌드위치
+    E: Potato sandwich
