@@ -3,9 +3,11 @@
     O: 기름이 어디에 있습니까?
     E: Where is the oil? @formal
 
+    # 커피가 맛없어요.
     O: 커피는 맛없어요.
     E: Coffee tastes bad. @polite
 
+    # 우유는 비싸요.
     O: 우유가 비싸요.
     E: Milk is expensive. @polite
 
