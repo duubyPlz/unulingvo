@@ -2,11 +2,11 @@
     O: 왜 돼지고기는 맛있습니까?
     E: Why is pork delicious? @formal
 
-    O: 저는 달걀을 먹습니다. @formal
-    E: I eat an egg.
+    O: 저는 달걀을 먹습니다.
+    E: I eat an egg. @formal
 
-    O: 아침으로 닭고기를 먹읍시다. @formal
-    E: Let's eat chicken for breakfast.
+    O: 아침으로 닭고기를 먹읍시다.
+    E: Let's eat chicken for breakfast. @formal
 
-    O: 돼지고기는 건강해요. @polite
-    E: Pork is healthy.
+    O: 돼지고기는 건강해요.
+    E: Pork is healthy. @polite
