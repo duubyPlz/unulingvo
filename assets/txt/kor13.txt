@@ -1,6 +1,6 @@
 > Five
     O: 저에게 설탕을 주세요.
-    E: Please give me sugar. @polite
+    E: Please give sugar to me. @polite
 
     O: 케이크를 던지십시오.
     E: Throw the cake. @formal
