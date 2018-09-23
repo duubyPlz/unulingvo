@@ -5,9 +5,11 @@
 
     O: 방이 집에 있습니다.
     E: The room is in the house.
+    A: The room _is in the house_.
 
     O: 저는 한국에 없습니다.
     E: I am not in Korea.
+    A: _I_ am not in Korea.
 
     O: 공원
     E: Park
@@ -16,19 +18,24 @@
     E: A road
 
     O: 남자가 한국에 있습니다.
-    E: The man is in Korea
+    E: The man is in Korea.
+    A: The man _is in Korea._
 
     O: 공원이 없습니다.
     E: There is no park.
+    A: _There is no_ park.
 
     O: 산은 공원에 있습니다.
     E: The mountain is in the park.
+    A: _The mountain_ is in the park.
 
     O: 산은 바다에 없습니다.
     E: A mountain is not at the sea.
+    A: _A mountain_ is not at the sea.
 
     O: 길이 한국에 없습니다.
     E: The road is not in Korea.
+    A: The road _is not in Korea_.
 
     O: 바다
     E: The sea
@@ -41,6 +48,7 @@
 
     O: 공원이 없습니다.
     E: There is no park.
+    A: There is no park.
 
 > Two
     O: 친구
@@ -72,21 +80,26 @@
 
     O: 남자는 메시지가 있습니다.
     E: The man has a message.
+    A: _The man_ has a message.
 
     O: 공과 차
     E: A ball and tea.
 
     O: 저는 친구의 차가 있습니다.
     E: I have a friend's tea.
+    A: _I_ have a friend's tea.
 
     O: 가족은 집이 있습니다.
     E: The family has a house.
+    A: _The family_ has a house.
 
     O: 개는 친구가 있습니다.
     E: The dog has a friend.
+    A: _The dog_ has a friend.
 
     O: 개는 가족이 있습니다.
     E: The dog has a family.
+    A: _The dog_ has a family.
 
 > Three
     O: 학생
@@ -94,91 +107,120 @@
 
     O: 학생이 멋없습니다.
     E: The student is not cool.
+    A: The student _is not cool_.
 
     O: 영화
     E: Movie
 
     O: 음식은 맛있습니다. 
     E: Food is delicious.
+    A: _Food_ is delicious.
 
     O: 빵이 맛없습니다.
     E: The bread tastes bad.
+    A: The bread _tastes bad_.
 
     O: 남자가 멋있습니다.
     E: The man is cool.
+    A: The man _is cool_.
 
     O: 공원은 재미없습니다.
     E: Parks are uninteresting.
+    A: _Parks_ are uninteresting.
 
     O: 책은 재미있습니다.
     E: Books are interesting.
+    A: _Books_ are interesting.
 
     O: 음식은 맛없습니다.
     E: Food is not delicious.
+    A: _Food_ is not delicious.
 
     O: 영화는 재미있습니다.
     E: A movie is fun.
+    A: _A movie_ is fun.
 
     O: 사과는 맛있습니다.
     E: Apples are delicious.
+    A: _Apples_ are delicious.
 
     O: 책이 재미없습니다.
     E: The book is uninteresting.
+    A: The book _is uninteresting_.
 
     O: 자동차가 멋있습니다.
     E: The car is cool.
+    A: The car _is cool_.
 
     O: 신문은 재미있습니다.
     E: The newspaper is interesting.
+    A: _The newspaper_ is interesting.
 
     O: 남자가 멋없습니다.
     E: The man is uncool.
+    A: The man _is uncool_.
 
     O: 빵은 맛있습니다.
     E: Bread is delicious.
+    A: _Bread_ is delicious.
 
     O: 고양이가 재미없습니다.
     E: The cat is not fun.
+    A: The cat _is not fun_.
 
 > Four
     O: 여자는 한국 출신입니다.
     E: A woman is from Korea.
+    A: _A woman_ is from Korea.
 
     O: 남자는 인기가 없습니다.
     E: A man is unpopular.
+    A: _A man_ is unpopular.
 
     O: 음식은 의미가 있습니다.
     E: Food is meaningful.
+    A: _Food_ is meaningful.
 
     O: 가수는 재미없습니다.
     E: A singer is not fun.
+    A: _A singer_ is not fun.
 
     O: 학생은 매력이 없습니다. 
     E: The student is not charming.
+    A: _The student_ is not charming.
 
     O: 책은 의미가 없습니다.
     E: Books are without meaning.
+    A: _Books_ are without meaning.
 
     O: 저는 한국 출신입니다.
     E: I am from Korea.
+    A: _I_ am from Korea.
 
     O: 여자는 인기가 없습니다.
     E: The woman is not popular.
+    A: _The woman_ is not popular.
 
     O: 영화는 의미가 없습니다.
     E: Movies are meaningless.
+    A: _Movies_ are meaningless.
 
     O: 여자는 매력이 있습니다.
     E: A woman is charming.
+    A: _A woman_ is charming.
 
     O: 남자는 한국 출신입니다.
     E: The man is from Korea.
+    A: _The man_ is from Korea.
 
     O: 가수는 인기가 없습니다.
     E: The singer is not popular.
+    A: _The singer_ is not popular.
 
     O: 남자는 매력이 있습니다.
     E: The man is charming.
+    A: _The man_ is charming.
 
     O: 여자는 한국 출신입니다.
     E: The woman is from Korea.
+    A: _The woman_ is from Korea.
