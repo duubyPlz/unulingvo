@@ -1,7 +1,7 @@
 == Food ==
 > One
     O: 아침이 맛있습니다.
-    E: Breakfast is delicious. @formal
+    E: The breakfast is delicious. @formal
 
     O: 식사
     E: Meal
@@ -38,6 +38,3 @@
 
     O: 이 그릇은 커요.
     E: This bowl is big. @polite
-
-    O: 아침이 맛있습니다.
-    E: Breakfast is delicious. @formal
