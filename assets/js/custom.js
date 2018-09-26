@@ -9,6 +9,7 @@
 // * refactor flu (e.g. global bool flag)
 //     * have a keypress for randomisation
 // * toggling modules doesn't rerender
+// * unit testing
 
 // 0. Init
 // toggle all tooltips
@@ -398,8 +399,8 @@ function parse(module, language) {
             var originalRegexReplace = new RegExp("\ {4}O:\ ");
             var englishRegexMatch = new RegExp("^\ {4}E:.*");
             var englishRegexReplace = new RegExp("\ {4}E:\ ");
-            var alternativeRegexMatch = new RegExp("^\ {4}A:.*");
-            var alternativeRegexReplace = new RegExp("\ {4}A:\ ");
+            var formattedRegexMatch = new RegExp("^\ {4}A:.*");
+            var formattedRegexReplace = new RegExp("\ {4}A:\ ");
 
             for (var i=0; i<lines.length; i++) {
                 var current = lines[i];
