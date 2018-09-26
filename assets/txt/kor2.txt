@@ -19,7 +19,7 @@
 
     O: 남자가 한국에 있습니다.
     E: The man is in Korea.
-    F: The man _is in Korea._
+    F: The man _is in Korea_.
 
     O: 공원이 없습니다.
     E: There is no park.
