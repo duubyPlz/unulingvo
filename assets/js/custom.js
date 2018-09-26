@@ -440,73 +440,70 @@ function logic(language) {
     var correct = false;
     var inputString = $('textarea#answer').val();
 
-    if (language == 'eo') {    
-        var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
-        var simplifiedString = sanitisedString.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
+    var hyphenRegex = new RegExp("\-", "g");
+    var eoWhitelistRegex = new RegExp("[^a-zA-Z0-9_.,?!'\" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]", "g")
+    var eoBlacklistRegex = new RegExp("[.,?!:\";]", "g")
+    /// Whitelisting CJK:
+    //     \p{Han} [\x3400-\x4DB5\x4E00-\x9FCB\xF900-\xFA6A]
+    //     Hangul Compatibility Jamo [\x3130-\x318F]
+    //     Hangul Jamo [\x1100-\x11FF]
+    //     Hangul Jamo Extended-A [\xA960-\xA97F]
+    //     Hangul Jamo Extended-B [\xD7B0-\xD7FF]
+    //     Hangul Syllables [\xAC00-\xD7AF]
+    //     \p{Hiragana} [\x3040-\x309F]
+    //     \p{Katakana} [\x30A0-\x30FF]
+    //     Kanji radicals [\x2E80-\x2FD5]
+    //     Half width [\xFF5F-\xFF9F]
+    //     Punctuation [\x3000-\x303F]
 
-        var simplifiedEO = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
-        var simplifiedEONoHyphens = simplifiedEO.replace(/\-/g, " ");
+    // links:
+    //     http://jrgraphix.net/research/unicode.php
+    //     http://www.alanwood.net/unicode/menu.html
+    //     http://www.localizingjapan.com/blog/2012/01/20/regular-expressions-for-japanese-text/
+    //     http://stackoverflow.com/questions/30069846/how-to-find-out-chinese-or-japanese-character-in-a-string-in-python
+    //     http://stackoverflow.com/questions/280712/javascript-unicode-regexes
+    var cjkWhitelistRegex = new RegExp("[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]", "g");
+    var grWhitelistRegex = new RegExp("[^a-zA-Z0-9_.,?!'\" \-\u1F00-\u1FFF\u0370-\u03FF ]" , "g");
+    var grBlacklistRegex = new RegExp("[.,?!:\";]" , "g");
+
+    if (language == 'eo') {    
+        var sanitisedString = inputString.replace(eoWhitelistRegex, "");
+        var simplifiedString = sanitisedString.replace(eoBlacklistRegex, "").toLowerCase().trim();
+
+        var simplifiedEO = correctEO.replace(eoBlacklistRegex, "").toLowerCase().trim();
+        var simplifiedEONoHyphens = simplifiedEO.replace(hyphenRegex, " ");
 
         if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
             correct = true;
         }
     } else if (language == 'flu') { // [TODO] refactor
         inputString = $('textarea#flu-answer').val();
-        var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]/g, ""); // whitelist
-        var simplifiedString = sanitisedString.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
+        var sanitisedString = inputString.replace(eoWhitelistRegex, "");
+        var simplifiedString = sanitisedString.replace(eoBlacklistRegex, "").toLowerCase().trim();
 
-        var simplifiedEO = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
-        var simplifiedEONoHyphens = simplifiedEO.replace(/\-/g, " ");
+        var simplifiedEO = correctEO.replace(eoBlacklistRegex, "").toLowerCase().trim();
+        var simplifiedEONoHyphens = simplifiedEO.replace(hyphenRegex, " ");
 
         if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
             correct = true;
         }
     } else if ((language == 'ja')
             || (language == 'ko')) {
-        /// Whitelisting CJK:
-        //     \p{Han} [\x3400-\x4DB5\x4E00-\x9FCB\xF900-\xFA6A]
-        //     Hangul Compatibility Jamo [\x3130-\x318F]
-        //     Hangul Jamo [\x1100-\x11FF]
-        //     Hangul Jamo Extended-A [\xA960-\xA97F]
-        //     Hangul Jamo Extended-B [\xD7B0-\xD7FF]
-        //     Hangul Syllables [\xAC00-\xD7AF]
-        //     \p{Hiragana} [\x3040-\x309F]
-        //     \p{Katakana} [\x30A0-\x30FF]
-        //     Kanji radicals [\x2E80-\x2FD5]
-        //     Half width [\xFF5F-\xFF9F]
-        //     Punctuation [\x3000-\x303F]
-
-        // links:
-        //     http://jrgraphix.net/research/unicode.php
-        //     http://www.alanwood.net/unicode/menu.html
-        //     http://www.localizingjapan.com/blog/2012/01/20/regular-expressions-for-japanese-text/
-        //     http://stackoverflow.com/questions/30069846/how-to-find-out-chinese-or-japanese-character-in-a-string-in-python
-        //     http://stackoverflow.com/questions/280712/javascript-unicode-regexes
-
         var sanitisedString = inputString
-        .replace(/[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]/g
-        , ""); // CJK only whitelist, no spaces
+        .replace(cjkWhitelistRegex, "");
 
         var sanitisedCJK = correctEO
-        .replace(/[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]/g
-        , ""); // same whitelist as above
+        .replace(cjkWhitelistRegex, "");
         
         if (sanitisedCJK === sanitisedString) {
             correct = true;
         }
-        // currently infeasible, doesn't retain spaces from `inputString`
-        // correct = true;
-        // for (var i=0; i<sanitisedCJK.length; i++) {
-        //     var currentChar = sanitisedString[i];
-        //     console.log(i + ': ' + sanitisedCJK[i] + ' ' + sanitisedString[i]);
-        // }
     } else if (language == 'gr') {
-        // TODO uncomment greek whitelist
-        var sanitisedString = inputString.replace(/[^a-zA-Z0-9_.,?!'" \-\u1F00-\u1FFF\u0370-\u03FF ]/g, ""); // whitelist
-        var simplifiedString = sanitisedString.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
+        var sanitisedString = inputString.replace(grWhitelistRegex, "");
+        var simplifiedString = sanitisedString.replace(grBlacklistRegex, "").toLowerCase().trim();
 
-        var simplifiedGr = correctEO.replace(/[.,?!:";]/g, "").toLowerCase().trim(); // blacklist
-        var simplifiedGrNoHyphens = simplifiedGr.replace(/\-/g, " ");
+        var simplifiedGr = correctEO.replace(grBlacklistRegex, "").toLowerCase().trim();
+        var simplifiedGrNoHyphens = simplifiedGr.replace(hyphenRegex, " ");
 
         if ((simplifiedGr === simplifiedString) || (simplifiedGrNoHyphens === simplifiedString)) {
             correct = true;
