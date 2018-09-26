@@ -401,6 +401,7 @@ function parse(module, language) {
             var englishRegexReplace = new RegExp("\ {4}E:\ ");
             var formattedRegexMatch = new RegExp("^\ {4}A:.*");
             var formattedRegexReplace = new RegExp("\ {4}A:\ ");
+            // TODO continue formatted logic
 
             for (var i=0; i<lines.length; i++) {
                 var current = lines[i];
