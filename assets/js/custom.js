@@ -368,22 +368,20 @@ $('textarea#flu-answer').keydown(function (e) {
 function parse(module, language) {
     hash = new Object();
     var fileName = 'lernu1.txt'; // random default file
+    var languageToFilePrefix = {
+        "eo": "duo",
+        "ko": "kor",
+        "ja": "jpn",
+        "gr": "gre",
+        "flu": "flu"
+    };
 
-    // refactor if lots of languages
-    if (language == 'eo') {
-        fileName = 'assets/txt/duo' + module + '.txt';
-    } else if (language == 'ko') {
-        fileName = 'assets/txt/kor' + module + '.txt';
-    } else if (language == 'ja') {
-        fileName = 'assets/txt/jpn' + module + '.txt';
-    } else if (language == 'gr') {
-        fileName = 'assets/txt/gre' + module + '.txt';
-    } else if (language == 'flu') {
-        fileName = 'assets/txt/flu' + module + '.txt';
+    if (languageToFilePrefix && languageToFilePrefix[language]) {
+        fileName = 'assets/txt/' + languageToFilePrefix[language] + module + '.txt';
     } else {
         console.warn("Language isn't valid: " + language);
     }
-    // console.log(fileName);
+
     try {
         $.get(fileName, function(data) {
             // console.log(fileName);
@@ -396,12 +394,19 @@ function parse(module, language) {
             // console.log(lines);
             // console.log(lines.length);
 
+            var originalRegexMatch = new RegExp("^\ {4}O:.*");
+            var originalRegexReplace = new RegExp("\ {4}O:\ ");
+            var englishRegexMatch = new RegExp("^\ {4}E:.*");
+            var englishRegexReplace = new RegExp("\ {4}E:\ ");
+            var alternativeRegexMatch = new RegExp("^\ {4}A:.*");
+            var alternativeRegexReplace = new RegExp("\ {4}A:\ ");
+
             for (var i=0; i<lines.length; i++) {
                 var current = lines[i];
-                if (matchesEO = current.match(/^\ {4}O:.*/)) { // EO
-                    currentEsperanto = matchesEO[0].replace(/\ {4}O:\ /, "");
-                } else if (matchesEN = current.match(/^\ {4}E:.*/)) { // EN
-                    var english = matchesEN[0].replace(/\ {4}E:\ /, "");
+                if (matchesEO = current.match(originalRegexMatch)) {
+                    currentEsperanto = matchesEO[0].replace(originalRegexReplace, "");
+                } else if (matchesEN = current.match(englishRegexMatch)) {
+                    var english = matchesEN[0].replace(englishRegexReplace, "");
                     hash[english] = currentEsperanto;
                 }
             }
