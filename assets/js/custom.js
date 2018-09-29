@@ -494,7 +494,7 @@ function generateFormattedHtml(formatted, english) {
     var parts = formatted.split('_');
 
     var zeroth = parts.shift();
-    var result = unboldString(zeroth);
+    var result = boldString(zeroth);
 
     for (i=0; i<parts.length; i++) {
         // Now that zeroth element is removed, if UNSHIFTED LENGTH 1 -> then wouldn't enter loop.
@@ -507,10 +507,10 @@ function generateFormattedHtml(formatted, english) {
         }
 
         if ((i % 2) == 0) {
-            var even = boldString(parts[i]);
+            var even = unboldString(parts[i]);
             result += even;
         } else if ((i % 2) == 1) {
-            var odd = unboldString(parts[i]);
+            var odd = boldString(parts[i]);
             result += odd;
         }
     }
