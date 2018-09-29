@@ -44,8 +44,8 @@ checkIsModuleValid(selectedModule);
 // a) Parse
 parse(selectedModule, language);
 
-var correctEO = "";
 var greekFirst = false;
+var currentCorrectOriginal = ""; // need this variable inter-function
 
 // b) Display
 setTimeout(function () {
@@ -156,7 +156,7 @@ function reparse(selectedModule) {
 
     display_loader(false);
     parse(selectedModule, language);
-    var correctEO = "";
+    currentCorrectOriginal = "";
     setTimeout(function () {
         display(false);
     }, 1000);
@@ -207,7 +207,7 @@ function goToPill(currentPill) {
 
         // display_loader(false);
         // parse(selectedModule, language);
-        // var correctEO = "";
+        // currentCorrectOriginal = "";  
         // setTimeout(function () {
         //     display(false);
         // }, 1000);
@@ -469,13 +469,30 @@ function display(isFlu) {
     // 0 -> 10: Math.floor(Math.random() * 11);
     var index = Math.floor(Math.random() * length);
     var keys = Object.keys(fileHash);
-    var wantedEnglish = keys[index];
-    correctEO = fileHash[wantedEnglish];
-    if (isFlu) {
-        $('.flu-display-text').html(wantedEnglish);
+    var english = keys[index]; // key to retrieve
+    var currentEntry = fileHash[english]; // Get
+    currentCorrectOriginal = currentEntry.original
+    var formatted = currentEntry.formatted
+    if (formatted != "") {
+        formattedHtml = generateFormattedHtml(formatted);
+        if (isFlu) {
+            $('.flu-display-text').html(formattedHtml);
+        } else {
+            $('.display-text').html(formattedHtml);
+        }
     } else {
-        $('.display-text').html(wantedEnglish);
+        if (isFlu) {
+            $('.flu-display-text').html(english);
+        } else {
+            $('.display-text').html(english);
+        }
     }
+}
+
+// Logic to parse our formatted syntax into HTML
+function generateFormattedHtml(formatted) {
+    // TODO
+    return "FORMATTEDD.. " + formatted;
 }
 
 function logic(language) {
@@ -512,7 +529,7 @@ function logic(language) {
         var sanitisedString = inputString.replace(eoWhitelistRegex, "");
         var simplifiedString = sanitisedString.replace(eoBlacklistRegex, "").toLowerCase().trim();
 
-        var simplifiedEO = correctEO.replace(eoBlacklistRegex, "").toLowerCase().trim();
+        var simplifiedEO = currentCorrectOriginal.replace(eoBlacklistRegex, "").toLowerCase().trim();
         var simplifiedEONoHyphens = simplifiedEO.replace(hyphenRegex, " ");
 
         if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
@@ -523,7 +540,7 @@ function logic(language) {
         var sanitisedString = inputString.replace(eoWhitelistRegex, "");
         var simplifiedString = sanitisedString.replace(eoBlacklistRegex, "").toLowerCase().trim();
 
-        var simplifiedEO = correctEO.replace(eoBlacklistRegex, "").toLowerCase().trim();
+        var simplifiedEO = currentCorrectOriginal.replace(eoBlacklistRegex, "").toLowerCase().trim();
         var simplifiedEONoHyphens = simplifiedEO.replace(hyphenRegex, " ");
 
         if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
@@ -534,7 +551,7 @@ function logic(language) {
         var sanitisedString = inputString
         .replace(cjkWhitelistRegex, "");
 
-        var sanitisedCJK = correctEO
+        var sanitisedCJK = currentCorrectOriginal
         .replace(cjkWhitelistRegex, "");
         
         if (sanitisedCJK === sanitisedString) {
@@ -544,7 +561,7 @@ function logic(language) {
         var sanitisedString = inputString.replace(grWhitelistRegex, "");
         var simplifiedString = sanitisedString.replace(grBlacklistRegex, "").toLowerCase().trim();
 
-        var simplifiedGr = correctEO.replace(grBlacklistRegex, "").toLowerCase().trim();
+        var simplifiedGr = currentCorrectOriginal.replace(grBlacklistRegex, "").toLowerCase().trim();
         var simplifiedGrNoHyphens = simplifiedGr.replace(hyphenRegex, " ");
 
         if ((simplifiedGr === simplifiedString) || (simplifiedGrNoHyphens === simplifiedString)) {
@@ -582,7 +599,7 @@ function logic(language) {
         if (language == 'flu') { // [TODO] refactor
             // Change to correct answer
             $('textarea#flu-answer').addClass('incorrect');
-            $('textarea#flu-answer').val(correctEO);
+            $('textarea#flu-answer').val(currentCorrectOriginal);
 
             // if keypress, then clear straight away
             $('textarea#flu-answer').keydown(function(e) {
@@ -602,7 +619,7 @@ function logic(language) {
         } else {      
             // Change to correct answer
             $('textarea#answer').addClass('incorrect');
-            $('textarea#answer').val(correctEO);
+            $('textarea#answer').val(currentCorrectOriginal);
 
             // if keypress, then clear straight away
             $('textarea#answer').keydown(function(e) {
