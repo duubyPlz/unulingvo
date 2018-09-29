@@ -390,27 +390,33 @@ function parse(module, language) {
 
             // Break result into line by line
             var lines = data.split("\n");
-            var currentEsperanto = "";
-
+            
             // console.log(lines);
             // console.log(lines.length);
-
-            var originalRegexMatch = new RegExp("^\ {4}O:.*");
-            var originalRegexReplace = new RegExp("\ {4}O:\ ");
-            var englishRegexMatch = new RegExp("^\ {4}E:.*");
-            var englishRegexReplace = new RegExp("\ {4}E:\ ");
-            var formattedRegexMatch = new RegExp("^\ {4}A:.*");
-            var formattedRegexReplace = new RegExp("\ {4}A:\ ");
-            // TODO continue formatted logic
-
+            
+            const originalTag = "O:"
+            const englishTag = "E:"
+            const formattedTag = "F:"
+            
+            var originalRegexMatch = new RegExp("^\ {4}" + originalTag + ".*");
+            var originalRegexReplace = new RegExp("\ {4}" + originalTag + "\ ");
+            var englishRegexMatch = new RegExp("^\ {4}" + englishTag + ".*");
+            var englishRegexReplace = new RegExp("\ {4}" + englishTag + "\ ");
+            var formattedRegexMatch = new RegExp("^\ {4}" + formattedTag + ".*");
+            var formattedRegexReplace = new RegExp("\ {4}" + formattedTag + "\ ");
+            
+            // For all the lines in the file,
+            // sift through which are matching "O:", "E:" & "F:"
+            var currentTarget = "";
             for (var i=0; i<lines.length; i++) {
                 var current = lines[i];
-                if (matchesEO = current.match(originalRegexMatch)) {
-                    currentEsperanto = matchesEO[0].replace(originalRegexReplace, "");
+                if (matchesTarget = current.match(originalRegexMatch)) {
+                    currentTarget = matchesTarget[0].replace(originalRegexReplace, "");
                 } else if (matchesEN = current.match(englishRegexMatch)) {
                     var english = matchesEN[0].replace(englishRegexReplace, "");
-                    hash[english] = currentEsperanto;
+                    hash[english] = currentTarget;
                 }
+                // TODO continue here, store the formatted line somewhere
             }
             // console.log(hash);
         }, 'text');
