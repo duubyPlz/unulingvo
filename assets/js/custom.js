@@ -447,7 +447,6 @@ function parse(module, language) {
                     };
                 }
             }
-            console.log(fileHash);
         }, 'text');
     } catch (e) {
         console.warn(e);
@@ -474,7 +473,7 @@ function display(isFlu) {
     currentCorrectOriginal = currentEntry.original
     var formatted = currentEntry.formatted
     if (formatted != "") {
-        formattedHtml = generateFormattedHtml(formatted);
+        formattedHtml = generateFormattedHtml(formatted, english);
         if (isFlu) {
             $('.flu-display-text').html(formattedHtml);
         } else {
@@ -490,9 +489,44 @@ function display(isFlu) {
 }
 
 // Logic to parse our formatted syntax into HTML
-function generateFormattedHtml(formatted) {
-    // TODO
-    return "FORMATTEDD.. " + formatted;
+function generateFormattedHtml(formatted, english) {
+    // Note: Can add more syntax symbols in the future, split on regex
+    var parts = formatted.split('_');
+
+    var zeroth = parts.shift();
+    var result = unboldString(zeroth);
+
+    for (i=0; i<parts.length; i++) {
+        // Now that zeroth element is removed, if UNSHIFTED LENGTH 1 -> then wouldn't enter loop.
+        // unshifted first (shifted even) element -> BOLD
+        // unshifted second (shifted odd) element -> UNBOLD
+        if (parts.length < 2) {
+            // UNSHIFTED LENGTH 2 for some reason, exiting function.
+            console.warn("Format not correct, reverting to unformatted. Incorrect: " + formatted);
+            return english;
+        }
+
+        if ((i % 2) == 0) {
+            var even = boldString(parts[i]);
+            result += even;
+        } else if ((i % 2) == 1) {
+            var odd = unboldString(parts[i]);
+            result += odd;
+        }
+    }
+
+    return result;
+}
+
+// Unbold style definition
+function unboldString(string) {
+    // return "<span style='font-weight:300'>" + string + "</span>";
+    return "<span style='color: rgba(255, 255, 255, 0.7);'>" + string + "</span>";
+}
+
+// Bold style definition
+function boldString(string) {
+    return string;
 }
 
 function logic(language) {
