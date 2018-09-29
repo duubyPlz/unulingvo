@@ -405,18 +405,44 @@ function parse(module, language) {
             var formattedRegexMatch = new RegExp("^\ {4}" + formattedTag + ".*");
             var formattedRegexReplace = new RegExp("\ {4}" + formattedTag + "\ ");
             
+            var separatorRegex = new RegExp("^[\r\n]*$");
+
             // For all the lines in the file,
-            // sift through which are matching "O:", "E:" & "F:"
-            var currentTarget = "";
+            // sift through which are matching [O:], [E:] & [F:]
+            var currentEntry = {
+                english: "",
+                target: "",
+                formatted: ""
+            };
             for (var i=0; i<lines.length; i++) {
-                var current = lines[i];
-                if (matchesTarget = current.match(originalRegexMatch)) {
-                    currentTarget = matchesTarget[0].replace(originalRegexReplace, "");
-                } else if (matchesEN = current.match(englishRegexMatch)) {
-                    var english = matchesEN[0].replace(englishRegexReplace, "");
-                    hash[english] = currentTarget;
+                var line = lines[i];
+
+                if (matchesTarget = line.match(originalRegexMatch)) {
+                    // > Target [O:]
+                    var target = matchesTarget[0].replace(originalRegexReplace, "");
+                    currentEntry.target = target;
+                } else if (matchesEnglish = line.match(englishRegexMatch)) {
+                    // > English [E:]
+                    var english = matchesEnglish[0].replace(englishRegexReplace, "");
+                    currentEntry.english = english;
+                } else if (matchesFormatted = line.match(formattedRegexMatch)) {
+                    // > Formatted [F:]
+                    var formatted = matchesFormatted[0].replace(formattedRegexReplace, "");
+                    currentEntry.formatted = formatted;
+                } else if (matchesSeparator = line.match(separatorRegex)) {
+                    // > Separator
+                    // 1. Store previous entry into big hash
+                    if (currentEntry.english != "") {
+                        hash[currentEntry.english] = currentEntry;
+                    }
+
+                    // 2. Reset current entry, we're going to be looking at a new entry
+                    currentEntry = {
+                        english: "",
+                        target: "",
+                        formatted: ""
+                    };
                 }
-                // TODO continue here, store the formatted line somewhere
             }
             // console.log(hash);
         }, 'text');
