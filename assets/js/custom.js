@@ -26,13 +26,16 @@ $('select#contents-ja').parent().hide();
 $('select#contents-gr').parent().hide();
 
 // TODO can't get semantic ui <select>.dropdown('set selected', random) to work
-var sizeHash = {
+var fileSizes = {
                     'eo': 30,
                     'ko': 10,
                     'ja': 2,
                     'gr': 11,
                     'flu': 2
                };
+
+// Global hash representation of current file
+var fileHash = new Object();
 
 // 1. Parse & display text of selected module
 var selectedModule = $('select#contents-' + language).val();
@@ -249,7 +252,7 @@ $('button#randomise').click(function() {
     //     size = $('#contents-ja').siblings().find('.item').size();
     // }
 
-    var size = sizeHash[language];
+    var size = fileSizes[language];
     var random = Math.floor(Math.random() * size) + 1;
 
     // http://semantic-ui.com/modules/dropdown.html#behavior
@@ -275,7 +278,7 @@ $('button#randomise').click(function() {
 });
 
 $('button#flu-randomise').click(function() {
-    var size = sizeHash['flu'];
+    var size = fileSizes['flu'];
     var random = Math.floor(Math.random() * size) + 1;
 
     // http://semantic-ui.com/modules/dropdown.html#behavior
@@ -367,7 +370,7 @@ $('textarea#flu-answer').keydown(function (e) {
 
 // Subroutines
 function parse(module, language) {
-    hash = new Object();
+    fileHash = new Object();
     var fileName = 'lernu1.txt'; // random default file
     var languageToFilePrefix = {
         "eo": "duo",
@@ -410,17 +413,17 @@ function parse(module, language) {
             // For all the lines in the file,
             // sift through which are matching [O:], [E:], [F:] & entry separators
             var currentEntry = {
+                original: "",
                 english: "",
-                target: "",
                 formatted: ""
             };
             for (var i=0; i<lines.length; i++) {
                 var line = lines[i];
 
                 if (matchesTarget = line.match(originalRegexMatch)) {
-                    // > Target [O:]
-                    var target = matchesTarget[0].replace(originalRegexReplace, "");
-                    currentEntry.target = target;
+                    // > Original [O:]
+                    var original = matchesTarget[0].replace(originalRegexReplace, "");
+                    currentEntry.original = original;
                 } else if (matchesEnglish = line.match(englishRegexMatch)) {
                     // > English [E:]
                     var english = matchesEnglish[0].replace(englishRegexReplace, "");
@@ -433,18 +436,18 @@ function parse(module, language) {
                     // > Separator
                     // 1. Store previous entry
                     if (currentEntry.english != "") {
-                        hash[currentEntry.english] = currentEntry; // Set
+                        fileHash[currentEntry.english] = currentEntry; // Set
                     }
 
                     // 2. Reset current entry, we're going to be looking at a new entry
                     currentEntry = {
+                        original: "",
                         english: "",
-                        target: "",
                         formatted: ""
                     };
                 }
             }
-            // console.log(hash);
+            // console.log(fileHash);
         }, 'text');
     } catch (e) {
         console.warn(e);
@@ -461,13 +464,13 @@ function display_loader(isFlu) {
 }
 
 function display(isFlu) {
-    var length = Object.keys(hash).length;
+    var length = Object.keys(fileHash).length;
     // https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascript
     // 0 -> 10: Math.floor(Math.random() * 11);
     var index = Math.floor(Math.random() * length);
-    var keys = Object.keys(hash);
+    var keys = Object.keys(fileHash);
     var wantedEng = keys[index];
-    correctEO = hash[wantedEng];
+    correctEO = fileHash[wantedEng];
     if (isFlu) {
         $('.flu-display-text').html(wantedEng);
     } else {
