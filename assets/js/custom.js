@@ -447,7 +447,7 @@ function parse(module, language) {
                     };
                 }
             }
-            // console.log(fileHash);
+            console.log(fileHash);
         }, 'text');
     } catch (e) {
         console.warn(e);

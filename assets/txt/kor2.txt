@@ -46,10 +46,6 @@
     O: 한국
     E: Korea
 
-    O: 공원이 없습니다.
-    E: There is no park.
-    F: There is no park.
-
 > Two
     O: 친구
     E: Friend
