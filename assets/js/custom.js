@@ -408,7 +408,7 @@ function parse(module, language) {
             var separatorRegex = new RegExp("^[\r\n]*$");
 
             // For all the lines in the file,
-            // sift through which are matching [O:], [E:] & [F:]
+            // sift through which are matching [O:], [E:], [F:] & entry separators
             var currentEntry = {
                 english: "",
                 target: "",
@@ -431,9 +431,9 @@ function parse(module, language) {
                     currentEntry.formatted = formatted;
                 } else if (matchesSeparator = line.match(separatorRegex)) {
                     // > Separator
-                    // 1. Store previous entry into big hash
+                    // 1. Store previous entry
                     if (currentEntry.english != "") {
-                        hash[currentEntry.english] = currentEntry;
+                        hash[currentEntry.english] = currentEntry; // Set
                     }
 
                     // 2. Reset current entry, we're going to be looking at a new entry
