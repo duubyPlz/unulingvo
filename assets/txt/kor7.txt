@@ -5,6 +5,7 @@
 
     O: 손님, 조심하십시오. 물이 뜨겁습니다.
     E: Sir, be careful. The water is hot.
+    F: Sir, be careful. The water _is hot_.
 
     O: 더 배우십시오.
     E: Learn more.
@@ -68,6 +69,7 @@
 
     O: 걱정하지 마십시오. 저는 괜찮습니다.
     E: Don't worry about me. I'm alright.
+    F: Don't worry about me. _I_'m alright.
 
     O: 뛰지 마십시오.
     E: Don't run.
@@ -155,85 +157,113 @@
 > Five
     O: 무슨 음식이 맛있습니까?
     E: What food is delicious?
+    F: What food _is delicious_?
 
     O: 사람들은 언제 행복합니까?
     E: When are people happy?
+    F: When are _people_ happy?
 
     O: 여자아이가 어디에 있습니까?
     E: Where is the girl?
+    F: _Where is_ the girl?
     
     O: 그 여자는 누구입니까?
     E: Who is that woman?
+    F: Who is _that woman_?
 
     O: 가람 님, 고양이가 어디에 있습니까?
     E: Mr. Garam, where is the cat?
+    F: Mr. Garam, _where is_ the cat?
 
     O: 그 가수는 언제 옵니까?
     E: When will that singer come?
+    F: When will _that singer_ come?
 
     O: 그 여자는 누구입니까?
     E: Who is that woman?
+    F: Who is _that woman_?
 
     O: 가람 님, 누구가 귀엽습니까?
     E: Mr. Garam who is cute?
+    F: Mr. Garam who _is cute_?
 
     O: 저 가수는 어떻게 노래합니까?
     E: How does that (over there) singer sing?
+    F: How does _that (over there) singer_ sing?
 
     O: 저는 어디에 있습니까?
     E: Where am I?
+    F: Where am _I_?
 
     O: 가람 님, 책이 어디에 있습니까?
     E: Mr. Garam where is the book?
+    F: Mr. Garam _where is_ the book?
 
     O: 가수는 언제 옵니까?
     E: When does the singer come?
+    F: When does _the singer_ come?
 
     O: 여자들은 어떻게 웃습니까?
     E: How do women laugh?
+    F: How do women laugh?
 
     O: 개는 물을 어떻게 마십니까? 
     E: How do dogs drink water?
+    F: How do dogs drink water?
 
     O: 저는 누구입니까?
     E: Who am I?
+    F: Who am I?
 
 > Six
     O: 아주머니, 제가 귀엽습니까?
     E: Ma'am, am I cute?
+    F: Ma'am, am I cute?
 
     O: 이 카메라는 무엇입니까?
     E: What is this camera?
+    F: What is this camera?
 
     O: 어느 자동차가 좋습니까 ?
     E: Which car is good?
+    F: Which car is good?
 
     O: 이것은 왜 비쌉니까?
     E: Why is this expensive?
+    F: Why is this expensive?
 
     O: 이 빵은 어떤 빵입니까?
     E: What kind of bread is this bread?
+    F: What kind of bread is this bread?
 
     O: 아저씨, 아저씨는 어떤 음식이 좋아요?
     E: Mister what kind of food do you like?
+    F: Mister what kind of food do you like?
 
     O: 이것은 무엇입니까?
     E: What is this?
+    F: What is this?
 
     O: 아주머니, 왜 이 카메라는 안 비쌉니까?
     E: Ma'am, why is this camera not expensive?
+    F: Ma'am, why is this camera not expensive?
 
     O: 아저씨, 아저씨는 왜 뚱뚱해요?
     E: Mister, why are you fat?
+    F: Mister, why are you fat?
 
     O: 어느 장소가 안 춥습니까?
     E: Which place is not cold?
+    F: Which place is not cold?
 
     O: 그것은 무엇입니까?
     E: What is that?
+    F: What is that?
 
     O: 아저씨, 자동차는 왜 빠릅니까?
     E: Mister, why are cars fast?
+    F: Mister, why are cars fast?
 
     O: 어느 공이 큽니까?
     E: Which ball is big?
+    F: Which ball is big?
