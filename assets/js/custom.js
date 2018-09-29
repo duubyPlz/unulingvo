@@ -28,11 +28,11 @@ $('select#contents-gr').parent().hide();
 // TODO can't get semantic ui <select>.dropdown('set selected', random) to work
 var fileSizes = {
                     'eo': 30,
-                    'ko': 10,
+                    'ko': 9,
                     'ja': 2,
                     'gr': 11,
                     'flu': 2
-               };
+                };
 
 // Global hash representation of current file
 var fileHash = new Object();
@@ -469,12 +469,12 @@ function display(isFlu) {
     // 0 -> 10: Math.floor(Math.random() * 11);
     var index = Math.floor(Math.random() * length);
     var keys = Object.keys(fileHash);
-    var wantedEng = keys[index];
-    correctEO = fileHash[wantedEng];
+    var wantedEnglish = keys[index];
+    correctEO = fileHash[wantedEnglish];
     if (isFlu) {
-        $('.flu-display-text').html(wantedEng);
+        $('.flu-display-text').html(wantedEnglish);
     } else {
-        $('.display-text').html(wantedEng);
+        $('.display-text').html(wantedEnglish);
     }
 }
 
