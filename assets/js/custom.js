@@ -500,7 +500,7 @@ function generateFormattedHtml(formatted, english) {
     var parts = formatted.split('_');
 
     var zeroth = parts.shift();
-    var result = boldString(zeroth);
+    var result = brightenString(zeroth);
 
     for (i=0; i<parts.length; i++) {
         // Now that zeroth element is removed, if UNSHIFTED LENGTH 1 -> then wouldn't enter loop.
@@ -513,10 +513,10 @@ function generateFormattedHtml(formatted, english) {
         }
 
         if ((i % 2) == 0) {
-            var even = unboldString(parts[i]);
+            var even = dimString(parts[i]);
             result += even;
         } else if ((i % 2) == 1) {
-            var odd = boldString(parts[i]);
+            var odd = brightenString(parts[i]);
             result += odd;
         }
     }
@@ -524,15 +524,21 @@ function generateFormattedHtml(formatted, english) {
     return result;
 }
 
-// Unbold style definition
-function unboldString(string) {
+function dimString(string) {
     // return "<span style='font-weight:300'>" + string + "</span>";
     return "<span style='color: rgba(255, 255, 255, 0.7);'>" + string + "</span>";
 }
 
-// Bold style definition
-function boldString(string) {
+function brightenString(string) {
     return string;
+}
+
+function unboldString(string) {
+    return string;
+}
+
+function boldString(string) {
+    return "<span style='font-weight:700'>" + string + "</span>";
 }
 
 function logic(language) {
@@ -659,7 +665,10 @@ function logic(language) {
         } else {      
             // Change to correct answer
             $('.textarea#answer').addClass('incorrect');
-            $('.textarea#answer').html(currentCorrectOriginal);
+
+            var correctFormatted = formatCorrect(currentCorrectOriginal);
+
+            $('.textarea#answer').html(correctFormatted);
 
             // if keypress, then clear straight away
             $('.textarea#answer').keydown(function(e) {
@@ -678,6 +687,59 @@ function logic(language) {
             }, 3000);
         }
     }
+}
+
+// Bolds incorrect words if possible
+function formatCorrect(unformatted) {
+    var formatted = unformatted;
+
+    switch(language) {
+        case ('eo'):
+            formatted = formatCorrectEsperanto(unformatted);
+            break;
+        case ('flu'):
+            formatted = formatCorrectEsperanto(unformatted);
+            break;
+        case ('ko'):
+            formatted = formatCorrectCJK(unformatted);
+            break;
+        case ('ja'):
+            formatted = formatCorrectCJK(unformatted);
+            break;
+        case ('gr'):
+            formatted = formatCorrectGreek(unformatted);
+            break;
+        default:
+            break;
+    }
+
+    return formatted;
+}
+
+function formatCorrectEsperanto(unformatted) {
+    // TODO @kuc esperanto logic
+    return unformatted;
+}
+
+function formatCorrectCJK(unformatted) {
+    var unformattedArray = unformatted.split('');
+    var formatted = "";
+    for (i=0; i<unformattedArray.length; i++) {
+        var character = unformattedArray[i];
+        // TODO continue here, cjk logic, remove dummy logic
+        if ((i % 2) == 0) {
+            formatted += boldString(character);
+        }
+        if ((i % 2) == 1) {
+            formatted += unboldString(character);
+        }
+    }
+    return formatted;
+}
+
+function formatCorrectGreek(unformatted) {
+    // TODO @kuc greek logic
+    return unformatted;
 }
 
 function checkIsModuleValid(selectedModule) {
