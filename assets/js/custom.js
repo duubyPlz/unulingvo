@@ -25,7 +25,7 @@ $('select#contents-ko').parent().hide();
 $('select#contents-ja').parent().hide();
 $('select#contents-gr').parent().hide();
 
-// TODO can't get semantic ui <select>.dropdown('set selected', random) to work
+// XXX @kuc can't get semantic ui <select>.dropdown('set selected', random) to work
 var fileSizes = {
                     'eo': 30,
                     'ko': 9,
@@ -230,7 +230,7 @@ $('select#contents-eo, select#contents-ko, select#contents-ja, select#contents-g
     reparse(selectedModule);
 });
 
-// TODO if UI changed
+// TODO @kuc if UI changed
 $('select#flu').change(function() {
     selectedModule = $(this).val();
     // checkIsModuleValid(selectedModule);
@@ -569,7 +569,7 @@ function logic(language) {
         if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
             correct = true;
         }
-    } else if (language == 'flu') { // [TODO] refactor
+    } else if (language == 'flu') { // TODO @kuc refactor
         inputString = $('textarea#flu-answer').val();
         var sanitisedString = inputString.replace(eoWhitelistRegex, "");
         var simplifiedString = sanitisedString.replace(eoBlacklistRegex, "").toLowerCase().trim();
@@ -630,7 +630,7 @@ function logic(language) {
         //      * html += word or html += <b>word</b>
         //      * but it's .val().. check
 
-        if (language == 'flu') { // [TODO] refactor
+        if (language == 'flu') { // TODO @kuc refactor
             // Change to correct answer
             $('textarea#flu-answer').addClass('incorrect');
             $('textarea#flu-answer').val(currentCorrectOriginal);
