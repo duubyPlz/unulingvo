@@ -734,6 +734,15 @@ function formatCorrectCJK(unformatted, userAnswer) {
     for (i=0; i<unformattedArray.length; i++) {
         var character = unformattedArray[i];
         // TODO continue here, cjk logic, remove dummy logic
+        /*
+            * correct
+                * 1 23 4 5
+            * user
+                * 123465
+            * formatted
+                * 1 23 4**6** 5
+        */
+
         if ((i % 2) == 0) {
             formatted += boldString(character);
         }
