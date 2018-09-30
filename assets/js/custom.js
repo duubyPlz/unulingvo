@@ -655,6 +655,8 @@ function logic(language) {
             $('textarea#answer').addClass('incorrect');
             $('textarea#answer').val(currentCorrectOriginal);
             // TODO continue here, refactor from textarea -> div, to allow text bolding.
+            // div: need class group all 'textarea's, style: align left
+            // change all .val() to .html()
             // Then, bold incorrect words logic.
 
             // if keypress, then clear straight away
