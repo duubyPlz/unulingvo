@@ -717,7 +717,7 @@ function formatCorrect(unformatted) {
 }
 
 function formatCorrectEsperanto(unformatted) {
-    // TODO @kuc esperanto logic
+    // TODO @kuc esperanto incorrect bolding logic
     return unformatted;
 }
 
@@ -738,7 +738,7 @@ function formatCorrectCJK(unformatted) {
 }
 
 function formatCorrectGreek(unformatted) {
-    // TODO @kuc greek logic
+    // TODO @kuc greek incorrect bolding logic
     return unformatted;
 }
 
