@@ -538,7 +538,7 @@ function unboldString(string) {
 }
 
 function boldString(string) {
-    return "<span style='font-weight:700'>" + string + "</span>";
+    return "<span style='font-weight:600'>" + string + "</span>";
 }
 
 function logic(language) {
@@ -571,8 +571,9 @@ function logic(language) {
     var grWhitelistRegex = new RegExp("[^a-zA-Z0-9_.,?!'\" \-\u1F00-\u1FFF\u0370-\u03FF ]" , "g");
     var grBlacklistRegex = new RegExp("[.,?!:\";]" , "g");
 
+    var sanitisedString = ""; // Need to use this in another 'if' statement
     if (language == 'eo') {    
-        var sanitisedString = inputString.replace(eoWhitelistRegex, "");
+        sanitisedString = inputString.replace(eoWhitelistRegex, "");
         var simplifiedString = sanitisedString.replace(eoBlacklistRegex, "").toLowerCase().trim();
 
         var simplifiedEO = currentCorrectOriginal.replace(eoBlacklistRegex, "").toLowerCase().trim();
@@ -583,7 +584,7 @@ function logic(language) {
         }
     } else if (language == 'flu') { // [TODO] refactor
         inputString = $('.textarea#flu-answer').html();
-        var sanitisedString = inputString.replace(eoWhitelistRegex, "");
+        sanitisedString = inputString.replace(eoWhitelistRegex, "");
         var simplifiedString = sanitisedString.replace(eoBlacklistRegex, "").toLowerCase().trim();
 
         var simplifiedEO = currentCorrectOriginal.replace(eoBlacklistRegex, "").toLowerCase().trim();
@@ -594,7 +595,7 @@ function logic(language) {
         }
     } else if ((language == 'ja')
             || (language == 'ko')) {
-        var sanitisedString = inputString
+        sanitisedString = inputString
         .replace(cjkWhitelistRegex, "");
 
         var sanitisedCJK = currentCorrectOriginal
@@ -604,7 +605,7 @@ function logic(language) {
             correct = true;
         }
     } else if (language == 'gr') {
-        var sanitisedString = inputString.replace(grWhitelistRegex, "");
+        sanitisedString = inputString.replace(grWhitelistRegex, "");
         var simplifiedString = sanitisedString.replace(grBlacklistRegex, "").toLowerCase().trim();
 
         var simplifiedGr = currentCorrectOriginal.replace(grBlacklistRegex, "").toLowerCase().trim();
@@ -645,7 +646,7 @@ function logic(language) {
         if (language == 'flu') { // [TODO] refactor
             // Change to correct answer
             $('.textarea#flu-answer').addClass('incorrect');
-            $('.textarea#flu-answer').html(currentCorrectOriginal);
+            $('.textarea#flu-answer').html(currentCorrectOriginal, sanitisedString);
 
             // if keypress, then clear straight away
             $('.textarea#flu-answer').keydown(function(e) {
@@ -666,7 +667,7 @@ function logic(language) {
             // Change to correct answer
             $('.textarea#answer').addClass('incorrect');
 
-            var correctFormatted = formatCorrect(currentCorrectOriginal);
+            var correctFormatted = formatCorrect(currentCorrectOriginal, sanitisedString);
 
             $('.textarea#answer').html(correctFormatted);
 
@@ -690,24 +691,30 @@ function logic(language) {
 }
 
 // Bolds incorrect words if possible
-function formatCorrect(unformatted) {
+function formatCorrect(unformatted, userAnswer) {
+    if (userAnswer == "") {
+        return unformatted;
+    }
+
     var formatted = unformatted;
+
+    console.log("USER INPUT IS:: " + userAnswer);
 
     switch(language) {
         case ('eo'):
-            formatted = formatCorrectEsperanto(unformatted);
+            formatted = formatCorrectEsperanto(unformatted, userAnswer);
             break;
         case ('flu'):
-            formatted = formatCorrectEsperanto(unformatted);
+            formatted = formatCorrectEsperanto(unformatted, userAnswer);
             break;
         case ('ko'):
-            formatted = formatCorrectCJK(unformatted);
+            formatted = formatCorrectCJK(unformatted, userAnswer);
             break;
         case ('ja'):
-            formatted = formatCorrectCJK(unformatted);
+            formatted = formatCorrectCJK(unformatted, userAnswer);
             break;
         case ('gr'):
-            formatted = formatCorrectGreek(unformatted);
+            formatted = formatCorrectGreek(unformatted, userAnswer);
             break;
         default:
             break;
@@ -716,12 +723,12 @@ function formatCorrect(unformatted) {
     return formatted;
 }
 
-function formatCorrectEsperanto(unformatted) {
+function formatCorrectEsperanto(unformatted, userAnswer) {
     // TODO @kuc esperanto incorrect bolding logic
     return unformatted;
 }
 
-function formatCorrectCJK(unformatted) {
+function formatCorrectCJK(unformatted, userAnswer) {
     var unformattedArray = unformatted.split('');
     var formatted = "";
     for (i=0; i<unformattedArray.length; i++) {
@@ -737,7 +744,7 @@ function formatCorrectCJK(unformatted) {
     return formatted;
 }
 
-function formatCorrectGreek(unformatted) {
+function formatCorrectGreek(unformatted, userAnswer) {
     // TODO @kuc greek incorrect bolding logic
     return unformatted;
 }
