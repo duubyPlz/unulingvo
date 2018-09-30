@@ -159,9 +159,9 @@ function reparse(selectedModule) {
     currentCorrectOriginal = "";
 
     // Reset textarea
-    $('.herptextarea#answer').html('');
-    $('.herptextarea#answer').removeClass('correct');
-    $('.herptextarea#answer').removeClass('incorrect');
+    $('.textarea#answer').html('');
+    $('.textarea#answer').removeClass('correct');
+    $('.textarea#answer').removeClass('incorrect');
 
     setTimeout(function () {
         display(false);
@@ -194,16 +194,16 @@ function goToPill(currentPill) {
         // iv) Show only current language's dropdown
         $('select#contents-'+language).parent().show();
 
-        // v) Change .herptextarea#answer's data-placeholder
+        // v) Change .textarea#answer's data-placeholder
         // refactor if more languages
         if (language == 'eo') {
-            $('.herptextarea#answer').attr('data-placeholder', 'Esperanto');
+            $('.textarea#answer').attr('data-placeholder', 'Esperanto');
         } else if (language == 'ko') {
-            $('.herptextarea#answer').attr('data-placeholder', '한국어');
+            $('.textarea#answer').attr('data-placeholder', '한국어');
         } else if (language == 'ja') {
-            $('.herptextarea#answer').attr('data-placeholder', '日本語');
+            $('.textarea#answer').attr('data-placeholder', '日本語');
         } else if (language == 'gr') {
-            $('.herptextarea#answer').attr('data-placeholder', 'Ελληνικά');
+            $('.textarea#answer').attr('data-placeholder', 'Ελληνικά');
         }
 
         // vi) reparse/redisplay
@@ -301,31 +301,31 @@ $('button#flu-randomise').click(function() {
 // 6. Logic - check results, see if input field is correct
 // a) Click 'check' button
 $('button#checking').on('click', function() {
-    if (!$('.herptextarea#answer').hasClass('incorrect') && !$('.herptextarea#answer').hasClass('correct')) {
+    if (!$('.textarea#answer').hasClass('incorrect') && !$('.textarea#answer').hasClass('correct')) {
         logic(language);
     }
 });
 
 $('button#flu-checking').on('click', function() {
-    if (!$('.herptextarea#flu-answer').hasClass('incorrect') && !$('.herptextarea#flu-answer').hasClass('correct')) {
+    if (!$('.textarea#flu-answer').hasClass('incorrect') && !$('.textarea#flu-answer').hasClass('correct')) {
         logic('flu');
     }
 });
 
 // b) Press 'enter' key
-$('.herptextarea#answer').keydown(function (e) {
+$('.textarea#answer').keydown(function (e) {
     if (e.keyCode == 13)  {
         e.preventDefault();
-        if (!$('.herptextarea#answer').hasClass('incorrect') && !$('.herptextarea#answer').hasClass('correct')) {
+        if (!$('.textarea#answer').hasClass('incorrect') && !$('.textarea#answer').hasClass('correct')) {
             logic(language);
         }
     }
 });
 
-$('.herptextarea#flu-answer').keydown(function (e) {
+$('.textarea#flu-answer').keydown(function (e) {
     if (e.keyCode == 13)  {
         e.preventDefault();
-        if (!$('.herptextarea#flu-answer').hasClass('incorrect') && !$('.herptextarea#flu-answer').hasClass('correct')) {
+        if (!$('.textarea#flu-answer').hasClass('incorrect') && !$('.textarea#flu-answer').hasClass('correct')) {
             logic('flu');
         }
     }
@@ -335,9 +335,9 @@ $('.herptextarea#flu-answer').keydown(function (e) {
 // > a) Click 'skip' button
 $('button#skip').on('click', function() {
     // clear input field & makes it normal again
-    $('.herptextarea#answer').html('');
-    $('.herptextarea#answer').removeClass('correct');
-    $('.herptextarea#answer').removeClass('incorrect');
+    $('.textarea#answer').html('');
+    $('.textarea#answer').removeClass('correct');
+    $('.textarea#answer').removeClass('incorrect');
 
     // then display next text
     display(false);
@@ -345,31 +345,31 @@ $('button#skip').on('click', function() {
 
 $('button#flu-skip').on('click', function() {
     // clear input field & makes it normal again
-    $('.herptextarea#flu-answer').html('');
-    $('.herptextarea#flu-answer').removeClass('correct');
-    $('.herptextarea#flu-answer').removeClass('incorrect');
+    $('.textarea#flu-answer').html('');
+    $('.textarea#flu-answer').removeClass('correct');
+    $('.textarea#flu-answer').removeClass('incorrect');
 
     // then display next text
     display(true);
 });
 
 // b) Press '`' backtick key
-$('.herptextarea#answer').keydown(function (e) {
+$('.textarea#answer').keydown(function (e) {
     if (e.keyCode == 192)  {
         e.preventDefault();
-        $('.herptextarea#answer').html('');
-        $('.herptextarea#answer').removeClass('correct');
-        $('.herptextarea#answer').removeClass('incorrect');
+        $('.textarea#answer').html('');
+        $('.textarea#answer').removeClass('correct');
+        $('.textarea#answer').removeClass('incorrect');
         display(false);
     }
 });
 
-$('.herptextarea#flu-answer').keydown(function (e) {
+$('.textarea#flu-answer').keydown(function (e) {
     if (e.keyCode == 192)  {
         e.preventDefault();
-        $('.herptextarea#flu-answer').html('');
-        $('.herptextarea#flu-answer').removeClass('correct');
-        $('.herptextarea#flu-answer').removeClass('incorrect');
+        $('.textarea#flu-answer').html('');
+        $('.textarea#flu-answer').removeClass('correct');
+        $('.textarea#flu-answer').removeClass('incorrect');
         display(true);
     }
 });
@@ -537,7 +537,7 @@ function boldString(string) {
 
 function logic(language) {
     var correct = false;
-    var inputString = $('.herptextarea#answer').html();
+    var inputString = $('.textarea#answer').html();
 
     var hyphenRegex = new RegExp("\-", "g");
     var eoWhitelistRegex = new RegExp("[^a-zA-Z0-9_.,?!'\" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]", "g")
@@ -576,7 +576,7 @@ function logic(language) {
             correct = true;
         }
     } else if (language == 'flu') { // [TODO] refactor
-        inputString = $('.herptextarea#flu-answer').html();
+        inputString = $('.textarea#flu-answer').html();
         var sanitisedString = inputString.replace(eoWhitelistRegex, "");
         var simplifiedString = sanitisedString.replace(eoBlacklistRegex, "").toLowerCase().trim();
 
@@ -613,20 +613,20 @@ function logic(language) {
 
     if (correct) {
         if (language == 'flu') {
-            $('.herptextarea#flu-answer').addClass('correct');
+            $('.textarea#flu-answer').addClass('correct');
             // display new one
             setTimeout(function () {
                 display(true);
-                $('.herptextarea#flu-answer').html('');
-                $('.herptextarea#flu-answer').removeClass('correct');
+                $('.textarea#flu-answer').html('');
+                $('.textarea#flu-answer').removeClass('correct');
             }, 700);
         } else {        
-            $('.herptextarea#answer').addClass('correct');
+            $('.textarea#answer').addClass('correct');
             // display new one
             setTimeout(function () {
                 display(false);
-                $('.herptextarea#answer').html('');
-                $('.herptextarea#answer').removeClass('correct');
+                $('.textarea#answer').html('');
+                $('.textarea#answer').removeClass('correct');
             }, 700);
         }
     } else {
@@ -638,42 +638,42 @@ function logic(language) {
 
         if (language == 'flu') { // [TODO] refactor
             // Change to correct answer
-            $('.herptextarea#flu-answer').addClass('incorrect');
-            $('.herptextarea#flu-answer').html(currentCorrectOriginal);
+            $('.textarea#flu-answer').addClass('incorrect');
+            $('.textarea#flu-answer').html(currentCorrectOriginal);
 
             // if keypress, then clear straight away
-            $('.herptextarea#flu-answer').keydown(function(e) {
-                if ($('.herptextarea#flu-answer').hasClass('incorrect') && (e.keyCode != 13)) {
-                    $('.herptextarea#flu-answer').removeClass('incorrect');
-                    $('.herptextarea#flu-answer').html('');
+            $('.textarea#flu-answer').keydown(function(e) {
+                if ($('.textarea#flu-answer').hasClass('incorrect') && (e.keyCode != 13)) {
+                    $('.textarea#flu-answer').removeClass('incorrect');
+                    $('.textarea#flu-answer').html('');
                 }
             });
 
             // else wait for timer
             setTimeout(function() {
-                if ($('.herptextarea#flu-answer').hasClass('incorrect')) {
-                    $('.herptextarea#flu-answer').removeClass('incorrect');
-                    $('.herptextarea#flu-answer').html('');
+                if ($('.textarea#flu-answer').hasClass('incorrect')) {
+                    $('.textarea#flu-answer').removeClass('incorrect');
+                    $('.textarea#flu-answer').html('');
                 }
             }, 3000);
         } else {      
             // Change to correct answer
-            $('.herptextarea#answer').addClass('incorrect');
-            $('.herptextarea#answer').html(currentCorrectOriginal);
+            $('.textarea#answer').addClass('incorrect');
+            $('.textarea#answer').html(currentCorrectOriginal);
 
             // if keypress, then clear straight away
-            $('.herptextarea#answer').keydown(function(e) {
-                if ($('.herptextarea#answer').hasClass('incorrect') && (e.keyCode != 13)) {
-                    $('.herptextarea#answer').removeClass('incorrect');
-                    $('.herptextarea#answer').html('');
+            $('.textarea#answer').keydown(function(e) {
+                if ($('.textarea#answer').hasClass('incorrect') && (e.keyCode != 13)) {
+                    $('.textarea#answer').removeClass('incorrect');
+                    $('.textarea#answer').html('');
                 }
             });
 
             // else wait for timer
             setTimeout(function() {
-                if ($('.herptextarea#answer').hasClass('incorrect')) {
-                    $('.herptextarea#answer').removeClass('incorrect');
-                    $('.herptextarea#answer').html('');
+                if ($('.textarea#answer').hasClass('incorrect')) {
+                    $('.textarea#answer').removeClass('incorrect');
+                    $('.textarea#answer').html('');
                 }
             }, 3000);
         }
