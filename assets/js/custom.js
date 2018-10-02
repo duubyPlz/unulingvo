@@ -157,6 +157,12 @@ function reparse(selectedModule) {
     display_loader(false);
     parse(selectedModule, language);
     currentCorrectOriginal = "";
+
+    // Reset textarea
+    $('.textarea#answer').html('');
+    $('.textarea#answer').removeClass('correct');
+    $('.textarea#answer').removeClass('incorrect');
+
     setTimeout(function () {
         display(false);
     }, 1000);
@@ -188,16 +194,16 @@ function goToPill(currentPill) {
         // iv) Show only current language's dropdown
         $('select#contents-'+language).parent().show();
 
-        // v) Change textarea#answer's placeholder
+        // v) Change .textarea#answer's data-placeholder
         // refactor if more languages
         if (language == 'eo') {
-            $('textarea#answer').attr('placeholder', 'Esperanto');
+            $('.textarea#answer').attr('data-placeholder', 'Esperanto');
         } else if (language == 'ko') {
-            $('textarea#answer').attr('placeholder', '한국어');
+            $('.textarea#answer').attr('data-placeholder', '한국어');
         } else if (language == 'ja') {
-            $('textarea#answer').attr('placeholder', '日本語');
+            $('.textarea#answer').attr('data-placeholder', '日本語');
         } else if (language == 'gr') {
-            $('textarea#answer').attr('placeholder', 'Ελληνικά');
+            $('.textarea#answer').attr('data-placeholder', 'Ελληνικά');
         }
 
         // vi) reparse/redisplay
@@ -295,31 +301,31 @@ $('button#flu-randomise').click(function() {
 // 6. Logic - check results, see if input field is correct
 // a) Click 'check' button
 $('button#checking').on('click', function() {
-    if (!$('textarea#answer').hasClass('incorrect') && !$('textarea#answer').hasClass('correct')) {
+    if (!$('.textarea#answer').hasClass('incorrect') && !$('.textarea#answer').hasClass('correct')) {
         logic(language);
     }
 });
 
 $('button#flu-checking').on('click', function() {
-    if (!$('textarea#flu-answer').hasClass('incorrect') && !$('textarea#flu-answer').hasClass('correct')) {
+    if (!$('.textarea#flu-answer').hasClass('incorrect') && !$('.textarea#flu-answer').hasClass('correct')) {
         logic('flu');
     }
 });
 
 // b) Press 'enter' key
-$('textarea#answer').keydown(function (e) {
+$('.textarea#answer').keydown(function (e) {
     if (e.keyCode == 13)  {
         e.preventDefault();
-        if (!$('textarea#answer').hasClass('incorrect') && !$('textarea#answer').hasClass('correct')) {
+        if (!$('.textarea#answer').hasClass('incorrect') && !$('.textarea#answer').hasClass('correct')) {
             logic(language);
         }
     }
 });
 
-$('textarea#flu-answer').keydown(function (e) {
+$('.textarea#flu-answer').keydown(function (e) {
     if (e.keyCode == 13)  {
         e.preventDefault();
-        if (!$('textarea#flu-answer').hasClass('incorrect') && !$('textarea#flu-answer').hasClass('correct')) {
+        if (!$('.textarea#flu-answer').hasClass('incorrect') && !$('.textarea#flu-answer').hasClass('correct')) {
             logic('flu');
         }
     }
@@ -329,9 +335,9 @@ $('textarea#flu-answer').keydown(function (e) {
 // > a) Click 'skip' button
 $('button#skip').on('click', function() {
     // clear input field & makes it normal again
-    $('textarea#answer').val('');
-    $('textarea#answer').removeClass('correct');
-    $('textarea#answer').removeClass('incorrect');
+    $('.textarea#answer').html('');
+    $('.textarea#answer').removeClass('correct');
+    $('.textarea#answer').removeClass('incorrect');
 
     // then display next text
     display(false);
@@ -339,31 +345,31 @@ $('button#skip').on('click', function() {
 
 $('button#flu-skip').on('click', function() {
     // clear input field & makes it normal again
-    $('textarea#flu-answer').val('');
-    $('textarea#flu-answer').removeClass('correct');
-    $('textarea#flu-answer').removeClass('incorrect');
+    $('.textarea#flu-answer').html('');
+    $('.textarea#flu-answer').removeClass('correct');
+    $('.textarea#flu-answer').removeClass('incorrect');
 
     // then display next text
     display(true);
 });
 
 // b) Press '`' backtick key
-$('textarea#answer').keydown(function (e) {
+$('.textarea#answer').keydown(function (e) {
     if (e.keyCode == 192)  {
         e.preventDefault();
-        $('textarea#answer').val('');
-        $('textarea#answer').removeClass('correct');
-        $('textarea#answer').removeClass('incorrect');
+        $('.textarea#answer').html('');
+        $('.textarea#answer').removeClass('correct');
+        $('.textarea#answer').removeClass('incorrect');
         display(false);
     }
 });
 
-$('textarea#flu-answer').keydown(function (e) {
+$('.textarea#flu-answer').keydown(function (e) {
     if (e.keyCode == 192)  {
         e.preventDefault();
-        $('textarea#flu-answer').val('');
-        $('textarea#flu-answer').removeClass('correct');
-        $('textarea#flu-answer').removeClass('incorrect');
+        $('.textarea#flu-answer').html('');
+        $('.textarea#flu-answer').removeClass('correct');
+        $('.textarea#flu-answer').removeClass('incorrect');
         display(true);
     }
 });
@@ -494,7 +500,7 @@ function generateFormattedHtml(formatted, english) {
     var parts = formatted.split('_');
 
     var zeroth = parts.shift();
-    var result = boldString(zeroth);
+    var result = brightenString(zeroth);
 
     for (i=0; i<parts.length; i++) {
         // Now that zeroth element is removed, if UNSHIFTED LENGTH 1 -> then wouldn't enter loop.
@@ -507,10 +513,10 @@ function generateFormattedHtml(formatted, english) {
         }
 
         if ((i % 2) == 0) {
-            var even = unboldString(parts[i]);
+            var even = dimString(parts[i]);
             result += even;
         } else if ((i % 2) == 1) {
-            var odd = boldString(parts[i]);
+            var odd = brightenString(parts[i]);
             result += odd;
         }
     }
@@ -518,20 +524,37 @@ function generateFormattedHtml(formatted, english) {
     return result;
 }
 
-// Unbold style definition
-function unboldString(string) {
+function dimString(string) {
     // return "<span style='font-weight:300'>" + string + "</span>";
     return "<span style='color: rgba(255, 255, 255, 0.7);'>" + string + "</span>";
 }
 
-// Bold style definition
-function boldString(string) {
+function brightenString(string) {
     return string;
+}
+
+function unboldString(string) {
+    return string;
+}
+
+function boldString(string) {
+    return "<span style='font-weight:600'>" + string + "</span>";
+}
+
+// Note: the wrong is changing the correct (so when wrong inserts, it should indicate strikethrough, vice versa)
+function styleInsert(string) {
+    // 1: strikethrough
+    return "<span style='font-weight:600'>" + string + "</span>";
+}
+
+function styleDelete(string) {
+    // -1: bold
+    return "<span style='text-decoration: line-through'>" + string + "</span>";
 }
 
 function logic(language) {
     var correct = false;
-    var inputString = $('textarea#answer').val();
+    var inputString = $('.textarea#answer').html();
 
     var hyphenRegex = new RegExp("\-", "g");
     var eoWhitelistRegex = new RegExp("[^a-zA-Z0-9_.,?!'\" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]", "g")
@@ -559,8 +582,9 @@ function logic(language) {
     var grWhitelistRegex = new RegExp("[^a-zA-Z0-9_.,?!'\" \-\u1F00-\u1FFF\u0370-\u03FF ]" , "g");
     var grBlacklistRegex = new RegExp("[.,?!:\";]" , "g");
 
+    var sanitisedString = ""; // Need to use this in another 'if' statement
     if (language == 'eo') {    
-        var sanitisedString = inputString.replace(eoWhitelistRegex, "");
+        sanitisedString = inputString.replace(eoWhitelistRegex, "");
         var simplifiedString = sanitisedString.replace(eoBlacklistRegex, "").toLowerCase().trim();
 
         var simplifiedEO = currentCorrectOriginal.replace(eoBlacklistRegex, "").toLowerCase().trim();
@@ -569,9 +593,10 @@ function logic(language) {
         if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
             correct = true;
         }
-    } else if (language == 'flu') { // TODO @kuc refactor
-        inputString = $('textarea#flu-answer').val();
-        var sanitisedString = inputString.replace(eoWhitelistRegex, "");
+
+    } else if (language == 'flu') { // [TODO] refactor
+        inputString = $('.textarea#flu-answer').html();
+        sanitisedString = inputString.replace(eoWhitelistRegex, "");
         var simplifiedString = sanitisedString.replace(eoBlacklistRegex, "").toLowerCase().trim();
 
         var simplifiedEO = currentCorrectOriginal.replace(eoBlacklistRegex, "").toLowerCase().trim();
@@ -582,7 +607,7 @@ function logic(language) {
         }
     } else if ((language == 'ja')
             || (language == 'ko')) {
-        var sanitisedString = inputString
+        sanitisedString = inputString
         .replace(cjkWhitelistRegex, "");
 
         var sanitisedCJK = currentCorrectOriginal
@@ -592,7 +617,7 @@ function logic(language) {
             correct = true;
         }
     } else if (language == 'gr') {
-        var sanitisedString = inputString.replace(grWhitelistRegex, "");
+        sanitisedString = inputString.replace(grWhitelistRegex, "");
         var simplifiedString = sanitisedString.replace(grBlacklistRegex, "").toLowerCase().trim();
 
         var simplifiedGr = currentCorrectOriginal.replace(grBlacklistRegex, "").toLowerCase().trim();
@@ -607,20 +632,20 @@ function logic(language) {
 
     if (correct) {
         if (language == 'flu') {
-            $('textarea#flu-answer').addClass('correct');
+            $('.textarea#flu-answer').addClass('correct');
             // display new one
             setTimeout(function () {
                 display(true);
-                $('textarea#flu-answer').val('');
-                $('textarea#flu-answer').removeClass('correct');
+                $('.textarea#flu-answer').html('');
+                $('.textarea#flu-answer').removeClass('correct');
             }, 700);
         } else {        
-            $('textarea#answer').addClass('correct');
+            $('.textarea#answer').addClass('correct');
             // display new one
             setTimeout(function () {
                 display(false);
-                $('textarea#answer').val('');
-                $('textarea#answer').removeClass('correct');
+                $('.textarea#answer').html('');
+                $('.textarea#answer').removeClass('correct');
             }, 700);
         }
     } else {
@@ -632,46 +657,90 @@ function logic(language) {
 
         if (language == 'flu') { // TODO @kuc refactor
             // Change to correct answer
-            $('textarea#flu-answer').addClass('incorrect');
-            $('textarea#flu-answer').val(currentCorrectOriginal);
+            $('.textarea#flu-answer').addClass('incorrect');
+            $('.textarea#flu-answer').html(currentCorrectOriginal, sanitisedString);
 
             // if keypress, then clear straight away
-            $('textarea#flu-answer').keydown(function(e) {
-                if ($('textarea#flu-answer').hasClass('incorrect') && (e.keyCode != 13)) {
-                    $('textarea#flu-answer').removeClass('incorrect');
-                    $('textarea#flu-answer').val('');
+            $('.textarea#flu-answer').keydown(function(e) {
+                if ($('.textarea#flu-answer').hasClass('incorrect') && (e.keyCode != 13)) {
+                    $('.textarea#flu-answer').removeClass('incorrect');
+                    $('.textarea#flu-answer').html('');
                 }
             });
 
             // else wait for timer
             setTimeout(function() {
-                if ($('textarea#flu-answer').hasClass('incorrect')) {
-                    $('textarea#flu-answer').removeClass('incorrect');
-                    $('textarea#flu-answer').val('');
+                if ($('.textarea#flu-answer').hasClass('incorrect')) {
+                    $('.textarea#flu-answer').removeClass('incorrect');
+                    $('.textarea#flu-answer').html('');
                 }
             }, 3000);
         } else {      
             // Change to correct answer
-            $('textarea#answer').addClass('incorrect');
-            $('textarea#answer').val(currentCorrectOriginal);
+            $('.textarea#answer').addClass('incorrect');
+
+            var correctFormatted = formatCorrect(currentCorrectOriginal, sanitisedString);
+
+            $('.textarea#answer').html(correctFormatted);
 
             // if keypress, then clear straight away
-            $('textarea#answer').keydown(function(e) {
-                if ($('textarea#answer').hasClass('incorrect') && (e.keyCode != 13)) {
-                    $('textarea#answer').removeClass('incorrect');
-                    $('textarea#answer').val('');
+            $('.textarea#answer').keydown(function(e) {
+                if ($('.textarea#answer').hasClass('incorrect') && (e.keyCode != 13)) {
+                    $('.textarea#answer').removeClass('incorrect');
+                    $('.textarea#answer').html('');
                 }
             });
 
             // else wait for timer
             setTimeout(function() {
-                if ($('textarea#answer').hasClass('incorrect')) {
-                    $('textarea#answer').removeClass('incorrect');
-                    $('textarea#answer').val('');
+                if ($('.textarea#answer').hasClass('incorrect')) {
+                    console.log("CLEARING, TIMEOUT");
+                    $('.textarea#answer').removeClass('incorrect');
+                    $('.textarea#answer').html('');
                 }
             }, 3000);
         }
     }
+}
+
+// Bolds incorrect words if possible
+function formatCorrect(correct, userAnswer) {
+    // TODO @kuc case insensitiveness!
+    if (userAnswer == "") {
+        return correct;
+    }
+
+    var formatted = "";
+
+    // call fast-diff, returns e.g. [[-1, "Goo"], [1, "Ba"], [0, "d dog"]]
+    var diffResult = diff(userAnswer, correct);
+    // console.log("diff: ");
+    // console.log(diffResult);
+
+    for (var i=0; i<diffResult.length; i++) {
+        var currentElement = diffResult[i];
+
+        var status = currentElement[0];
+        var value = currentElement[1];
+        
+        switch (status) {
+            case diff.INSERT:
+                formatted += styleInsert(value);
+                break;
+            case diff.DELETE:
+                formatted += styleDelete(value);
+                break;
+            case diff.EQUAL:
+                formatted += value;
+                break;
+            default:
+                console.warn("fast-diff returned an unexpected status: " + status + ", value: " + value);
+                formatted += value;
+                break;
+        }
+    }
+
+    return formatted;
 }
 
 function checkIsModuleValid(selectedModule) {
