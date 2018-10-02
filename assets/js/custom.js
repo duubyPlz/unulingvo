@@ -699,7 +699,6 @@ function logic(language) {
             // else wait for timer
             setTimeout(function() {
                 if ($('.textarea#answer').hasClass('incorrect')) {
-                    console.log("CLEARING, TIMEOUT");
                     $('.textarea#answer').removeClass('incorrect');
                     $('.textarea#answer').html('');
                 }
