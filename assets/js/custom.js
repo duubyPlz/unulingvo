@@ -541,15 +541,20 @@ function boldString(string) {
     return "<span style='font-weight:600'>" + string + "</span>";
 }
 
-// Note: the wrong is changing the correct (so when wrong inserts, it should indicate strikethrough, vice versa)
 function styleInsert(string) {
-    // 1: strikethrough
+    // 1: bold
     return "<span style='font-weight:600'>" + string + "</span>";
 }
 
 function styleDelete(string) {
-    // -1: bold
-    return "<span style='text-decoration: line-through'>" + string + "</span>";
+    // -1: strikethrough
+    var formatted = "";
+    if (language == 'ko' || language == 'ja') { // CJK
+        formatted = "<span class='strikethrough-diagonal' style='font-weight:400'>" + string + "</span>";
+    } else {
+        formatted = "<span style='text-decoration: line-through'>" + string + "</span>";
+    }
+    return formatted;
 }
 
 function logic(language) {
