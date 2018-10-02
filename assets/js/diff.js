@@ -576,7 +576,7 @@ diff.INSERT = DIFF_INSERT;
 diff.DELETE = DIFF_DELETE;
 diff.EQUAL = DIFF_EQUAL;
 
-module.exports = diff;
+// module.exports = diff;
 
 /*
  * Modify a diff such that the cursor position points to the start of a change:
