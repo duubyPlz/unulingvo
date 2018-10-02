@@ -541,6 +541,17 @@ function boldString(string) {
     return "<span style='font-weight:600'>" + string + "</span>";
 }
 
+// Note: the wrong is changing the correct (so when wrong inserts, it should indicate strikethrough, vice versa)
+function styleInsert(string) {
+    // 1: strikethrough
+    return "<span style='font-weight:600'>" + string + "</span>";
+}
+
+function styleDelete(string) {
+    // -1: bold
+    return "<span style='text-decoration: line-through'>" + string + "</span>";
+}
+
 function logic(language) {
     var correct = false;
     var inputString = $('.textarea#answer').html();
@@ -682,6 +693,7 @@ function logic(language) {
             // else wait for timer
             setTimeout(function() {
                 if ($('.textarea#answer').hasClass('incorrect')) {
+                    console.log("CLEARING, TIMEOUT");
                     $('.textarea#answer').removeClass('incorrect');
                     $('.textarea#answer').html('');
                 }
@@ -691,70 +703,43 @@ function logic(language) {
 }
 
 // Bolds incorrect words if possible
-function formatCorrect(unformatted, userAnswer) {
+function formatCorrect(correct, userAnswer) {
+    // TODO @kuc case insensitiveness!
     if (userAnswer == "") {
-        return unformatted;
+        return correct;
     }
 
-    var formatted = unformatted;
-
-    console.log("USER INPUT IS:: " + userAnswer);
-
-    switch(language) {
-        case ('eo'):
-            formatted = formatCorrectEsperanto(unformatted, userAnswer);
-            break;
-        case ('flu'):
-            formatted = formatCorrectEsperanto(unformatted, userAnswer);
-            break;
-        case ('ko'):
-            formatted = formatCorrectCJK(unformatted, userAnswer);
-            break;
-        case ('ja'):
-            formatted = formatCorrectCJK(unformatted, userAnswer);
-            break;
-        case ('gr'):
-            formatted = formatCorrectGreek(unformatted, userAnswer);
-            break;
-        default:
-            break;
-    }
-
-    return formatted;
-}
-
-function formatCorrectEsperanto(correct, userAnswer) {
-    // TODO @kuc esperanto incorrect bolding logic
-    return unformatted;
-}
-
-function formatCorrectCJK(correct, userAnswer) {
     var formatted = "";
 
-    var diff_result = diff(correct, userAnswer);
+    // call fast-diff, returns e.g. [[-1, "Goo"], [1, "Ba"], [0, "d dog"]]
+    var diffResult = diff(userAnswer, correct);
+    // console.log("diff: ");
+    // console.log(diffResult);
 
-    // TODO try out using diff.js (if both same, result? etc.)
-    // TODO continue cjk logic here
-    // note: seems like all languages can now use the same logic, don't need to separate
-    // TODO combine 'formatcorrect' logic
+    for (var i=0; i<diffResult.length; i++) {
+        var currentElement = diffResult[i];
 
-    /*
-    var good = 'Good dog';
-    var bad = 'Bad dog';
-    
-    var result = diff(good, bad);
-    [[-1, "Goo"], [1, "Ba"], [0, "d dog"]]
+        var status = currentElement[0];
+        var value = currentElement[1];
         
-    diff.INSERT === 1;
-    diff.EQUAL === 0;
-    diff.DELETE === -1;
-    */
-    return formatted;
-}
+        switch (status) {
+            case diff.INSERT:
+                formatted += styleInsert(value);
+                break;
+            case diff.DELETE:
+                formatted += styleDelete(value);
+                break;
+            case diff.EQUAL:
+                formatted += value;
+                break;
+            default:
+                console.warn("fast-diff returned an unexpected status: " + status + ", value: " + value);
+                formatted += value;
+                break;
+        }
+    }
 
-function formatCorrectGreek(correct, userAnswer) {
-    // TODO @kuc greek incorrect bolding logic
-    return correct;
+    return formatted;
 }
 
 function checkIsModuleValid(selectedModule) {
