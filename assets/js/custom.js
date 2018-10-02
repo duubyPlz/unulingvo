@@ -723,39 +723,38 @@ function formatCorrect(unformatted, userAnswer) {
     return formatted;
 }
 
-function formatCorrectEsperanto(unformatted, userAnswer) {
+function formatCorrectEsperanto(correct, userAnswer) {
     // TODO @kuc esperanto incorrect bolding logic
     return unformatted;
 }
 
-function formatCorrectCJK(unformatted, userAnswer) {
-    var unformattedArray = unformatted.split('');
+function formatCorrectCJK(correct, userAnswer) {
     var formatted = "";
-    for (i=0; i<unformattedArray.length; i++) {
-        var character = unformattedArray[i];
-        // TODO continue here, cjk logic, remove dummy logic
-        /*
-            * correct
-                * 1 23 4 5
-            * user
-                * 123465
-            * formatted
-                * 1 23 4**6** 5
-        */
 
-        if ((i % 2) == 0) {
-            formatted += boldString(character);
-        }
-        if ((i % 2) == 1) {
-            formatted += unboldString(character);
-        }
-    }
+    var diff_result = diff(correct, userAnswer);
+
+    // TODO try out using diff.js (if both same, result? etc.)
+    // TODO continue cjk logic here
+    // note: seems like all languages can now use the same logic, don't need to separate
+    // TODO combine 'formatcorrect' logic
+
+    /*
+    var good = 'Good dog';
+    var bad = 'Bad dog';
+    
+    var result = diff(good, bad);
+    [[-1, "Goo"], [1, "Ba"], [0, "d dog"]]
+        
+    diff.INSERT === 1;
+    diff.EQUAL === 0;
+    diff.DELETE === -1;
+    */
     return formatted;
 }
 
-function formatCorrectGreek(unformatted, userAnswer) {
+function formatCorrectGreek(correct, userAnswer) {
     // TODO @kuc greek incorrect bolding logic
-    return unformatted;
+    return correct;
 }
 
 function checkIsModuleValid(selectedModule) {
