@@ -196,9 +196,6 @@
     E: I am not a person.
     F: _I_ am not a person.
 
-    O: 남자는 음식이 아닙니다. 
-    E: A man is not food.
-
     O: 동물
     E: Animal
 
