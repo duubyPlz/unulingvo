@@ -41,7 +41,6 @@
 
     O: 그릇에 무엇이 있어요?
     E: What is in the bowl? @polite
-    F: What _is in the bowl_? @polite
 
     O: 이 그릇은 커요.
     E: This bowl is big. @polite
