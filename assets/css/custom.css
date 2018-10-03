@@ -539,6 +539,67 @@ footer.footer {
 }
 /*== END LOADER ==*/
 
+
+.switch-toggle {
+  position: relative;
+  display: inline-block;
+  width: 81px;
+  height: 18px;
+  border-radius: 25px;
+  background-color: #333;
+}
+
+.switch-toggle input {
+  display: none;
+}
+
+.switch-toggle div {
+  position: absolute;
+  border-radius: 50%;
+  background-color: #989898;
+  transition: .1s ease;
+}
+
+.switch-toggle input:checked + div {
+  left: 50%;
+  background-color: rgba(255, 165, 0, 0.7);
+}
+
+.switch-toggle.rect {
+  border-radius: 0;
+}
+
+
+.switch-toggle.rect div {
+  border-radius: 0;
+}
+
+.switch-toggle.inner div {
+  width: 39px;
+  height: 14px;
+  top: 2px;
+  left: 3px;
+}
+
+.strikethrough-diagonal {
+  position: relative;
+  color: red;
+  font-weight: bold;
+}
+
+.strikethrough-diagonal:before {
+  position: absolute;
+  content: '';
+  left: 0;
+  top: 45%;
+  right: 0;
+  border-top: 2px solid;
+  border-color: inherit;
+  -webkit-transform: skewY(-10deg);
+  -moz-transform: skewY(-10deg);
+  transform: skewY(-10deg);
+}
+
 @media screen and (max-device-width: 768px)
               and (orientation: portrait) {
   body {
@@ -772,6 +833,10 @@ footer.footer {
     border-width: 10px;
     top: -110px;
   }
+
+  .strikethrough-diagonal:before {
+    border-top: 5px solid;
+  }
 }
 
 @media screen and (max-device-width: 768px)
@@ -974,64 +1039,8 @@ footer.footer {
     position: relative;
     top: 200px;
   }
-}
 
-.switch-toggle {
-  position: relative;
-  display: inline-block;
-  width: 81px;
-  height: 18px;
-  border-radius: 25px;
-  background-color: #333;
-}
-
-.switch-toggle input {
-  display: none;
-}
-
-.switch-toggle div {
-  position: absolute;
-  border-radius: 50%;
-  background-color: #989898;
-  transition: .1s ease;
-}
-
-.switch-toggle input:checked + div {
-  left: 50%;
-  background-color: rgba(255, 165, 0, 0.7);
-}
-
-.switch-toggle.rect {
-  border-radius: 0;
-}
-
-
-.switch-toggle.rect div {
-  border-radius: 0;
-}
-
-.switch-toggle.inner div {
-  width: 39px;
-  height: 14px;
-  top: 2px;
-  left: 3px;
-}
-
-.strikethrough-diagonal {
-  position: relative;
-  color: red;
-  font-weight: bold;
-}
-
-.strikethrough-diagonal:before {
-  position: absolute;
-  content: '';
-  left: 0;
-  top: 45%;
-  right: 0;
-  border-top: 2px solid;
-  border-color: inherit;
-  -webkit-transform: skewY(-10deg);
-  -moz-transform: skewY(-10deg);
-  transform: skewY(-10deg);
+  .strikethrough-diagonal:before {
+    border-top: 4px solid;
+  }
 }
