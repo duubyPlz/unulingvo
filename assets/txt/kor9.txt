@@ -35,7 +35,6 @@
 
     O: 식사로 이것을 먹읍시다.
     E: Let's eat this for a meal. @formal
-    F: Let's eat _this_ for a meal. @formal
 
     O: 저녁
     E: Dinner
