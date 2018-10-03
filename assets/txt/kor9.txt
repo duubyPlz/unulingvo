@@ -66,7 +66,7 @@
 
     O: 그 기름이 뜨겁습니까?
     E: Is that oil hot? @formal
-    F: _Is that_ oil _hot_? @formal
+    F: _Is_ that oil _hot_? @formal
 
     O: 고양이가 우유를 마셔요.
     E: The cat drinks milk. @polite
