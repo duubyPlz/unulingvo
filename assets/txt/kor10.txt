@@ -1,0 +1,45 @@
+> Six
+    O: 딸기 아이스크림
+    E: Strawberry ice cream
+
+    O: 치킨은 닭고기입니다.
+    E: Fried chicken is chicken. @formal
+    F: _Fried chicken_ is chicken. @formal
+
+    O: 라면!
+    E: Ramen
+
+    O: 과자를 너무 많이 먹지 마십시오.
+    E: Do not eat too many crackers. @formal
+
+    O: 피자
+    E: Pizza
+
+    O: 개에게 초콜릿을 주지 마십시오.
+    E: Do not give chocolate to dogs. @formal
+
+    O: 무슨 햄버거가 있습니까?
+    E: What kind of hamburger do you have? @formal
+    F: _What kind of hamburger_ do you have? @formal
+
+    O: 치킨은 좋아요.
+    E: Chicken is good. @polite
+    F: _Chicken_ is good. @polite
+
+    O: 저는 옥수수 피자가 좋아요.
+    E: I like corn pizza. @polite
+    F: _I_ like corn pizza. @polite
+
+    O: 과자
+    E: Snack
+
+    O: 아이스크림이 뜨거워요.
+    E: The ice cream is hot. @polite
+    F: The ice cream _is hot_. @polite
+
+    O: 저는 매일 초콜릿을 먹어요.
+    E: I eat chocolate every day. @polite
+    F: _I_ eat chocolate every day. @polite
+
+    O: 라면을 요리합시다!
+    E: Let's cook ramen. @formal
