@@ -1,0 +1,30 @@
+> Seven
+    O: 목이 마릅니까?
+    E: Are you thirsty? @formal
+
+    # "배가 고픕니다" literally means "the stomach is empty"
+    # 저는 배가 고파요. 
+    O: 저는 배고파요!
+    E: I am hungry! @polite
+    F: _I_ am hungry! @polite
+
+    O: 배가 고픕니까?
+    E: Are you hungry? @formal
+
+    O: 저는 배가 고픕니다.
+    E: I am hungry. @formal
+    F: _I_ am hungry. @formal
+
+    O: 저는 목이 말라요.
+    E: I am thirsty. @polite
+    F: _I_ am thirsty. @polite
+
+    O: 고양이는 목이 마릅니다.
+    E: The cat is thirsty. @formal
+    F: _The cat_ is thirsty. @formal
+
+    O: 목
+    E: Throat
+
+    O: 배
+    E: Stomach
