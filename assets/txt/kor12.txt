@@ -10,6 +10,7 @@
 
     O: 김치는 비쌉니까? 
     E: Is kimchi expensive? @formal
+    F: Is _kimchi_ expensive? @formal
 
     O: 한국에서 사람들이 치맥을 먹어요. 
     E: In Korea people eat chicken and beer. @polite
