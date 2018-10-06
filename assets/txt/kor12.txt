@@ -1,0 +1,40 @@
+> Eight
+    O: 불고기
+    E: Bulgogi
+
+    O: 김밥
+    E: Gimbap
+
+    O: 김
+    E: Seaweed
+
+    O: 김치는 비쌉니까? 
+    E: Is kimchi expensive? @formal
+
+    O: 한국에서 사람들이 치맥을 먹어요. 
+    E: In Korea people eat chicken and beer. @polite
+    F: _In Korea_ people _eat chicken and beer_. @polite
+
+    O: 김과 밥  
+    E: Laver and rice
+
+    O: 치맥을 먹읍시다! 
+    E: Let's eat chicken and beer! @formal
+
+    O: 아이가 김밥을 먹어요. 
+    E: The child eats gimbap. @polite
+    F: The child _eats gimbap_. @polite
+
+    O: 김치 파스타
+    E: Kimchi pasta
+
+    O: 누구가 치맥을 먹습니까? 
+    E: Who eats chicken and beer? @formal
+    F: Who _eats chicken and beer_? @formal
+
+    O: 불고기는 맛있습니까? 
+    E: Is bulgogi delicious? @formal
+    F: Is _bulgogi_ delicious? @formal
+
+    O: 김치, 김밥, 불고기, 김
+    E: Kimchi, gimbap, bulgogi, laver
