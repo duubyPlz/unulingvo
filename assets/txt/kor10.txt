@@ -23,8 +23,8 @@
     F: _What kind of hamburger_ do you have? @formal
 
     O: 치킨은 좋아요.
-    E: Chicken is good. @polite
-    F: _Chicken_ is good. @polite
+    E: (Fried) chicken is good. @polite
+    F: _(Fried) chicken_ is good. @polite
 
     O: 저는 옥수수 피자가 좋아요.
     E: I like corn pizza. @polite
