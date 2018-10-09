@@ -20,7 +20,7 @@
 
     O: 무슨 햄버거가 있습니까?
     E: What kind of hamburger do you have? @formal
-    F: _What kind of hamburger_ do you have? @formal
+    F: What kind of hamburger _do you have_? @formal
 
     O: 치킨은 좋아요.
     E: (Fried) chicken is good. @polite
