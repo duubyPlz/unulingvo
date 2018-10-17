@@ -5,8 +5,8 @@
     # "배가 고픕니다" literally means "the stomach is empty"
     # 저는 배가 고파요. 
     O: 저는 배고파요!
-    E: I am hungry! @polite
-    F: _I_ am hungry! @polite
+    E: I am hungry[s]! @polite
+    F: _I_ am hungry[s]! @polite
 
     O: 배가 고픕니까?
     E: Are you hungry? @formal
