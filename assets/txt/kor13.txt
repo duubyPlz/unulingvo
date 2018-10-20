@@ -5,8 +5,8 @@
     F: _This woman_ hates us. @polite
 
     O: 나는 차를 싫어합니다.
-    E: I hate tea. @formal,p
-    F: _I_ hate tea. @formal,p
+    E: I hate tea. @formal,i
+    F: _I_ hate tea. @formal,i
 
     O: 저는 운동을 좋아합니다.
     E: I like exercise.
@@ -37,8 +37,8 @@
     F: _I_ like this bag better. @formal
 
     O: 나는 극장에서 영화를 봅니다.
-    E: I watch a movie at the theatre. @formal,p
-    F: _I_ watch a movie at the theatre. @formal,p
+    E: I watch a movie at the theatre. @formal,i
+    F: _I_ watch a movie at the theatre. @formal,i
 
     O: 우리는 개를 좋아합니다.
     E: We like dogs. @formal
@@ -53,8 +53,8 @@
     F: _We_ love Duolingo! @polite
 
     O: 나는 그것을 좋아합니다.
-    E: I like that. @formal,p
-    F: _I_ like that. @formal,p
+    E: I like that. @formal,i
+    F: _I_ like that. @formal,i
 
     O: 저는 그 남자를 미워합니다.
     E: I hate that man. @formal
