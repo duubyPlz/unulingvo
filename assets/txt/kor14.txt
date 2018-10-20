@@ -1,0 +1,3 @@
+> Two
+    O: 나는 그 학생을 믿습니다.
+    E: I believe that student. @formal,i
