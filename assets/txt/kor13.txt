@@ -2,52 +2,68 @@
 > One
     O: 이 여자는 우리를 미워해요.
     E: This woman hates us. @polite
+    F: _This woman_ hates us. @polite
 
     O: 나는 차를 싫어합니다.
     E: I hate tea. @formal,p
+    F: _I_ hate tea. @formal,p
 
     O: 저는 운동을 좋아합니다.
     E: I like exercise.
+    F: _I_ like exercise.
 
     O: 우리는 한국어를 사랑해요!
     E: We love Korean!
+    F: _We_ love Korean!
 
     O: 아이가 빵을 싫어해요.
     E: The child hates bread. @polite
+    F: The child _hates bread_. @polite
 
     O: 저는 그 남자를 미워합니다.
     E: I hate that man. @formal
+    F: _I_ hate that man. @formal
 
     O: 우리는 바다를 사랑합니다.
     E: We love the sea. @formal
+    F: _We_ love the sea. @formal
 
     O: 나는 개를 싫어하지 않아요.
-    E: I do not hate dogs. @polite
+    E: I do not[l] hate dogs. @polite
+    F: _I_ do not[l] hate dogs. @polite
 
     O: 저는 이 가방을 더 좋아합니다.
     E: I like this bag better. @formal
+    F: _I_ like this bag better. @formal
 
     O: 나는 극장에서 영화를 봅니다.
     E: I watch a movie at the theatre. @formal,p
+    F: _I_ watch a movie at the theatre. @formal,p
 
     O: 우리는 개를 좋아합니다.
     E: We like dogs. @formal
+    F: _We_ like dogs. @formal
 
     O: 개가 나를 미워해요.
     E: The dog hates me. @polite
+    F: The dog _hates me_. @polite
 
     O: 우리는 듀오링고를 사랑해요!
     E: We love Duolingo! @polite
+    F: _We_ love Duolingo! @polite
 
     O: 나는 그것을 좋아합니다.
     E: I like that. @formal,p
+    F: _I_ like that. @formal,p
 
     O: 저는 그 남자를 미워합니다.
     E: I hate that man. @formal
+    F: _I_ hate that man. @formal
 
     # 싫어해요 = dislike 몹시 싫어해요 = hate
     O: 저는 그 남자를 미워해요.
     E: I hate that man. @polite
+    F: _I_ hate that man. @polite
 
     O: 나의 길
     E: My way @p
