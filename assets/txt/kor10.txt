@@ -1,45 +1,69 @@
-> Six
-    O: 딸기 아이스크림
-    E: Strawberry ice cream
+== Pronouns ==
+> One
+    O: 이 여자는 우리를 미워해요.
+    E: This woman hates us. @polite
+    F: _This woman_ hates us. @polite
 
-    O: 치킨은 닭고기입니다.
-    E: Fried chicken is chicken. @formal
-    F: _Fried chicken_ is chicken. @formal
+    O: 나는 차를 싫어합니다.
+    E: I hate tea. @formal,i
+    F: _I_ hate tea. @formal,i
 
-    O: 라면!
-    E: Ramen
+    O: 저는 운동을 좋아합니다.
+    E: I like exercise.
+    F: _I_ like exercise.
 
-    O: 과자를 너무 많이 먹지 마십시오.
-    E: Do not eat too many crackers. @formal
+    O: 우리는 한국어를 사랑해요!
+    E: We love Korean!
+    F: _We_ love Korean!
 
-    O: 피자
-    E: Pizza
+    O: 아이가 빵을 싫어해요.
+    E: The child hates bread. @polite
+    F: The child _hates bread_. @polite
 
-    O: 개에게 초콜릿을 주지 마십시오.
-    E: Do not give chocolate to dogs. @formal
+    O: 저는 그 남자를 미워합니다.
+    E: I hate that man. @formal
+    F: _I_ hate that man. @formal
 
-    O: 무슨 햄버거가 있습니까?
-    E: What kind of hamburger do you have? @formal
-    F: What kind of hamburger _do you have_? @formal
+    O: 우리는 바다를 사랑합니다.
+    E: We love the sea. @formal
+    F: _We_ love the sea. @formal
 
-    O: 치킨은 좋아요.
-    E: (Fried) chicken is good. @polite
-    F: _(Fried) chicken_ is good. @polite
+    O: 나는 개를 싫어하지 않아요.
+    E: I do not[l] hate dogs. @polite
+    F: _I_ do not[l] hate dogs. @polite
 
-    O: 저는 옥수수 피자가 좋아요.
-    E: I like corn pizza. @polite
-    F: _I_ like corn pizza. @polite
+    O: 저는 이 가방을 더 좋아합니다.
+    E: I like this bag better. @formal
+    F: _I_ like this bag better. @formal
 
-    O: 과자
-    E: Snack
+    O: 나는 극장에서 영화를 봅니다.
+    E: I watch a movie at the theatre. @formal,i
+    F: _I_ watch a movie at the theatre. @formal,i
 
-    O: 아이스크림이 뜨거워요.
-    E: The ice cream is hot. @polite
-    F: The ice cream _is hot_. @polite
+    O: 우리는 개를 좋아합니다.
+    E: We like dogs. @formal
+    F: _We_ like dogs. @formal
 
-    O: 저는 매일 초콜릿을 먹어요.
-    E: I eat chocolate every day. @polite
-    F: _I_ eat chocolate every day. @polite
+    O: 개가 나를 미워해요.
+    E: The dog hates me. @polite
+    F: The dog _hates me_. @polite
 
-    O: 라면을 요리합시다!
-    E: Let's cook ramen. @formal
+    O: 우리는 듀오링고를 사랑해요!
+    E: We love Duolingo! @polite
+    F: _We_ love Duolingo! @polite
+
+    O: 나는 그것을 좋아합니다.
+    E: I like that. @formal,i
+    F: _I_ like that. @formal,i
+
+    O: 저는 그 남자를 미워합니다.
+    E: I hate that man. @formal
+    F: _I_ hate that man. @formal
+
+    # 싫어해요 = dislike 몹시 싫어해요 = hate
+    O: 저는 그 남자를 미워해요.
+    E: I hate that man. @polite
+    F: _I_ hate that man. @polite
+
+    O: 나의 길
+    E: My way @p

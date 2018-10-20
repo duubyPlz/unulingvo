@@ -153,3 +153,122 @@
 
     O: 감자 샌드위치
     E: Potato sandwich
+
+> Six
+    O: 딸기 아이스크림
+    E: Strawberry ice cream
+
+    O: 치킨은 닭고기입니다.
+    E: Fried chicken is chicken. @formal
+    F: _Fried chicken_ is chicken. @formal
+
+    O: 라면!
+    E: Ramen
+
+    O: 과자를 너무 많이 먹지 마십시오.
+    E: Do not eat too many crackers. @formal
+
+    O: 피자
+    E: Pizza
+
+    O: 개에게 초콜릿을 주지 마십시오.
+    E: Do not give chocolate to dogs. @formal
+
+    O: 무슨 햄버거가 있습니까?
+    E: What kind of hamburger do you have? @formal
+    F: What kind of hamburger _do you have_? @formal
+
+    O: 치킨은 좋아요.
+    E: (Fried) chicken is good. @polite
+    F: _(Fried) chicken_ is good. @polite
+
+    O: 저는 옥수수 피자가 좋아요.
+    E: I like corn pizza. @polite
+    F: _I_ like corn pizza. @polite
+
+    O: 과자
+    E: Snack
+
+    O: 아이스크림이 뜨거워요.
+    E: The ice cream is hot. @polite
+    F: The ice cream _is hot_. @polite
+
+    O: 저는 매일 초콜릿을 먹어요.
+    E: I eat chocolate every day. @polite
+    F: _I_ eat chocolate every day. @polite
+
+    O: 라면을 요리합시다!
+    E: Let's cook ramen. @formal
+
+> Seven
+    O: 목이 마릅니까?
+    E: Are you thirsty? @formal
+
+    # "배가 고픕니다" literally means "the stomach is empty"
+    # 저는 배가 고파요. 
+    O: 저는 배고파요!
+    E: I am hungry[s]! @polite
+    F: _I_ am hungry[s]! @polite
+
+    O: 배가 고픕니까?
+    E: Are you hungry? @formal
+
+    O: 저는 배가 고픕니다.
+    E: I am hungry. @formal
+    F: _I_ am hungry. @formal
+
+    O: 저는 목이 말라요.
+    E: I am thirsty. @polite
+    F: _I_ am thirsty. @polite
+
+    O: 고양이는 목이 마릅니다.
+    E: The cat is thirsty. @formal
+    F: _The cat_ is thirsty. @formal
+
+    O: 목
+    E: Throat
+
+    O: 배
+    E: Stomach
+
+> Eight
+    O: 불고기
+    E: Bulgogi
+
+    O: 김밥
+    E: Gimbap
+
+    O: 김
+    E: Seaweed
+
+    O: 김치는 비쌉니까? 
+    E: Is kimchi expensive? @formal
+    F: Is _kimchi_ expensive? @formal
+
+    O: 한국에서 사람들이 치맥을 먹어요. 
+    E: In Korea people eat chicken and beer. @polite
+    F: _In Korea_ people _eat chicken and beer_. @polite
+
+    O: 김과 밥  
+    E: Laver and rice
+
+    O: 치맥을 먹읍시다! 
+    E: Let's eat chicken and beer! @formal
+
+    O: 아이가 김밥을 먹어요. 
+    E: The child eats gimbap. @polite
+    F: The child _eats gimbap_. @polite
+
+    O: 김치 파스타
+    E: Kimchi pasta
+
+    O: 누구가 치맥을 먹습니까? 
+    E: Who eats chicken and beer? @formal
+    F: Who _eats chicken and beer_? @formal
+
+    O: 불고기는 맛있습니까? 
+    E: Is bulgogi delicious? @formal
+    F: Is _bulgogi_ delicious? @formal
+
+    O: 김치, 김밥, 불고기, 김
+    E: Kimchi, gimbap, bulgogi, laver
