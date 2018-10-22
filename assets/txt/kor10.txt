@@ -66,4 +66,4 @@
     F: _I_ hate that man. @polite
 
     O: 나의 길
-    E: My way @p
+    E: My way @i
