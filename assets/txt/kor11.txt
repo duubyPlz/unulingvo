@@ -35,7 +35,7 @@
     E: Your name @i
 
     O: 너희와 우리
-    E: You[s] and us @i
+    E: You[p] and us @i
 
     O: 너
     E: You @i
@@ -45,7 +45,7 @@
     F: _We_ deceive the boy. @formal
 
     O: 너희의 빵
-    E: Your[s] bread. @i
+    E: Your[p] bread. @i
 
     O: 너의 이름은
     E: Your name @i
