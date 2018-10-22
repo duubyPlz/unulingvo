@@ -15,7 +15,7 @@
 
     # It means "you guys" (너희). It like makes a plural "you".
     O: 너희와 나
-    E: You and me @i
+    E: You[p] and me @i
 
     O: 나를 믿으십시오.
     E: Believe me. @formal,i
@@ -45,7 +45,7 @@
     F: _We_ deceive the boy. @formal
 
     O: 너희의 빵
-    E: Your bread. @i
+    E: Your[s] bread. @i
 
     O: 너의 이름은
     E: Your name @i
