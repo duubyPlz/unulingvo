@@ -29,8 +29,8 @@
     F: _We_ love the sea. @formal
 
     O: 나는 개를 싫어하지 않아요.
-    E: I do not[l] hate dogs. @polite
-    F: _I_ do not[l] hate dogs. @polite
+    E: I do not[l] hate dogs. @polite,i
+    F: _I_ do not[l] hate dogs. @polite,i
 
     O: 저는 이 가방을 더 좋아합니다.
     E: I like this bag better. @formal
