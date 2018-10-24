@@ -83,7 +83,6 @@
 
     O: 귤을 어떻게 요리합니까?
     E: How do you cook a tangerine? @formal
-    F: How do you cook _a tangerine_? @formal
 
     O: 오렌지 주스
     E: Orange juice
