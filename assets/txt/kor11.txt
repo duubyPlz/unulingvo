@@ -31,8 +31,9 @@
     E: We make fun of people. @formal
     F: _We_ make fun of people. @formal
 
+    # Your name
     O: 너의 이름은
-    E: Your name @i
+    E: Your name is @i
 
     O: 너희와 우리
     E: You[p] and us @i
@@ -46,6 +47,3 @@
 
     O: 너희의 빵
     E: Your[p] bread. @i
-
-    O: 너의 이름은
-    E: Your name @i
