@@ -9,12 +9,12 @@
     F: _I_ hate tea. @formal,i
 
     O: 저는 운동을 좋아합니다.
-    E: I like exercise.
-    F: _I_ like exercise.
+    E: I like exercise. @formal
+    F: _I_ like exercise. @formal
 
     O: 우리는 한국어를 사랑해요!
-    E: We love Korean!
-    F: _We_ love Korean!
+    E: We love Korean! @polite
+    F: _We_ love Korean! @polite
 
     O: 아이가 빵을 싫어해요.
     E: The child hates bread. @polite
