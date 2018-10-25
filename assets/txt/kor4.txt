@@ -324,6 +324,15 @@
     O: 저는 노래를 합니다.
     E: I sing[l].
 
+    O: 학생들이 학교에서 공부합니다.
+    E: The students study at school.
+
+    O: 저는 공부를 합니다.
+    E: I study[l].
+
+    O: 저는 동물을 먹지 않습니다.
+    E: I do not[l] eat animals.
+
 > Seven
     O: 저는 친구를 던지지 않습니다.
     E: I do not[l] throw my friend.
@@ -370,3 +379,9 @@
 
     O: 여자가 운동합니다.
     E: The woman exercises.
+
+    O: 남자는 운동을 합니다.
+    E: The man exercises.
+
+    O: 남자가 연필을 던지지 않습니다.
+    E: The man does not throw a pencil
