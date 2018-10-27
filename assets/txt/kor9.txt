@@ -203,7 +203,7 @@
     O: 목이 마릅니까?
     E: Are you thirsty? @formal
 
-    # "배가 고픕니다" literally means "the stomach is empty"
+    # "배가 고픕니다" literally means "the tummy is empty"
     # 저는 배가 고파요. 
     O: 저는 배고파요!
     E: I am hungry[s]! @polite
@@ -228,7 +228,7 @@
     E: Throat
 
     O: 배
-    E: Stomach
+    E: Tummy
 
 > Eight
     O: 불고기
