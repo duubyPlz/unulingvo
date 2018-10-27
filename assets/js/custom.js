@@ -31,7 +31,7 @@ var fileSizes = {
                     'eo': 30,
                     'ko': 10,
                     'ja': 2,
-                    'cn': 0,
+                    'cn': 4,
                     'gr': 11,
                     'flu': 2
                 };
@@ -269,6 +269,8 @@ $('button#randomise').click(function() {
     var size = fileSizes[language];
     var random = Math.floor(Math.random() * size) + 1;
 
+    console.log("SIZE " + size + " RANDOM " + random); // deleteprint
+
     // http://semantic-ui.com/modules/dropdown.html#behavior
     if (language == 'eo') {
         $('#contents-eo').dropdown('set selected', random);
@@ -405,14 +407,14 @@ function parse(module, language) {
 
     try {
         $.get(fileName, function(data) {
-            console.log(fileName);
-            console.log(data);
+            // console.log(fileName);
+            // console.log(data);
 
             // Break result into line by line
             var lines = data.split("\n");
             
-            console.log(lines);
-            console.log(lines.length);
+            // console.log(lines);
+            // console.log(lines.length);
             
             const originalTag = "O:"
             const englishTag = "E:"
@@ -474,18 +476,11 @@ function parse(module, language) {
     }
 
     function addToFileHash(fileHash, currentEntry) {
-        console.log("SEPARATOR"); // deleteprint
-
         // > Separator
         // 1. Store previous entry
         if (currentEntry.english != "") {
             fileHash[currentEntry.english] = currentEntry; // Set
         }
-
-        console.log("FILE"); // deleteprint
-        console.log(fileHash); // deleteprint
-        console.log("CURRENT"); // deleteprint
-        console.log(currentEntry); // deleteprint
 
         // 2. Reset current entry, we're going to be looking at a new entry
         currentEntry = {
@@ -756,8 +751,6 @@ function formatCorrect(correct, userAnswer) {
 
     // call fast-diff, returns e.g. [[-1, "Goo"], [1, "Ba"], [0, "d dog"]]
     var diffResult = diff(userAnswer, correct);
-    // console.log("diff: ");
-    // console.log(diffResult);
 
     for (var i=0; i<diffResult.length; i++) {
         var currentElement = diffResult[i];
