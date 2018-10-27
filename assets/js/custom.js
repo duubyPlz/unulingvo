@@ -23,13 +23,15 @@ var language = 'eo';
 // hide unwanted dropdowns
 $('select#contents-ko').parent().hide();
 $('select#contents-ja').parent().hide();
+$('select#contents-cn').parent().hide();
 $('select#contents-gr').parent().hide();
 
 // XXX @kuc can't get semantic ui <select>.dropdown('set selected', random) to work
 var fileSizes = {
                     'eo': 30,
-                    'ko': 9,
+                    'ko': 10,
                     'ja': 2,
+                    'cn': 0,
                     'gr': 11,
                     'flu': 2
                 };
@@ -122,7 +124,11 @@ $('body').keydown(function (e) {
         e.preventDefault();
         var currentPill = $('.nav-pills li#ja');
         goToPill(currentPill);
-    } else if (e.shiftKey && e.keyCode == 53) { // '%' Greek
+    } else if (e.shiftKey && e.keyCode == 53) { // '%' Chinese
+        e.preventDefault();
+        var currentPill = $('.nav-pills li#cn');
+        goToPill(currentPill);
+    } else if (e.shiftKey && e.keyCode == 54) { // '^' Greek
         e.preventDefault();
         var currentPill = $('.nav-pills li#gr');
         goToPill(currentPill);
@@ -202,6 +208,8 @@ function goToPill(currentPill) {
             $('.textarea#answer').attr('data-placeholder', '한국어');
         } else if (language == 'ja') {
             $('.textarea#answer').attr('data-placeholder', '日本語');
+        }  else if (language == 'cn') {
+            $('.textarea#answer').attr('data-placeholder', '中文');
         } else if (language == 'gr') {
             $('.textarea#answer').attr('data-placeholder', 'Ελληνικά');
         }
@@ -224,7 +232,7 @@ function goToPill(currentPill) {
 }
 
 // 4. If module is changed, reparse & display
-$('select#contents-eo, select#contents-ko, select#contents-ja, select#contents-gr').change(function() {
+$('select#contents-eo, select#contents-ko, select#contents-ja, select#contents-cn, select#contents-gr').change(function() {
     selectedModule = $(this).val();
     // checkIsModuleValid(selectedModule);
     
@@ -268,6 +276,8 @@ $('button#randomise').click(function() {
         $('#contents-ko').dropdown('set selected', random);
     } else if (language == 'ja') {
         $('#contents-ja').dropdown('set selected', random);
+    }  else if (language == 'cn') {
+        $('#contents-cn').dropdown('set selected', random);
     } else if (language == 'gr') {
         $('#contents-gr').dropdown('set selected', random);
     }
@@ -382,6 +392,7 @@ function parse(module, language) {
         "eo": "duo",
         "ko": "kor",
         "ja": "jpn",
+        "cn": "chn",
         "gr": "gre",
         "flu": "flu"
     };
@@ -394,14 +405,14 @@ function parse(module, language) {
 
     try {
         $.get(fileName, function(data) {
-            // console.log(fileName);
-            // console.log(data);
+            console.log(fileName);
+            console.log(data);
 
             // Break result into line by line
             var lines = data.split("\n");
             
-            // console.log(lines);
-            // console.log(lines.length);
+            console.log(lines);
+            console.log(lines.length);
             
             const originalTag = "O:"
             const englishTag = "E:"
@@ -444,6 +455,11 @@ function parse(module, language) {
                     if (currentEntry.english != "") {
                         fileHash[currentEntry.english] = currentEntry; // Set
                     }
+
+                    console.log("FILE"); // deleteprint
+                    console.log(fileHash); // deleteprint
+                    console.log("CURRENT"); // deleteprint
+                    console.log(currentEntry); // deleteprint
 
                     // 2. Reset current entry, we're going to be looking at a new entry
                     currentEntry = {
@@ -549,7 +565,7 @@ function styleInsert(string) {
 function styleDelete(string) {
     // -1: strikethrough
     var formatted = "";
-    if (language == 'ko' || language == 'ja') { // CJK
+    if (language == 'ko' || language == 'ja' || language == 'cn') { // CJK
         formatted = "<span class='strikethrough-diagonal' style='font-weight:400'>" + string + "</span>";
     } else {
         formatted = "<span style='text-decoration: line-through'>" + string + "</span>";
@@ -611,7 +627,8 @@ function logic(language) {
             correct = true;
         }
     } else if ((language == 'ja')
-            || (language == 'ko')) {
+            || (language == 'ko')
+            || (language == 'cn')) {
         sanitisedString = inputString
         .replace(cjkWhitelistRegex, "");
 

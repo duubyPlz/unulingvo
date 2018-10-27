@@ -74,8 +74,18 @@
             <span class='full'>Japanese</span>
           </a>
         </li>
-        <li role="presentation" id='gr'>
+        <li role="presentation" id='cn'>
           <a data-toggle='tooltip' data-placement='bottom' title='shortcut "%"'>
+            <span class='media'>CN</span>
+            <span class='full'>Chinese</span>
+          </a>
+          <label id='toggle-label-cn' class="switch-toggle inner rect" style='position: absolute; top: -25px; display: none'>
+            <input type="checkbox" id='toggle-cn' />
+            <div></div>
+          </label>
+        </li>
+        <li role="presentation" id='gr'>
+          <a data-toggle='tooltip' data-placement='bottom' title='shortcut "^"'>
             <span class='media'>GR</span>
             <span class='full'>NT Greek</span>
           </a>
@@ -143,6 +153,10 @@
         <option value='2' selected='selected'>2. Introduction</option>
       </select>
 
+      <select id='contents-cn' class="ui search dropdown select-round pull-right duo" style='display:none'>
+        <option value='1'>1. Greetings One</option>
+      </select>
+
       <select id='contents-gr' class="ui search dropdown select-round pull-right duo" style='display:none'>
         <option value='1' selected='selected'>Practice 2.3.3</option>
         <option value='2'>Practice 2.4 &amp; 2.5</option>
@@ -191,6 +205,7 @@
           <a href='https://www.duolingo.com/course/eo/en/Learn-Esperanto-Online' target='_blank' class='link-blue'>eo</a>
           <a href='https://www.duolingo.com/course/ko/en/Learn-Korean-Online' target='_blank' class='link-blue'>ko</a>
           <a href='https://www.duolingo.com/course/ja/en/Learn-Japanese-Online' target='_blank' class='link-blue'>ja</a>
+          <a href='https://www.duolingo.com/course/zh/en/Learn-Chinese-Online' target='_blank' class='link-blue'>cn</a>
         ]
       </small>
     </footer>
@@ -278,7 +293,7 @@
 
   <!-- Semantic UI -->
   <script src="assets/js/semantic.min.js"></script>
-  <!-- fast-diff https://github.com/jhchen/fast-diff -->
+  <!-- fast-diff: https://github.com/jhchen/fast-diff -->
   <script src="assets/js/diff.js"></script>
   <!-- Custom -->
   <script src="assets/js/custom.js"></script>

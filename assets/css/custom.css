@@ -394,12 +394,12 @@ div#flu-top-bar {
   width: 800px;
   margin-left: auto;
   margin-right: auto;
-  top: 100px;
+  top: 105px;
   padding: 0;
 }
 
 .nav-pills {
-  margin-left: 25px;
+  margin-left: 5px;
   top: 10px;
 }
 
@@ -413,7 +413,7 @@ div#flu-top-bar {
 
 .nav-pills > li > a {
   padding: 3px 9px 3px 9px;
-  margin-right: 5px;
+  margin-right: 2px;
   cursor: pointer;
   border-radius: 0;
   transition:.3s;
