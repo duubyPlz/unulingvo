@@ -6,7 +6,7 @@
     O: 我也吃飯。
     E: I also eat rice.
 
-    O: 我也吃麵
+    O: 我也吃麵。
     E: I also eat noodles.
 
     O: 我吃麵，你呢？
