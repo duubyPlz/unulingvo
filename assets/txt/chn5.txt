@@ -1,0 +1,44 @@
+== Food ==
+> One
+    O: 你吃魚。
+    E: You eat fish.
+
+    O: 我也吃飯。
+    E: I also eat rice.
+
+    O: 我也吃麵
+    E: I also eat noodles.
+
+    O: 我吃麵，你呢？
+    E: I eat noodles, what about you?
+
+    O: 你吃魚。
+    E: You eat fish.
+
+    O: 你吃飯。
+    E: You eat rice.
+
+    O: 我也吃魚。
+    E: I also eat fish.
+
+> Two
+    O: 你不吃飯。
+    E: You do not eat rice.
+
+    O: 你喝茶。
+    E: You drink tea.
+
+    O: 你喝水。
+    E: You drink water.
+
+    O: 我不吃魚，你呢？
+    E: I do not eat fish, what about you?
+
+    O: 我也喝水。
+    E: I also drink water.
+
+    O: 我也喝茶。
+    E: I also drink tea.
+
+    O: 我喝水。
+    E: I drink water.

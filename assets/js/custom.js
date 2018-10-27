@@ -31,7 +31,7 @@ var fileSizes = {
                     'eo': 30,
                     'ko': 10,
                     'ja': 2,
-                    'cn': 4,
+                    'cn': 5,
                     'gr': 11,
                     'flu': 2
                 };
@@ -268,8 +268,6 @@ $('button#randomise').click(function() {
 
     var size = fileSizes[language];
     var random = Math.floor(Math.random() * size) + 1;
-
-    console.log("SIZE " + size + " RANDOM " + random); // deleteprint
 
     // http://semantic-ui.com/modules/dropdown.html#behavior
     if (language == 'eo') {
