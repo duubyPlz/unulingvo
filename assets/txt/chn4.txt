@@ -1,4 +1,4 @@
-== Greetings 2 ==
+== Greetings Two ==
 > One
     O: 我很高興，你呢？
     E: I am happy. How about you?
