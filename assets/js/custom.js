@@ -613,7 +613,8 @@ function logic(language) {
     //     http://www.localizingjapan.com/blog/2012/01/20/regular-expressions-for-japanese-text/
     //     http://stackoverflow.com/questions/30069846/how-to-find-out-chinese-or-japanese-character-in-a-string-in-python
     //     http://stackoverflow.com/questions/280712/javascript-unicode-regexes
-    var cjkWhitelistRegex = new RegExp("[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5\u3000-\u303F]", "g");
+    // \u3000-\u303F is cjk punctuation, no need to whitelist
+    var cjkWhitelistRegex = new RegExp("[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5]", "g");
     var grWhitelistRegex = new RegExp("[^a-zA-Z0-9_.,?!'\" \-\u1F00-\u1FFF\u0370-\u03FF ]" , "g");
     var grBlacklistRegex = new RegExp("[.,?!:\";]" , "g");
 
