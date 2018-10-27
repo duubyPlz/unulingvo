@@ -1,7 +1,11 @@
 == Greetings One ==
 > One
-    O: 日尸木火
-    E: Placeholder
+    O: 好！
+    E: Good!
 
-    O: 手田水口
-    E: placeholder2
+    O: 你好！
+    E: Hello!
+
+> Two
+    O: 再見！
+    E: Goodbye!
