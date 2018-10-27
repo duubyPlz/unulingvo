@@ -429,13 +429,10 @@ function parse(module, language) {
 
             // For all the lines in the file,
             // sift through which are matching [O:], [E:], [F:] & entry separators
-            var currentEntry = {
-                original: "",
-                english: "",
-                formatted: ""
-            };
+            var currentEntry = generateEmptyEntry();
+            var line = "";
             for (var i=0; i<lines.length; i++) {
-                var line = lines[i];
+                line = lines[i];
 
                 if (matchesTarget = line.match(originalRegexMatch)) {
                     // > Original [O:]
@@ -449,29 +446,53 @@ function parse(module, language) {
                     // > Formatted [F:]
                     var formatted = matchesFormatted[0].replace(formattedRegexReplace, "");
                     currentEntry.formatted = formatted;
-                } else if (matchesSeparator = line.match(separatorRegex)) {
-                    // > Separator
-                    // 1. Store previous entry
-                    if (currentEntry.english != "") {
-                        fileHash[currentEntry.english] = currentEntry; // Set
-                    }
-
-                    console.log("FILE"); // deleteprint
-                    console.log(fileHash); // deleteprint
-                    console.log("CURRENT"); // deleteprint
-                    console.log(currentEntry); // deleteprint
-
-                    // 2. Reset current entry, we're going to be looking at a new entry
-                    currentEntry = {
-                        original: "",
-                        english: "",
-                        formatted: ""
-                    };
+                } else if (line.match(separatorRegex)) {
+                    addToFileHash(fileHash, currentEntry);
+                    currentEntry = generateEmptyEntry();
                 }
+            }
+            // End of loop.
+            // Just in case, if the last line is not a separator
+            if (!line.match(separatorRegex)) {
+                // 
+                addToFileHash(fileHash, currentEntry);
+                currentEntry = generateEmptyEntry();
             }
         }, 'text');
     } catch (e) {
         console.warn(e);
+    }
+
+    function generateEmptyEntry() {
+        var newEmptyEntry = {
+            original: "",
+            english: "",
+            formatted: ""
+        };
+
+        return newEmptyEntry;
+    }
+
+    function addToFileHash(fileHash, currentEntry) {
+        console.log("SEPARATOR"); // deleteprint
+
+        // > Separator
+        // 1. Store previous entry
+        if (currentEntry.english != "") {
+            fileHash[currentEntry.english] = currentEntry; // Set
+        }
+
+        console.log("FILE"); // deleteprint
+        console.log(fileHash); // deleteprint
+        console.log("CURRENT"); // deleteprint
+        console.log(currentEntry); // deleteprint
+
+        // 2. Reset current entry, we're going to be looking at a new entry
+        currentEntry = {
+            original: "",
+            english: "",
+            formatted: ""
+        };
     }
 }
 
