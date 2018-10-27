@@ -1,0 +1,7 @@
+== Greetings One ==
+> One
+    O: 日尸木火
+    E: Placeholder
+
+    O: 手田水口
+    E: placeholder2
