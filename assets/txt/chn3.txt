@@ -19,16 +19,16 @@
     E: You are Ming Zhang.
 
 > Two
-    O: 你好！你叫什麽名字？
+    O: 你好！你叫甚麽名字？
     E: Hello! What is your name?
 
-    O: 你叫什麽名字
+    O: 你叫甚麽名字
     E: What is your name?
 
     O: 你叫甚麽？
     E: What's your name?[s]
 
-    O: 我叫張明，你叫什麽名字？
+    O: 我叫張明，你叫甚麽名字？
     E: I'm Ming Zhang. What is your name?
 
 > Three
