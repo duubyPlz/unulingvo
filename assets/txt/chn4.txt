@@ -1,0 +1,35 @@
+== Greetings 2 ==
+> One
+    O: 我很高興，你呢？
+    E: I am happy. How about you?
+
+    O: 我很高興。
+    E: I am happy.
+
+    O: 你很高興。
+    E: You are happy.
+
+> Two
+    # 我也很高興認識你。
+    O: 認識你我也很高興。
+    E: Nice to meet you, too.
+
+    O: 你很高興，我也很高興。
+    E: You are happy. I am also happy.
+
+    # 很高興認識你。
+    O: 認識你我很高興。
+    E: Nice to meet you.
+
+    O: 我認識你!
+    E: I know you!
+
+    O: 很高興見到你。
+    E: Nice to see you.
+
+> Three
+    O: 你很高興。
+    E: You are happy.
+
+> Four
+// exactly the same sentences..
