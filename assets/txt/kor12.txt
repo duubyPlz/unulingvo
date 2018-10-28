@@ -1,21 +1,27 @@
 > Three
     O: 나는 내 자신을 압니다.
     E: I know myself. @formal,i
+    F: _I_ know myself. @formal,i
 
     O: 나는 혼자 요리합니다.
     E: I cook by myself. @formal,i
+    F: _I_ cook by myself. @formal,i
 
     O: 너희가 서로 싫어합니다.
     E: You hate each other. @formal,i
+    F: You _hate each other_. @formal,i
     
     O: 동물은 자기의 음식을 먹어요.
     E: The animal eats its own food. @polite
+    F: _The animal_ eats its own food. @polite
 
     O: 그녀가 속입니다.
     E: She deceives. @formal
+    F: She _deceives_. @formal
 
     O: 그는 런던에 있습니다.
     E: He is in London. @formal
+    F: _He_ is in London. @formal
 
     O: 당신!
     E: You! @n
@@ -25,9 +31,11 @@
 
     O: 나는 나 자신을 사랑합니다.
     E: I love myself. @formal,i
+    E: _I_ love myself. @formal,i
 
     O: 나는 그녀를 사랑해요.
     E: I love her. @polite,i
+    E: _I_ love her. @polite,i
 
     O: 혼자 공부하지 마십시오.
     E: Do not study alone. @formal
@@ -37,8 +45,10 @@
 
     O: 그들은 서로 압니다.
     E: They know each other. @formal
+    F: _They_ know each other. @formal
 
     O: 나는 나 자신을 놀려요.
     E: I make fun of myself. @formal,i
+    F: _I_ make fun of myself. @formal,i
 
 
