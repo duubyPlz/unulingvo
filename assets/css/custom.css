@@ -1,13 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Exo:200,300,400,700&subset=latin-ext');
 @import url('https://fonts.googleapis.com/earlyaccess/notosanskr.css');
 @import url('https://fonts.googleapis.com/earlyaccess/notosansjapanese.css');
+@import url('https://fonts.googleapis.com/earlyaccess/notosanstc.css');
 
 html {
   -webkit-font-smoothing: antialiased;
 }
 
 body {
-  font-family: 'Exo', 'Noto Sans KR', 'Noto Sans Japanese', sans-serif;
+  font-family: 'Exo', 'Noto Sans TC', 'Noto Sans KR', 'Noto Sans Japanese', sans-serif;
   font-size: 16px;
   background-color: #0b0f12;
   color: rgba(255, 255, 255, 0.9);
