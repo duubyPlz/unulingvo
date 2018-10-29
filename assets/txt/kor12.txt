@@ -31,11 +31,11 @@
 
     O: 나는 나 자신을 사랑합니다.
     E: I love myself. @formal,i
-    E: _I_ love myself. @formal,i
+    F: _I_ love myself. @formal,i
 
     O: 나는 그녀를 사랑해요.
     E: I love her. @polite,i
-    E: _I_ love her. @polite,i
+    F: _I_ love her. @polite,i
 
     O: 혼자 공부하지 마십시오.
     E: Do not study alone. @formal
