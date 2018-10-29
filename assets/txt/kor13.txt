@@ -1,0 +1,42 @@
+== Animals ==
+> One
+    O: 거미
+    E: Spider
+
+    O: 토끼는 빨리 달립니다.
+    E: Rabbits run quickly.
+    F: _Rabbits_ run quickly.
+
+    O: 거북이
+    E: Turtle
+
+    O: 새
+    E: Bird
+
+    O: 물고기
+    E: Fish
+
+    O: 오리 불고기는 너무 맛있습니다!
+    E: Duck bulgogi is too delicious!
+    F: _Duck bulgogi_ is too delicious!
+
+    O: 그 쥐가 무겁지 않습니다.
+    E: That mouse is not heavy.
+    F: That mouse _is not heavy_.
+
+    O: 토끼
+    E: Rabbit
+
+    O: 오리가 쥐에게서 사과를 받아요.
+    E: The duck receives an apple from the mouse.
+    F: The duck _receives an apple from the mouse_.
+
+    O: 물고기와 거미
+    E: A fish and a spider
+
+    O: 그 새가 작습니다.
+    E: That bird is small.
+    F: That bird _is small_.
+
+    O: 거북이와 토끼
+    E: A turtle and a rabbit
