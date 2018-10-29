@@ -1,0 +1,23 @@
+== Contact ==
+> One
+    O: 我的電話是一二三四。
+    E: My number is 1234.
+
+    O: 他的電話是九八六七。
+    E: His number is 9867.
+
+    O: 你的電話是五六七八嗎？
+    E: Is your number 5678?
+
+> Two
+    O: 他的電話號碼是八七六五嗎？
+    E: Is his telephone number 8765?
+
+    O: 你的電話號碼是多少？
+    E: What's your telephone number?
+
+    O: 李老師的電話號碼是多少？
+    E: What's Teacher Li's telephone number?
+
+    O: 她的電話號碼是多少？
+    E: What's her telephone number?

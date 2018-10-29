@@ -25,6 +25,7 @@
     O: 你叫甚麽名字
     E: What is your name?
 
+    # or with: 麼
     O: 你叫甚麽？
     E: What's your name?[s]
 
