@@ -33,7 +33,7 @@
     E: She drinks tea.
 
     O: 你們不吃飯嗎？
-    E: Are you guys not eating?
+    E: Are you guys not eating rice?
 
     O: 我們喝水。
     E: We drink water.
