@@ -1,0 +1,66 @@
+== Location One ==
+> One
+    O: 北京在中國。
+    E: Beijing is in China.
+
+    O: 我的家在北京。
+    E: My home is in Beijing.
+
+    O: 老師不在家。
+    E: The teacher is not home.
+
+    O: 醫生是北京人。
+    E: The doctor is from Beijing.
+
+    O: 你的家在美國嗎？
+    E: Is your home in the US?
+
+    O: 她們在英國嗎？
+    E: Are they in the UK?
+
+    O: 他的家在中國。
+    E: His home is in China.
+
+> Two
+    O: 紐約在美國。
+    E: New York is in the US.
+
+    O: 他的家在香港哪裏？
+    E: Where in Hong Kong is his home?
+
+    O: 你的香港電話號碼是多少？
+    E: What's your Hong Kong phone number?
+
+    O: 你們在哪裏？
+    E: Where are you all?
+
+    O: 你的家在哪裏？
+    E: Where is your home?
+
+    O: 我們的家在紐約。
+    E: Our home is in New York.
+
+    O: 我的醫生是紐約人。
+    E: My doctor is from New York.
+
+> Three
+    O: 你的醫生住在倫敦嗎？
+    E: Does your doctor live in London?
+
+    O: 我們的家在台灣。
+    E: Our home is in Taiwan.
+
+    O: 她住在台灣。
+    E: She lives in Taiwan.
+
+    O: 你的老師住在台灣嗎？
+    E: Does your teacher live in Taiwan?
+
+    O: 倫敦在英國。
+    E: London is in the UK.
+
+    O: 我的學生住在倫敦。
+    E: My student lives in London.
+
+    O: 王老師住在倫敦哪裏？
+    E: Where in London does Teacher Wang live?

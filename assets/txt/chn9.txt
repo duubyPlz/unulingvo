@@ -1,0 +1,39 @@
+== Greetings Three ==
+    O: 你們都很忙。
+    E: You are all busy.
+    F: You _are all busy_.
+
+    O: 早上好！
+    E: Good morning (mainland chinese)!
+
+    O: 我早上很忙。
+    E: I am busy in the morning.
+    F: _I_ am busy in the morning.
+
+    O: 你忙嗎？
+    E: Are you busy?
+
+    O: 他早上不喝茶。
+    E: He does not drink tea in the morning.
+
+    O: 我不忙。
+    E: I am not busy.
+
+> Two
+    O: 你今天怎麼樣？
+    E: How are you today?
+
+    O: 你們今天怎麼樣？
+    E: How are you all today?
+
+    O: 她們怎麼樣？
+    E: How are they[f]?
+
+    O: 我今天很好。
+    E: I am good today.
+
+    O: 李老師今天不高興。
+    E: Teacher Li is not happy today.
+
+    O: 他怎麼樣？
+    E: How is he?

@@ -51,3 +51,34 @@
 
     O: 你們是美國人。
     E: You are American.
+
+> Three
+    O: 對
+    E: Correct.
+
+    O: 我們都是老師。
+    E: We are all teachers.
+    F: We _are all teachers_.
+
+    O: 她不是加拿大人。
+    E: She is not Canadian.
+    F: _She_ is not Canadian.
+
+    O: 我們都是加拿大人。
+    E: We are all Canadian.
+    F: We _are all Canadian_.
+
+    O: 你們都是美國人，對嗎？
+    E: You are all American, right?
+    F: You _are all American, right_?
+
+    O: 不對。
+    E: Incorrect.
+
+    O: 他們都是中國人。
+    E: They are all Chinese.
+    F: They _are all Chinese_.
+
+    O: 他們都不是美國人。
+    E: None of them are American.
+    F: _None of_ them _are American_.
