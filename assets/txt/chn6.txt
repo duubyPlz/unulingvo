@@ -33,7 +33,7 @@
     E: She drinks tea.
 
     O: 你們不吃飯嗎？
-    E: Are you guys not eating?
+    E: Are you guys not eating rice?
 
     O: 我們喝水。
     E: We drink water.
@@ -63,13 +63,13 @@
     O: 他們是醫生。
     E: They are doctors.
 
-    O: 醫生叫什麼？
+    O: 醫生叫甚麼？
     E: What is the doctor called?
 
     O: 你也是醫生嗎？
     E: Are you also a doctor?
 
-    O: 老師姓什麼？
+    O: 老師姓甚麼？
     E: What is the teacher's last name?
 
     O: 你是老師嗎？
