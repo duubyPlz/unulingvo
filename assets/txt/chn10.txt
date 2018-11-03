@@ -25,16 +25,16 @@
     O: 紐約在美國。
     E: New York is in the US.
 
-    O: 他的家在香港哪裏？
+    O: 他的家在香港那裏？
     E: Where in Hong Kong is his home?
 
     O: 你的香港電話號碼是多少？
     E: What's your Hong Kong phone number?
 
-    O: 你們在哪裏？
+    O: 你們在那裏？
     E: Where are you all?
 
-    O: 你的家在哪裏？
+    O: 你的家在那裏？
     E: Where is your home?
 
     O: 我們的家在紐約。
@@ -62,5 +62,5 @@
     O: 我的學生住在倫敦。
     E: My student lives in London.
 
-    O: 王老師住在倫敦哪裏？
+    O: 王老師住在倫敦那裏？
     E: Where in London does Teacher Wang live?

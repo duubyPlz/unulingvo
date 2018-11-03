@@ -25,7 +25,7 @@
     E: We are not Chinese.
 
 > Two
-    O: 她是哪國人？
+    O: 她是那國人？
     E: What country is she from?
 
     O: 王医生是美国人。
@@ -40,13 +40,13 @@
     O: 你也是英國人嗎？
     E: Are you also British?
 
-    O: 他們是哪國人？
+    O: 他們是那國人？
     E: What country are they from?
 
     O: 你是美國人嗎？
     E: Are you American?
 
-    O: 你是哪國人？
+    O: 你是那國人？
     E: What country are you from?
 
     O: 你們是美國人。
