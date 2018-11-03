@@ -6,7 +6,7 @@
     O: 李老師是中國人。
     E: Teacher Li is Chinese.
 
-    O: 我是中国人。
+    O: 我是中國人。
     E: I am Chinese.
 
     O: 你是中國人嗎？
@@ -28,7 +28,7 @@
     O: 她是那國人？
     E: What country is she from?
 
-    O: 王医生是美国人。
+    O: 王医生是美國人。
     E: Doctor Wang is American.
 
     O: 我們是英國人。
