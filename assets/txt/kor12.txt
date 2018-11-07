@@ -31,7 +31,7 @@
 
     O: 나는 나 자신을 사랑합니다.
     E: I love myself[u]. @formal,i
-    F: _I_ love myself. @formal,i
+    F: _I_ love myself[u]. @formal,i
 
     O: 나는 그녀를 사랑해요.
     E: I love her. @polite,i
@@ -48,5 +48,5 @@
     F: _They_ know each other. @formal
 
     O: 나는 나 자신을 놀려요.
-    E: I make fun of myself[u]. @formal,i
-    F: _I_ make fun of myself. @formal,i
+    E: I make fun of myself[u]. @polite,i
+    F: _I_ make fun of myself[u]. @polite,i
