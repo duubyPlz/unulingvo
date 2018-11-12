@@ -16,7 +16,7 @@
     E: Is your home in the US?
 
     O: 她們在英國嗎？
-    E: Are they in the UK?
+    E: Are they[f] in the UK?
 
     O: 他的家在中國。
     E: His home is in China.
