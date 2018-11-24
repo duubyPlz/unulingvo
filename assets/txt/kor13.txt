@@ -1,42 +1,46 @@
-== Animals ==
-> One
-    O: 거미
-    E: Spider
+> Three
+    # The snake does not fly.
+    O: 뱀은 날지 않아요.
+    E: Snakes do not fly. @polite
+    F: _Snakes_ do not fly. @polite
 
-    O: 토끼는 빨리 달립니다.
-    E: Rabbits run quickly. @formal
-    F: _Rabbits_ run quickly. @formal
+    O: 호랑이가 피자를 요리합니다.
+    E: The tiger makes a pizza. @formal
+    F: The tiger _makes a pizza_. @formal
 
-    O: 거북이
-    E: Turtle
+    O: 사슴이 우리의 집으로 갑니다.
+    E: A deer goes to our house. @formal
+    F: A deer _goes to our house_. @formal
 
-    O: 새
-    E: Bird
+    O: 부엉이
+    E: Owl
 
-    O: 물고기
-    E: Fish
+    O: 새들이 납니다.
+    E: The birds fly. @formal
+    F: The birds _fly_. @formal
 
-    O: 오리 불고기는 너무 맛있습니다!
-    E: Duck bulgogi is too delicious! @formal
-    F: _Duck bulgogi_ is too delicious! @formal
+    O: 부엉이와 오리가 날아요.
+    E: The owl and the duck fly. @polite
+    F: The owl and the duck _fly_. @polite
 
-    O: 그 쥐가 무겁지 않습니다.
-    E: That mouse is not heavy. @formal
-    F: That mouse _is not heavy_. @formal
+    O: 늑대가 아이를 길러요.
+    E: The wolf raises a child. @polite
+    F: The wolf _raises a child_. @polite
 
-    O: 토끼
-    E: Rabbit
+    O: 숲에서 호랑이는 사슴을 먹습니다.
+    E: In the forest a tiger eats a deer. @formal
+    F: In the forest _a tiger_ eats a deer. @formal
 
-    O: 오리가 쥐에게서 사과를 받아요.
-    E: The duck receives an apple from the mouse. @polite
-    F: The duck _receives an apple from the mouse_. @polite
+    O: 뱀이 그녀를 속입니다.
+    E: The snake deceives her. @formal
+    F: The snake _deceives her_. @formal
 
-    O: 물고기와 거미
-    E: A fish and a spider
+    O: 사슴 고기
+    E: Venison
 
-    O: 그 새가 작습니다.
-    E: That bird is small. @formal
-    F: That bird _is small_. @formal
+    O: 호랑이는 고양이예요.
+    E: A tiger is a cat. @polite
+    F: A tiger _is a cat_. @polite
 
-    O: 거북이와 토끼
-    E: A turtle and a rabbit
+    O: 뱀
+    E: Snake

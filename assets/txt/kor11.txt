@@ -1,49 +1,42 @@
-> Two
-    O: 나는 그 학생을 믿습니다.
-    E: I believe that student. @formal,i
-    F: _I_ believe that student. @formal,i
+== Animals ==
+> One
+    O: 거미
+    E: Spider
 
-    O: 너와 나
-    E: You and me @i
+    O: 토끼는 빨리 달립니다.
+    E: Rabbits run quickly. @formal
+    F: _Rabbits_ run quickly. @formal
 
-    O: 나를 놀리지 마십시오.
-    E: Please don't tease me. @formal,i
+    O: 거북이
+    E: Turtle
 
-    O: 내 친구는 나를 너무 많이 속입니다.
-    E: My[s] friend deceives me too much. @formal,i
-    F: _My[s] friend_ deceives me too much. @formal,i
+    O: 새
+    E: Bird
 
-    # It means "you guys" (너희). It like makes a plural "you".
-    O: 너희와 나
-    E: You[p] and me @i
+    O: 물고기
+    E: Fish
 
-    O: 나를 믿으십시오.
-    E: Please believe me. @formal,i
+    O: 오리 불고기는 너무 맛있습니다!
+    E: Duck bulgogi is too delicious! @formal
+    F: _Duck bulgogi_ is too delicious! @formal
 
-    O: 사람들이 우리를 놀려요.
-    E: People make fun of us. @polite
-    F: People _make fun of us_. @polite
+    O: 그 쥐가 무겁지 않습니다.
+    E: That mouse is not heavy. @formal
+    F: That mouse _is not heavy_. @formal
 
-    O: 나를 속이지 마십시오.
-    E: Please don't deceive me. @formal,i
+    O: 토끼
+    E: Rabbit
 
-    O: 우리는 사람들을 놀립니다.
-    E: We make fun of people. @formal
-    F: _We_ make fun of people. @formal
+    O: 오리가 쥐에게서 사과를 받아요.
+    E: The duck receives an apple from the mouse. @polite
+    F: The duck _receives an apple from the mouse_. @polite
 
-    # Your name
-    O: 너의 이름은
-    E: Your name is @i
+    O: 물고기와 거미
+    E: A fish and a spider
 
-    O: 너희와 우리
-    E: You[p] and us @i
+    O: 그 새가 작습니다.
+    E: That bird is small. @formal
+    F: That bird _is small_. @formal
 
-    O: 너
-    E: You @i
-
-    O: 우리는 남자아이를 속입니다.
-    E: We deceive the boy. @formal
-    F: _We_ deceive the boy. @formal
-
-    O: 너희의 빵
-    E: Your[p] bread. @i
+    O: 거북이와 토끼
+    E: A turtle and a rabbit
