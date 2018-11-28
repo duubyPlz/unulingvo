@@ -39,8 +39,8 @@
     F: _Pigs_ are hungry every day. @formal
 
     O: 이 소는 우유를 마시지 않습니다.
-    E: This cow does not drink milk. @formal
-    F: _This cow_ does not drink milk. @formal
+    E: This cow does not[l] drink milk. @formal
+    F: _This cow_ does not[l] drink milk. @formal
 
     O: 말은 빨리 달립니다.
     E: A horse runs fast. @formal
