@@ -40,7 +40,7 @@
 
     O: 호랑이는 고양이예요.
     E: A tiger is a cat. @polite
-    F: A tiger _is a cat_. @polite
+    F: _A tiger_ is a cat. @polite
 
     O: 뱀
     E: Snake
