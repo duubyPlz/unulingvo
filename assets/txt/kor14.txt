@@ -1,0 +1,9 @@
+> Four
+    O: 저는 개구리를 찾습니다.
+    E: I search for frogs.
+
+    O: 여우는 어떻게 웁니까?
+    E: What does the fox say?
+
+    O: 
+    E: 
