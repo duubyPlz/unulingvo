@@ -53,66 +53,85 @@
     E: The cat falls.
     F: The cat _falls_.
 
-
-
-
-
     O: 학생이 도서관에서 생각합니다.
     E: The student thinks in the library.
+    F: The student _thinks in the library_.
 
     O: 남자가 웃습니다.
     E: The man laughs.
+    F: The man _laughs_.
 
     O: 아이들이 함께 앉습니다.
     E: The children sit together.
+    F: The children _sit together_.
 
     O: 도서관의 방.
     E: The room of the library.
-
+    
     O: 학생들이 길에 섭니다.
     E: The students stand in the street.
+    F: The students _stand in the street_.
 
     O: 여자가 길에서 웃습니다.
-    E: The woman laughs in the street.
-
+    E: The woman laughs in the street.    F: The woman _laughs in the street_.
     
     O: 남자아이가 웃습니다.
     E: The boy laughs.
+    F: The boy _laughs_.
 
     O: 남자가 여자와 같이 웃습니다.
     E: The man laughs with the woman.
-    
+    F: The man _laughs with the woman_.
+ 
 > Two
     O: 남자가 집까지 수영합니다.
     E: The man swims to the house.
+    F: The man _swims to the house_.
 
     # The dog goes home.
     O: 개가 집으로 갑니다.
     E: The dog goes towards a house.
+    F: The dog _goes towards a house_.
 
     O: 섬하고 바다.
     E: Island and[s] sea.
 
     O: 고양이가 집에서 옵니다.
-    E: The cat comes from the house.
+    E: The cat comes from the house.    F: The cat _comes from the house_.
 
     O: 여자하고 남자가 도서관에서 걷습니다.
     E: The woman and[s] the man walk, inside the library.
+    F: The woman and[s] the man _walk, inside the library_.
 
     O: 남자가 공원에서 뜁니다.
     E: The man runs[j] at the park.
+    F: The man _runs[j] at the park_.
 
     O: 학생이 도서관까지 달립니다.
     E: The student runs to the library.
+    F: The student _runs to the library_.
 
     O: 남자가 바다로 달립니다.
     E: The man runs towards the sea.
+    F: The man _runs towards the sea_.
 
     O: 저는 수영합니다.
     E: I swim.
+    F: _I_ swim.
 
     O: 제가 갑니다.
     E: I go.
+    F: I _go_.
+
+
+
+
+
+
+
+
+
+
 
     O: 남자가 도서관에서 걷습니다.
     E: The man walks inside the library.
