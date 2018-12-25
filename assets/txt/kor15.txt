@@ -1,0 +1,51 @@
+> Five
+    O: 상어는 없습니다.
+    E: There are no sharks. @formal
+    F: There are no _sharks_. @formal
+
+    O: 고래를 잡읍시다!
+    E: Let's catch a whale! @formal
+
+    O: 나비
+    E: Butterfly
+
+    O: 용은 없습니다.
+    E: There is no dragon. @formal
+    F: There is no _dragon_. @formal
+
+    O: 까치
+    E: Magpie
+
+    O: 위험
+    E: Danger
+
+    O: 게
+    E: Crab
+
+    O: 이 코끼리는 느립니다.
+    E: This elephant is slow. @formal
+    F: _This elephant_ is slow. @formal
+
+    O: 고래는 너무 큽니다.
+    E: Whales are too big. @formal
+    F: _Whales_ are too big. @formal
+
+    O: 나비가 위험하지 않아요.
+    E: The butterfly is not[l] dangerous. @polite
+    F: The butterfly _is not[l] dangerous_. @polite
+
+    O: 조심하십시오! 상어가 있습니다!
+    E: Watch out! There is a shark! @formal
+    F: Watch out! _There is a_ shark! @formal
+
+    O: 여자가 용을 탑니다.
+    E: The woman rides a dragon. @formal
+    F: The woman _rides a dragon_. @formal
+
+    O: 용은 코끼리를 먹습니다.
+    E: A dragon eats an elephant. @formal
+    F: _A dragon_ eats an elephant. @formal
+
+    O: 나비가 납니다.
+    E: The butterfly flies. @formal
+    F: The butterfly _flies_. @formal
