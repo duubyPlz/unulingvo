@@ -749,6 +749,10 @@ footer.footer {
     padding: 20px;
   }
 
+  .ui.dropdown>.text {
+    overflow: hidden;
+  }
+
   .ui.selection.dropdown:hover,
   .ui.selection.dropdown:focus,
   .ui.selection.dropdown:active,

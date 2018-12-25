@@ -1,0 +1,55 @@
+== Modifiers ==
+> One
+    O: 작은 과자는 짭니다.
+    E: The small crackers are salty. @formal
+    F: The small crackers _are salty_. @formal
+
+    O: 쓴 차는 맛없어요.
+    E: Bitter tea tastes bad. @polite
+    F: Bitter tea _tastes bad_. @polite
+
+    O: 큰 남자
+    E: A big man
+
+    O: 이 오렌지 주스는 씁니다.
+    E: This orange juice is bitter. @formal
+    F: This orange juice _is bitter_. @formal
+
+    O: 짧은 책
+    E: A short book
+
+    O: 신선한 딸기
+    E: A fresh strawberry
+
+    O: 저는 짠 수프가 좋아요.
+    E: I like salty soup. @polite
+    F: _I_ like salty soup. @polite
+
+    O: 빵이 짜요.
+    E: The bread is salty. @polite
+    F: The bread _is salty_. @polite
+
+    O: 그 케이크는 너무 써요!
+    E: That cake is too bitter! @polite
+    F: _That cake_ is too bitter! @polite
+
+    O: 짠 소금
+    E: Salty salt
+
+    O: 쓴 와인
+    E: Bitter wine
+
+    O: 큰 나무
+    E: A big tree
+
+    O: 작은 고양이가 앉습니다.
+    E: The small cat sits. @formal
+    F: The small cat _sits_. @formal
+
+    O: 우리는 신선한 고기만 먹어요.
+    E: We only eat fresh meat. @polite
+    F: _We_ only eat fresh meat. @polite
+
+    O: 그 피자는 짜요.
+    E: That pizza is salty. @polite
+    F: _That pizza_ is salty. @polite
