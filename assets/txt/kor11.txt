@@ -21,8 +21,8 @@
     F: _Duck bulgogi_ is too delicious! @formal
 
     O: 그 쥐가 무겁지 않습니다.
-    E: That mouse is not heavy. @formal
-    F: That mouse _is not heavy_. @formal
+    E: That mouse is not[l] heavy. @formal
+    F: That mouse _is not[l] heavy_. @formal
 
     O: 토끼
     E: Rabbit
