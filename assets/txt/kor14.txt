@@ -3,9 +3,10 @@
     E: I search for frogs. @formal
     F: _I_ search for frogs. @formal
 
+    # What does the fox say?
     O: 여우는 어떻게 웁니까?
-    E: What does the fox cry? @formal
-    F: What does _the fox_ cry? @formal
+    E: How does the fox cry? @formal
+    F: How does _the fox_ cry? @formal
 
     O: 우리들이 개미를 먹습니까?
     E: Do we[l] eat ants? @formal
