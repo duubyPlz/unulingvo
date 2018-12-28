@@ -1,0 +1,55 @@
+> Three
+    O: 한국어는 어렵지 않아요.
+    E: Korean is not difficult. @polite
+    F: _Korean_ is not difficult. @polite
+
+    O: 한국어는 쉽습니까?
+    E: Is Korean easy? @formal
+    F: Is _Korean_ easy? @formal
+
+    O: 작은 여자아이가 어려운 책을 읽습니다.
+    E: The small girl reads a difficult book. @formal
+    F: The small girl _reads a difficult book_. @formal
+
+    O: 귀여운 고양이
+    E: Cute cat
+
+    O: 작은 강아지가 운동을 해요.
+    E: The small puppy exercises. @polite
+    F: The small puppy _exercises_. @polite
+
+    O: 여자아이가 쉬운 책을 읽어요.
+    E: The girl reads an easy book. @polite
+    F: The girl _reads an easy book_. @polite
+
+    O: 그 언어가 예뻐요.
+    E: That language is pretty. @polite
+    F: That language _is pretty_. @polite
+
+    O: 영어는 쉽지 않습니다.
+    E: English is not easy. @formal
+    F: _English_ is not easy. @formal
+
+    O: 이 책은 어려워요.
+    E: This book is difficult. @polite
+    F: _This book_ is difficult. @polite
+
+    O: 이 쉬운 언어는 어려워요.
+    E: This easy language is difficult. @polite
+    F: _This easy language_ is difficult. @polite
+
+    O: 귀여운 강아지
+    E: Cute puppy
+
+    O: 어려운 언어를 배웁시다!
+    E: Let's learn a difficult language! @formal
+    F: Let's learn a difficult language! @formal
+
+    O: 한국어는 쉬운 언어입니다.
+    E: Korean is an easy language. @formal
+    F: Korean is an easy language. @formal
+
+    # The puppy speaks difficult languages.
+    O: 강아지가 어려운 언어로 말해요.
+    E: The puppy is speaking in a difficult language. @polite
+    F: The puppy is speaking in a difficult language. @polite
