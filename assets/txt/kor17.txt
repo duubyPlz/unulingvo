@@ -1,0 +1,57 @@
+> Two
+    O: 이 꿀은 너무 답니다.
+    E: This honey is too sweet. @formal
+    F: _This honey_ is too sweet. @formal
+
+    O: 케이크가 십니까?
+    E: Is the cake sour? @formal
+    F: _Is_ the cake _sour_? @formal
+
+    # A fruit that is too sour
+    O: 너무 신 과일
+    E: Too sour fruit
+
+    O: 매운 소금
+    E: Spicy salt
+
+    O: 저는 단 음식을 먹습니다.
+    E: I eat sweet food. @formal
+    F: _I_ eat sweet food. @formal
+
+    O: 이 파스타는 맵습니까?
+    E: Is this pasta spicy? @formal
+    F: Is _this pasta_ spicy? @formal
+
+    O: 이 긴 책은 재미없습니다.
+    E: This long book is boring. @formal
+    F: _This long book_ is boring. @formal
+
+    # 귤 covers mandarin orange, tangerine, and satsuma.
+    O: 그 귤은 셔요.
+    E: That tangerine is sour. @polite
+    F: That _tangerine_ is sour. @polite
+
+    O: 작은 사과는 달아요.
+    E: The small apple is sweet. @polite
+    F: _The small apple_ is sweet. @polite
+
+    # Chili peppers are too spicy.
+    O: 고추는 너무 맵습니다.
+    E: Chillies are too spicy. @formal
+    F: _Chillies_ are too spicy. @formal
+
+    O: 그 피자가 매워요.
+    E: That pizza is spicy. @polite
+    F: That pizza _is spicy_. @polite
+
+    O: 설탕하고 꿀은 시지 않아요.
+    E: Sugar and honey are not[l] sour. @polite
+    F: _Sugar and honey_ are not[l] sour. @polite
+
+    O: 긴 바나나와 작은 사과
+    E: A long banana and a small apple
+
+    O: 매운 라면은 맛있어요!
+    E: Spicy ramen is delicious! @polite
+    F: _Spicy ramen_ is delicious! @polite
+
