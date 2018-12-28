@@ -300,7 +300,7 @@
 
     O: 남자는 키가 작습니다.
     E: The man is short.
-    F: The man _is short_.
+    F: _The man_ is short.
 
     O: 가수가 예쁩니다.
     E: The singer is pretty.
