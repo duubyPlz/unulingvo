@@ -9,8 +9,8 @@
     F: How does _the fox_ cry? @formal
 
     O: 우리들이 개미를 먹습니까?
-    E: Do we[l] eat ants? @formal
-    F: _Do_ we[l] _eat ants_? @formal
+    E: Do we[p] eat ants? @formal
+    F: _Do_ we[p] _eat ants_? @formal
 
     O: 우리는 뱀을 못 먹습니다.
     E: We cannot eat snakes. @formal
