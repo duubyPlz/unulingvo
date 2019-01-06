@@ -69,8 +69,8 @@
     E: Don't touch me.
 
     O: 걱정하지 마십시오. 저는 괜찮습니다.
-    E: Don't worry about me. I'm alright.
-    F: Don't worry about me. _I_'m alright.
+    E: Don't worry. I'm alright.
+    F: Don't worry. _I_'m alright.
 
     O: 뛰지 마십시오.
     E: Don't run.
