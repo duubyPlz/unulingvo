@@ -45,6 +45,7 @@
     O: 그것을 만지지 마십시오.
     E: Don't touch that.
 
+    # 많이 usually refers to something you can count, usually meaning many or "a lot of" in the role of adjective.
     O: 너무 걱정하지 마십시오.
     E: Don't worry too much.
 
