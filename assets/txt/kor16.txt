@@ -2,7 +2,7 @@
 > One
     O: 작은 과자는 짭니다.
     E: The small crackers are salty. @formal
-    F: The small crackers _are salty_. @formal
+    F: _The small crackers_ are salty. @formal
 
     O: 쓴 차는 맛없어요.
     E: Bitter tea tastes bad. @polite
