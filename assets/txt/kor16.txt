@@ -6,14 +6,14 @@
 
     O: 쓴 차는 맛없어요.
     E: Bitter tea tastes bad. @polite
-    F: Bitter tea _tastes bad_. @polite
+    F: _Bitter tea_ tastes bad. @polite
 
     O: 큰 남자
     E: A big man
 
     O: 이 오렌지 주스는 씁니다.
     E: This orange juice is bitter. @formal
-    F: This orange juice _is bitter_. @formal
+    F: _This orange juice_ is bitter. @formal
 
     O: 짧은 책
     E: A short book
