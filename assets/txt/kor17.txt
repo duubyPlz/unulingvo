@@ -45,8 +45,8 @@
     F: That pizza _is spicy_. @polite
 
     O: 설탕하고 꿀은 시지 않아요.
-    E: Sugar and honey are not[l] sour. @polite
-    F: _Sugar and honey_ are not[l] sour. @polite
+    E: Sugar and[s] honey are not[l] sour. @polite
+    F: _Sugar and[s] honey_ are not[l] sour. @polite
 
     O: 긴 바나나와 작은 사과
     E: A long banana and a small apple
