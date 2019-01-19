@@ -29,7 +29,7 @@
     # 귤 covers mandarin orange, tangerine, and satsuma.
     O: 그 귤은 셔요.
     E: That tangerine is sour. @polite
-    F: That _tangerine_ is sour. @polite
+    F: _That tangerine_ is sour. @polite
 
     O: 작은 사과는 달아요.
     E: The small apple is sweet. @polite
