@@ -47,9 +47,9 @@
 
     O: 한국어는 쉬운 언어입니다.
     E: Korean is an easy language. @formal
-    F: Korean is an easy language. @formal
+    F: _Korean_ is an easy language. @formal
 
     # The puppy speaks difficult languages.
     O: 강아지가 어려운 언어로 말해요.
     E: The puppy is speaking in a difficult language. @polite
-    F: The puppy is speaking in a difficult language. @polite
+    F: The puppy _is speaking in a difficult language_. @polite
