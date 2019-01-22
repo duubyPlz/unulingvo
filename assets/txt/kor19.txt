@@ -18,6 +18,7 @@
 
     O: 어느 와인이 가장 씁니까?
     E: Which wine is the most bitter? @formal
+    F: Which wine _is the most bitter_? @formal
 
     O: 아이들이 가장 재미없는 영화를 봐요.
     E: The children watch the most boring movie. @polite
