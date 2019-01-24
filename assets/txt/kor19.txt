@@ -32,8 +32,8 @@
     E: Thoughtless person
 
     O: 개가 맛없는 소고기를 먹지 않아요.
-    E: The dog does not eat the tasteless beef. @polite
-    F: _The dog_ does not eat the tasteless beef. @polite
+    E: The dog does not[l] eat the tasteless beef. @polite
+    F: _The dog_ does not[l] eat the tasteless beef. @polite
 
     O: 책이 없는 도서관
     E: A library without books
