@@ -22,7 +22,7 @@
 
     O: 아이들이 가장 재미없는 영화를 봐요.
     E: The children watch the most boring movie. @polite
-    F: _The children_ watch the most boring movie. @polite
+    F: The children _watch the most boring movie_. @polite
 
     O: 우리는 재미있는 영화를 함께 봅니다.
     E: We watch an interesting movie together. @formal
