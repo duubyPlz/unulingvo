@@ -1,0 +1,52 @@
+> Five
+    O: 자는 남자
+    E: A sleeping man
+
+    O: 웃는 강아지
+    E: A smiling puppy
+
+    O: 먹는 사람
+    E: Person who is eating
+
+    O: 달리는 남자가 뚱뚱합니다.
+    E: The running man is fat. @formal
+    F: The running man _is fat_. @formal
+
+    O: 저는 자는 남자입니다.
+    E: I am a sleeping man. @formal
+    F: _I_ am a sleeping man. @formal
+
+    O: 웃는 아이가 책을 읽어요.
+    E: The smiling child reads a book. @polite
+    F: The smiling child _reads a book_. @polite
+
+    O: 자는 여자아이가 김밥을 먹어요.
+    E: The sleeping girl eats gimbap. @polite
+    F: The sleeping girl _eats gimbap_. @polite
+
+    O: 나는 웃는 친구를 좋아합니다.
+    E: I like friends who laugh. @formal,i
+    F: _I_ like friends who laugh. @formal,i
+
+    # The road home
+    O: 집으로 가는 길
+    E: The road going home
+
+    O: 마시는 개들은 작아요.
+    E: _The drinking dogs_ are small. @polite
+    F: _The drinking dogs_ are small. @polite
+
+    O: 책을 읽는 귀여운 남자아이
+    E: A cute boy reading a book
+
+    O: 학교에 가는 길이 길어요.
+    E: The road to school is long. @polite
+    F: The road to school _is long_. @polite
+
+    O: 책을 읽는 학생이 내 친구입니다.
+    E: The student reading a book is my friend. @formal
+    F: The student reading a book _is my friend_. @formal
+
+    O: 달리는 고양이가 안 빠릅니다.
+    E: The running cat is not fast. @formal
+    F: The running cat _is not fast_. @formal
