@@ -18,10 +18,11 @@
 
     O: 어느 와인이 가장 씁니까?
     E: Which wine is the most bitter? @formal
+    F: Which wine _is the most bitter_? @formal
 
     O: 아이들이 가장 재미없는 영화를 봐요.
     E: The children watch the most boring movie. @polite
-    F: _The children_ watch the most boring movie. @polite
+    F: The children _watch the most boring movie_. @polite
 
     O: 우리는 재미있는 영화를 함께 봅니다.
     E: We watch an interesting movie together. @formal
@@ -31,8 +32,8 @@
     E: Thoughtless person
 
     O: 개가 맛없는 소고기를 먹지 않아요.
-    E: The dog does not eat the tasteless beef. @polite
-    F: _The dog_ does not eat the tasteless beef. @polite
+    E: The dog does not[l] eat the tasteless beef. @polite
+    F: _The dog_ does not[l] eat the tasteless beef. @polite
 
     O: 책이 없는 도서관
     E: A library without books
