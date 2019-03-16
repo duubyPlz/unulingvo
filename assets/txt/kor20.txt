@@ -44,8 +44,8 @@
     F: The road to school _is long_. @polite
 
     O: 책을 읽는 학생이 내 친구입니다.
-    E: The student reading a book is my friend. @formal
-    F: The student reading a book _is my friend_. @formal
+    E: The student reading a book is my friend. @formal,i
+    F: The student reading a book _is my friend_. @formal,i
 
     O: 달리는 고양이가 안 빠릅니다.
     E: The running cat is not fast. @formal
