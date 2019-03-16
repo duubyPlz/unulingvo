@@ -33,7 +33,7 @@
     E: The road going home
 
     O: 마시는 개들은 작아요.
-    E: _The drinking dogs_ are small. @polite
+    E: The drinking dogs are small. @polite
     F: _The drinking dogs_ are small. @polite
 
     O: 책을 읽는 귀여운 남자아이
@@ -50,3 +50,10 @@
     O: 달리는 고양이가 안 빠릅니다.
     E: The running cat is not fast. @formal
     F: The running cat _is not fast_. @formal
+
+    O: 식당에서 불고기를 먹는 남자아이
+    E: A boy eating bulgogi at a restaurant
+
+    O: 주스를 마시는 여자아이가 귀엽습니다.
+    E: The girl drinking juice is cute. @formal
+    F: The girl _drinking juice is cute_. @formal
