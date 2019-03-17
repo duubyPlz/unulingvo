@@ -56,4 +56,4 @@
 
     O: 주스를 마시는 여자아이가 귀엽습니다.
     E: The girl drinking juice is cute. @formal
-    F: The girl _drinking juice is cute_. @formal
+    F: The girl drinking juice _is cute_. @formal
