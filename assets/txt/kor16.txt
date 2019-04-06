@@ -140,8 +140,8 @@
     F: That language _is pretty_. @polite
 
     O: 영어는 쉽지 않습니다.
-    E: English is not easy. @formal
-    F: _English_ is not easy. @formal
+    E: English is not[l] easy. @formal
+    F: _English_ is not[l] easy. @formal
 
     O: 이 책은 어려워요.
     E: This book is difficult. @polite
