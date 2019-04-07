@@ -1,0 +1,31 @@
+> Two
+    # 하지만 [hard, short]
+    # 그렇지만 [hard, long]
+    # 그런데 [soft]
+    # (그러나 [hard, formal])
+
+    O: 먹으러 가자! 
+    E: Let's go eat! @impolite
+
+    O: 그런데 그것은 너무 비싸요.
+    E: But[s] that is too expensive. @polite
+    F: But[s] that is too expensive. @polite
+
+    O: 나도 만진다.
+    E: I touch it too. @plain, i
+
+    O: 하지만 저 사람은 남자가 아닙니다.
+    E: But[hs] that person over there is not a man. @formal
+    F: But[hs] that person over there is not a man. @formal
+
+    O: 이 빵은 맛있지만 저 빵은 맛없어요.
+    E: This bread tastes good but[h] that bread tastes bad. @polite
+    F: This bread tastes good but[h] that bread tastes bad. @polite
+
+    O: 그는 무엇을 하러 학교에 갑니까?
+    E: What does he go to school for? @formal
+    F: What does he go to school for? @formal
+
+    O: 남자아이가 한국어를 배우는데 영어도 배워요.
+    E: The boy learns Korean but[s] he also learns English. @polite
+    F: The boy learns Korean but[s] he also learns English. @polite
