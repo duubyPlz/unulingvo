@@ -48,5 +48,5 @@
 
     # 이 남자는 뚱뚱하고 저 남자는 날씬합니다.
     O: 이 남자는 뚱뚱합니다. 그리고 저 남자는 날씬합니다.
-    E: This man is fat and that man is thin. @formal
-    F: _This man_ is fat and _that man_ is thin. @formal
+    E: This man is fat, and[l] that man over there is thin. @formal
+    F: _This man_ is fat, and[l] _that man over there_ is thin. @formal
