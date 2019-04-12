@@ -21,8 +21,8 @@
     F: _I_ eat and drink. @formal
 
     O: 그리고 그녀는 운동을 해요.
-    E: And she exercises. @polite
-    F: And _she_ exercises. @polite
+    E: And she exercises[l]. @polite
+    F: And _she_ exercises[l]. @polite
 
     O: 나는 너를 보면 행복해.
     E: I am happy when I see you. @impolite
@@ -43,8 +43,8 @@
     F: _This movie_ is happy and sad. @polite
 
     O: 그래서 저는 공부를 합니다.
-    E: So I study. @formal
-    F: So _I_ study. @formal
+    E: So I study[l]. @formal
+    F: So _I_ study[l]. @formal
 
     # 이 남자는 뚱뚱하고 저 남자는 날씬합니다.
     O: 이 남자는 뚱뚱합니다. 그리고 저 남자는 날씬합니다.
