@@ -6,7 +6,8 @@
     F: _I_ am happy when I eat rice. @polite
 
     O: 그래서 동물이 달려요.
-    E: _So_ the animal _runs_. @polite
+    E: So the animal runs. @polite
+    F: _So_ the animal _runs_. @polite
 
     O: 저는 걸어서 가요.
     E: I go on foot. @polite
