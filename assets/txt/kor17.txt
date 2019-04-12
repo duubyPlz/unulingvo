@@ -13,8 +13,8 @@
     F: _I_ go on foot. @polite
 
     O: 그는 자면서 말합니다. 
-    E: He speaks while sleeping. @polite
-    F: _He_ speaks while sleeping. @polite
+    E: He speaks while sleeping. @formal
+    F: _He_ speaks while sleeping. @formal
 
     O: 저는 먹고 마십니다.
     E: I eat and drink. @formal
