@@ -34,7 +34,7 @@
     F: _I_ go home and sleep[ll]. @polite
 
     O: 너 그리고 나
-    E: You and I
+    E: You and I @i
 
     O: 너 나에게 말하고 있냐?
     E: Are you talking to me? @impolite
