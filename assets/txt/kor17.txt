@@ -36,6 +36,7 @@
     O: 너 그리고 나
     E: You and I @i
 
+    # ~나요 as another question ending in 해요체
     O: 너 나에게 말하고 있냐?
     E: Are you talking to me? @impolite
 
