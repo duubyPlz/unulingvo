@@ -53,8 +53,8 @@
     F: _This car_ is small but[s] expensive. @formal
 
     O: 나는 그녀를 사랑해요. 그런데 그녀는 나를 싫어해요.
-    E: I love her. But[s] she hates me. @polite, i
-    F: _I_ love her. But[s] she hates me. @polite, i
+    E: I love her. But[s] _she_ hates me. @polite, i
+    F: _I_ love her. But[s] _she_ hates me. @polite, i
 
     O: 고양이가 음식을 싫어하지만 먹어요.
     F: The cat hates food but[h] it eats it. @polite
