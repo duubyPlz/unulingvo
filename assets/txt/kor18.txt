@@ -58,8 +58,8 @@
     F: _I_ love her. But[s] _she_ hates me. @polite, i
 
     O: 고양이가 음식을 싫어하지만 먹어요.
-    F: The cat hates food but[h] it eats it. @polite
-    E: The cat _hates food but[h] it eats it_. @polite
+    E: The cat hates food but[h] it eats it. @polite
+    F: The cat _hates food but[h] it eats it_. @polite
 
     O: 고양이가 먹지만 음식을 싫어해요.
     E: The cat eats but[h] hates the food. @polite
