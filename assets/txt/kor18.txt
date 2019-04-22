@@ -20,7 +20,7 @@
 
     O: 이 빵은 맛있지만 저 빵은 맛없어요.
     E: This bread tastes good but[h] that bread tastes bad. @polite
-    F: _This bread_ tastes good but[h] that bread tastes bad. @polite
+    F: _This bread_ tastes good but[h] _that bread over there_ tastes bad. @polite
 
     O: 그는 무엇을 하러 학교에 갑니까?
     E: What does he go to school for? @formal
