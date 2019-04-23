@@ -42,8 +42,8 @@
     F: But[hs] _he_ is smart! @polite
 
     O: 고양이가 자러 집에 가요.
-    E: The cat goes home to sleep. @polite
-    F: The cat _goes home to sleep_. @polite
+    E: The cat goes home to sleep[ss]. @polite
+    F: The cat _goes home to sleep[ss]_. @polite
 
     O: 그녀는 예쁜데 게을러요.
     E: She is pretty but[s] lazy. @polite
