@@ -34,8 +34,8 @@
     E: The dog speaks Korean too. @formal
 
     O: 그녀는 치킨을 좋아하는데 야채를 먹어요.
-    E: She likes fried chicken, but[s] she eats vegetables.
-    F: _She_ likes fried chicken, but[s] she eats vegetables.
+    E: She likes fried chicken, but[s] she eats vegetables. @polite
+    F: _She_ likes fried chicken, but[s] she eats vegetables. @polite
 
     O: 하지만 그는 똑똑해요!
     E: But[hs] he is smart! @polite
