@@ -152,3 +152,7 @@
     O: 그 고양이는 있으면서 없습니다.
     E: The cat exists and at the same time does not exist. @formal
     F: _The cat_ exists and at the same time does not exist. @formal
+
+    O: 그는 자면서 말합니다.
+    E: He speaks while sleeping. @formal
+    F: _He_ speaks while sleeping. @formal

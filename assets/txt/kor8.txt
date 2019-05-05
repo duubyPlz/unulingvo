@@ -206,3 +206,39 @@
     O: 그 빵은 그래요.
     E: That bread is like that.
     F: _That bread_ is like that.
+
+    O: 저는 길을 이어요.
+    E: I connect the road.
+    E: _I_ connect the road.
+
+    O: 저는 이 가수를 몰라요.
+    E: I do not know this singer.
+    F: _I_ do not know this singer.
+
+    O: 여기는 날씨가 나빠요.
+    E: The weather is bad here.
+    E: The weather is bad _here_.
+    
+    O: 그 개가 사라져요.  
+    E: That dog disappears.
+    F: That dog _disappears_.
+
+    O: 남자아이가 자동차에서 내려요.
+    E: The boy gets out of the car.
+    F: The boy _gets out of the car_.
+
+    O: 그것은 나무예요.
+    E: That is a tree.
+    F: _That_ is a tree.
+
+    O: 그 책이 맞아요.
+    E: That book is right. 
+    F: That book _is right_. 
+
+    O: 남자는 울지 않아요.
+    E: The man does not cry.
+    F: _The man_ does not cry.
+
+    O: 그 텔레비전은 사라져요.
+    E: That television disappears.
+    F: _That television_ disappears.
