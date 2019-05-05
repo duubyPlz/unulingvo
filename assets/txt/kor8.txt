@@ -209,7 +209,7 @@
 
     O: 저는 길을 이어요.
     E: I connect the road.
-    E: _I_ connect the road.
+    F: _I_ connect the road.
 
     O: 저는 이 가수를 몰라요.
     E: I do not know this singer.
@@ -217,7 +217,7 @@
 
     O: 여기는 날씨가 나빠요.
     E: The weather is bad here.
-    E: The weather is bad _here_.
+    F: The weather is bad _here_.
     
     O: 그 개가 사라져요.  
     E: That dog disappears.
