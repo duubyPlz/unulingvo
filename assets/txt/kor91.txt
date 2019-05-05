@@ -1,0 +1,37 @@
+> Two
+    O: 공원에 빨리 숨어요! 
+    E: Let's hide in the park quickly!
+
+    O: 학교에 같이 다녀요.
+    E: Let's attend school together.
+
+    # 곧 ... 봐요: see you soon
+    O: 곧 서울에서 봐요!
+    E: See you soon in Seoul!
+
+    O: 곧 공원에서 만나요.
+    E: Let's meet at the park soon.
+
+    O: 내일 만나요!
+    E: Let's meet tomorrow!
+
+    O: 학교에서 같이 놀아요.
+    E: Let's hang out at the school together.
+
+    O: 내일 서울에서 놀아요!
+    E: Let's hang out in Seoul tomorrow!
+
+    O: 호텔에서 만나요.
+    E: Let's meet at the hotel.
+
+    O: 미안해요. 우리 곧 다시 만나요.
+    E: I am sorry. Let's meet again soon.
+
+    O: 우리 저기에 숨어요!
+    E: Let's hide there!
+
+    O: 개하고 도서관에 다녀요.
+    E: Let's go to the library with the dog.
+
+    O: 내일 제 친구의 집에서 놀아요!
+    E: Let's hang out at my friend's house tomorrow!
