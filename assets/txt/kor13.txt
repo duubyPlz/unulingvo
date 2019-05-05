@@ -128,4 +128,27 @@
     E: But[s] English is strange. @polite
     F: But[s] _English_ is strange. @polite
 
+    O: 아이가 쓰고 읽어요.
+    E: The child writes and reads. @polite
+    F: The child _writes and reads_. @polite
 
+    O: 저는 식당에 가서 먹어요.
+    E: I go to a restaurant and eat. @polite
+    F: _I_ go to a restaurant and eat. @polite
+
+    O: 저는 먹으면서 노래합니다.
+    E: I sing while I eat. @formal
+    F: _I_ sing while I eat. @formal
+
+    O: 빵이 맛있어서 남자는 행복해요.
+    E: The man is happy because the bread is delicious. @polite
+    F: _The man_ is happy because the bread is delicious. @polite
+
+    O: 그 여자가 가르치면 저는 한국어를 잘 배워요.
+    E: If that woman teaches, I learn Korean well. @polite
+    F: _If_ that woman _teaches_, _I_ learn Korean well. @polite
+
+    # Literally: the cat, while it exists, (also) does not exist.
+    O: 그 고양이는 있으면서 없습니다.
+    E: The cat exists and at the same time does not exist. @formal
+    F: _The cat_ exists and at the same time does not exist. @formal
