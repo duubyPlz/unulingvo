@@ -1,0 +1,52 @@
+== Polite Moods ==
+> One
+    O: 저의 집을 사세요! 
+    E: Buy my house!
+
+    O: 맛있는 아침을 만드세요.
+    E: Make delicious breakfast.
+
+    O: 집을 파세요.
+    E: Sell the house.
+
+    O: 계란을 사지 마세요.
+    E: Do not buy eggs.
+
+    O: 아기의 책을 팔지 마세요.
+    E: Do not sell the baby's book.
+
+    O: 매운 고추를 고르지 마세요.
+    E: Do not pick a spicy chili.
+
+    O: 매운 것을 요리하세요.
+    E: Cook something spicy.
+
+    O: 나는 그만큼 맛있는 파스타를 못 만들어요.
+    E: I cannot make pasta that delicious. @i
+    F: _I_ cannot make pasta that delicious. @i
+
+    O: 맛있는 고기를 고르세요.
+    E: Pick a delicious meat.
+
+    O: 학생은 학교에 안 살아요.
+    E: The student does not live at school.
+    F: _The student_ does not live at school.
+
+    O: 한국에 살지 마세요.
+    E: Do not live in Korea.
+
+    O: 빨리 큰 공을 만드세요.
+    E: Make a big ball quickly.
+
+    O: 맛있는 것을 고르세요.
+    E: Pick something delicious.
+
+    O: 맛있는 딸기를 사세요.
+    E: Buy delicious strawberries.
+
+    O: 어려운 것을 하지 마세요!
+    E: Do not do something difficult!
+
+    # Sell Duolingo to me!
+    O: 듀오링고를 저에게 파세요!
+    E: Sell me Duolingo!
