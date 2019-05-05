@@ -150,8 +150,8 @@
 
     # Literally: the cat, while it exists, (also) does not exist.
     O: 그 고양이는 있으면서 없습니다.
-    E: The cat exists and at the same time does not exist. @formal
-    F: _The cat_ exists and at the same time does not exist. @formal
+    E: That cat exists and at the same time does not exist. @formal
+    F: _That cat_ exists and at the same time does not exist. @formal
 
     O: 그는 자면서 말합니다.
     E: He speaks while sleeping. @formal
