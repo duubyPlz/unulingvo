@@ -153,8 +153,8 @@
     F: The singer _throws a bag in the room_.
 
     O: 저는 저만큼 한국어를 합니다.
-    E: I speak Korean to that extent.
-    F: _I_ speak Korean to that extent.
+    E: I speak Korean to that (over there) extent.
+    F: _I_ speak Korean to that (over there) extent.
 
     O: 그 나무는 그만큼 높습니다.
     E: That tree is that tall.
