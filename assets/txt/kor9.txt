@@ -173,9 +173,10 @@
     O: 개에게 초콜릿을 주지 마십시오.
     E: Do not give chocolate to dogs. @formal
 
+    # What kind of hamburger do you have?
     O: 무슨 햄버거가 있습니까?
-    E: What kind of hamburger do you have? @formal
-    F: What kind of hamburger _do you have_? @formal
+    E: What hamburger do you have? @formal
+    F: What hamburger _do you have_? @formal
 
     O: 치킨은 좋아요.
     E: (Fried) chicken is good. @polite
