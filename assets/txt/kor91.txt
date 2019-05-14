@@ -36,7 +36,7 @@
     #    * 떠돌아다니다 to wander around etc
     # The Korean answer here implies that it's occurring frequently, whereas the English is inferring a one-off journey.
     O: 개하고 도서관에 다녀요.
-    E: Let's go to the library with the dog.
+    E: Let's go[r] to the library with the dog.
 
     O: 내일 제 친구의 집에서 놀아요!
     E: Let's hang out at my friend's house tomorrow!
