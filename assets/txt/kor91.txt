@@ -39,4 +39,4 @@
     E: Let's go[r] to the library with the dog.
 
     O: 내일 제 친구의 집에서 놀아요!
-    E: Let's hang out at my friend's house tomorrow!
+    E: Let's hang out at my[s] friend's house tomorrow!
