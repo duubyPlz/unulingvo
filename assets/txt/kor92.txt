@@ -28,6 +28,7 @@
 
     O: 큰 케이크가 어느 곳에 있어요?
     E: The big cake is in which place?
+    E: The big cake _is in which place_?
 
     O: 가람 씨, 뭘 원해요? 
     E: Garam, what do you want?
