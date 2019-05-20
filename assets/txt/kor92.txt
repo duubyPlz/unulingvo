@@ -15,8 +15,8 @@
     E: Does the apple explode, too?
 
     O: 저 학생은 어떻습니까?
-    E: How is that student?
-    F: _How is_ that student?
+    E: How is that student? @formal
+    F: _How is_ that student? @formal
 
     O: 이 길은 얼마나 길어요?
     E: How long is this road?
@@ -39,8 +39,8 @@
     E: Who wants bulgogi?
 
     O: 이것은 어떻습니까?
-    E: How is this?
-    F: How is _this_?
+    E: How is this? @formal
+    F: How is _this_? @formal
 
     O: 공이 터져요.
     E: The ball explodes.
