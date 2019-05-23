@@ -1,0 +1,60 @@
+== Adverbs: Degree ==
+    O: 그의 라디오가 특히 느려요.
+    E: His radio is especially slow. @polite
+    F: His radio _is especially slow_. @polite
+
+    O: 좋은 호텔
+    E: A good hotel
+
+    O: 불고기는 제일 좋은 음식이에요.
+    E: Bulgogi is the best food. @polite
+    F: _Bulgogi_ is the best food. @polite
+
+    O: 한국 딸기는 아주 맛있습니다.
+    E: Korean strawberries are very delicious. @formal
+    F: _Korean strawberries_ are very delicious. @formal
+
+    O: 그 파스타는 정말 맛없어요.
+    E: That pasta tastes really bad. @polite
+    F: _That pasta_ tastes really bad. @polite
+
+    O: 매우 재미있어요!
+    E: Very interesting!
+
+    O: 이 영화는 정말 나쁜 영화예요.
+    E: This movie is a really bad one. @polite
+    F: _This movie_ is a really bad one. @polite
+
+    O: 저는 제일 긴 길에 살아요.
+    E: I live on the longest road. @polite
+    F: _I_ live on the longest road. @polite
+
+    O: 나쁜 개
+    E: A bad dog
+
+    O: 정말?
+    E: Really?
+
+    O: 저는 피자를 아주 좋아합니다.
+    E: I like pizza very much. @formal
+    F: _I_ like pizza very much. @formal
+
+    # 이다 can be contracted to 다 when it comes after a vowel.
+    O: 저 새는 나쁜 새다.
+    E: That bird over there is a bad bird. @plain
+    F: _That bird over there_ is a bad bird. @plain
+
+    O: 그 책이 특히 재미있어요.
+    E: That book is especially interesting. @polite
+    F: That book _is especially interesting_. @polite
+
+    O: 그 여자가 정말 예뻐요.
+    E: That woman is really pretty. @polite
+    F: That woman _is really pretty_. @polite
+
+    O: 아주 신 과일
+    E: Very sour fruit
+
+    O: 한국어는 제일 쉬운 언어가 아닙니다.
+    E: Korean is not the easiest language. @formal
+    F: _Korean_ is not the easiest language. @formal
