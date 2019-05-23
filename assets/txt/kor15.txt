@@ -1,5 +1,5 @@
 == Adverbs: Degree ==
-    > One
+> One
     O: 그의 라디오가 특히 느려요.
     E: His radio is especially slow. @polite
     F: His radio _is especially slow_. @polite
