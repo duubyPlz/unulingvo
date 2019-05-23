@@ -1,63 +1,63 @@
 > Two
     O: 오늘은 꽤 추워요.
     E: It is quite cold today. @polite
-    F: It is quite cold today. @polite
+    F: It is quite cold _today_. @polite
 
     O: 그 학생은 참 착해요!
     E: That student is really kind! @polite
-    F: That student is really kind! @polite
+    F: _That student_ is really kind! @polite
 
     O: 싼 연필
     E: Cheap pencil
 
     O: 이 와인은 상당히 쌉니다.
     E: This wine is considerably cheap. @formal
-    F: This wine is considerably cheap. @formal
+    F: _This wine_ is considerably cheap. @formal
 
     O: 이 라면은 엄청 매워요!
     E: This ramen is overly spicy! @polite
-    F: This ramen is overly spicy! @polite
+    F: _This ramen_ is overly spicy! @polite
 
     O: 저의 집은 훨씬 더 커요.
     E: My house is bigger by far. @polite
-    F: My house is bigger by far. @polite
+    F: _My house_ is bigger by far. @polite
 
     O: 이 여자아이는 굉장히 똑똑합니다.
     E: This girl is very smart. @formal
-    F: This girl is very smart. @formal
+    F: _This girl_ is very smart. @formal
 
     O: 저는 비싼 음식을 먹습니다.
     E: I eat expensive food. @formal
-    F: I eat expensive food. @formal
+    F: _I_ eat expensive food. @formal
 
     O: 그녀는 상당히 매력이 있습니다.
     E: She is considerably attractive. @formal
-    F: She is considerably attractive. @formal
+    F: _She_ is considerably attractive. @formal
 
     O: 산이 꽤 높아요.
     E: The mountain is quite high. @polite
-    F: The mountain is quite high. @polite
+    F: The mountain _is quite high_. @polite
 
     O: 싼 신문이 굉장히 가벼워요.
     E: The cheap newspaper is very light. @polite
-    F: The cheap newspaper is very light. @polite
+    F: The cheap newspaper _is very light_. @polite
 
     O: 친구의 집이 참 깨끗합니다!
     E: The friend's house is really clean! @formal
-    F: The friend's house is really clean! @formal
+    F: The friend's house _is really clean_! @formal
 
     O: 그녀는 참 예뻐요!
     E: She is really pretty! @polite
-    F: She is really pretty! @polite
+    F: _She_ is really pretty! @polite
 
     O: 그것은 상당히 비쌉니다.
     E: That is considerably expensive. @formal
-    F: That is considerably expensive. @formal
+    F: _That_ is considerably expensive. @formal
 
     O: 이 오리가 훨씬 더 느려요.
     E: This duck is much slower. @polite
-    F: This duck is much slower. @polite
+    F: This duck _is much slower_. @polite
 
     O: 제가 굉장히 피곤해요.
     E: I am very tired. @polite
-    F: I am very tired. @polite
+    F: I _am very tired_. @polite
