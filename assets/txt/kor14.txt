@@ -50,3 +50,99 @@
     # Sell Duolingo to me!
     O: 듀오링고를 저에게 파세요!
     E: Sell me Duolingo!
+
+> Two
+    O: 공원에 빨리 숨어요! 
+    E: Let's hide in the park quickly!
+
+    O: 학교에 같이 다녀요.
+    E: Let's attend school together.
+
+    # 곧 ... 봐요: see you soon
+    O: 곧 서울에서 봐요!
+    E: See you soon in Seoul!
+
+    O: 곧 공원에서 만나요.
+    E: Let's meet at the park soon.
+
+    O: 내일 만나요!
+    E: Let's meet tomorrow!
+
+    O: 학교에서 같이 놀아요.
+    E: Let's hang out at the school together.
+
+    O: 내일 서울에서 놀아요!
+    E: Let's hang out in Seoul tomorrow!
+
+    O: 호텔에서 만나요.
+    E: Let's meet at the hotel.
+
+    O: 미안해요. 우리 곧 다시 만나요.
+    E: I am sorry. Let's[u] meet again soon.
+
+    # Let’s[u] hide there!
+    O: 우리 저기에 숨어요!
+    E: Let's[u] hide over there!
+
+    # 다니다 is almost of like "attend" but you will find it in a lot of compound verbs like 단녀오다 and 단녀가다 to visit and then come/go, and others like:
+    #    * 찾아다니다 to go searching around
+    #    * 뛰어다니다 to jump or run around
+    #    * 떠돌아다니다 to wander around etc
+    # The Korean answer here implies that it's occurring frequently, whereas the English is inferring a one-off journey.
+    O: 개하고 도서관에 다녀요.
+    E: Let's go[r] to the library with the dog.
+
+    O: 내일 제 친구의 집에서 놀아요!
+    E: Let's hang out at my[s] friend's house tomorrow!
+
+> Three
+    O: 누가 한국어를 공부해요?
+    E: Who studies Korean?
+
+    O: 오늘 학생들이 뭘 배워요?
+    E: What do the students learn today?
+
+    O: 얼마예요?
+    E: How much is it?
+
+    O: 가람 씨, 누가 거기에 있어요?
+    E: Garam, who is there?
+
+    O: 사과도 터져요?
+    E: Does the apple explode, too?
+
+    O: 저 학생은 어떻습니까?
+    E: How is that student? @formal
+    F: How is _that student over there_? @formal
+
+    O: 이 길은 얼마나 길어요?
+    E: How long is this road?
+    F: How long is _this road_?
+
+    O: 그것은 어때요?
+    E: How is that?
+    F: How is _that_?
+
+    O: 큰 케이크가 어느 곳에 있어요?
+    E: The big cake is in which place?
+    F: The big cake _is in which place_?
+
+    O: 가람 씨, 뭘 원해요? 
+    E: Garam, what do you want?
+
+    O: 뭐가 싱거워요?
+    E: What is bland?
+
+    O: 누가 불고기를 원해요?
+    E: Who wants bulgogi?
+
+    O: 이것은 어떻습니까?
+    E: How is this? @formal
+    F: How is _this_? @formal
+
+    O: 공이 터져요.
+    E: The ball explodes.
+    F: The ball _explodes_.
+
+
+
