@@ -1,0 +1,57 @@
+> Three
+    O: 싼 음식은 비싼 음식보다 뜨겁습니다.
+    E: Cheap food is hotter than expensive food. @formal
+    F: _Cheap food_ is hotter than expensive food. @formal
+
+    O: 뜨거운 차
+    E: Hot tea
+
+    O: 차가운 공
+    E: A cold ball
+
+    O: 개가 별로 없습니다.
+    E: There are not many dogs. @formal
+    F: _There are not many_ dogs. @formal
+
+    O: 바쁜 사람은 안 게을러요.
+    E: A busy person is not lazy. @polite
+    F: _A busy person_ is not lazy. @polite
+
+    O: 뚱뚱한 말이 날씬한 돼지보다 빨라요.
+    E: The fat horse is faster than the skinny pig. @polite
+    F: The fat horse _is faster than the skinny pig_. @polite
+
+    O: 제가 그리 예뻐요?
+    E: Am I that pretty? @polite
+    F: _Am_ I _that pretty_? @polite
+
+    O: 개가 거의 없습니다.
+    E: There are almost no dogs. @formal
+    F: _There are almost no_ dogs. @formal
+
+    O: 운동하는 남자는 물이 거의 없어요.
+    E: The exercising man has almost no water. @polite
+    F: _The exercising man_ has almost no water. @polite
+
+    O: 영화가 별로 재미없습니다.
+    E: The movie is not very interesting. @formal
+    F: The movie _is not very interesting_. @formal
+
+    O: 그는 아주 뜨거운 커피를 마셔요.
+    E: He drinks very hot coffee. @polite
+    F: _He_ drinks very hot coffee. @polite
+
+    O: 차가운 아이스크림
+    E: Cold ice cream
+
+    O: 사과가 별로 없습니다.
+    E: There are not many apples. @formal
+    F: _There are not many_ apples. @formal
+
+    O: 저의 친구들은 저보다 친구가 많아요.
+    E: My friends have more friends than I. @polite
+    F: _My friends_ have more friends than I. @polite
+
+    O: 뜨거운 차가 차가운 차보다 싸요.
+    E: Hot tea is cheaper than cold tea. @polite
+    F: Hot tea _is cheaper than cold tea_. @polite

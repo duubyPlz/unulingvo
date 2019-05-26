@@ -143,6 +143,3 @@
     O: 공이 터져요.
     E: The ball explodes.
     F: The ball _explodes_.
-
-
-
