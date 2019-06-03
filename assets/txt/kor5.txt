@@ -76,8 +76,8 @@
     E: The school is good.
     F: The school _is good_.
 
-    O: 크 카메라
-    E: That camera
+    O: 저 카메라
+    E: That camera over there
 
     O: 이 사과
     E: This apple
