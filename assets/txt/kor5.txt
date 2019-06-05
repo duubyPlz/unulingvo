@@ -234,8 +234,8 @@
     F: The school _is low_.
 
     O: 한국이 덥습니다.
-    E: Korea is cold.
-    F: Korea _is cold_.
+    E: Korea is hot.
+    F: Korea _is hot_.
 
     O: 저는 덥습니다.
     E: I am hot.
