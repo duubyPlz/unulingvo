@@ -100,7 +100,7 @@
 
     O: 저 건물이 큽니다.
     E: That (over there) building is big.
-    F: _That (over there) building_ is big.
+    F: That (over there) building _is big_.
 
     O: 여자아이가 그 책상에 앉습니다.
     E: The girl sits at that desk.
