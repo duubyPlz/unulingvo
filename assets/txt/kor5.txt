@@ -361,7 +361,7 @@
 
     O: 개는 영리합니다.
     E: Dogs are clever.
-    F: Dogs _are clever_.
+    F: _Dogs_ are clever.
 
     O: 여자가 비열합니다.
     E: The woman is mean.
