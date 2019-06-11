@@ -58,9 +58,9 @@
     O: 만지지 마십시오.
     E: Don't touch.
 
-    # Sir, don't be too worried.
+    # Sir, don't worry too much.
     O: 손님, 너무 걱정하지 마십시오.
-    E: Sir, don't worry too much.
+    E: Sir, don't be too worried.
 
     O: 너무 빨리 배우지 마십시오.
     E: Don't learn too fast.
