@@ -1,5 +1,5 @@
 Adverbs: Degree.
-One.
+Lesson One.
     His radio is especially slow.
     Answer in
     One.
@@ -158,3 +158,5 @@ One.
     Four.
     Five.
     한국어는 제일 쉬운 언어가 아닙니다.
+
+    End of 15 - Adverbs: Degree.

@@ -1,5 +1,5 @@
 Polite Moods.
-One.
+Lesson One.
     Buy my house!
     Answer in
     One.
@@ -159,8 +159,7 @@ One.
     Five.
     듀오링고를 저에게 파세요!
 
-    Next Sentence.
-> Two
+Lesson Two.
     Let's hide in the park quickly!
     Answer in
     One.
@@ -280,8 +279,7 @@ One.
     Five.
     내일 제 친구의 집에서 놀아요!
 
-    Next Sentence.
-> Three
+Lesson Three.
     Who studies Korean?
     Answer in
     One.
@@ -421,4 +419,4 @@ One.
     Five.
     공이 터져요.
 
-    Next Sentence.
+    End of 14 - Polite Moods.
