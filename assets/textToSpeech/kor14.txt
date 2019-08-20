@@ -1,0 +1,424 @@
+Polite Moods.
+One.
+    Buy my house!
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저의 집을 사세요! 
+
+    Next Sentence.
+    Make delicious breakfast.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    맛있는 아침을 만드세요.
+
+    Next Sentence.
+    Sell the house.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집을 파세요.
+
+    Next Sentence.
+    Do not buy eggs.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    계란을 사지 마세요.
+
+    Next Sentence.
+    Do not sell the baby's book.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아기의 책을 팔지 마세요.
+
+    Next Sentence.
+    Do not pick a spicy chili.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    매운 고추를 고르지 마세요.
+
+    Next Sentence.
+    Cook something spicy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    매운 것을 요리하세요.
+
+    Next Sentence.
+    I cannot make pasta that delicious. @i
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    나는 그만큼 맛있는 파스타를 못 만들어요.
+
+    Next Sentence.    
+    Pick a delicious meat.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    맛있는 고기를 고르세요.
+
+    Next Sentence.
+    The student does not live at school.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생은 학교에 안 살아요.
+
+    Next Sentence.    
+    Do not live in Korea.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한국에 살지 마세요.
+
+    Next Sentence.
+    Make a big ball quickly.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빨리 큰 공을 만드세요.
+
+    Next Sentence.
+    Pick something delicious.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    맛있는 것을 고르세요.
+
+    Next Sentence.
+    Buy delicious strawberries.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    맛있는 딸기를 사세요.
+
+    Next Sentence.
+    Do not do something difficult!
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어려운 것을 하지 마세요!
+
+    Next Sentence.
+    Sell me Duolingo!
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    듀오링고를 저에게 파세요!
+
+    Next Sentence.
+> Two
+    Let's hide in the park quickly!
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공원에 빨리 숨어요! 
+
+    Next Sentence.
+    Let's attend school together.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학교에 같이 다녀요.
+
+    Next Sentence.
+    See you soon in Seoul!
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    곧 서울에서 봐요!
+
+    Next Sentence.
+    Let's meet at the park soon.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    곧 공원에서 만나요.
+
+    Next Sentence.
+    Let's meet tomorrow!
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일 만나요!
+
+    Next Sentence.
+    Let's hang out at the school together.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학교에서 같이 놀아요.
+
+    Next Sentence.
+    Let's hang out in Seoul tomorrow!
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일 서울에서 놀아요!
+
+    Next Sentence.
+    Let's meet at the hotel.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    호텔에서 만나요.
+
+    Next Sentence.
+    I am sorry. Let's[u] meet again soon.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    미안해요. 우리 곧 다시 만나요.
+
+    Next Sentence.
+    Let's[u] hide over there!
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    우리 저기에 숨어요!
+
+    Next Sentence.
+    Let's go[r] to the library with the dog.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    개하고 도서관에 다녀요.
+
+    Next Sentence.
+    Let's hang out at my[s] friend's house tomorrow!
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일 제 친구의 집에서 놀아요!
+
+    Next Sentence.
+> Three
+    Who studies Korean?
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    누가 한국어를 공부해요?
+
+    Next Sentence.
+    What do the students learn today?
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오늘 학생들이 뭘 배워요?
+
+    Next Sentence.
+    How much is it?
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    얼마예요?
+
+    Next Sentence.
+    Garam, who is there?
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가람 씨, 누가 거기에 있어요?
+
+    Next Sentence.
+    Does the apple explode, too?
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과도 터져요?
+
+    Next Sentence.
+    How is that student? @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 학생은 어떻습니까?
+
+    Next Sentence.    
+    How long is this road?
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 길은 얼마나 길어요?
+
+    Next Sentence.    
+    How is that?
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그것은 어때요?
+
+    Next Sentence.    
+    The big cake is in which place?
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    큰 케이크가 어느 곳에 있어요?
+
+    Next Sentence.    
+    Garam, what do you want?
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가람 씨, 뭘 원해요? 
+
+    Next Sentence.
+    What is bland?
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뭐가 싱거워요?
+
+    Next Sentence.
+    Who wants bulgogi?
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    누가 불고기를 원해요?
+
+    Next Sentence.
+    How is this? @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이것은 어떻습니까?
+
+    Next Sentence.    
+    The ball explodes.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공이 터져요.
+
+    Next Sentence.

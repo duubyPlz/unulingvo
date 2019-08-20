@@ -1,0 +1,5 @@
+E:(.*)
+E:$1\n    Answer in\n    One.\n    Two.\n    Three.\n    Four.\n    Five.
+
+O:(.*)\n
+O:$1\n\n    Next Sentence.
