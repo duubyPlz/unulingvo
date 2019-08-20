@@ -1,3 +1,7 @@
+F:.*$\n
+#.*$\n   
+@[a-z, ]+ 
+
 E:(.*)
 E:$1\n    Answer in\n    One.\n    Two.\n    Three.\n    Four.\n    Five.
 

@@ -70,7 +70,7 @@ One.
     매운 것을 요리하세요.
 
     Next Sentence.
-    I cannot make pasta that delicious. @i
+    I cannot make pasta that delicious.
     Answer in
     One.
     Two.
@@ -332,7 +332,7 @@ One.
     사과도 터져요?
 
     Next Sentence.
-    How is that student? @formal
+    How is that student? 
     Answer in
     One.
     Two.
@@ -402,7 +402,7 @@ One.
     누가 불고기를 원해요?
 
     Next Sentence.
-    How is this? @formal
+    How is this? 
     Answer in
     One.
     Two.

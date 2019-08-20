@@ -1,0 +1,383 @@
+Conjunctions.
+> One.
+    E: I am happy when I eat rice. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 저는 밥을 먹으면 행복해요.
+
+    Next Sentence.    
+    E: So the animal runs. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 그래서 동물이 달려요.
+
+    Next Sentence.    
+    E: I go on foot. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 저는 걸어서 가요.
+
+    Next Sentence.    
+    E: He speaks while sleeping[ss]. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 그는 자면서 말합니다. 
+
+    Next Sentence.    
+    E: I eat and drink. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 저는 먹고 마십니다.
+
+    Next Sentence.    
+    E: And she exercises[l]. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 그리고 그녀는 운동을 해요.
+
+    Next Sentence.    
+    E: I am happy when I see you. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 나는 너를 보면 행복해.
+
+    Next Sentence.    
+    E: I go home and sleep[ll]. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 저는 집에 가서 잠을 자요.
+
+    Next Sentence.    
+    E: You and I 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 너 그리고 나
+
+    Next Sentence.
+    E: Are you talking to me? 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 너 나에게 말하고 있냐?
+
+    Next Sentence.
+    E: This movie is happy and sad. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 이 영화는 행복하고 슬퍼요.
+
+    Next Sentence.    
+    E: So I study[l]. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 그래서 저는 공부를 합니다.
+
+    Next Sentence.    
+    E: This man is fat, and[l] that man over there is thin. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 이 남자는 뚱뚱합니다. 그리고 저 남자는 날씬합니다.
+
+    Next Sentence.    
+> Two
+    E: Let's go eat! 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 먹으러 가자! 
+
+    Next Sentence.
+    E: But[s] that is too expensive. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 그런데 그것은 너무 비싸요.
+
+    Next Sentence.    
+    E: I touch it too. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 나도 만진다.
+
+    Next Sentence.
+    E: But[hs] that person over there is not a man. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 하지만 저 사람은 남자가 아닙니다.
+
+    Next Sentence.    
+    E: This bread tastes good but[h] that bread tastes bad. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 이 빵은 맛있지만 저 빵은 맛없어요.
+
+    Next Sentence.    
+    E: What does he go to school for? 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 그는 무엇을 하러 학교에 갑니까?
+
+    Next Sentence.    
+    E: The boy learns Korean but[s] he also learns English. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 남자아이가 한국어를 배우는데 영어도 배워요.
+
+    Next Sentence.    
+    E: The dog speaks Korean too. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 개도 한국어로 말합니다.
+
+    Next Sentence.
+    E: She likes fried chicken, but[s] she eats vegetables. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 그녀는 치킨을 좋아하는데 야채를 먹어요.
+
+    Next Sentence.    
+    E: But[hs] he is smart! 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 하지만 그는 똑똑해요!
+
+    Next Sentence.    
+    E: The cat goes home to sleep[ss]. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 고양이가 자러 집에 가요.
+
+    Next Sentence.    
+    E: She is pretty but[s] lazy. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 그녀는 예쁜데 게을러요.
+
+    Next Sentence.    
+    E: This car is small but[s] expensive. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 이 자동차는 작은데 비쌉니다.
+
+    Next Sentence.    
+    E: I love her. But[s] _she_ hates me. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 나는 그녀를 사랑해요. 그런데 그녀는 나를 싫어해요.
+
+    Next Sentence.    
+    E: The cat hates food but[h] it eats it. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 고양이가 음식을 싫어하지만 먹어요.
+
+    Next Sentence.    
+    E: The cat eats but[h] hates the food. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 고양이가 먹지만 음식을 싫어해요.
+
+    Next Sentence.    
+    E: But[hs] I am tall! 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 하지만 저는 키가 커요!
+
+    Next Sentence.    
+    E: But[s] English is strange. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 그런데 영어는 이상해요.
+
+    Next Sentence.    
+    E: The child writes and reads. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 아이가 쓰고 읽어요.
+
+    Next Sentence.    
+    E: I go to a restaurant and eat. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 저는 식당에 가서 먹어요.
+
+    Next Sentence.    
+    E: I sing while I eat. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 저는 먹으면서 노래합니다.
+
+    Next Sentence.    
+    E: The man is happy because the bread is delicious. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 빵이 맛있어서 남자는 행복해요.
+
+    Next Sentence.    
+    E: If that woman teaches, I learn Korean well. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 그 여자가 가르치면 저는 한국어를 잘 배워요.
+
+    Next Sentence.    
+    E: That cat exists and at the same time does not exist. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 그 고양이는 있으면서 없습니다.
+
+    Next Sentence.    
+    E: He speaks while sleeping. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 그는 자면서 말합니다.
+
+    Next Sentence.
