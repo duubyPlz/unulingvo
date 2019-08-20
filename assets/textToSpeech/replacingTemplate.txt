@@ -2,8 +2,18 @@ F:.*$\n
 #.*$\n   
 @[a-z, ]+ 
 
+// Swap E and O lines
+
 E:(.*)
 E:$1\n    Answer in\n    One.\n    Two.\n    Three.\n    Four.\n    Five.
 
 O:(.*)\n
 O:$1\n\n    Next Sentence.
+
+>(.*)
+Lesson$1.
+// Remove "Next Sentence" before Lesson titles
+
+// Get rid of E: and O: markings
+
+// Replace last "Next Sentence" with End of [num] - [title].
