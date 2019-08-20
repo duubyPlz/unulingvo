@@ -9,6 +9,7 @@ One.
     Five.
     그의 라디오가 특히 느려요.
 
+    Next Sentence.
     A good hotel.
     Answer in 
     One.
@@ -18,6 +19,7 @@ One.
     Five.
     좋은 호텔
 
+    Next Sentence.
     Bulgogi is the best food. 
     Answer in 
     One.
@@ -27,6 +29,7 @@ One.
     Five.
     불고기는 제일 좋은 음식이에요.
 
+    Next Sentence.
     Korean strawberries are very delicious. 
     Answer in 
     One.
@@ -36,6 +39,7 @@ One.
     Five.
     한국 딸기는 아주 맛있습니다.
 
+    Next Sentence.
     That pasta tastes really bad. 
     Answer in 
     One.
@@ -45,6 +49,7 @@ One.
     Five.
     그 파스타는 정말 맛없어요.
 
+    Next Sentence.
     Very interesting!
     Answer in 
     One.
@@ -54,6 +59,7 @@ One.
     Five.
     매우 재미있어요!
 
+    Next Sentence.
     This movie is a really bad one. 
     Answer in 
     One.
@@ -63,6 +69,7 @@ One.
     Five.
     이 영화는 정말 나쁜 영화예요.
 
+    Next Sentence.
     I live on the longest road. 
     Answer in 
     One.
@@ -72,6 +79,7 @@ One.
     Five.
     저는 제일 긴 길에 살아요.
 
+    Next Sentence.
     A bad dog
     Answer in 
     One.
@@ -81,6 +89,7 @@ One.
     Five.
     나쁜 개
 
+    Next Sentence.
     Really?
     Answer in 
     One.
@@ -90,6 +99,7 @@ One.
     Five.
     정말?
 
+    Next Sentence.
     I like pizza very much. 
     Answer in 
     One.
@@ -99,6 +109,7 @@ One.
     Five.
     저는 피자를 아주 좋아합니다.
 
+    Next Sentence.
     That bird over there is a bad bird. 
     Answer in 
     One.
@@ -108,6 +119,7 @@ One.
     Five.
     저 새는 나쁜 새다.
 
+    Next Sentence.
     That book is especially interesting. 
     Answer in 
     One.
@@ -117,6 +129,7 @@ One.
     Five.
     그 책이 특히 재미있어요.
 
+    Next Sentence.
     That woman is really pretty. 
     Answer in 
     One.
@@ -126,6 +139,7 @@ One.
     Five.
     그 여자가 정말 예뻐요.
 
+    Next Sentence.
     Very sour fruit
     Answer in 
     One.
@@ -135,6 +149,7 @@ One.
     Five.
     아주 신 과일
 
+    Next Sentence.
     Korean is not the easiest language. 
     Answer in 
     One.
