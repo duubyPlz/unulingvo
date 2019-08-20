@@ -1,236 +1,145 @@
-Adverbs: Degree
-One
+Adverbs: Degree.
+One.
     His radio is especially slow.
-    Answer in.
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     그의 라디오가 특히 느려요.
 
     A good hotel.
-    Translation in.
+    Answer in 
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
-    Translation in.
-    One.
-    Two.
-    Three.
-    Four.
-    Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     좋은 호텔
 
     Bulgogi is the best food. 
-    Translation in.
+    Answer in 
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     불고기는 제일 좋은 음식이에요.
 
     Korean strawberries are very delicious. 
-    Translation in.
+    Answer in 
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     한국 딸기는 아주 맛있습니다.
 
     That pasta tastes really bad. 
-    Translation in.
+    Answer in 
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     그 파스타는 정말 맛없어요.
 
     Very interesting!
-    Translation in.
+    Answer in 
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     매우 재미있어요!
 
     This movie is a really bad one. 
-    Translation in.
+    Answer in 
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     이 영화는 정말 나쁜 영화예요.
 
     I live on the longest road. 
-    Translation in.
+    Answer in 
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     저는 제일 긴 길에 살아요.
 
     A bad dog
-    Translation in.
+    Answer in 
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     나쁜 개
 
     Really?
-    Translation in.
+    Answer in 
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     정말?
 
     I like pizza very much. 
-    Translation in.
+    Answer in 
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     저는 피자를 아주 좋아합니다.
 
     That bird over there is a bad bird. 
-    Translation in.
+    Answer in 
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     저 새는 나쁜 새다.
 
     That book is especially interesting. 
-    Translation in.
+    Answer in 
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     그 책이 특히 재미있어요.
 
     That woman is really pretty. 
-    Translation in.
+    Answer in 
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     그 여자가 정말 예뻐요.
 
     Very sour fruit
-    Translation in.
+    Answer in 
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     아주 신 과일
 
     Korean is not the easiest language. 
-    Translation in.
+    Answer in 
     One.
     Two.
     Three.
     Four.
     Five.
-    Six.
-    Seven.
-    Eight.
-    Nine.
-    Ten.
     한국어는 제일 쉬운 언어가 아닙니다.
