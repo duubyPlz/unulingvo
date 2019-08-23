@@ -1,162 +1,484 @@
 Adverbs: Degree.
 Lesson One.
-    His radio is especially slow.
+    E: His radio is especially slow. @polite
     Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    그의 라디오가 특히 느려요.
+    O: 그의 라디오가 특히 느려요.
 
-    Next Sentence.
-    A good hotel.
-    Answer in 
+    Next Sentence.    
+    E: A good hotel
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    좋은 호텔
+    O: 좋은 호텔
 
     Next Sentence.
-    Bulgogi is the best food. 
-    Answer in 
+    E: Bulgogi is the best food. @polite
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    불고기는 제일 좋은 음식이에요.
+    O: 불고기는 제일 좋은 음식이에요.
 
-    Next Sentence.
-    Korean strawberries are very delicious. 
-    Answer in 
+    Next Sentence.    
+    E: Korean strawberries are very delicious. @formal
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    한국 딸기는 아주 맛있습니다.
+    O: 한국 딸기는 아주 맛있습니다.
 
-    Next Sentence.
-    That pasta tastes really bad. 
-    Answer in 
+    Next Sentence.    
+    E: That pasta tastes really bad. @polite
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    그 파스타는 정말 맛없어요.
+    O: 그 파스타는 정말 맛없어요.
 
-    Next Sentence.
-    Very interesting!
-    Answer in 
+    Next Sentence.    
+    E: Very interesting!
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    매우 재미있어요!
+    O: 매우 재미있어요!
 
     Next Sentence.
-    This movie is a really bad one. 
-    Answer in 
+    E: This movie is a really bad one. @polite
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    이 영화는 정말 나쁜 영화예요.
+    O: 이 영화는 정말 나쁜 영화예요.
 
-    Next Sentence.
-    I live on the longest road. 
-    Answer in 
+    Next Sentence.    
+    E: I live on the longest road. @polite
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    저는 제일 긴 길에 살아요.
+    O: 저는 제일 긴 길에 살아요.
 
-    Next Sentence.
-    A bad dog
-    Answer in 
+    Next Sentence.    
+    E: A bad dog
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    나쁜 개
+    O: 나쁜 개
 
     Next Sentence.
-    Really?
-    Answer in 
+    E: Really?
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    정말?
+    O: 정말?
 
     Next Sentence.
-    I like pizza very much. 
-    Answer in 
+    E: I like pizza very much. @formal
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    저는 피자를 아주 좋아합니다.
+    O: 저는 피자를 아주 좋아합니다.
 
-    Next Sentence.
-    That bird over there is a bad bird. 
-    Answer in 
+    Next Sentence.    
+    E: That bird over there is a bad bird. @plain
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    저 새는 나쁜 새다.
+    O: 저 새는 나쁜 새다.
 
-    Next Sentence.
-    That book is especially interesting. 
-    Answer in 
+    Next Sentence.    
+    E: That book is especially interesting. @polite
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    그 책이 특히 재미있어요.
+    O: 그 책이 특히 재미있어요.
 
-    Next Sentence.
-    That woman is really pretty. 
-    Answer in 
+    Next Sentence.    
+    E: That woman is really pretty. @polite
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    그 여자가 정말 예뻐요.
+    O: 그 여자가 정말 예뻐요.
 
-    Next Sentence.
-    Very sour fruit
-    Answer in 
+    Next Sentence.    
+    E: Very sour fruit
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    아주 신 과일
+    O: 아주 신 과일
 
     Next Sentence.
-    Korean is not the easiest language. 
-    Answer in 
+    E: Korean is not the easiest language. @formal
+    Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    한국어는 제일 쉬운 언어가 아닙니다.
+    O: 한국어는 제일 쉬운 언어가 아닙니다.
 
-    End of 15 - Adverbs: Degree.
+    Next Sentence.       
+    O: 이것은 아주 좋은 것이에요!
+
+    Next Sentence.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+
+    E: It is a very bad newspaper. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 매우 나쁜 신문입니다.
+
+    Next Sentence.
+    E: This pasta tastes especially bad. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 이 파스타는 특히 맛없어요.
+
+    Next Sentence.    
+Lesson Two.
+    E: The cheap newspaper is very light. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 싼 신문이 굉장히 가벼워요.
+
+    Next Sentence.    
+    E: She is considerably attractive. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 그녀는 상당히 매력이 있습니다.
+
+    Next Sentence.    
+    E: That student is really kind! @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 그 학생은 참 착해요!
+
+    Next Sentence.    
+    E: This duck is much slower. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 이 오리가 훨씬 더 느려요.
+
+    Next Sentence.    
+    E: The expensive chicken is quite cute. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 비싼 닭이 꽤 귀엽습니다.
+
+    Next Sentence.    
+    E: She is really pretty! @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 그녀는 참 예뻐요!
+
+    Next Sentence.    
+    E: My house is bigger by far. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 저의 집은 훨씬 더 커요.
+
+    Next Sentence.    
+    E: Cheap pencil
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 싼 연필
+
+    Next Sentence.
+    E: I eat expensive food. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 저는 비싼 음식을 먹습니다.
+
+    Next Sentence.    
+    E: This ramen is overly spicy! @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 이 라면은 엄청 매워요!
+
+    Next Sentence.    
+    E: In the park, there are more big trees by far. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 공원에 큰 나무는 훨씬 더 많습니다.
+
+    Next Sentence.    
+    E: This ramen is overly spicy! @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 이 라면은 엄청 매워요!
+
+    Next Sentence.    
+    E: It is quite cold today. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 오늘은 꽤 추워요.
+
+    Next Sentence.    
+    E: I am very tired. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 제가 굉장히 피곤해요.
+
+    Next Sentence.    
+Lesson Three.
+    E: A cold ball
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 차가운 공
+
+    Next Sentence.
+    E: There are not many dogs. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 개가 별로 없습니다.
+
+    Next Sentence.    
+    E: The exercising man has almost no water. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 운동하는 남자는 물이 거의 없어요.
+
+    Next Sentence.    
+    E: A busy person is not lazy. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 바쁜 사람은 안 게을러요.
+
+    Next Sentence.    
+    E: There are not many apples. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 사과가 별로 없습니다.
+
+    Next Sentence.    
+    E: Hot tea
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 뜨거운 차 
+
+    Next Sentence.
+    E: Am I that pretty? @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 제가 그리 예뻐요?
+
+    Next Sentence.    
+    E: The fat horse is faster than the skinny pig. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 뚱뚱한 말이 날씬한 돼지보다 빨라요.
+
+    Next Sentence.    
+    E: Hot tea is cheaper than cold tea. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 뜨거운 차가 차가운 차보다 싸요.
+
+    Next Sentence.    
+    E: Hot ice cream does not taste that bad. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 뜨거운 아이스크림은 그리 맛없지 않아요.
+
+    Next Sentence.    
+    E: A busy person is not lazy. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 바쁜 사람은 안 게을러요.
+
+    Next Sentence.      
+    E: The man singing is not that short. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 노래하는 남자는 키가 그리 안 작아요.
+
+    Next Sentence.    
+    E: The busy child has almost no friends. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 바쁜 아이는 친구가 거의 없습니다.
+
+    Next Sentence.    
+    E: Cold ice cream
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 차가운 아이스크림
+
+    Next Sentence.
+    E: The movie is not very interesting. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    O: 영화가 별로 재미없습니다.
+
+    Next Sentence.    

@@ -2,7 +2,8 @@ F:.*$\n
 #.*$\n   
 @[a-z, ]+ 
 
-// Swap E and O lines
+(    O:.*)\n(    E:.*)
+$2\n$1
 
 E:(.*)
 E:$1\n    Answer in\n    One.\n    Two.\n    Three.\n    Four.\n    Five.

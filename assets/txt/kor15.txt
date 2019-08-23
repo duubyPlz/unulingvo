@@ -1,3 +1,20 @@
+# Wind is very strong.
+# = 바람이 아주(very) 강하다.
+# = 바람이 참(really) 강하다.
+# = 바람이 매우(very) 강하다.
+# = 바람이 굉장히(immensely) 강하다.
+# = 바람이 엄청(so much) 강하다.
+# = 바람이 완전(completely) 강하다.
+# = 바람이 무지(extremely)강하다.
+# = 바람이 대단히(greatly) 강하다.
+# = 바람이 꽤(quite) 강하다.
+# = 바람이 되게(extremely) 강하다.
+# 굉장히, 대단히(very very very) 
+# 완전, 무지, 엄청, 되게 (very very) > 아주, 매우 (very) > 참, 꽤 (quite)
+
+# really: 정말, 참, (진짜 informal)
+# very: 아주, 매우 (higher degree than normal), 굉장히
+
 == Adverbs: Degree ==
 > One
     O: 그의 라디오가 특히 느려요.
@@ -20,7 +37,7 @@
     F: _That pasta_ tastes really bad. @polite
 
     O: 매우 재미있어요!
-    E: Very interesting!
+    E: Very[s] interesting!
 
     O: 이 영화는 정말 나쁜 영화예요.
     E: This movie is a really bad one. @polite
@@ -60,12 +77,13 @@
     E: Korean is not the easiest language. @formal
     F: _Korean_ is not the easiest language. @formal
     
+    # This is such a good thing!
     O: 이것은 아주 좋은 것이에요!
-    F: This is such a good thing! @polite
-    E: _This_ is such a good thing! @polite
+    E: This is a very good thing! @polite
+    F: _This_ is a very good thing! @polite
 
     O: 매우 나쁜 신문입니다.
-    E: It is a very bad newspaper. @formal
+    E: It is a very[s] bad newspaper. @formal
 
     O: 이 파스타는 특히 맛없어요.
     E: This pasta tastes especially bad. @polite
@@ -73,8 +91,8 @@
 
 > Two
     O: 싼 신문이 굉장히 가벼워요.
-    E: The cheap newspaper is very light. @polite
-    F: The cheap newspaper _is very light_. @polite
+    E: The cheap newspaper is immensely light. @polite
+    F: The cheap newspaper _is immensely light_. @polite
 
     O: 그녀는 상당히 매력이 있습니다.
     E: She is considerably attractive. @formal
@@ -124,8 +142,8 @@
     F: It is quite cold _today_. @polite
 
     O: 제가 굉장히 피곤해요.
-    E: I am very tired. @polite
-    F: I _am very tired_. @polite
+    E: I am immensely tired. @polite
+    F: I _am immensely tired_. @polite
 
 > Three
     O: 차가운 공
