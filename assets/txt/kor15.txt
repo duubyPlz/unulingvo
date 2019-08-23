@@ -70,3 +70,59 @@
     O: 이 파스타는 특히 맛없어요.
     E: This pasta tastes especially bad. @polite
     F: _This pasta_ tastes especially bad. @polite
+
+> Two
+    O: 싼 신문이 굉장히 가벼워요.
+    E: The cheap newspaper is very light. @polite
+    F: The cheap newspaper _is very light_. @polite
+
+    O: 그녀는 상당히 매력이 있습니다.
+    E: She is considerably attractive. @formal
+    F: _She_ is considerably attractive. @formal
+
+    O: 그 학생은 참 착해요!
+    E: That student is really kind! @polite
+    F: _That student_ is really kind! @polite
+
+    O: 이 오리가 훨씬 더 느려요.
+    E: This duck is much slower. @polite
+    F: This duck _is much slower_. @polite
+
+    O: 비싼 닭이 꽤 귀엽습니다.
+    E: The expensive chicken is quite cute. @formal
+    F: The expensive chicken _is quite cute_. @formal
+
+    O: 그녀는 참 예뻐요!
+    E: She is really pretty! @polite
+    F: _She_ is really pretty! @polite
+
+    O: 저의 집은 훨씬 더 커요.
+    E: My house is bigger by far. @polite
+    F: _My house_ is bigger by far. @polite
+
+    O: 싼 연필
+    E: Cheap pencil
+
+    O: 저는 비싼 음식을 먹습니다.
+    E: I eat expensive food. @formal
+    F: _I_ eat expensive food. @formal
+
+    O: 이 라면은 엄청 매워요!
+    E: This ramen is overly spicy! @polite
+    F: _This ramen_ is overly spicy! @polite
+
+    O: 공원에 큰 나무는 훨씬 더 많습니다.
+    E: In the park, there are more big trees by far. @formal
+    F: In the park, there are more _big trees_ by far. @formal
+
+    O: 이 라면은 엄청 매워요!
+    E: This ramen is overly spicy! @polite
+    F: _This ramen_ is overly spicy! @polite
+
+    O: 오늘은 꽤 추워요.
+    E: It is quite cold today. @polite
+    F: It is quite cold _today_. @polite
+
+    O: 제가 굉장히 피곤해요.
+    E: I am very tired. @polite
+    F: I _am very tired_. @polite
