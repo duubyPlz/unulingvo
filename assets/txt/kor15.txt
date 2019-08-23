@@ -59,3 +59,14 @@
     O: 한국어는 제일 쉬운 언어가 아닙니다.
     E: Korean is not the easiest language. @formal
     F: _Korean_ is not the easiest language. @formal
+    
+    O: 이것은 아주 좋은 것이에요!
+    F: This is such a good thing! @polite
+    E: _This_ is such a good thing! @polite
+
+    O: 매우 나쁜 신문입니다.
+    E: It is a very bad newspaper. @formal
+
+    O: 이 파스타는 특히 맛없어요.
+    E: This pasta tastes especially bad. @polite
+    F: _This pasta_ tastes especially bad. @polite
