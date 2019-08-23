@@ -1,6 +1,9 @@
+== (.*) ==
+$1.
+
 F:.*$\n
-#.*$\n   
-@[a-z, ]+ 
+#.*$\n    
+#.*$\n
 
 (    O:.*)\n(    E:.*)
 $2\n$1
@@ -13,7 +16,9 @@ O:$1\n\n    Next Sentence.
 
 >(.*)
 Lesson$1.
-// Remove "Next Sentence" before Lesson titles
+
+    Next Sentence.\s*\nLesson
+Lesson
 
 // Get rid of E: and O: markings
 
