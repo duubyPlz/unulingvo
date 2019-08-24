@@ -99,8 +99,8 @@
     F: _She_ is considerably attractive. @formal
 
     O: 그 학생은 참 착해요!
-    E: That student is really kind! @polite
-    F: _That student_ is really kind! @polite
+    E: That student is really[s] kind! @polite
+    F: _That student_ is really[s] kind! @polite
 
     O: 이 오리가 훨씬 더 느려요.
     E: This duck is much slower. @polite
@@ -111,8 +111,8 @@
     F: The expensive chicken _is quite cute_. @formal
 
     O: 그녀는 참 예뻐요!
-    E: She is really pretty! @polite
-    F: _She_ is really pretty! @polite
+    E: She is really[s] pretty! @polite
+    F: _She_ is really[s] pretty! @polite
 
     O: 저의 집은 훨씬 더 커요.
     E: My house is bigger by far. @polite
@@ -120,6 +120,14 @@
 
     O: 싼 연필
     E: Cheap pencil
+
+    O: 이 와인은 상당히 쌉니다.
+    E: This wine is considerably cheap. @formal
+    F: _This wine_ is considerably cheap. @formal
+
+    O: 이 여자아이는 굉장히 똑똑합니다.
+    E: This girl is immensely smart. @formal
+    F: _This girl_ is immensely smart. @formal
 
     O: 저는 비싼 음식을 먹습니다.
     E: I eat expensive food. @formal
@@ -145,7 +153,27 @@
     E: I am immensely tired. @polite
     F: I _am immensely tired_. @polite
 
+    O: 산이 꽤 높아요.
+    E: The mountain is quite high. @polite
+    F: The mountain _is quite high_. @polite
+
+    O: 친구의 집이 참 깨끗합니다!
+    E: The friend's house is really[s] clean! @formal
+    F: The friend's house _is really[s] clean_! @formal
+
+    O: 그것은 상당히 비쌉니다.
+    E: That is considerably expensive. @formal
+    F: _That_ is considerably expensive. @formal
+
 > Three
+    O: 싼 음식은 비싼 음식보다 뜨겁습니다.
+    E: Cheap food is hotter than expensive food. @formal
+    F: _Cheap food_ is hotter than expensive food. @formal
+
+    O: 개가 거의 없습니다.
+    E: There are almost no dogs. @formal
+    F: _There are almost no_ dogs. @formal
+
     O: 차가운 공
     E: A cold ball
 
@@ -202,3 +230,11 @@
     O: 영화가 별로 재미없습니다.
     E: The movie is not very interesting. @formal
     F: The movie _is not very interesting_. @formal
+
+    O: 그는 아주 뜨거운 커피를 마셔요.
+    E: He drinks very hot coffee. @polite
+    F: _He_ drinks very hot coffee. @polite
+
+    O: 저의 친구들은 저보다 친구가 많아요.
+    E: My friends have more friends than I. @polite
+    F: _My friends_ have more friends than I. @polite

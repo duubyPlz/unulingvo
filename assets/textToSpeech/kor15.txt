@@ -210,7 +210,7 @@ Lesson Two.
     그녀는 상당히 매력이 있습니다.
 
     Next Sentence.    
-    That student is really kind! @polite
+    That student is really[s] kind! @polite
     Answer in
     One.
     Two.
@@ -240,7 +240,7 @@ Lesson Two.
     비싼 닭이 꽤 귀엽습니다.
 
     Next Sentence.    
-    She is really pretty! @polite
+    She is really[s] pretty! @polite
     Answer in
     One.
     Two.
@@ -270,6 +270,26 @@ Lesson Two.
     싼 연필
 
     Next Sentence.
+    This wine is considerably cheap. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 와인은 상당히 쌉니다.
+
+    Next Sentence.    
+    This girl is immensely smart. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 여자아이는 굉장히 똑똑합니다.
+
+    Next Sentence.    
     I eat expensive food. @formal
     Answer in
     One.
@@ -329,7 +349,57 @@ Lesson Two.
     Five.
     제가 굉장히 피곤해요.
 
+    Next Sentence.    
+    The mountain is quite high. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    산이 꽤 높아요.
+
+    Next Sentence.    
+    The friend's house is really[s] clean! @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구의 집이 참 깨끗합니다!
+
+    Next Sentence.    
+    That is considerably expensive. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그것은 상당히 비쌉니다.
+
 Lesson Three.
+    Cheap food is hotter than expensive food. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    싼 음식은 비싼 음식보다 뜨겁습니다.
+
+    Next Sentence.    
+    There are almost no dogs. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    개가 거의 없습니다.
+
+    Next Sentence.    
     A cold ball
     Answer in
     One.
@@ -478,5 +548,25 @@ Lesson Three.
     Four.
     Five.
     영화가 별로 재미없습니다.
+
+    Next Sentence.    
+    He drinks very hot coffee. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그는 아주 뜨거운 커피를 마셔요.
+
+    Next Sentence.    
+    My friends have more friends than I. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저의 친구들은 저보다 친구가 많아요.
 
     End of 15 - Adverbs: Degree.
