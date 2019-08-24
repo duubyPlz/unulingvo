@@ -24,6 +24,9 @@ Lesson
 ([^.])\n    Answer
 $1.\n    Answer
 
+@[a-z, ]+
+[$1]
+
 // Get rid of E:  and O:  markings
 
 // Add [num] to top title

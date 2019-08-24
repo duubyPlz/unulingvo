@@ -1,6 +1,6 @@
 10 Pronouns.
 Lesson One.
-    This woman hates us. @polite.
+    This woman hates us. [polite].
     Answer in
     One.
     Two.
@@ -10,7 +10,7 @@ Lesson One.
     이 여자는 우리를 미워해요.
 
     Next Sentence.    
-    I hate tea. @formal,i.
+    I hate tea. [formal,i].
     Answer in
     One.
     Two.
@@ -20,7 +20,7 @@ Lesson One.
     나는 차를 싫어합니다.
 
     Next Sentence.    
-    I like exercise. @formal.
+    I like exercise. [formal].
     Answer in
     One.
     Two.
@@ -30,7 +30,7 @@ Lesson One.
     저는 운동을 좋아합니다.
 
     Next Sentence.    
-    We love Korean! @polite.
+    We love Korean! [polite].
     Answer in
     One.
     Two.
@@ -40,7 +40,7 @@ Lesson One.
     우리는 한국어를 사랑해요!
 
     Next Sentence.    
-    The child hates bread. @polite.
+    The child hates bread. [polite].
     Answer in
     One.
     Two.
@@ -50,7 +50,7 @@ Lesson One.
     아이가 빵을 싫어해요.
 
     Next Sentence.    
-    I hate that man. @formal.
+    I hate that man. [formal].
     Answer in
     One.
     Two.
@@ -60,7 +60,7 @@ Lesson One.
     저는 그 남자를 미워합니다.
 
     Next Sentence.    
-    We love the sea. @formal.
+    We love the sea. [formal].
     Answer in
     One.
     Two.
@@ -70,7 +70,7 @@ Lesson One.
     우리는 바다를 사랑합니다.
 
     Next Sentence.    
-    I do not[l] hate dogs. @polite,i.
+    I do not[l] hate dogs. [polite,i].
     Answer in
     One.
     Two.
@@ -80,7 +80,7 @@ Lesson One.
     나는 개를 싫어하지 않아요.
 
     Next Sentence.    
-    I like this bag better. @formal.
+    I like this bag better. [formal].
     Answer in
     One.
     Two.
@@ -90,7 +90,7 @@ Lesson One.
     저는 이 가방을 더 좋아합니다.
 
     Next Sentence.    
-    I watch a movie at the theatre. @formal,i.
+    I watch a movie at the theatre. [formal,i].
     Answer in
     One.
     Two.
@@ -100,7 +100,7 @@ Lesson One.
     나는 극장에서 영화를 봅니다.
 
     Next Sentence.    
-    We like dogs. @formal.
+    We like dogs. [formal].
     Answer in
     One.
     Two.
@@ -110,7 +110,7 @@ Lesson One.
     우리는 개를 좋아합니다.
 
     Next Sentence.    
-    The dog hates me. @polite.
+    The dog hates me. [polite].
     Answer in
     One.
     Two.
@@ -120,7 +120,7 @@ Lesson One.
     개가 나를 미워해요.
 
     Next Sentence.    
-    We love Duolingo! @polite.
+    We love Duolingo! [polite].
     Answer in
     One.
     Two.
@@ -130,7 +130,7 @@ Lesson One.
     우리는 듀오링고를 사랑해요!
 
     Next Sentence.    
-    I like that. @formal,i.
+    I like that. [formal,i].
     Answer in
     One.
     Two.
@@ -140,7 +140,7 @@ Lesson One.
     나는 그것을 좋아합니다.
 
     Next Sentence.    
-    I hate that man. @formal.
+    I hate that man. [formal].
     Answer in
     One.
     Two.
@@ -150,7 +150,7 @@ Lesson One.
     저는 그 남자를 미워합니다.
 
     Next Sentence.    
-    I hate that man. @polite.
+    I hate that man. [polite].
     Answer in
     One.
     Two.
@@ -160,7 +160,7 @@ Lesson One.
     저는 그 남자를 미워해요.
 
     Next Sentence.    
-    My way @i.
+    My way [i].
     Answer in
     One.
     Two.
@@ -170,7 +170,7 @@ Lesson One.
     나의 길
 
 Lesson Two.
-    I believe that student. @formal,i.
+    I believe that student. [formal,i].
     Answer in
     One.
     Two.
@@ -180,7 +180,7 @@ Lesson Two.
     나는 그 학생을 믿습니다.
 
     Next Sentence.    
-    You and me @i.
+    You and me [i].
     Answer in
     One.
     Two.
@@ -190,7 +190,7 @@ Lesson Two.
     너와 나
 
     Next Sentence.
-    Please don't tease me. @formal,i.
+    Please don't tease me. [formal,i].
     Answer in
     One.
     Two.
@@ -200,7 +200,7 @@ Lesson Two.
     나를 놀리지 마십시오.
 
     Next Sentence.
-    My[s] friend deceives me too much. @formal,i.
+    My[s] friend deceives me too much. [formal,i].
     Answer in
     One.
     Two.
@@ -210,7 +210,7 @@ Lesson Two.
     내 친구는 나를 너무 많이 속입니다.
 
     Next Sentence.    
-    You[p] and me @i.
+    You[p] and me [i].
     Answer in
     One.
     Two.
@@ -220,7 +220,7 @@ Lesson Two.
     너희와 나
 
     Next Sentence.
-    Please believe me. @formal,i.
+    Please believe me. [formal,i].
     Answer in
     One.
     Two.
@@ -230,7 +230,7 @@ Lesson Two.
     나를 믿으십시오.
 
     Next Sentence.
-    People make fun of us. @polite.
+    People make fun of us. [polite].
     Answer in
     One.
     Two.
@@ -240,7 +240,7 @@ Lesson Two.
     사람들이 우리를 놀려요.
 
     Next Sentence.    
-    Please don't deceive me. @formal,i.
+    Please don't deceive me. [formal,i].
     Answer in
     One.
     Two.
@@ -250,7 +250,7 @@ Lesson Two.
     나를 속이지 마십시오.
 
     Next Sentence.
-    We make fun of people. @formal.
+    We make fun of people. [formal].
     Answer in
     One.
     Two.
@@ -260,7 +260,7 @@ Lesson Two.
     우리는 사람들을 놀립니다.
 
     Next Sentence.    
-    Your name is @i.
+    Your name is [i].
     Answer in
     One.
     Two.
@@ -270,7 +270,7 @@ Lesson Two.
     너의 이름은
 
     Next Sentence.
-    You[p] and us @i.
+    You[p] and us [i].
     Answer in
     One.
     Two.
@@ -280,7 +280,7 @@ Lesson Two.
     너희와 우리
 
     Next Sentence.
-    You @i.
+    You [i].
     Answer in
     One.
     Two.
@@ -290,7 +290,7 @@ Lesson Two.
     너
 
     Next Sentence.
-    We deceive the boy. @formal.
+    We deceive the boy. [formal].
     Answer in
     One.
     Two.
@@ -300,7 +300,7 @@ Lesson Two.
     우리는 남자아이를 속입니다.
 
     Next Sentence.    
-    Your[p] bread. @i.
+    Your[p] bread. [i].
     Answer in
     One.
     Two.
@@ -310,7 +310,7 @@ Lesson Two.
     너희의 빵
 
 Lesson Three.
-    I know myself. @formal,i.
+    I know myself. [formal,i].
     Answer in
     One.
     Two.
@@ -320,7 +320,7 @@ Lesson Three.
     나는 내 자신을 압니다.
 
     Next Sentence.    
-    I cook by myself. @formal,i.
+    I cook by myself. [formal,i].
     Answer in
     One.
     Two.
@@ -330,7 +330,7 @@ Lesson Three.
     나는 혼자 요리합니다.
 
     Next Sentence.    
-    You hate each other. @formal,i.
+    You hate each other. [formal,i].
     Answer in
     One.
     Two.
@@ -340,7 +340,7 @@ Lesson Three.
     너희가 서로 싫어합니다.
 
     Next Sentence.        
-    The animal eats its own food. @polite.
+    The animal eats its own food. [polite].
     Answer in
     One.
     Two.
@@ -350,7 +350,7 @@ Lesson Three.
     동물은 자기의 음식을 먹어요.
 
     Next Sentence.    
-    She deceives. @formal.
+    She deceives. [formal].
     Answer in
     One.
     Two.
@@ -360,7 +360,7 @@ Lesson Three.
     그녀가 속입니다.
 
     Next Sentence.    
-    He is in London. @formal.
+    He is in London. [formal].
     Answer in
     One.
     Two.
@@ -370,7 +370,7 @@ Lesson Three.
     그는 런던에 있습니다.
 
     Next Sentence.    
-    You! @n.
+    You! [n].
     Answer in
     One.
     Two.
@@ -380,7 +380,7 @@ Lesson Three.
     당신!
 
     Next Sentence.
-    Affirmative. @formal.
+    Affirmative. [formal].
     Answer in
     One.
     Two.
@@ -390,7 +390,7 @@ Lesson Three.
     알겠습니다.
 
     Next Sentence.
-    I love myself[u]. @formal,i.
+    I love myself[u]. [formal,i].
     Answer in
     One.
     Two.
@@ -400,7 +400,7 @@ Lesson Three.
     나는 나 자신을 사랑합니다.
 
     Next Sentence.    
-    I love her. @polite,i.
+    I love her. [polite,i].
     Answer in
     One.
     Two.
@@ -410,7 +410,7 @@ Lesson Three.
     나는 그녀를 사랑해요.
 
     Next Sentence.    
-    Do not study alone. @formal.
+    Do not study alone. [formal].
     Answer in
     One.
     Two.
@@ -420,7 +420,7 @@ Lesson Three.
     혼자 공부하지 마십시오.
 
     Next Sentence.
-    Your present @n.
+    Your present [n].
     Answer in
     One.
     Two.
@@ -430,7 +430,7 @@ Lesson Three.
     당신의 선물
 
     Next Sentence.
-    They know each other. @formal.
+    They know each other. [formal].
     Answer in
     One.
     Two.
@@ -440,7 +440,7 @@ Lesson Three.
     그들은 서로 압니다.
 
     Next Sentence.    
-    I make fun of myself[u]. @polite,i.
+    I make fun of myself[u]. [polite,i].
     Answer in
     One.
     Two.

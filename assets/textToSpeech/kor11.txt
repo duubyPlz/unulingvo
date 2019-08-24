@@ -10,7 +10,7 @@ Lesson One.
     거미
 
     Next Sentence.
-    Rabbits run quickly. @formal.
+    Rabbits run quickly. [formal].
     Answer in
     One.
     Two.
@@ -50,7 +50,7 @@ Lesson One.
     물고기
 
     Next Sentence.
-    Duck bulgogi is too delicious! @formal.
+    Duck bulgogi is too delicious! [formal].
     Answer in
     One.
     Two.
@@ -60,7 +60,7 @@ Lesson One.
     오리 불고기는 너무 맛있습니다!
 
     Next Sentence.    
-    That mouse is not[l] heavy. @formal.
+    That mouse is not[l] heavy. [formal].
     Answer in
     One.
     Two.
@@ -80,7 +80,7 @@ Lesson One.
     토끼
 
     Next Sentence.
-    The duck receives an apple from the mouse. @polite.
+    The duck receives an apple from the mouse. [polite].
     Answer in
     One.
     Two.
@@ -100,7 +100,7 @@ Lesson One.
     물고기와 거미
 
     Next Sentence.
-    That bird is small. @formal.
+    That bird is small. [formal].
     Answer in
     One.
     Two.
@@ -120,7 +120,7 @@ Lesson One.
     거북이와 토끼
 
 Lesson Two.
-    The man rides a pig. @formal.
+    The man rides a pig. [formal].
     Answer in
     One.
     Two.
@@ -130,7 +130,7 @@ Lesson Two.
     남자가 돼지를 탑니다.
 
     Next Sentence.    
-    What do sheep eat? @polite.
+    What do sheep eat? [polite].
     Answer in
     One.
     Two.
@@ -140,7 +140,7 @@ Lesson Two.
     양은 무엇을 먹어요?
 
     Next Sentence.    
-    A cow comes this way. @formal.
+    A cow comes this way. [formal].
     Answer in
     One.
     Two.
@@ -150,7 +150,7 @@ Lesson Two.
     소는 이쪽으로 옵니다.
 
     Next Sentence.    
-    The chicken is fast. @polite.
+    The chicken is fast. [polite].
     Answer in
     One.
     Two.
@@ -170,7 +170,7 @@ Lesson Two.
     동물 농장
 
     Next Sentence.
-    This chicken rides a horse. @polite.
+    This chicken rides a horse. [polite].
     Answer in
     One.
     Two.
@@ -180,7 +180,7 @@ Lesson Two.
     이 닭은 말을 타요.
 
     Next Sentence.    
-    That horse runs on a farm. @formal.
+    That horse runs on a farm. [formal].
     Answer in
     One.
     Two.
@@ -190,7 +190,7 @@ Lesson Two.
     그 말이 농장에서 달립니다.
 
     Next Sentence.    
-    The woman eats a lot of mutton. @formal.
+    The woman eats a lot of mutton. [formal].
     Answer in
     One.
     Two.
@@ -200,7 +200,7 @@ Lesson Two.
     여자가 양고기를 많이 먹습니다.
 
     Next Sentence.    
-    The cow walks. @formal.
+    The cow walks. [formal].
     Answer in
     One.
     Two.
@@ -210,7 +210,7 @@ Lesson Two.
     소가 걷습니다.
 
     Next Sentence.    
-    Pigs are hungry every day. @formal.
+    Pigs are hungry every day. [formal].
     Answer in
     One.
     Two.
@@ -220,7 +220,7 @@ Lesson Two.
     돼지는 매일 배가 고픕니다.
 
     Next Sentence.    
-    This cow does not[l] drink milk. @formal.
+    This cow does not[l] drink milk. [formal].
     Answer in
     One.
     Two.
@@ -230,7 +230,7 @@ Lesson Two.
     이 소는 우유를 마시지 않습니다.
 
     Next Sentence.    
-    A horse runs fast. @formal.
+    A horse runs fast. [formal].
     Answer in
     One.
     Two.
@@ -240,7 +240,7 @@ Lesson Two.
     말은 빨리 달립니다.
 
     Next Sentence.    
-    There are many pigs on this farm. @polite.
+    There are many pigs on this farm. [polite].
     Answer in
     One.
     Two.
@@ -250,7 +250,7 @@ Lesson Two.
     이 농장에는 돼지가 많아요.
 
 Lesson Three.
-    Snakes do not fly. @polite.
+    Snakes do not fly. [polite].
     Answer in
     One.
     Two.
@@ -260,7 +260,7 @@ Lesson Three.
     뱀은 날지 않아요.
 
     Next Sentence.    
-    The tiger makes a pizza. @formal.
+    The tiger makes a pizza. [formal].
     Answer in
     One.
     Two.
@@ -270,7 +270,7 @@ Lesson Three.
     호랑이가 피자를 요리합니다.
 
     Next Sentence.    
-    A deer goes to our house. @formal.
+    A deer goes to our house. [formal].
     Answer in
     One.
     Two.
@@ -290,7 +290,7 @@ Lesson Three.
     부엉이
 
     Next Sentence.
-    The birds fly. @formal.
+    The birds fly. [formal].
     Answer in
     One.
     Two.
@@ -300,7 +300,7 @@ Lesson Three.
     새들이 납니다.
 
     Next Sentence.    
-    The owl and the duck fly. @polite.
+    The owl and the duck fly. [polite].
     Answer in
     One.
     Two.
@@ -310,7 +310,7 @@ Lesson Three.
     부엉이와 오리가 날아요.
 
     Next Sentence.    
-    The wolf raises a child. @polite.
+    The wolf raises a child. [polite].
     Answer in
     One.
     Two.
@@ -320,7 +320,7 @@ Lesson Three.
     늑대가 아이를 길러요.
 
     Next Sentence.    
-    In the forest a tiger eats a deer. @formal.
+    In the forest a tiger eats a deer. [formal].
     Answer in
     One.
     Two.
@@ -330,7 +330,7 @@ Lesson Three.
     숲에서 호랑이는 사슴을 먹습니다.
 
     Next Sentence.    
-    The snake deceives her. @formal.
+    The snake deceives her. [formal].
     Answer in
     One.
     Two.
@@ -350,7 +350,7 @@ Lesson Three.
     사슴 고기
 
     Next Sentence.
-    A tiger is a cat. @polite.
+    A tiger is a cat. [polite].
     Answer in
     One.
     Two.
@@ -370,7 +370,7 @@ Lesson Three.
     뱀
 
 Lesson Four.
-    I search for frogs. @formal.
+    I search for frogs. [formal].
     Answer in
     One.
     Two.
@@ -380,7 +380,7 @@ Lesson Four.
     저는 개구리를 찾습니다.
 
     Next Sentence.    
-    How does the fox cry? @formal.
+    How does the fox cry? [formal].
     Answer in
     One.
     Two.
@@ -390,7 +390,7 @@ Lesson Four.
     여우는 어떻게 웁니까?
 
     Next Sentence.    
-    Do we[p] eat ants? @formal.
+    Do we[p] eat ants? [formal].
     Answer in
     One.
     Two.
@@ -400,7 +400,7 @@ Lesson Four.
     우리들이 개미를 먹습니까?
 
     Next Sentence.    
-    We cannot eat snakes. @formal.
+    We cannot eat snakes. [formal].
     Answer in
     One.
     Two.
@@ -420,7 +420,7 @@ Lesson Four.
     너구리
 
     Next Sentence.
-    The bear cannot find a frog. @polite.
+    The bear cannot find a frog. [polite].
     Answer in
     One.
     Two.
@@ -430,7 +430,7 @@ Lesson Four.
     곰이 개구리를 못 찾아요.
 
     Next Sentence.    
-    Ants are small. @formal.
+    Ants are small. [formal].
     Answer in
     One.
     Two.
@@ -440,7 +440,7 @@ Lesson Four.
     개미는 작습니다.
 
     Next Sentence.    
-    The fox finds the raccoon dog in the park. @formal.
+    The fox finds the raccoon dog in the park. [formal].
     Answer in
     One.
     Two.
@@ -460,7 +460,7 @@ Lesson Four.
     곰
 
     Next Sentence.
-    Are ants delicious? @formal.
+    Are ants delicious? [formal].
     Answer in
     One.
     Two.
@@ -480,7 +480,7 @@ Lesson Four.
     개구리
 
     Next Sentence.
-    The raccoon dog cannot teach the fox. @polite.
+    The raccoon dog cannot teach the fox. [polite].
     Answer in
     One.
     Two.
@@ -490,7 +490,7 @@ Lesson Four.
     너구리가 여우를 못 가르쳐요.
 
     Next Sentence.    
-    A bear is cooking a rabbit. @formal.
+    A bear is cooking a rabbit. [formal].
     Answer in
     One.
     Two.
@@ -500,7 +500,7 @@ Lesson Four.
     곰이 토끼를 요리합니다.
 
     Next Sentence.    
-    A bear eats a child. @formal.
+    A bear eats a child. [formal].
     Answer in
     One.
     Two.
@@ -510,7 +510,7 @@ Lesson Four.
     곰은 아이를 먹습니다.
 
 Lesson Five.
-    There are no sharks. @formal.
+    There are no sharks. [formal].
     Answer in
     One.
     Two.
@@ -520,7 +520,7 @@ Lesson Five.
     상어는 없습니다.
 
     Next Sentence.    
-    Let's catch a whale! @formal.
+    Let's catch a whale! [formal].
     Answer in
     One.
     Two.
@@ -540,7 +540,7 @@ Lesson Five.
     나비
 
     Next Sentence.
-    There is no dragon. @formal.
+    There is no dragon. [formal].
     Answer in
     One.
     Two.
@@ -580,7 +580,7 @@ Lesson Five.
     게
 
     Next Sentence.
-    This elephant is slow. @formal.
+    This elephant is slow. [formal].
     Answer in
     One.
     Two.
@@ -590,7 +590,7 @@ Lesson Five.
     이 코끼리는 느립니다.
 
     Next Sentence.    
-    Whales are too big. @formal.
+    Whales are too big. [formal].
     Answer in
     One.
     Two.
@@ -600,7 +600,7 @@ Lesson Five.
     고래는 너무 큽니다.
 
     Next Sentence.    
-    The butterfly is not[l] dangerous. @polite.
+    The butterfly is not[l] dangerous. [polite].
     Answer in
     One.
     Two.
@@ -610,7 +610,7 @@ Lesson Five.
     나비가 위험하지 않아요.
 
     Next Sentence.    
-    Watch out! There is a shark! @formal.
+    Watch out! There is a shark! [formal].
     Answer in
     One.
     Two.
@@ -620,7 +620,7 @@ Lesson Five.
     조심하십시오! 상어가 있습니다!
 
     Next Sentence.    
-    The woman rides a dragon. @formal.
+    The woman rides a dragon. [formal].
     Answer in
     One.
     Two.
@@ -630,7 +630,7 @@ Lesson Five.
     여자가 용을 탑니다.
 
     Next Sentence.    
-    A dragon eats an elephant. @formal.
+    A dragon eats an elephant. [formal].
     Answer in
     One.
     Two.
@@ -640,7 +640,7 @@ Lesson Five.
     용은 코끼리를 먹습니다.
 
     Next Sentence.    
-    The butterfly flies. @formal.
+    The butterfly flies. [formal].
     Answer in
     One.
     Two.
