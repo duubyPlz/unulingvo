@@ -110,7 +110,7 @@ Lesson One.
     저는 가수예요.
 
     Next Sentence.    
-    Correct!
+    Correct!.
     Answer in
     One.
     Two.
@@ -570,7 +570,7 @@ Lesson Four.
     그것은 나무예요.
 
     Next Sentence.    
-    That book is right. 
+    That book is right. .
     Answer in
     One.
     Two.

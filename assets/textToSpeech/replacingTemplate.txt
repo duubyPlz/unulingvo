@@ -21,6 +21,9 @@ Lesson$1.
     Next Sentence.\s*\nLesson
 Lesson
 
+([^.])\n    Answer
+$1.\n    Answer
+
 // Get rid of E:  and O:  markings
 
 // Add [num] to top title

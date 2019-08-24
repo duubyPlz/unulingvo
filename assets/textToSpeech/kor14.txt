@@ -1,6 +1,6 @@
 14 Polite Moods.
 Lesson One.
-    Buy my house!
+    Buy my house!.
     Answer in
     One.
     Two.
@@ -70,7 +70,7 @@ Lesson One.
     매운 것을 요리하세요.
 
     Next Sentence.
-    I cannot make pasta that delicious. @i
+    I cannot make pasta that delicious. @i.
     Answer in
     One.
     Two.
@@ -140,7 +140,7 @@ Lesson One.
     맛있는 딸기를 사세요.
 
     Next Sentence.
-    Do not do something difficult!
+    Do not do something difficult!.
     Answer in
     One.
     Two.
@@ -150,7 +150,7 @@ Lesson One.
     어려운 것을 하지 마세요!
 
     Next Sentence.
-    Sell me Duolingo!
+    Sell me Duolingo!.
     Answer in
     One.
     Two.
@@ -160,7 +160,7 @@ Lesson One.
     듀오링고를 저에게 파세요!
 
 Lesson Two.
-    Let's hide in the park quickly!
+    Let's hide in the park quickly!.
     Answer in
     One.
     Two.
@@ -180,7 +180,7 @@ Lesson Two.
     학교에 같이 다녀요.
 
     Next Sentence.
-    See you soon in Seoul!
+    See you soon in Seoul!.
     Answer in
     One.
     Two.
@@ -200,7 +200,7 @@ Lesson Two.
     곧 공원에서 만나요.
 
     Next Sentence.
-    Let's meet tomorrow!
+    Let's meet tomorrow!.
     Answer in
     One.
     Two.
@@ -220,7 +220,7 @@ Lesson Two.
     학교에서 같이 놀아요.
 
     Next Sentence.
-    Let's hang out in Seoul tomorrow!
+    Let's hang out in Seoul tomorrow!.
     Answer in
     One.
     Two.
@@ -250,7 +250,7 @@ Lesson Two.
     미안해요. 우리 곧 다시 만나요.
 
     Next Sentence.
-    Let's[u] hide over there!
+    Let's[u] hide over there!.
     Answer in
     One.
     Two.
@@ -270,7 +270,7 @@ Lesson Two.
     개하고 도서관에 다녀요.
 
     Next Sentence.
-    Let's hang out at my[s] friend's house tomorrow!
+    Let's hang out at my[s] friend's house tomorrow!.
     Answer in
     One.
     Two.
@@ -280,7 +280,7 @@ Lesson Two.
     내일 제 친구의 집에서 놀아요!
 
 Lesson Three.
-    Who studies Korean?
+    Who studies Korean?.
     Answer in
     One.
     Two.
@@ -290,7 +290,7 @@ Lesson Three.
     누가 한국어를 공부해요?
 
     Next Sentence.
-    What do the students learn today?
+    What do the students learn today?.
     Answer in
     One.
     Two.
@@ -300,7 +300,7 @@ Lesson Three.
     오늘 학생들이 뭘 배워요?
 
     Next Sentence.
-    How much is it?
+    How much is it?.
     Answer in
     One.
     Two.
@@ -310,7 +310,7 @@ Lesson Three.
     얼마예요?
 
     Next Sentence.
-    Garam, who is there?
+    Garam, who is there?.
     Answer in
     One.
     Two.
@@ -320,7 +320,7 @@ Lesson Three.
     가람 씨, 누가 거기에 있어요?
 
     Next Sentence.
-    Does the apple explode, too?
+    Does the apple explode, too?.
     Answer in
     One.
     Two.
@@ -330,7 +330,7 @@ Lesson Three.
     사과도 터져요?
 
     Next Sentence.
-    How is that student? @formal
+    How is that student? @formal.
     Answer in
     One.
     Two.
@@ -340,7 +340,7 @@ Lesson Three.
     저 학생은 어떻습니까?
 
     Next Sentence.    
-    How long is this road?
+    How long is this road?.
     Answer in
     One.
     Two.
@@ -350,7 +350,7 @@ Lesson Three.
     이 길은 얼마나 길어요?
 
     Next Sentence.    
-    How is that?
+    How is that?.
     Answer in
     One.
     Two.
@@ -360,7 +360,7 @@ Lesson Three.
     그것은 어때요?
 
     Next Sentence.    
-    The big cake is in which place?
+    The big cake is in which place?.
     Answer in
     One.
     Two.
@@ -370,7 +370,7 @@ Lesson Three.
     큰 케이크가 어느 곳에 있어요?
 
     Next Sentence.    
-    Garam, what do you want?
+    Garam, what do you want?.
     Answer in
     One.
     Two.
@@ -380,7 +380,7 @@ Lesson Three.
     가람 씨, 뭘 원해요? 
 
     Next Sentence.
-    What is bland?
+    What is bland?.
     Answer in
     One.
     Two.
@@ -390,7 +390,7 @@ Lesson Three.
     뭐가 싱거워요?
 
     Next Sentence.
-    Who wants bulgogi?
+    Who wants bulgogi?.
     Answer in
     One.
     Two.
@@ -400,7 +400,7 @@ Lesson Three.
     누가 불고기를 원해요?
 
     Next Sentence.
-    How is this? @formal
+    How is this? @formal.
     Answer in
     One.
     Two.
