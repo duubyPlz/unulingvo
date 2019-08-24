@@ -1,4 +1,4 @@
-Polite Moods.
+14 Polite Moods.
 Lesson One.
     Buy my house!
     Answer in
@@ -70,7 +70,7 @@ Lesson One.
     매운 것을 요리하세요.
 
     Next Sentence.
-    I cannot make pasta that delicious.
+    I cannot make pasta that delicious. @i
     Answer in
     One.
     Two.
@@ -330,7 +330,7 @@ Lesson Three.
     사과도 터져요?
 
     Next Sentence.
-    How is that student? 
+    How is that student? @formal
     Answer in
     One.
     Two.
@@ -400,7 +400,7 @@ Lesson Three.
     누가 불고기를 원해요?
 
     Next Sentence.
-    How is this? 
+    How is this? @formal
     Answer in
     One.
     Two.
@@ -420,3 +420,4 @@ Lesson Three.
     공이 터져요.
 
     End of 14 - Polite Moods.
+    

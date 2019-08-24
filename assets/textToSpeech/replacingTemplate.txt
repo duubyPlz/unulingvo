@@ -1,9 +1,10 @@
-== (.*) ==
-$1.
-
+// Get rid of:
 F:.*$\n
 #.*$\n    
 #.*$\n
+
+== (.*) ==
+$1.
 
 (    O:.*)\n(    E:.*)
 $2\n$1
@@ -20,6 +21,7 @@ Lesson$1.
     Next Sentence.\s*\nLesson
 Lesson
 
-// Get rid of E: and O: markings
+// Get rid of E:  and O:  markings
 
+// Add [num] to top title
 // Replace last "Next Sentence" with End of [num] - [title].

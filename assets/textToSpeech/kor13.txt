@@ -1,6 +1,6 @@
-Conjunctions.
+13 Conjunctions.
 Lesson One.
-    I am happy when I eat rice. 
+    I am happy when I eat rice. @polite
     Answer in
     One.
     Two.
@@ -10,7 +10,7 @@ Lesson One.
     저는 밥을 먹으면 행복해요.
 
     Next Sentence.    
-    So the animal runs. 
+    So the animal runs. @polite
     Answer in
     One.
     Two.
@@ -20,7 +20,7 @@ Lesson One.
     그래서 동물이 달려요.
 
     Next Sentence.    
-    I go on foot. 
+    I go on foot. @polite
     Answer in
     One.
     Two.
@@ -30,7 +30,7 @@ Lesson One.
     저는 걸어서 가요.
 
     Next Sentence.    
-    He speaks while sleeping[ss]. 
+    He speaks while sleeping[ss]. @formal
     Answer in
     One.
     Two.
@@ -40,7 +40,7 @@ Lesson One.
     그는 자면서 말합니다. 
 
     Next Sentence.    
-    I eat and drink. 
+    I eat and drink. @formal
     Answer in
     One.
     Two.
@@ -50,7 +50,7 @@ Lesson One.
     저는 먹고 마십니다.
 
     Next Sentence.    
-    And she exercises[l]. 
+    And she exercises[l]. @polite
     Answer in
     One.
     Two.
@@ -60,7 +60,7 @@ Lesson One.
     그리고 그녀는 운동을 해요.
 
     Next Sentence.    
-    I am happy when I see you. 
+    I am happy when I see you. @impolite
     Answer in
     One.
     Two.
@@ -70,7 +70,7 @@ Lesson One.
     나는 너를 보면 행복해.
 
     Next Sentence.    
-    I go home and sleep[ll]. 
+    I go home and sleep[ll]. @polite
     Answer in
     One.
     Two.
@@ -80,7 +80,7 @@ Lesson One.
     저는 집에 가서 잠을 자요.
 
     Next Sentence.    
-    You and I 
+    You and I @i
     Answer in
     One.
     Two.
@@ -90,7 +90,7 @@ Lesson One.
     너 그리고 나
 
     Next Sentence.
-    Are you talking to me? 
+    Are you talking to me? @impolite
     Answer in
     One.
     Two.
@@ -100,7 +100,7 @@ Lesson One.
     너 나에게 말하고 있냐?
 
     Next Sentence.
-    This movie is happy and sad. 
+    This movie is happy and sad. @polite
     Answer in
     One.
     Two.
@@ -110,7 +110,7 @@ Lesson One.
     이 영화는 행복하고 슬퍼요.
 
     Next Sentence.    
-    So I study[l]. 
+    So I study[l]. @formal
     Answer in
     One.
     Two.
@@ -120,7 +120,7 @@ Lesson One.
     그래서 저는 공부를 합니다.
 
     Next Sentence.    
-    This man is fat, and[l] that man over there is thin. 
+    This man is fat, and[l] that man over there is thin. @formal
     Answer in
     One.
     Two.
@@ -130,7 +130,7 @@ Lesson One.
     이 남자는 뚱뚱합니다. 그리고 저 남자는 날씬합니다.
 
 Lesson Two.
-    Let's go eat! 
+    Let's go eat! @impolite
     Answer in
     One.
     Two.
@@ -140,7 +140,7 @@ Lesson Two.
     먹으러 가자! 
 
     Next Sentence.
-    But[s] that is too expensive. 
+    But[s] that is too expensive. @polite
     Answer in
     One.
     Two.
@@ -150,7 +150,7 @@ Lesson Two.
     그런데 그것은 너무 비싸요.
 
     Next Sentence.    
-    I touch it too. 
+    I touch it too. @plain, i
     Answer in
     One.
     Two.
@@ -160,7 +160,7 @@ Lesson Two.
     나도 만진다.
 
     Next Sentence.
-    But[hs] that person over there is not a man. 
+    But[hs] that person over there is not a man. @formal
     Answer in
     One.
     Two.
@@ -170,7 +170,7 @@ Lesson Two.
     하지만 저 사람은 남자가 아닙니다.
 
     Next Sentence.    
-    This bread tastes good but[h] that bread tastes bad. 
+    This bread tastes good but[h] that bread tastes bad. @polite
     Answer in
     One.
     Two.
@@ -180,7 +180,7 @@ Lesson Two.
     이 빵은 맛있지만 저 빵은 맛없어요.
 
     Next Sentence.    
-    What does he go to school for? 
+    What does he go to school for? @formal
     Answer in
     One.
     Two.
@@ -190,7 +190,7 @@ Lesson Two.
     그는 무엇을 하러 학교에 갑니까?
 
     Next Sentence.    
-    The boy learns Korean but[s] he also learns English. 
+    The boy learns Korean but[s] he also learns English. @polite
     Answer in
     One.
     Two.
@@ -200,7 +200,7 @@ Lesson Two.
     남자아이가 한국어를 배우는데 영어도 배워요.
 
     Next Sentence.    
-    The dog speaks Korean too. 
+    The dog speaks Korean too. @formal
     Answer in
     One.
     Two.
@@ -210,7 +210,7 @@ Lesson Two.
     개도 한국어로 말합니다.
 
     Next Sentence.
-    She likes fried chicken, but[s] she eats vegetables. 
+    She likes fried chicken, but[s] she eats vegetables. @polite
     Answer in
     One.
     Two.
@@ -220,7 +220,7 @@ Lesson Two.
     그녀는 치킨을 좋아하는데 야채를 먹어요.
 
     Next Sentence.    
-    But[hs] he is smart! 
+    But[hs] he is smart! @polite
     Answer in
     One.
     Two.
@@ -230,7 +230,7 @@ Lesson Two.
     하지만 그는 똑똑해요!
 
     Next Sentence.    
-    The cat goes home to sleep[ss]. 
+    The cat goes home to sleep[ss]. @polite
     Answer in
     One.
     Two.
@@ -240,7 +240,7 @@ Lesson Two.
     고양이가 자러 집에 가요.
 
     Next Sentence.    
-    She is pretty but[s] lazy. 
+    She is pretty but[s] lazy. @polite
     Answer in
     One.
     Two.
@@ -250,7 +250,7 @@ Lesson Two.
     그녀는 예쁜데 게을러요.
 
     Next Sentence.    
-    This car is small but[s] expensive. 
+    This car is small but[s] expensive. @formal
     Answer in
     One.
     Two.
@@ -260,7 +260,7 @@ Lesson Two.
     이 자동차는 작은데 비쌉니다.
 
     Next Sentence.    
-    I love her. But[s] _she_ hates me. 
+    I love her. But[s] she hates me. @polite, i
     Answer in
     One.
     Two.
@@ -270,7 +270,7 @@ Lesson Two.
     나는 그녀를 사랑해요. 그런데 그녀는 나를 싫어해요.
 
     Next Sentence.    
-    The cat hates food but[h] it eats it. 
+    The cat hates food but[h] it eats it. @polite
     Answer in
     One.
     Two.
@@ -280,7 +280,7 @@ Lesson Two.
     고양이가 음식을 싫어하지만 먹어요.
 
     Next Sentence.    
-    The cat eats but[h] hates the food. 
+    The cat eats but[h] hates the food. @polite
     Answer in
     One.
     Two.
@@ -290,7 +290,7 @@ Lesson Two.
     고양이가 먹지만 음식을 싫어해요.
 
     Next Sentence.    
-    But[hs] I am tall! 
+    But[hs] I am tall! @polite
     Answer in
     One.
     Two.
@@ -300,7 +300,7 @@ Lesson Two.
     하지만 저는 키가 커요!
 
     Next Sentence.    
-    But[s] English is strange. 
+    But[s] English is strange. @polite
     Answer in
     One.
     Two.
@@ -310,7 +310,7 @@ Lesson Two.
     그런데 영어는 이상해요.
 
     Next Sentence.    
-    The child writes and reads. 
+    The child writes and reads. @polite
     Answer in
     One.
     Two.
@@ -320,7 +320,7 @@ Lesson Two.
     아이가 쓰고 읽어요.
 
     Next Sentence.    
-    I go to a restaurant and eat. 
+    I go to a restaurant and eat. @polite
     Answer in
     One.
     Two.
@@ -330,7 +330,7 @@ Lesson Two.
     저는 식당에 가서 먹어요.
 
     Next Sentence.    
-    I sing while I eat. 
+    I sing while I eat. @formal
     Answer in
     One.
     Two.
@@ -340,7 +340,7 @@ Lesson Two.
     저는 먹으면서 노래합니다.
 
     Next Sentence.    
-    The man is happy because the bread is delicious. 
+    The man is happy because the bread is delicious. @polite
     Answer in
     One.
     Two.
@@ -350,7 +350,7 @@ Lesson Two.
     빵이 맛있어서 남자는 행복해요.
 
     Next Sentence.    
-    If that woman teaches, I learn Korean well. 
+    If that woman teaches, I learn Korean well. @polite
     Answer in
     One.
     Two.
@@ -360,7 +360,7 @@ Lesson Two.
     그 여자가 가르치면 저는 한국어를 잘 배워요.
 
     Next Sentence.    
-    That cat exists and at the same time does not exist. 
+    That cat exists and at the same time does not exist. @formal
     Answer in
     One.
     Two.
@@ -370,7 +370,7 @@ Lesson Two.
     그 고양이는 있으면서 없습니다.
 
     Next Sentence.    
-    He speaks while sleeping. 
+    He speaks while sleeping. @formal
     Answer in
     One.
     Two.

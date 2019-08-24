@@ -1,0 +1,652 @@
+11 Animals.
+Lesson One.
+    Spider
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    거미
+
+    Next Sentence.
+    Rabbits run quickly. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    토끼는 빨리 달립니다.
+
+    Next Sentence.    
+    Turtle
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    거북이
+
+    Next Sentence.
+    Bird
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    새
+
+    Next Sentence.
+    Fish
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    물고기
+
+    Next Sentence.
+    Duck bulgogi is too delicious! @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오리 불고기는 너무 맛있습니다!
+
+    Next Sentence.    
+    That mouse is not[l] heavy. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 쥐가 무겁지 않습니다.
+
+    Next Sentence.    
+    Rabbit
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    토끼
+
+    Next Sentence.
+    The duck receives an apple from the mouse. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오리가 쥐에게서 사과를 받아요.
+
+    Next Sentence.    
+    A fish and a spider
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    물고기와 거미
+
+    Next Sentence.
+    That bird is small. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 새가 작습니다.
+
+    Next Sentence.    
+    A turtle and a rabbit
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    거북이와 토끼
+
+Lesson Two.
+    The man rides a pig. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자가 돼지를 탑니다.
+
+    Next Sentence.    
+    What do sheep eat? @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    양은 무엇을 먹어요?
+
+    Next Sentence.    
+    A cow comes this way. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    소는 이쪽으로 옵니다.
+
+    Next Sentence.    
+    The chicken is fast. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    닭이 빨라요.
+
+    Next Sentence.    
+    Animal farm
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    동물 농장
+
+    Next Sentence.
+    This chicken rides a horse. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 닭은 말을 타요.
+
+    Next Sentence.    
+    That horse runs on a farm. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 말이 농장에서 달립니다.
+
+    Next Sentence.    
+    The woman eats a lot of mutton. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자가 양고기를 많이 먹습니다.
+
+    Next Sentence.    
+    The cow walks. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    소가 걷습니다.
+
+    Next Sentence.    
+    Pigs are hungry every day. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    돼지는 매일 배가 고픕니다.
+
+    Next Sentence.    
+    This cow does not[l] drink milk. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 소는 우유를 마시지 않습니다.
+
+    Next Sentence.    
+    A horse runs fast. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    말은 빨리 달립니다.
+
+    Next Sentence.    
+    There are many pigs on this farm. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 농장에는 돼지가 많아요.
+
+Lesson Three.
+    Snakes do not fly. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뱀은 날지 않아요.
+
+    Next Sentence.    
+    The tiger makes a pizza. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    호랑이가 피자를 요리합니다.
+
+    Next Sentence.    
+    A deer goes to our house. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사슴이 우리의 집으로 갑니다.
+
+    Next Sentence.    
+    Owl
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    부엉이
+
+    Next Sentence.
+    The birds fly. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    새들이 납니다.
+
+    Next Sentence.    
+    The owl and the duck fly. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    부엉이와 오리가 날아요.
+
+    Next Sentence.    
+    The wolf raises a child. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    늑대가 아이를 길러요.
+
+    Next Sentence.    
+    In the forest a tiger eats a deer. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    숲에서 호랑이는 사슴을 먹습니다.
+
+    Next Sentence.    
+    The snake deceives her. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뱀이 그녀를 속입니다.
+
+    Next Sentence.    
+    Venison
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사슴 고기
+
+    Next Sentence.
+    A tiger is a cat. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    호랑이는 고양이예요.
+
+    Next Sentence.    
+    Snake
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뱀
+
+Lesson Four.
+    I search for frogs. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 개구리를 찾습니다.
+
+    Next Sentence.    
+    How does the fox cry? @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여우는 어떻게 웁니까?
+
+    Next Sentence.    
+    Do we[p] eat ants? @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    우리들이 개미를 먹습니까?
+
+    Next Sentence.    
+    We cannot eat snakes. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    우리는 뱀을 못 먹습니다.
+
+    Next Sentence.    
+    Raccoon dog
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너구리
+
+    Next Sentence.
+    The bear cannot find a frog. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    곰이 개구리를 못 찾아요.
+
+    Next Sentence.    
+    Ants are small. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    개미는 작습니다.
+
+    Next Sentence.    
+    The fox finds the raccoon dog in the park. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여우가 너구리를 공원에서 찾습니다.
+
+    Next Sentence.    
+    Bear
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    곰
+
+    Next Sentence.
+    Are ants delicious? @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    개미는 맛있습니까?
+
+    Next Sentence.    
+    Frog
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    개구리
+
+    Next Sentence.
+    The raccoon dog cannot teach the fox. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너구리가 여우를 못 가르쳐요.
+
+    Next Sentence.    
+    A bear is cooking a rabbit. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    곰이 토끼를 요리합니다.
+
+    Next Sentence.    
+    A bear eats a child. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    곰은 아이를 먹습니다.
+
+Lesson Five.
+    There are no sharks. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    상어는 없습니다.
+
+    Next Sentence.    
+    Let's catch a whale! @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    고래를 잡읍시다!
+
+    Next Sentence.
+    Butterfly
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    나비
+
+    Next Sentence.
+    There is no dragon. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    용은 없습니다.
+
+    Next Sentence.    
+    Magpie
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    까치
+
+    Next Sentence.
+    Danger
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    위험
+
+    Next Sentence.
+    Crab
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    게
+
+    Next Sentence.
+    This elephant is slow. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 코끼리는 느립니다.
+
+    Next Sentence.    
+    Whales are too big. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    고래는 너무 큽니다.
+
+    Next Sentence.    
+    The butterfly is not[l] dangerous. @polite
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    나비가 위험하지 않아요.
+
+    Next Sentence.    
+    Watch out! There is a shark! @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    조심하십시오! 상어가 있습니다!
+
+    Next Sentence.    
+    The woman rides a dragon. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자가 용을 탑니다.
+
+    Next Sentence.    
+    A dragon eats an elephant. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    용은 코끼리를 먹습니다.
+
+    Next Sentence.    
+    The butterfly flies. @formal
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    나비가 납니다.
+
+    End of 11 - Animals.
