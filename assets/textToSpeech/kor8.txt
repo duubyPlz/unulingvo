@@ -1,184 +1,602 @@
-Polite Speech.
-> One
-    O: 아이가 친구하고 텔레비전을 봐요.
-    E: The child watches television with a friend.
-    
-    O: 저는 가수예요.
-    E: I am a singer.
-    
-    O: 그 자동차가 사라져요.
-    E: That car disappears.
-    
-    O: 제가 차에서 내려요.
-    E: I get off the car[s].
-    
-    O: 이 편지는 맞지 않아요.
-    E: This letter is not[l] correct.
-    
-    O: 여자가 울지 않아요.
-    E: The woman does not[l] cry.
-    
-    O: 학생이 가방을 잠가요.
-    E: The student locks a bag.
-    
-    O: 저 개는 울어요.
-    E: That dog over there cries.
-    
-    O: 그 책이 맞아요.
-    E: That book is correct.
-    
-    O: 저는 남자아이를 봐요.
-    E: I look at the boy.
-    
-    O: 저는 가수예요.
-    E: I am a singer.
-    
-    O: 맞아요!
-    E: Correct!
+8 Polite Speech.
+Lesson One.
+    The child watches television with a friend.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아이가 친구하고 텔레비전을 봐요.
 
-    O: 저는 텔레비전을 안 봐요.
-    E: I do not watch television.
-    
-    O: 남자아이가 울어요.
-    E: The boy cries.
-    
-> Two
-    O: 저는 라디오를 안 들어요.
-    E: I do not listen to the radio.
-    
-    O: 저는 길을 걸어요.
-    E: I walk along the street.
-    
-    O: 학생이 한국어로 물어요.
-    E: The student asks in Korean.
-    
-    O: 친구가 길에 누워요.
-    E: A friend lies down on the road.
-    
-    O: 친구가 저를 도와요.
-    E: The friend helps me.
-    
-    O: 여기는 어두워요.
-    E: It is dark here.
-    
-    O: 여기는 어둡지 않아요.
-    E: It is not[l] dark here.
-    
-    O: 저는 누워요.
-    E: I lie down.
-    
-    O: 저는 라디오를 들어요.
-    E: I listen to the radio.
-    
-    O: 저는 물어요.
-    E: I ask.
-    
-    O: 고양이가 라디오를 들어요.
-    E: The cat listens to the radio.
-    
-    O: 동물이 아이를 도와요.
-    E: The animal helps the child.
-    
-> Three
-    O: 이 병과 그 병은 달라요.
-    E: This illness and that illness are different.
-    
-    O: 저는 건물을 지어요.
-    E: I build a building.
-    
-    O: 그 여자가 그 책을 몰라요.
-    E: That woman does not know that book.
-    
-    O: 여자아이가 개를 길러요.
-    E: A girl raises a dog.
-    
-    O: 제가 이것들을 이어요.
-    E: I connect these.
-    
-    O: 아이가 나아요.
-    E: The child gets well.
-    
-    O: 아이가 한국어를 몰라요.
-    E: The child does not know Korean.
-    
-    O: 남자들이 집을 지어요.
-    E: The men build the house.
-    
-    O: 아이는 병이 나아요.
-    E: The child recovers from the disease.
-    
-    O: 저는 동물을 길러요.
-    E: I raise an animal.
-    
-    O: 저의 책이 달라요.
-    E: My book is different.
-    
-    O: 남자가 이것과 저것을 이어요.
-    E: A man connects this and that over there.
-    
-> Four
-    O: 열쇠는 저래요.
-    E: Keys are like that over there.
-    
-    O: 제 음악은 이래요.
-    E: My[s] music is like this.
-    
-    O: 날씨가 그래요. 
-    E: The weather is like that.
-    
-    O: 저 남자는 잘 일해요.
-    E: That man over there works well.
-    
-    O: 학생들이 건강해요.
-    E: The students are healthy.
-    
-    O: 사람들이 비슷해요.
-    E: The people are similar.
-    
-    O: 이 학생은 저렇지 않아요.
-    E: This student is not[l] like that over there.
-    
-    O: 이것과 저것은 비슷하지 않아요.
-    E: This and that over there are not[l] similar.
-    
-    O: 저의 집은 그렇지 않아요.
-    E: My house is not[l] like that.
-    
-    O: 저는 이렇지 않아요.
-    E: I am not[l] like this.
-    
-    O: 날씨가 추워요.
-    E: The weather is cold.
-    
-    O: 저것은 저래요.
-    E: That over there is like that over there.
-    
-    O: 그 빵은 그래요.
-    E: That bread is like that.
-    
-    O: 저는 길을 이어요.
-    E: I connect the road.
-    
-    O: 저는 이 가수를 몰라요.
-    E: I do not know this singer.
-    
-    O: 여기는 날씨가 나빠요.
-    E: The weather is bad here.
-        
-    O: 그 개가 사라져요.  
-    E: That dog disappears.
-    
-    O: 남자아이가 자동차에서 내려요.
-    E: The boy gets out of the car.
-    
-    O: 그것은 나무예요.
-    E: That is a tree.
-    
-    O: 그 책이 맞아요.
-    E: That book is right. 
-    
-    O: 남자는 울지 않아요.
-    E: The man does not cry.
-    
-    O: 그 텔레비전은 사라져요.
-    E: That television disappears.
+    Next Sentence.    
+    I am a singer.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 가수예요.
+
+    Next Sentence.    
+    That car disappears.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 자동차가 사라져요.
+
+    Next Sentence.    
+    I get off the car[s].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    제가 차에서 내려요.
+
+    Next Sentence.    
+    This letter is not[l] correct.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 편지는 맞지 않아요.
+
+    Next Sentence.    
+    The woman does not[l] cry.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자가 울지 않아요.
+
+    Next Sentence.    
+    The student locks a bag.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생이 가방을 잠가요.
+
+    Next Sentence.    
+    That dog over there cries.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 개는 울어요.
+
+    Next Sentence.    
+    That book is correct.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 책이 맞아요.
+
+    Next Sentence.    
+    I look at the boy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 남자아이를 봐요.
+
+    Next Sentence.    
+    I am a singer.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 가수예요.
+
+    Next Sentence.    
+    Correct!
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    맞아요!
+
+    Next Sentence.
+    I do not watch television.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 텔레비전을 안 봐요.
+
+    Next Sentence.    
+    The boy cries.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자아이가 울어요.
+
+Lesson Two.
+    I do not listen to the radio.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 라디오를 안 들어요.
+
+    Next Sentence.    
+    I walk along the street.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 길을 걸어요.
+
+    Next Sentence.    
+    The student asks in Korean.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생이 한국어로 물어요.
+
+    Next Sentence.    
+    A friend lies down on the road.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구가 길에 누워요.
+
+    Next Sentence.    
+    The friend helps me.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구가 저를 도와요.
+
+    Next Sentence.    
+    It is dark here.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여기는 어두워요.
+
+    Next Sentence.    
+    It is not[l] dark here.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여기는 어둡지 않아요.
+
+    Next Sentence.    
+    I lie down.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 누워요.
+
+    Next Sentence.    
+    I listen to the radio.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 라디오를 들어요.
+
+    Next Sentence.    
+    I ask.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 물어요.
+
+    Next Sentence.    
+    The cat listens to the radio.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    고양이가 라디오를 들어요.
+
+    Next Sentence.    
+    The animal helps the child.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    동물이 아이를 도와요.
+
+Lesson Three.
+    This illness and that illness are different.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 병과 그 병은 달라요.
+
+    Next Sentence.    
+    I build a building.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 건물을 지어요.
+
+    Next Sentence.    
+    That woman does not know that book.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 여자가 그 책을 몰라요.
+
+    Next Sentence.    
+    A girl raises a dog.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자아이가 개를 길러요.
+
+    Next Sentence.    
+    I connect these.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    제가 이것들을 이어요.
+
+    Next Sentence.    
+    The child gets well.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아이가 나아요.
+
+    Next Sentence.    
+    The child does not know Korean.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아이가 한국어를 몰라요.
+
+    Next Sentence.    
+    The men build the house.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자들이 집을 지어요.
+
+    Next Sentence.    
+    The child recovers from the disease.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아이는 병이 나아요.
+
+    Next Sentence.    
+    I raise an animal.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 동물을 길러요.
+
+    Next Sentence.    
+    My book is different.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저의 책이 달라요.
+
+    Next Sentence.    
+    A man connects this and that over there.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자가 이것과 저것을 이어요.
+
+Lesson Four.
+    Keys are like that over there.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    열쇠는 저래요.
+
+    Next Sentence.    
+    My[s] music is like this.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    제 음악은 이래요.
+
+    Next Sentence.    
+    The weather is like that.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    날씨가 그래요. 
+
+    Next Sentence.    
+    That man over there works well.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 남자는 잘 일해요.
+
+    Next Sentence.    
+    The students are healthy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생들이 건강해요.
+
+    Next Sentence.    
+    The people are similar.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사람들이 비슷해요.
+
+    Next Sentence.    
+    This student is not[l] like that over there.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 학생은 저렇지 않아요.
+
+    Next Sentence.    
+    This and that over there are not[l] similar.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이것과 저것은 비슷하지 않아요.
+
+    Next Sentence.    
+    My house is not[l] like that.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저의 집은 그렇지 않아요.
+
+    Next Sentence.    
+    I am not[l] like this.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 이렇지 않아요.
+
+    Next Sentence.    
+    The weather is cold.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    날씨가 추워요.
+
+    Next Sentence.    
+    That over there is like that over there.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저것은 저래요.
+
+    Next Sentence.    
+    That bread is like that.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 빵은 그래요.
+
+    Next Sentence.    
+    I connect the road.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 길을 이어요.
+
+    Next Sentence.    
+    I do not know this singer.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 이 가수를 몰라요.
+
+    Next Sentence.    
+    The weather is bad here.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여기는 날씨가 나빠요.
+
+    Next Sentence.        
+    That dog disappears.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 개가 사라져요.  
+
+    Next Sentence.    
+    The boy gets out of the car.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자아이가 자동차에서 내려요.
+
+    Next Sentence.    
+    That is a tree.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그것은 나무예요.
+
+    Next Sentence.    
+    That book is right. 
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 책이 맞아요.
+
+    Next Sentence.    
+    The man does not cry.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자는 울지 않아요.
+
+    Next Sentence.    
+    That television disappears.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 텔레비전은 사라져요.
+
+    End of 8 - Polite Speech.
