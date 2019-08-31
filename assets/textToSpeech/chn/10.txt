@@ -1,0 +1,212 @@
+10 Location One.
+Lesson One.
+    Beijing is in China.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    北京在中國。
+
+    Next Sentence.
+    My home is in Beijing.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    我的家在北京。
+
+    Next Sentence.
+    The teacher is not home.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    老師不在家。
+
+    Next Sentence.
+    The doctor is from Beijing.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    醫生是北京人。
+
+    Next Sentence.
+    Is your home in the US?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    你的家在美國嗎？
+
+    Next Sentence.
+    Are they[f] in the UK?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    她們在英國嗎？
+
+    Next Sentence.
+    His home is in China.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    他的家在中國。
+
+Lesson Two.
+    New York is in the US.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    紐約在美國。
+
+    Next Sentence.
+    Where in Hong Kong is his home?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    他的家在香港那裏？
+
+    Next Sentence.
+    What's your Hong Kong phone number?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    你的香港電話號碼是多少？
+
+    Next Sentence.
+    Where are you all?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    你們在那裏？
+
+    Next Sentence.
+    Where is your home?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    你的家在那裏？
+
+    Next Sentence.
+    Our home is in New York.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    我們的家在紐約。
+
+    Next Sentence.
+    My doctor is from New York.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    我的醫生是紐約人。
+
+Lesson Three.
+    Does your doctor live in London?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    你的醫生住在倫敦嗎？
+
+    Next Sentence.
+    Our home is in Taiwan.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    我們的家在台灣。
+
+    Next Sentence.
+    She lives in Taiwan.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    她住在台灣。
+
+    Next Sentence.
+    Does your teacher live in Taiwan?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    你的老師住在台灣嗎？
+
+    Next Sentence.
+    London is in the UK.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    倫敦在英國。
+
+    Next Sentence.
+    My student lives in London.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    我的學生住在倫敦。
+
+    Next Sentence.
+    Where in London does Teacher Wang live?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    王老師住在倫敦那裏？
+
+    End of 10 - Location One.
