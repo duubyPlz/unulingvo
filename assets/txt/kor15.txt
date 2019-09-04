@@ -37,7 +37,7 @@
     F: _That pasta_ tastes really bad. @polite
 
     O: 매우 재미있어요!
-    E: Very[s] interesting!
+    E: Very[s] interesting! @polite
 
     O: 이 영화는 정말 나쁜 영화예요.
     E: This movie is a really bad one. @polite
