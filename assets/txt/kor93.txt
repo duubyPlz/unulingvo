@@ -8,8 +8,8 @@
     F: _She_ is considerably attractive. @formal
 
     O: 그 학생은 참 착해요!
-    E: That student is really[s] kind! @polite
-    F: _That student_ is really[s] kind! @polite
+    E: That student is really[s] nice! @polite
+    F: _That student_ is really[s] nice! @polite
 
     O: 이 오리가 훨씬 더 느려요.
     E: This duck is much slower. @polite
