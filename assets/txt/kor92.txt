@@ -1,0 +1,56 @@
+> Three
+    O: 나는 친구 마흔 명이 있어요.
+    E: I have forty friends. @polite,i
+    F: _I_ have forty friends. @polite,i
+
+    O: 연필 한 자루는 얼마입니까?
+    E: How much is one pencil? @formal
+    F: How much is _one pencil_? @formal
+
+    O: 우리는 개 한 마리만 있습니다.
+    E: We only have one dog. @formal
+    F: _We_ only have one dog. @formal
+
+    O: 돼지 쉰 마리는 너무 비싸요.
+    E: Fifty pigs are too expensive. @polite
+    F: _Fifty pigs_ are too expensive. @polite
+
+    O: 여자는 서른세 살입니다.
+    E: The woman is thirty-three years old. @formal
+    F: _The woman_ is thirty-three years old. @formal
+
+    O: 저는 스물아홉 살입니다.
+    E: I am twenty-nine years old. @formal
+    F: _I_ am twenty-nine years old. @formal
+
+    O: 마흔, 쉰, 예순
+    E: Forty, fifty, sixty
+
+    O: 이 아이는 책 서른여덟 권을 써요.
+    E: This child writes thirty-eight books. @polite
+    F: _This child_ writes thirty-eight books. @polite
+
+    O: 학생이 책 스무 권을 읽어요.
+    E: The student reads twenty books. @polite
+    F: The student _reads twenty books_. @polite
+
+    O: 곰 한 마리, 곰 두 마리, 곰 세 마리
+    E: One bear, two bears, three bears
+
+    O: 그 사람은 농장에 말 마흔두 마리가 있어요.
+    E: That person has forty-two horses on the farm. @polite
+    F: _That person_ has forty-two horses on the farm. @polite
+
+    O 쉰 명이 함께 와인을 마십니다.
+    E: Fifty people drink wine together. @formal
+    F: Fifty people _drink wine together_. @formal
+
+    O: 연필 예순한 자루
+    E: Sixty-one pencils
+
+    O: 학생 스무 명이 공부해요.
+    E: Twenty students study. @polite
+
+    O: 학생 서른일곱 명이 한국어를 공부해요.
+    E: Thirty-seven students study Korean. @polite
+    F: Thirty-seven students _study Korean_. @polite
