@@ -1,2 +1,33 @@
 == Numbers ==
 > One
+    O: 두 아파트
+    E: Two apartment buildings
+
+    O: 남자가 케이크 두 개를 먹어요.
+    E: The man eats two cakes. @polite
+    F: The man eats two cakes. @polite
+
+    O: 아이에게 공 한 개를 주십시오.
+    E: Give the child one ball. @formal
+    F: Give the child one ball. @formal
+
+    O: 그는 선물 다섯 개를 보냅니다.
+    E: He sends five presents. @formal
+    F: He sends five presents. @formal
+
+    O: 저에게 사과 다섯 개와 오렌지 세 개가 있습니다.
+    E: I have five apples and three oranges. @formal
+    F: I have five apples and three oranges. @formal
+
+    O: 사과 세 개와 귤 네 개
+    E: Three apples and four tangerines
+
+    O: 다섯, 넷, 셋, 둘, 하나
+    E: Five, four, three, two, one
+
+    O: 그는 선물 다섯 개를 보냅니다.
+    E: He sends five presents. @formal
+    F: He sends five presents. @formal
+
+    O: 하나, 둘, 셋, 넷
+    E: One, two, three, four
