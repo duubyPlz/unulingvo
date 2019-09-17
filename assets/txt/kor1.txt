@@ -1,4 +1,6 @@
 == Basics One ==
+* s -> spoken
+
 > One
     O: 또는
     E: Or

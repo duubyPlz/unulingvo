@@ -1,4 +1,7 @@
 == Animals ==
+* l -> long
+* p -> plural
+
 > One
     O: 거미
     E: Spider

@@ -1,4 +1,7 @@
 == Modifiers ==
+* l -> long
+* s -> spoken
+
 > One
     O: 작은 과자는 짭니다.
     E: The small crackers are salty. @formal

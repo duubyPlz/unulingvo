@@ -1,4 +1,11 @@
 == Conjunctions ==
+* s -> soft
+* ss -> vshort
+* l -> long
+* ll -> vlong
+* hs -> hard,short
+* h -> hard
+
 > One
     # When I eat rice I am happy.
     O: 저는 밥을 먹으면 행복해요.

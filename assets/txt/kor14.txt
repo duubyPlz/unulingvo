@@ -1,4 +1,8 @@
 == Polite Moods ==
+* u -> us
+* r -> routine
+* s -> short
+
 > One
     O: 저의 집을 사세요! 
     E: Buy my house!
