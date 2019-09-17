@@ -1,4 +1,8 @@
 == Pronouns ==
+* l -> long
+* s -> short
+* p -> plural
+
 > One
     O: 이 여자는 우리를 미워해요.
     E: This woman hates us. @polite
