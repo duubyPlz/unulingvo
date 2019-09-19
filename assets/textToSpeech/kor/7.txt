@@ -1,270 +1,772 @@
-== Formal Moods ==
-> One
-    O: 다시 저를 보십시오.
-    E: Look at me again.
-
-    O: 손님, 조심하십시오. 물이 뜨겁습니다.
-    E: Sir, be careful. The water is hot.
-    F: Sir, be careful. The water _is hot_.
-
-    O: 더 배우십시오.
-    E: Learn more.
-
-    O: 노래에 집중하십시오.
-    E: Concentrate on the song.
-    
-    # Do it slowly.
-    O: 천천히 하십시오.
-    E: Take your time.
-    
-    O: 영화를 덜 보십시오.
-    E: Watch less movies.
-    
-    O: 더 웃으십시오!
-    E: Laugh more!
-
-    O: 집중하십시오.
-    E: Concentrate.
-
-    O: 천천히 오십시오.
-    E: Come slowly.
-
-    O: 천천히 배우십시오.
-    E: Learn slowly.
-
-    O: 조심하십시오
-    E: Be careful!
-
-    O: 한국어를 배우십시오.
-    E: Learn Korean.
-
-    O: 손님, 이쪽으로 오십시오.
-    E: Sir, come this way.
-
-> Two
-    O: 그것을 만지지 마십시오.
-    E: Don't touch that.
-
-    # 많이 usually refers to something you can count, usually meaning many or "a lot of" in the role of adjective.
-    O: 너무 걱정하지 마십시오.
-    E: Don't worry too much.
-
-    O: 빨리 오십시오!
-    E: Come quickly!
-
-    O: 너무 많이 운동하지 마십시오.
-    E: Don't exercise too much.
-
-    O: 만지지 마십시오.
-    E: Don't touch.
-
-    # Sir, don't worry too much.
-    O: 손님, 너무 걱정하지 마십시오.
-    E: Sir, don't be too worried.
-
-    O: 너무 빨리 배우지 마십시오.
-    E: Don't learn too fast.
-
-    O: 저를 만지지 마십시오.
-    E: Don't touch me.
-
-    O: 걱정하지 마십시오. 저는 괜찮습니다.
-    E: Don't worry. I'm alright.
-    F: Don't worry. _I_'m alright.
-
-    O: 뛰지 마십시오.
-    E: Don't run.
-
-    O: 빨리 가지 마십시오.
-    E: Don't go quickly.
-
-    O: 저에게 메시지를 너무 많이 보내지 마십시오.
-    E: Don't send me too many messages.
-
-> Three
-    O: 극장에서 영화를 찍읍시다.
-    E: Let's film a movie at the theatre.
-
-    O: 함께 등산합시다.
-    E: Let's climb a mountain together.
-
-    O: 이 식당에서 식사합시다.
-    E: Let's eat at this restaurant.
-
-    O: 박물관에서 공부합시다!
-    E: Let's study at the museum!
-
-    O: 사진을 봅시다.
-    E: Let's look at the photo.
-
-    O: 박물관에서 사진을 찍읍시다.
-    E: Let's take a photo at the museum.
-
-    O: 다시 등산합시다.
-    E: Let's climb a mountain again.
-
-    O: 극장에서 영화를 봅시다.
-    E: Let's see a movie at the theatre.
-
-    O: 서울에서 등산합시다.
-    E: Let's climb a mountain in Seoul.
-
-    O: 사진을 찍읍시다.
-    E: Let's take a photo.
-
-    O: 극장에 갑시다.
-    E: Let's go to the theatre.
-
-    O: 식사합시다.
-    E: Let's eat.
-
-> Four
-    O: 매일 청소합시다.
-    E: Let's clean every day.
-
-    O: 음식을 남기지 맙시다.
-    E: Let's not leave food.
-
-    O: 함께 요리합시다.
-    E: Let's cook together.
-
-    O: 오늘 공부하지 맙시다.
-    E: Let's not study today.
-
-    O: 동물을 요리하지 맙시다.
-    E: Let's not cook animals.
-
-    O: 음식을 너무 많이 남기지 맙시다.
-    E: Let's not leave so much food.
-
-    O: 매일 공부합시다.
-    E: Let's study every day.
-
-    O: 함께 청소합시다.
-    E: Let's clean together.
-
-    O: 요리합시다!
-    E: Let's cook!
-
-    O: 오늘 극장에 갑시다.
-    E: Let's go to the theatre today.
-
-    O: 사진을 남기지 맙시다.
-    E: Let's not leave photos.
-
-    O: 매일 한국에 갑시다.
-    E: Let's go to Korea every day.
-
-> Five
-    O: 무슨 음식이 맛있습니까?
-    E: What food is delicious?
-    F: What food _is delicious_?
-
-    O: 사람들은 언제 행복합니까?
-    E: When are people happy?
-    F: When are _people_ happy?
-
-    O: 여자아이가 어디에 있습니까?
-    E: Where is the girl?
-    F: _Where is_ the girl?
-    
-    O: 그 여자는 누구입니까?
-    E: Who is that woman?
-    F: Who is _that woman_?
-
-    O: 가람 님, 고양이가 어디에 있습니까?
-    E: Mr. Garam, where is the cat?
-    F: Mr. Garam, _where is_ the cat?
-
-    O: 그 가수는 언제 옵니까?
-    E: When will that singer come?
-    F: When will _that singer_ come?
-
-    O: 그 여자는 누구입니까?
-    E: Who is that woman?
-    F: Who is _that woman_?
-
-    O: 가람 님, 누구가 귀엽습니까?
-    E: Mr. Garam who is cute?
-    F: Mr. Garam who _is cute_?
-
-    O: 저 가수는 어떻게 노래합니까?
-    E: How does that (over there) singer sing?
-    F: How does _that (over there) singer_ sing?
-
-    O: 저는 어디에 있습니까?
-    E: Where am I?
-    F: Where am _I_?
-
-    O: 가람 님, 책이 어디에 있습니까?
-    E: Mr. Garam where is the book?
-    F: Mr. Garam _where is_ the book?
-
-    O: 가수는 언제 옵니까?
-    E: When does the singer come?
-    F: When does _the singer_ come?
-
-    O: 여자들은 어떻게 웃습니까?
-    E: How do women laugh?
-    F: How do _women_ laugh?
-
-    O: 개는 물을 어떻게 마십니까? 
-    E: How do dogs drink water?
-    F: How do _dogs_ drink water?
-
-    O: 저는 누구입니까?
-    E: Who am I?
-    F: Who am _I_?
-
-> Six
-    O: 아주머니, 제가 귀엽습니까?
-    E: Ma'am, am I cute?
-    F: Ma'am, _am_ I _cute_?
-
-    O: 이 카메라는 무엇입니까?
-    E: What is this camera?
-    F: What is _this camera_?
-
-    O: 어느 자동차가 좋습니까 ?
-    E: Which car is good?
-    F: Which car _is good_?
-
-    O: 이것은 왜 비쌉니까?
-    E: Why is this expensive?
-    F: Why is _this_ expensive?
-
-    O: 이 빵은 어떤 빵입니까?
-    E: What kind of bread is this bread?
-    F: What kind of bread is _this bread_?
-
-    O: 아저씨, 아저씨는 어떤 음식이 좋아요?
-    E: Mister what kind of food do you like? @polite
-    F: Mister what kind of food do _you_ like? @polite
-
-    O: 이것은 무엇입니까?
-    E: What is this?
-    F: What is _this_?
-
-    O: 아주머니, 왜 이 카메라는 안 비쌉니까?
-    E: Ma'am, why is this camera not expensive?
-    F: Ma'am, why is _this camera_ not expensive?
-
-    O: 아저씨, 아저씨는 왜 뚱뚱해요?
-    E: Mister, why are you fat? @polite
-    F: Mister, why are _you_ fat? @polite
-
-    O: 어느 장소가 안 춥습니까?
-    E: Which place is not cold?
-    F: Which place _is not cold_?
-
-    O: 그것은 무엇입니까?
-    E: What is that?
-    F: What is _that_?
-
-    O: 아저씨, 자동차는 왜 빠릅니까?
-    E: Mister, why are cars fast?
-    F: Mister, why are _cars_ fast?
-
-    O: 어느 공이 큽니까?
-    E: Which ball is big?
-    F: Which ball _is big_?
+7 Formal Moods.
+Lesson One.
+    Look at me again.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    다시 저를 보십시오.
+
+    Next Sentence.
+    Sir, be careful. The water is hot.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    손님, 조심하십시오. 물이 뜨겁습니다.
+
+    Next Sentence.    
+    Learn more.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    더 배우십시오.
+
+    Next Sentence.
+    Concentrate on the song.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    노래에 집중하십시오.
+
+    Next Sentence.    
+    Take your time.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    천천히 하십시오.
+
+    Next Sentence.    
+    Watch less movies.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    영화를 덜 보십시오.
+
+    Next Sentence.    
+    Laugh more!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    더 웃으십시오!
+
+    Next Sentence.
+    Concentrate.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집중하십시오.
+
+    Next Sentence.
+    Come slowly.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    천천히 오십시오.
+
+    Next Sentence.
+    Learn slowly.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    천천히 배우십시오.
+
+    Next Sentence.
+    Be careful!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    조심하십시오
+
+    Next Sentence.
+    Learn Korean.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한국어를 배우십시오.
+
+    Next Sentence.
+    Sir, come this way.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    손님, 이쪽으로 오십시오.
+
+Lesson Two.
+    Don't touch that.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그것을 만지지 마십시오.
+
+    Next Sentence.
+    Don't worry too much.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 걱정하지 마십시오.
+
+    Next Sentence.
+    Come quickly!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빨리 오십시오!
+
+    Next Sentence.
+    Don't exercise too much.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 많이 운동하지 마십시오.
+
+    Next Sentence.
+    Don't touch.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    만지지 마십시오.
+
+    Next Sentence.
+    Sir, don't be too worried.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    손님, 너무 걱정하지 마십시오.
+
+    Next Sentence.
+    Don't learn too fast.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 빨리 배우지 마십시오.
+
+    Next Sentence.
+    Don't touch me.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저를 만지지 마십시오.
+
+    Next Sentence.
+    Don't worry. I'm alright.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    걱정하지 마십시오. 저는 괜찮습니다.
+
+    Next Sentence.    
+    Don't run.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뛰지 마십시오.
+
+    Next Sentence.
+    Don't go quickly.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빨리 가지 마십시오.
+
+    Next Sentence.
+    Don't send me too many messages.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저에게 메시지를 너무 많이 보내지 마십시오.
+
+Lesson Three.
+    Let's film a movie at the theatre.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    극장에서 영화를 찍읍시다.
+
+    Next Sentence.
+    Let's climb a mountain together.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    함께 등산합시다.
+
+    Next Sentence.
+    Let's eat at this restaurant.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 식당에서 식사합시다.
+
+    Next Sentence.
+    Let's study at the museum!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    박물관에서 공부합시다!
+
+    Next Sentence.
+    Let's look at the photo.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사진을 봅시다.
+
+    Next Sentence.
+    Let's take a photo at the museum.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    박물관에서 사진을 찍읍시다.
+
+    Next Sentence.
+    Let's climb a mountain again.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    다시 등산합시다.
+
+    Next Sentence.
+    Let's see a movie at the theatre.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    극장에서 영화를 봅시다.
+
+    Next Sentence.
+    Let's climb a mountain in Seoul.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    서울에서 등산합시다.
+
+    Next Sentence.
+    Let's take a photo.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사진을 찍읍시다.
+
+    Next Sentence.
+    Let's go to the theatre.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    극장에 갑시다.
+
+    Next Sentence.
+    Let's eat.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    식사합시다.
+
+Lesson Four.
+    Let's clean every day.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    매일 청소합시다.
+
+    Next Sentence.
+    Let's not leave food.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    음식을 남기지 맙시다.
+
+    Next Sentence.
+    Let's cook together.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    함께 요리합시다.
+
+    Next Sentence.
+    Let's not study today.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오늘 공부하지 맙시다.
+
+    Next Sentence.
+    Let's not cook animals.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    동물을 요리하지 맙시다.
+
+    Next Sentence.
+    Let's not leave so much food.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    음식을 너무 많이 남기지 맙시다.
+
+    Next Sentence.
+    Let's study every day.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    매일 공부합시다.
+
+    Next Sentence.
+    Let's clean together.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    함께 청소합시다.
+
+    Next Sentence.
+    Let's cook!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    요리합시다!
+
+    Next Sentence.
+    Let's go to the theatre today.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오늘 극장에 갑시다.
+
+    Next Sentence.
+    Let's not leave photos.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사진을 남기지 맙시다.
+
+    Next Sentence.
+    Let's go to Korea every day.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    매일 한국에 갑시다.
+
+Lesson Five.
+    What food is delicious?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    무슨 음식이 맛있습니까?
+
+    Next Sentence.    
+    When are people happy?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사람들은 언제 행복합니까?
+
+    Next Sentence.    
+    Where is the girl?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자아이가 어디에 있습니까?
+
+    Next Sentence.        
+    Who is that woman?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 여자는 누구입니까?
+
+    Next Sentence.    
+    Mr. Garam, where is the cat?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가람 님, 고양이가 어디에 있습니까?
+
+    Next Sentence.    
+    When will that singer come?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 가수는 언제 옵니까?
+
+    Next Sentence.    
+    Who is that woman?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 여자는 누구입니까?
+
+    Next Sentence.    
+    Mr. Garam who is cute?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가람 님, 누구가 귀엽습니까?
+
+    Next Sentence.    
+    How does that (over there) singer sing?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 가수는 어떻게 노래합니까?
+
+    Next Sentence.    
+    Where am I?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 어디에 있습니까?
+
+    Next Sentence.    
+    Mr. Garam where is the book?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가람 님, 책이 어디에 있습니까?
+
+    Next Sentence.    
+    When does the singer come?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가수는 언제 옵니까?
+
+    Next Sentence.    
+    How do women laugh?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자들은 어떻게 웃습니까?
+
+    Next Sentence.    
+    How do dogs drink water?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    개는 물을 어떻게 마십니까? 
+
+    Next Sentence.    
+    Who am I?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 누구입니까?
+
+Lesson Six.
+    Ma'am, am I cute?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아주머니, 제가 귀엽습니까?
+
+    Next Sentence.    
+    What is this camera?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 카메라는 무엇입니까?
+
+    Next Sentence.    
+    Which car is good?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어느 자동차가 좋습니까 ?
+
+    Next Sentence.    
+    Why is this expensive?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이것은 왜 비쌉니까?
+
+    Next Sentence.    
+    What kind of bread is this bread?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 빵은 어떤 빵입니까?
+
+    Next Sentence.    
+    Mister what kind of food do you like? @polite.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아저씨, 아저씨는 어떤 음식이 좋아요?
+
+    Next Sentence.    
+    What is this?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이것은 무엇입니까?
+
+    Next Sentence.    
+    Ma'am, why is this camera not expensive?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아주머니, 왜 이 카메라는 안 비쌉니까?
+
+    Next Sentence.    
+    Mister, why are you fat? @polite.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아저씨, 아저씨는 왜 뚱뚱해요?
+
+    Next Sentence.    
+    Which place is not cold?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어느 장소가 안 춥습니까?
+
+    Next Sentence.    
+    What is that?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그것은 무엇입니까?
+
+    Next Sentence.    
+    Mister, why are cars fast?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아저씨, 자동차는 왜 빠릅니까?
+
+    Next Sentence.    
+    Which ball is big?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어느 공이 큽니까?
+
+    End of 7 - Formal Moods.
