@@ -1,0 +1,471 @@
+16 Numbers.
+Lesson One.
+    Two apartment buildings
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    두 아파트
+
+    Next Sentence.
+    The man eats two cakes. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자가 케이크 두 개를 먹어요.
+
+    Next Sentence.    
+    Give the child one ball. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아이에게 공 한 개를 주십시오.
+
+    Next Sentence.
+    He sends five presents. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그는 선물 다섯 개를 보냅니다.
+
+    Next Sentence.    
+    I have five apples and three oranges. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저에게 사과 다섯 개와 오렌지 세 개가 있습니다.
+
+    Next Sentence.
+    Three apples and four tangerines
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과 세 개와 귤 네 개
+
+    Next Sentence.
+    Five, four, three, two, one
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    다섯, 넷, 셋, 둘, 하나
+
+    Next Sentence.
+    He sends five presents. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그는 선물 다섯 개를 보냅니다.
+
+    Next Sentence.    
+    One, two, three, four
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    하나, 둘, 셋, 넷
+
+Lesson Two.
+    Nine
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아홉
+
+    Next Sentence.
+    How many parks are there in Korea? [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한국에 공원 몇 개가 있습니까?
+
+    Next Sentence.
+    Ten is not nine. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    열은 아홉이 아닙니다.
+
+    Next Sentence.
+    Seven
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    일곱
+
+    Next Sentence.
+    Our dog is seven years old. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    우리의 개는 일곱 살이에요.
+
+    Next Sentence.    
+    I am eight years old. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 여덟 살입니다.
+
+    Next Sentence.    
+    Eight little girls jump. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    작은 여자아이 여덟 명이 뛰어요.
+
+    Next Sentence.    
+    Six (people) read that book together. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여섯 명이 그 책을 같이 읽어요.
+
+    Next Sentence.    
+    How old are you? [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    몇 살이에요?
+
+    Next Sentence.
+    Ten, nine, eight, seven, six
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    열, 아홉, 여덟, 일곱, 여섯
+
+    Next Sentence.
+    I give a gift to ten friends. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 친구 열 명에게 선물을 줘요.
+
+    Next Sentence.    
+    Six people read that book together. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사람 여섯 명이 그 책을 같이 읽어요.
+
+Lesson Three.
+    I have forty friends. [polite,i].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    나는 친구 마흔 명이 있어요.
+
+    Next Sentence.    
+    How much is one pencil? [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    연필 한 자루는 얼마입니까?
+
+    Next Sentence.    
+    We only have one dog. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    우리는 개 한 마리만 있습니다.
+
+    Next Sentence.    
+    Fifty pigs are too expensive. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    돼지 쉰 마리는 너무 비싸요.
+
+    Next Sentence.    
+    The woman is thirty-three years old. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자는 서른세 살입니다.
+
+    Next Sentence.    
+    I am twenty-nine years old. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 스물아홉 살입니다.
+
+    Next Sentence.    
+    Forty, fifty, sixty
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    마흔, 쉰, 예순
+
+    Next Sentence.
+    This child writes thirty-eight books. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 아이는 책 서른여덟 권을 써요.
+
+    Next Sentence.    
+    The student reads twenty books. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생이 책 스무 권을 읽어요.
+
+    Next Sentence.    
+    One bear, two bears, three bears
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    곰 한 마리, 곰 두 마리, 곰 세 마리
+
+    Next Sentence.
+    That person has forty-two horses on the farm. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 사람은 농장에 말 마흔두 마리가 있어요.
+
+    Next Sentence.    
+    O 쉰 명이 함께 와인을 마십니다.
+    Fifty people drink wine together. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    
+    Sixty-one pencils
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    연필 예순한 자루
+
+    Next Sentence.
+    Twenty students study. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생 스무 명이 공부해요.
+
+    Next Sentence.
+    Thirty-seven students study Korean. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생 서른일곱 명이 한국어를 공부해요.
+
+Lesson Four.
+    Eighty dragons
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    용 여든 마리
+
+    Next Sentence.
+    Two cameras are not expensive. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    카메라 두 대는 안 비쌉니다.
+
+    Next Sentence.    
+    Ninety four books
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    책 아흔네 권
+
+    Next Sentence.
+    Ninety, eighty, seventy, sixty, fifty, forty, thirty, twenty, ten
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아흔, 여든, 일흔, 예순, 쉰, 마흔, 서른, 스물, 열
+
+    Next Sentence.
+    Seventieth
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    일흔 번째
+
+    Next Sentence.
+    The first person eats an apple. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    첫 번째 사람은 사과를 먹어요.
+
+    Next Sentence.    
+    The first wine is very sweet. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    첫 번째 와인은 많이 답니다.
+
+    Next Sentence.    
+    One car
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    자동차 한 대
+
+    Next Sentence.
+    Eighty ducks live at the farm. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여든 마리의 오리가 농장에 삽니다.
+
+    Next Sentence.        
+    Where are the ninety strawberries? [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    딸기 아흔 개는 어디에 있습니까?
+
+    Next Sentence.    
+    Today he listens to seventy-four radios. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그는 오늘 라디오 일흔네 대를 들어요.
+
+    End of 16 - Numbers.
