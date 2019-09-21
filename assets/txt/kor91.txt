@@ -41,5 +41,5 @@
     F: _I_ give a gift to ten friends. @polite
 
     O: 사람 여섯 명이 그 책을 같이 읽어요.
-    E: Six people read that book together. @polite
-    F: Six people _read that book together_. @polite
+    E: Six people read that book together[s]. @polite
+    F: Six people _read that book together[s]_. @polite
