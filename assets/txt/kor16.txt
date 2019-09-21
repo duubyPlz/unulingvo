@@ -1,4 +1,6 @@
 == Numbers ==
+* s -> spoken
+
 > One
     O: 두 아파트
     E: Two apartment buildings
