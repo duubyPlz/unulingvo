@@ -24,8 +24,8 @@
     F: Eight little girls _jump_. @polite
 
     O: 여섯 명이 그 책을 같이 읽어요.
-    E: Six (people) read that book together. @polite
-    F: Six (people) read that book together. @polite
+    E: Six (people) read that book together[s]. @polite
+    F: Six (people) _read that book together[s]_. @polite
 
     # 몇살 이세요
     # 나이가 어떻게 되세요
