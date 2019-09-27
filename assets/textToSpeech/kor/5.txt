@@ -1,0 +1,1132 @@
+5 Adjectives.
+Lesson One.
+    There are many cars.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    자동차가 많습니다.
+
+    Next Sentence.    
+    The road is short.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    길이 짧습니다.
+
+    Next Sentence.    
+    Women are good.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자는 좋습니다.
+
+    Next Sentence.    
+    No, I am bad.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아니요, 저는 나쁩니다.
+
+    Next Sentence.    
+    The thing is small.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    물건이 작습니다.
+
+    Next Sentence.    
+    The movie is long.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    영화가 깁니다.
+
+    Next Sentence.    
+    There are many balls.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공들이 많습니다.
+
+    Next Sentence.    
+    The apple is bad.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과가 나쁩니다.
+
+    Next Sentence.    
+    The movie is short.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    영화가 짧습니다.
+
+    Next Sentence.    
+    The bread is small.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빵이 작습니다.
+
+    Next Sentence.    
+    The book is long.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    책이 깁니다.
+
+    Next Sentence.    
+    Yes, people are bad.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    예, 사람들은 나쁩니다.
+
+    Next Sentence.    
+    Friends are good.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구들은 좋습니다.
+
+    Next Sentence.    
+    There are a lot of people.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사람들이 많습니다.
+
+    Next Sentence.    
+    The pencil is short.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    연필이 짧습니다.
+
+    Next Sentence.    
+    The road is long.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    길이 깁니다.
+
+    Next Sentence.    
+    A house is big.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집은 큽니다.
+
+    Next Sentence.    
+    The balls are big.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공들이 큽니다.
+
+    Next Sentence.    
+    The school is good.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학교가 좋습니다.
+
+    Next Sentence.    
+    That camera over there.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 카메라
+
+    Next Sentence.
+    This apple.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 사과
+
+    Next Sentence.
+    That (over there) is a dog.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저것은 개입니다.
+
+    Next Sentence.    
+    That person is a man.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 사람은 남자입니다.
+
+    Next Sentence.    
+    That (over there) is a house.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저것은 집입니다.
+
+    Next Sentence.    
+    That (over there) person is a man.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 사람은 남자입니다.
+
+    Next Sentence.    
+    That (over there) building is big.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 건물이 큽니다.
+
+    Next Sentence.    
+    The girl sits at that desk.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자아이가 그 책상에 앉습니다.
+
+    Next Sentence.    
+    That is a dog.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그것은 개입니다.
+
+Lesson Two.
+    The thing is hot.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    물건이 뜨겁습니다
+
+    Next Sentence.    
+    A man is fast.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자는 빠릅니다.
+
+    Next Sentence.    
+    An apple is light.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과는 가볍습니다.
+
+    Next Sentence.    
+    The book is cheap.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    책이 쌉니다.
+
+    Next Sentence.        
+    The man's newspaper is heavy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자의 신문이 무겁습니다.
+
+    Next Sentence.    
+    The woman's car is slow.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자의 자동차가 느립니다.
+
+    Next Sentence.    
+    The car[s] is cold to touch.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    차가 차갑습니다.
+
+    Next Sentence.    
+    The food is expensive.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    음식이 비쌉니다.
+
+    Next Sentence.    
+    The thing is cold.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    물건이 차갑습니다.
+
+    Next Sentence.    
+    The bread is cheap.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빵이 쌉니다.
+
+    Next Sentence.    
+    I am slow.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 느립니다.
+
+    Next Sentence.    
+    The bread is light.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빵이 가볍습니다.
+
+    Next Sentence.    
+    The student's books are heavy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생의 책들이 무겁습니다.
+
+    Next Sentence.    
+    The car is fast.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    자동차가 빠릅니다.
+
+    Next Sentence.    
+    The bread is hot.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빵이 뜨겁습니다.
+
+    Next Sentence.    
+    The car is expensive.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    자동차가 비쌉니다.
+
+    Next Sentence.    
+    The woman is heavy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자가 무겁습니다.
+
+    Next Sentence.    
+    The room is cheap.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    방이 쌉니다.
+
+    Next Sentence.    
+    The bread is cold.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빵이 차갑습니다.
+
+Lesson Three.
+    The place is low.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    장소가 낮습니다.
+
+    Next Sentence.    
+    The room is hot.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    방이 덥습니다.
+
+    Next Sentence.    
+    My room is narrow.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저의 방이 좁습니다.
+
+    Next Sentence.    
+    Korea is cold.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한국은 춥습니다.
+
+    Next Sentence.    
+    The school is tall.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학교가 높습니다.
+
+    Next Sentence.    
+    The room is wide.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    방이 넓습니다.
+
+    Next Sentence.        
+    The place is hot.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    장소가 덥습니다.
+
+    Next Sentence.    
+    The mountain is high.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    산이 높습니다.
+
+    Next Sentence.    
+    The road is narrow.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    길이 좁습니다.
+
+    Next Sentence.    
+    The house is small.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집이 좁습니다.
+
+    Next Sentence.    
+    The school is low.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학교가 낮습니다.
+
+    Next Sentence.    
+    Korea is hot.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한국이 덥습니다.
+
+    Next Sentence.    
+    I am hot.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 덥습니다.
+
+Lesson Four.
+    The woman is thin.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자가 날씬합니다.
+
+    Next Sentence.    
+    The sea is dirty.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    바다가 더럽습니다.
+
+    Next Sentence.    
+    I am fat.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 뚱뚱합니다.
+
+    Next Sentence.    
+    A woman is pretty.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자는 예쁩니다.
+
+    Next Sentence.    
+    The children are cute.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아이들이 귀엽습니다.
+
+    Next Sentence.    
+    Korea is beautiful.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한국은 아름답습니다.
+
+    Next Sentence.    
+    The boy is tall.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자아이는 키가 큽니다.
+
+    Next Sentence.    
+    The child is clean.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아이가 깨끗합니다.
+
+    Next Sentence.    
+    The car is dirty.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    자동차가 더럽습니다.
+
+    Next Sentence.    
+    The singer is thin.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가수가 날씬합니다.
+
+    Next Sentence.    
+    I am cute.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 귀엽습니다.
+
+    Next Sentence.    
+    The cat is fat.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    고양이가 뚱뚱합니다.
+
+    Next Sentence.    
+    The mountain is pretty.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    산이 예쁩니다.
+
+    Next Sentence.    
+    The women are beautiful.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자들이 아름답습니다.
+
+    Next Sentence.    
+    The man is short.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자는 키가 작습니다.
+
+    Next Sentence.    
+    The singer is pretty.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가수가 예쁩니다.
+
+    Next Sentence.    
+    The dog is fat.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    개가 뚱뚱합니다.
+
+    Next Sentence.    
+    The ball is dirty.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공이 더럽습니다.
+
+    Next Sentence.    
+    The man's cat is cute.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자의 고양이가 귀엽습니다.
+
+    Next Sentence.    
+    The woman is tall.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자는 키가 큽니다.
+
+Lesson Five.
+    I am busy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 바쁩니다.
+
+    Next Sentence.    
+    The student is lazy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생이 게으릅니다.
+
+    Next Sentence.    
+    Women are strange.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자들은 이상합니다.
+
+    Next Sentence.    
+    The singer is kind.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가수가 친절합니다.
+
+    Next Sentence.    
+    My friends are mean.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저의 친구들은 비열합니다.
+
+    Next Sentence.    
+    The girl is nice.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자아이가 착합니다.
+
+    Next Sentence.    
+    The girl is clever.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자아이가 영리합니다.
+
+    Next Sentence.    
+    The girl is smart.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자아이가 똑똑합니다.
+
+    Next Sentence.    
+    The dog is lazy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    개가 게으릅니다.
+
+    Next Sentence.    
+    Dogs are clever.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    개는 영리합니다.
+
+    Next Sentence.    
+    The woman is mean.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자가 비열합니다.
+
+    Next Sentence.    
+    The book is strange.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    책이 이상합니다.
+
+    Next Sentence.    
+    The children are kind.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아이들이 친절합니다.
+
+    Next Sentence.    
+    The students are busy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생들이 바쁩니다.
+
+    Next Sentence.    
+    I am nice.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 착합니다.
+
+    Next Sentence.    
+    I am smart.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 똑똑합니다.
+
+    Next Sentence.    
+    People are mean.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사람들은 비열합니다.
+
+Lesson Six.
+    Animals are ill.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    동물들이 아픕니다.
+
+    Next Sentence.    
+    The singer is happy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가수가 행복합니다.
+
+    Next Sentence.    
+    The children are tired.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아이들이 피곤합니다.
+
+    Next Sentence.    
+    The woman is sad.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자가 슬픕니다.
+
+    Next Sentence.    
+    The people are glad.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사람들이 기쁩니다.
+
+    Next Sentence.    
+    School is boring.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학교는 지루합니다.
+
+    Next Sentence.    
+    The woman's dog is sick.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자의 개가 아픕니다.
+
+    Next Sentence.    
+    People are boring.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사람들은 지루합니다.
+
+    Next Sentence.    
+    I am glad.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 기쁩니다.
+
+    Next Sentence.    
+    The children are glad.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아이들이 기쁩니다.
+
+    Next Sentence.    
+    I am sad.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 슬픕니다.
+
+    Next Sentence.        
+    I am tired.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 피곤합니다.
+
+    Next Sentence.        
+    The cat is happy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    고양이가 행복합니다.
+
+    Next Sentence.    
+    The singers are tired.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가수들이 피곤합니다.
+
+    Next Sentence.    
+    The movie is boring.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    영화가 지루합니다.
+
+    Next Sentence.    
+    I am sick.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 아픕니다.
+
+    End of 5 - Adjectives.
