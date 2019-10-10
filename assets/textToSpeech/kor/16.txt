@@ -319,8 +319,7 @@ Lesson Three.
     Five.
     그 사람은 농장에 말 마흔두 마리가 있어요.
 
-    Next Sentence.    
-    O 쉰 명이 함께 와인을 마십니다.
+    Next Sentence.
     Fifty people drink wine together. [formal].
     Answer in
     One.
@@ -328,7 +327,9 @@ Lesson Three.
     Three.
     Four.
     Five.
+    쉰 명이 함께 와인을 마십니다.
     
+    Next Sentence.
     Sixty-one pencils
     Answer in
     One.
