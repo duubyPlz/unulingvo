@@ -41,7 +41,7 @@
     E: That person has forty-two horses on the farm. @polite
     F: _That person_ has forty-two horses on the farm. @polite
 
-    O 쉰 명이 함께 와인을 마십니다.
+    O: 쉰 명이 함께 와인을 마십니다.
     E: Fifty people drink wine together. @formal
     F: Fifty people _drink wine together_. @formal
 
