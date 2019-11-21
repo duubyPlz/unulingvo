@@ -132,6 +132,7 @@
 
     O: 학생 스무 명이 공부해요.
     E: Twenty students study. @polite
+    E: Twenty students _study_. @polite
 
     O: 학생 서른일곱 명이 한국어를 공부해요.
     E: Thirty-seven students study Korean. @polite
