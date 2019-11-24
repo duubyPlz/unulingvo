@@ -1,0 +1,55 @@
+== Prepositions ==
+* s -> short
+
+> One
+    O: 배낭이 책상 앞에 있어요.
+    E: The backpack is in front of the desk. @polite
+    F: The backpack _is in front of the desk_. @polite
+
+    O: 밖은 추워요.
+    E: It is cold outside. @polite
+    F: It is cold _outside_. @polite
+
+    O: 공이 공원 밖에 있어요.
+    E: The ball is outside the park. @polite
+    F: The ball _is outside the park_. @polite
+
+    O: 개는 아이 옆에 앉아요.
+    E: The dog sits next to the child. @polite
+    F: _The dog_ sits next to the child. @polite
+    
+    O: 바쁜 학생이 학교 안에서 잡니다.
+    E: The busy student sleeps inside the school. @formal
+    F: The busy student _sleeps inside the school_. @formal
+
+    O: 상자 안에는 연필이 있습니다.
+    E: There is a pencil inside the box. @formal
+    F: There is a pencil _inside the box_. @formal
+
+    O: 고양이가 상자 안에 있습니다.
+    E: The cat is in the box. @formal
+    F: The cat _is in the box_. @formal
+
+    O: 호텔 옆에 식당이 있어요.
+    E: There is a restaurant next to the hotel. @polite
+    F: There is a restaurant next to the hotel. @polite
+
+    O: 공이 공원 밖에 있어요.
+    E: The ball is outside the park. @polite
+    F: The ball _is outside the park_. @polite
+
+    O: 호텔 앞에서 만납시다.
+    E: Let's meet in front of the hotel. @formal
+    F: Let's meet in front of the hotel. @formal
+
+    O: 제 배낭이 나무 옆에 있습니다.
+    E: My[s] backpack is next to the tree. @formal
+    F: My[s] backpack _is next to the tree_. @formal
+
+    O: 배낭이 책상 앞에 있어요.
+    E: The backpack is in front of the desk. @polite
+    F: The backpack is in front of the desk. @polite
+
+    O: 집 밖에 나무가 많아요.
+    E: There are many trees outside the house. @polite
+    F: There are many trees outside the house. @polite
