@@ -1,0 +1,60 @@
+> Two
+    O: 저는 가방 없이 학교에 가요.
+    E: I go to school without a bag. @polite
+    F: _I_ go to school without a bag. @polite
+
+    O: 거북이가 토끼를 우연히 만납니다.
+    E: The turtle meets the rabbit by accident. @formal
+    F: The turtle _meets the rabbit by accident_. @formal
+
+    # According to National Institute of Korean Language, 우리 and 우리들 are all okay. The same meaning, and both words are plural. I mean, as you might know already, the plural form is not really considered in Korean.
+    # In my opinion, however, 우리들 is redundancy. 우리 is better.
+    O: 우리들은 따로 가요.
+    E: We go separately. @polite
+    F: _We_ go separately. @polite
+
+    O: 말이 열심히 일해요.
+    E: The horse works hard. @polite
+    F: The horse _works hard_. @polite
+
+    O: 말이 조용히 달려요.
+    E: The horse runs quietly. @polite
+    F: The horse _runs quietly_. @polite
+
+    O: 그 접시는 완전히 깨끗합니다.
+    E: That dish is completely clean. @formal
+    F: _That dish_ is completely clean. @formal
+
+    O: 그녀는 열심히 공부하지 않아요.
+    E: She does not study hard. @polite
+    F: _She_ does not study hard. @polite
+
+    O: 소고기 없이 불고기는 못 만들어요.
+    E: We can't make bulgogi without beef. @polite
+    F: We can't make _bulgogi_ without beef. @polite
+
+    O: 저는 따로 놉니다.
+    E: I play separately. @formal
+    F: _I_ play separately. @formal
+
+    O: 저는 책 없이 못 살아요.
+    E: I cannot live without books. @polite
+    F: _I_ cannot live without books. @polite
+
+    O: 새가 조용히 편지를 써요.
+    E: The bird quietly writes a letter. @polite
+    F: The bird _quietly writes a letter_. @polite
+
+    O: 도서관에서 조용히 말해요.
+    E: Let's speak quietly in the library. @polite
+
+    O: 우리는 우연히 여기에 있습니까?
+    E: Are we here by chance? @formal
+    F: Are _we_ here by chance? @formal
+
+    O: 따로 요리하세요.
+    E: Cook separately. @polite
+
+    O: 이것은 완전히 달라요.
+    E: This is completely different. @polite
+    F: _This_ is completely different. @polite
