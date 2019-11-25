@@ -17,7 +17,9 @@
     F: _He_ sends five presents. @formal
 
     # 저는 / 저에게 / 저에게는
-    # 저는 사과 다섯 개와 오렌지 세 개를 가지고 있습니다.
+    # 1. literally means 'I have' those fruits:
+    # 1. 저는 사과 다섯 개와 오렌지 세 개를 가지고 있습니다.
+    # 2. For(To) me, there are those fruits:
     O: 저에게 사과 다섯 개와 오렌지 세 개가 있습니다.
     E: I have five apples and three oranges. @formal
 

@@ -1,0 +1,594 @@
+1 Basics One.
+* s -Lesson spoken.
+
+Lesson One.
+    Or.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    또는
+
+    Next Sentence.
+    A woman.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자
+
+    Next Sentence.
+    Women.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자들
+
+    Next Sentence.
+    Men.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자들
+
+    Next Sentence.
+    Men and women.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자들과 여자들
+
+    Next Sentence.
+    A man or a woman.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자 또는 여자
+
+    Next Sentence.
+    A woman or a man.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자 또는 남자
+
+    Next Sentence.
+    A man and a woman.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자와 여자
+
+    Next Sentence.
+    A woman and a man.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자와 남자
+
+Lesson Two.
+    A book and a pencil.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    책과 연필
+
+    Next Sentence.
+    A woman and[s] a pencil.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자하고 연필
+
+    Next Sentence.
+    Apple.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과
+
+    Next Sentence.
+    Bread.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빵
+
+    Next Sentence.
+    Man and[s] woman.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자하고 여자
+
+    Next Sentence.
+    A man and a house.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자와 집
+
+    Next Sentence.
+    A woman or a book.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자 또는 책
+
+    Next Sentence.
+    A book and[s] a man.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    책하고 남자
+
+    Next Sentence.
+    Bread and apples.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빵과 사과들
+
+    Next Sentence.
+    A man and a pencil.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자와 연필
+
+    Next Sentence.
+    Bread and apple.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빵과 사과
+
+    Next Sentence.
+    A house or a book.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집 또는 책
+
+    Next Sentence.
+    Apple and pencil.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과와 연필
+
+    Next Sentence.
+    Pencils are things.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    연필은 물곤입니다.
+
+Lesson Three.
+    School.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학교
+
+    Next Sentence.
+    Place.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    장소
+
+    Next Sentence.
+    A woman is a woman.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자는 여자입니다.
+
+    Next Sentence.    
+    The school is a place.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학교가 장소입니다.
+
+    Next Sentence.    
+    Yes.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    네.
+
+    Next Sentence.
+    Food and a child.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    음식과 아이
+
+    Next Sentence.
+    The pencil is a thing.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    연필이 물건입니다.
+
+    Next Sentence.    
+    A pencil is a thing.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    연필은 물건입니다.
+
+    Next Sentence.    
+    Yes, bread is food.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    예, 빵은 음식입니다.
+
+    Next Sentence.    
+    Bread is food.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빵은 음식입니다.
+
+    Next Sentence.    
+    A woman is a person.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자는 사람입니다.
+
+    Next Sentence.    
+    Yes, schools are places.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    예, 학교는 장소입니다.
+
+    Next Sentence.    
+    The apple is food.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과가 음식입니다.
+
+    Next Sentence.    
+    A man is a person.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자는 사람입니다.
+
+    Next Sentence.    
+    The book is a thing.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    책이 물건입니다.
+
+    Next Sentence.    
+    Books are things.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    책은 물건입니다.
+
+    Next Sentence.    
+    The bread is food.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빵이 음식입니다.
+
+    Next Sentence.    
+    Yes, men are people.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    예, 남자는 사람입니다.
+
+    Next Sentence.    
+    The house is a place.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집이 장소입니다.
+
+    Next Sentence.    
+    Child, person.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아이, 사람
+
+    Next Sentence.
+    A school is a place.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학교는 장소입니다.
+
+Lesson Four.
+    An animal is not a thing. .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    동물은 물건이 아닙니다.
+
+    Next Sentence.    
+    My dog.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저의 개
+
+    Next Sentence.
+    No, cats aren't people.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아니요, 고양이는 사람이 아닙니다.
+
+    Next Sentence.    
+    No, boys aren't women.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아니요, 남자아이는 여자가 아닙니다.
+
+    Next Sentence.    
+    I am a woman.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    제가 여자입니다.
+
+    Next Sentence.    
+    A man is not food.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자는 음식이 아닙니다.
+
+    Next Sentence.    
+    No, girls aren't men.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아니요, 여자아이는 남자가 아닙니다.
+
+    Next Sentence.    
+    I am not a book.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 책이 아닙니다.
+
+    Next Sentence.    
+    Cats are not food.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    고양이는 음식이 아닙니다.
+
+    Next Sentence.    
+    I am not an animal.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 동물이 아닙니다.
+
+    Next Sentence.    
+    I am not a person.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 사람이 아닙니다.
+
+    Next Sentence.    
+    Animal.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    동물
+
+    Next Sentence.
+    Cat.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    고양이
+
+    Next Sentence.
+    Boy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자아이
+
+    Next Sentence.
+    The girl's food.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자아이의 음식
+
+    End of 1 - Basics One.

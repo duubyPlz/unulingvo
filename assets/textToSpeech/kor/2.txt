@@ -1,0 +1,592 @@
+Basics Two.
+Lesson One.
+    Room.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    방
+
+    Next Sentence.
+    The room is in the house.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    방이 집에 있습니다.
+
+    Next Sentence.    
+    I am not in Korea.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 한국에 없습니다.
+
+    Next Sentence.    
+    Park.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공원
+
+    Next Sentence.
+    A road.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    길
+
+    Next Sentence.
+    The man is in Korea.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자가 한국에 있습니다.
+
+    Next Sentence.    
+    There is no park.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공원이 없습니다.
+
+    Next Sentence.    
+    The mountain is in the park.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    산은 공원에 있습니다.
+
+    Next Sentence.    
+    A mountain is not at the sea.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    산은 바다에 없습니다.
+
+    Next Sentence.    
+    The road is not in Korea.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    길이 한국에 없습니다.
+
+    Next Sentence.    
+    The sea.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    바다
+
+    Next Sentence.
+    Mountain.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    산
+
+    Next Sentence.
+    Korea.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한국
+
+Lesson Two.
+    Friend.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구
+
+    Next Sentence.
+    Newspaper.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    신문
+
+    Next Sentence.
+    Zero.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공
+
+    Next Sentence.
+    Message(s).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    메시지
+
+    Next Sentence.
+    Family.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가족
+
+    Next Sentence.
+    Tea.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    차
+
+    Next Sentence.
+    Ball.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공
+
+    Next Sentence.
+    Korean newspaper.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한국의 신문
+
+    Next Sentence.
+    Car.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    자동차
+
+    Next Sentence.
+    The man has a message.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자는 메시지가 있습니다.
+
+    Next Sentence.    
+    A ball and tea.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공과 차
+
+    Next Sentence.
+    I have a friend's tea.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 친구의 차가 있습니다.
+
+    Next Sentence.    
+    The family has a house.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가족은 집이 있습니다.
+
+    Next Sentence.    
+    The dog has a friend.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    개는 친구가 있습니다.
+
+    Next Sentence.    
+    The dog has a family.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    개는 가족이 있습니다.
+
+Lesson Three.
+    Student.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생
+
+    Next Sentence.
+    The student is not cool.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생이 멋없습니다.
+
+    Next Sentence.    
+    Movie.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    영화
+
+    Next Sentence.
+    Food is delicious.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    음식은 맛있습니다. 
+
+    Next Sentence.    
+    The bread tastes bad.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빵이 맛없습니다.
+
+    Next Sentence.    
+    The man is cool.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자가 멋있습니다.
+
+    Next Sentence.    
+    Parks are uninteresting.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공원은 재미없습니다.
+
+    Next Sentence.    
+    Books are interesting.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    책은 재미있습니다.
+
+    Next Sentence.    
+    Food is not delicious.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    음식은 맛없습니다.
+
+    Next Sentence.    
+    A movie is fun.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    영화는 재미있습니다.
+
+    Next Sentence.    
+    Apples are delicious.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과는 맛있습니다.
+
+    Next Sentence.    
+    The book is uninteresting.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    책이 재미없습니다.
+
+    Next Sentence.    
+    The car is cool.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    자동차가 멋있습니다.
+
+    Next Sentence.    
+    The newspaper is interesting.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    신문은 재미있습니다.
+
+    Next Sentence.    
+    The man is uncool.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자가 멋없습니다.
+
+    Next Sentence.    
+    Bread is delicious.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빵은 맛있습니다.
+
+    Next Sentence.    
+    The cat is not fun.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    고양이가 재미없습니다.
+
+Lesson Four.
+    A woman is from Korea.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자는 한국 출신입니다.
+
+    Next Sentence.    
+    A man is unpopular.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자는 인기가 없습니다.
+
+    Next Sentence.    
+    Food is meaningful.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    음식은 의미가 있습니다.
+
+    Next Sentence.    
+    A singer is not fun.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가수는 재미없습니다.
+
+    Next Sentence.    
+    The student is not charming.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생은 매력이 없습니다. 
+
+    Next Sentence.    
+    Books are without meaning.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    책은 의미가 없습니다.
+
+    Next Sentence.    
+    I am from Korea.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 한국 출신입니다.
+
+    Next Sentence.    
+    The woman is not popular.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자는 인기가 없습니다.
+
+    Next Sentence.    
+    Movies are meaningless.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    영화는 의미가 없습니다.
+
+    Next Sentence.    
+    A woman is charming.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자는 매력이 있습니다.
+
+    Next Sentence.    
+    The man is from Korea.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자는 한국 출신입니다.
+
+    Next Sentence.    
+    The singer is not popular.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가수는 인기가 없습니다.
+
+    Next Sentence.    
+    The man is charming.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자는 매력이 있습니다.
+
+    Next Sentence.    
+    The woman is from Korea.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자는 한국 출신입니다.
+
+    End of 2 - Basics Two.
