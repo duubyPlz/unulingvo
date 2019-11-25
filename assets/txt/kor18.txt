@@ -1,4 +1,6 @@
 == Adverbs Two ==
+* p -> plural
+
 > One
     O: 까치는 시끄럽습니다.
     E: Magpies are noisy. @formal

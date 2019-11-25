@@ -10,8 +10,8 @@
     # According to National Institute of Korean Language, 우리 and 우리들 are all okay. The same meaning, and both words are plural. I mean, as you might know already, the plural form is not really considered in Korean.
     # In my opinion, however, 우리들 is redundancy. 우리 is better.
     O: 우리들은 따로 가요.
-    E: We go separately. @polite
-    F: _We_ go separately. @polite
+    E: We[p] go separately. @polite
+    F: _We[p]_ go separately. @polite
 
     O: 말이 열심히 일해요.
     E: The horse works hard. @polite
