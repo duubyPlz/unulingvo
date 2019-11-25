@@ -1,0 +1,312 @@
+3 Phrases One.
+Lesson One.
+    Hello, nice to meet you.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    안녕하세요, 만나서 반갑습니다.
+
+    Next Sentence.
+    Welcome!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    환영합니다!
+
+    Next Sentence.
+    Name.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이름
+
+    Next Sentence.
+    Thanks!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    고마워!
+
+    Next Sentence.
+    Hello?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    안녕하십니까?
+
+    Next Sentence.
+    Thank you.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    고맙습니다.
+
+    Next Sentence.
+    Hi!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    안녕!
+
+    Next Sentence.
+    Yes, welcome.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    네, 환영합니다.
+
+    Next Sentence.
+    Yes, hello.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    예, 안녕하세요.
+
+    Next Sentence.
+    Welcome! Nice to meet you!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    환영합니다! 만나서 반갑습니다!
+
+    Next Sentence.
+    Nice to meet you, thank you!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    만나서 반갑습니다, 고맙습니다!
+
+    Next Sentence.
+    Hello!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    안녕하세요!
+
+    Next Sentence.
+    Hello! Welcome.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    안녕하세요! 환영합니다.
+
+    Next Sentence.
+    The man's name.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자의 이름.
+
+    Next Sentence.
+    Nice to meet you.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    만나서 반갑습니다.
+
+Lesson Two.
+    I'm sorry. It's okay.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    죄송합니다. 괜찮습니다. 
+
+    Next Sentence.
+    Excuse me.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    실례합니다.
+
+    Next Sentence.
+    Sorry.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    미안합니다.
+
+    Next Sentence.
+    Thank you! Welcome.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    감사합니다! 환영합니다.
+
+    Next Sentence.
+    Yes, thank you.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    네, 고맙습니다.
+
+    Next Sentence.
+    Yes, thank you.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    네, 감사합니다.
+
+    Next Sentence.
+    Excuse me. Thank you.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    실례합니다. 감사합니다.
+
+    Next Sentence.
+    I am okay.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 괜찮습니다.
+
+    Next Sentence.
+    I'm sorry.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 미안합니다.
+
+    Next Sentence.
+    No, sorry.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아니요, 죄송합니다.
+
+    Next Sentence.
+    No, I'm okay.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아뇨, 괜찮습니다.
+
+    Next Sentence.
+    No, thank you.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아니요, 감사합니다.
+
+    Next Sentence.
+    Excuse me.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    죄송합니다.
+
+    Next Sentence.
+    It's okay.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    괜찮습니다.
+
+    Next Sentence.
+    Sorry!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    죄송합니다!
+
+    Next Sentence.
+    Sorry, sorry.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    죄송합니다, 미안합니다.
+
+    End of 3 - Phrases One.
