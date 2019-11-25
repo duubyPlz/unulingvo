@@ -1,0 +1,7 @@
+> Three
+    O: 오리가 물 속에 있습니다.
+    E: The duck is in the water. @formal
+    F: The duck is in the water. @formal
+
+    O: 
+    E: 
