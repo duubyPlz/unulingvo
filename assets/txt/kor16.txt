@@ -2,6 +2,8 @@
 * s -> spoken
 
 > One
+    # ~채 is the counter for buildings
+    # 아파트 두 채
     O: 두 아파트
     E: Two apartment buildings
 
