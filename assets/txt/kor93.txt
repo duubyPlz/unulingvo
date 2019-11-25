@@ -1,7 +1,54 @@
 > Three
     O: 오리가 물 속에 있습니다.
     E: The duck is in the water. @formal
-    F: The duck is in the water. @formal
+    F: The duck _is in the water_. @formal
 
-    O: 
-    E: 
+    O: 아이가 남자와 여자의 사이에서 먹어요.
+    E: The child eats between the man and the woman. @polite
+    F: The child _eats between the man and the woman_. @polite
+
+    O: 의자가 방 가운데에 있습니다.
+    E: The chair is in the center of the room. @formal
+    F: The chair _is in the center of the room_. @formal
+
+    O: 배우가 산속으로 가요.
+    E: The actor goes into the mountains. @polite
+    F: The actor _goes into the mountains_. @polite
+
+    O: 저는 배우들 사이에 서요.
+    E: I stand between the actors. @polite
+    F: _I_ stand between the actors. @polite
+
+    O: 장난감이 두 아이의 사이에 있습니다.
+    E: The toy is between the two children. @formal
+    F: The toy _is between the two children_. @formal
+
+    O: 고양이들 사이의 쥐
+    E: A mouse between cats
+
+    O: 남자아이가 장난감 속에서 잡니다.
+    E: The boy sleeps among the toys. @formal
+    F: The boy _sleeps among the toys_. @formal
+
+    O: 식탁은 가운데에 있습니다.
+    E: The dining table is in the center. @formal
+    F: _The dining table_ is in the center. @formal
+
+    O: 남자아이가 장난감 속에서 잡니다.
+    E: The boy sleeps among the toys. @formal
+    F: The boy _sleeps among the toys_. @formal
+
+    O: 그는 가운데에 앉아요.
+    E: He sits in the center. @polite
+    F: _He_ sits in the center. @polite
+
+    O: 식탁은 가운데에 있습니다.
+    E: The dining table is in the center. @formal
+    F: _The dining table_ is in the center. @formal
+
+    O: 장난감이 의자하고 책상 사이에 있어요.
+    E: The toy is between the chair and the desk. @polite
+    F: _The toy_ is between the chair and the desk. @polite
+
+    O: 꿈속의 꿈
+    E: Dream within a dream
