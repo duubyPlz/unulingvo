@@ -52,8 +52,8 @@
     F: The gimbap _is on the kitchen table_. @formal
 
     O: 침대 아래에 거미 세 마리가 숨어요.
-    E: Three spiders hide under the bed. @polite
-    F: Three spiders _hide_ under the bed. @polite
+    E: Three spiders hide under[f] the bed. @polite
+    F: Three spiders _hide_ under[f] the bed. @polite
 
     O: 케이크 위에
     E: Atop a cake

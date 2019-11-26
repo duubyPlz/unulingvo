@@ -27,16 +27,16 @@
     E: A mouse between cats
 
     O: 남자아이가 장난감 속에서 잡니다.
-    E: The boy sleeps among the toys. @formal
-    F: The boy _sleeps among the toys_. @formal
+    E: The boy sleeps[ss] among the toys. @formal
+    F: The boy _sleeps[ss] among the toys_. @formal
 
     O: 식탁은 가운데에 있습니다.
     E: The dining table is in the center. @formal
     F: _The dining table_ is in the center. @formal
 
     O: 남자아이가 장난감 속에서 잡니다.
-    E: The boy sleeps among the toys. @formal
-    F: The boy _sleeps among the toys_. @formal
+    E: The boy sleeps[ss] among the toys. @formal
+    F: The boy _sleeps[ss] among the toys_. @formal
 
     O: 그는 가운데에 앉아요.
     E: He sits in the center. @polite

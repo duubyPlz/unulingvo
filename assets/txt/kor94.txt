@@ -4,8 +4,8 @@
     F: _He_ goes far away. @formal
 
     O: 양이 건너편에서 자요.
-    E: The sheep sleeps on the opposite side. @polite
-    F: The sheep _sleeps on the opposite side_. @polite
+    E: The sheep sleeps[ss] on the opposite side. @polite
+    F: The sheep _sleeps[ss] on the opposite side_. @polite
 
     O: 왼쪽에 있는 책은 재미있어요.
     E: The book on the left is interesting. @polite

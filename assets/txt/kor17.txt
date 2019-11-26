@@ -1,5 +1,7 @@
 == Prepositions ==
 * s -> short
+* f -> fully
+* ss -> vshort
 
 > One
     O: 배낭이 책상 앞에 있어요.
@@ -19,8 +21,8 @@
     F: _The dog_ sits next to the child. @polite
     
     O: 바쁜 학생이 학교 안에서 잡니다.
-    E: The busy student sleeps inside the school. @formal
-    F: The busy student _sleeps inside the school_. @formal
+    E: The busy student sleeps[ss] inside the school. @formal
+    F: The busy student _sleeps[ss] inside the school_. @formal
 
     O: 상자 안에는 연필이 있습니다.
     E: There is a pencil inside the box. @formal
