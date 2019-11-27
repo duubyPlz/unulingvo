@@ -92,9 +92,9 @@
     E: A horse runs fast. @formal
     F: _A horse_ runs fast. @formal
 
+    # There are many pigs on this farm.
     O: 이 농장에는 돼지가 많아요.
-    E: There are many pigs on this farm. @polite
-    F: There are many pigs on _this farm_. @polite
+    E: As for on this farm, there are many pigs. @polite
 
 > Three
     # The snake does not fly.
