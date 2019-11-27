@@ -8,6 +8,9 @@
     E: The backpack is in front of the desk. @polite
     F: The backpack _is in front of the desk_. @polite
 
+    # 에 - location marking particle and indicates where or to where the subject is or will be.
+    # 에서 - action being done at a certain place by the subject, or from where a directional action is taking place.
+    # I've used 밖에 춰워(요) with Koreans before and I've heard them use it too, so I know it's allowed.
     O: 밖은 추워요.
     E: It is cold outside. @polite
     F: It is cold _outside_. @polite
