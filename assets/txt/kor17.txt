@@ -24,9 +24,9 @@
     E: The busy student sleeps[ss] inside the school. @formal
     F: The busy student _sleeps[ss] inside the school_. @formal
 
+    # There is a pencil inside the box
     O: 상자 안에는 연필이 있습니다.
-    E: There is a pencil inside the box. @formal
-    F: There is a pencil _inside the box_. @formal
+    E: As for the inside of the box, there is a pencil. @formal
 
     O: 고양이가 상자 안에 있습니다.
     E: The cat is in the box. @formal
