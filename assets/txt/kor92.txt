@@ -22,15 +22,15 @@
     E: Under the sky
 
     O: 아이가 식탁 밑에 숨어요.
-    E: The child hides under the table. @polite
-    F: The child _hides under the table_. @polite
+    E: The child hides under the dining table. @polite
+    F: The child _hides under the dining table_. @polite
 
     O: 부엉이가 길 위에서 날아요.
     E: The owl flies above the street. @polite
     F: The owl _flies above the street_. @polite
 
     O: 식탁 뒤에 의자가 있어요.
-    E: There is a chair behind the table. @polite
+    E: There is a chair behind the dining table. @polite
 
     O: 여자아이가 텔레비전 바로 뒤에 앉아요.
     E: The girl sits right behind the television. @polite
@@ -47,9 +47,10 @@
     O: 하늘 위에 무엇이 있습니까?
     E: What is above the sky? @formal
 
+    # The gimbap is on the kitchen table.
     O: 김밥이 식탁 위에 있습니다.
-    E: The gimbap is on the kitchen table. @formal
-    F: The gimbap _is on the kitchen table_. @formal
+    E: The gimbap is on the dining table. @formal
+    F: The gimbap _is on the dining table_. @formal
 
     O: 침대 아래에 거미 세 마리가 숨어요.
     E: Three spiders hide under[f] the bed. @polite
