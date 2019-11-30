@@ -1,0 +1,63 @@
+== Compound Verbs ==
+> One
+    O: 남자가 돌려줍니다.
+    E: The man returns it. @formal
+    F: The man _returns it_. @formal
+
+    O: 남자에게 자동차를 빌려주세요.
+    E: Lend the man a car. @polite
+
+    O: 저는 친구에게 연필을 빌려줍니다.
+    E: I lend a pencil to my friend. @formal
+    F: _I_ lend a pencil to my friend. @formal
+
+    O: 이 음식을 먹어보세요.
+    E: Try this food please. @polite
+
+    O: 아이는 큰 탁자를 빌려요.
+    E: A child borrows a big table. @polite
+    F: _A child_ borrows a big table. @polite
+
+    O: 그는 소를 도와주지 않아요.
+    E: He does not help the cow. @polite
+    F: _He_ does not help the cow. @polite
+
+    O: 학생들이 서로 도와줘요.
+    E: The students help each other. @polite
+    F: The students _help each other_. @polite
+
+    O: 노래를 해보세요.
+    E: Try to sing. @polite
+
+    O: 여기로 돌려주세요.
+    E: Return it here, please. @polite
+
+    O: 김치를 먹어봅시다.
+    E: Let's try kimchi. @formal
+
+    O: 고양이가 거북이를 돌립니다.
+    E: The cat turns the turtle. @formal
+    F: The cat _turns the turtle_. @formal
+
+    O: 그는 운동을 해봐요.
+    E: He tries to exercise. @polite
+    F: _He_ tries to exercise. @polite
+
+    O: 학생이 의자를 돌려요.
+    E: The student turns the chair. @polite
+    F: The student _turns the chair_. @polite
+
+    O: 제가 책을 빌려요.
+    E: I borrow a book. @polite
+    F: I _borrow a book_. @polite
+
+    O: 게는 상어를 도와줘요.
+    E: A crab helps the shark. @polite
+    F: _A crab_ helps the shark. @polite
+
+    O: 개가 공을 돌려줍니다.
+    E: The dog returns the ball. @formal
+    F: The dog _returns the ball_. @formal
+
+    O: 조용히 생각을 해보세요.
+    E: Try to think quietly. @polite
