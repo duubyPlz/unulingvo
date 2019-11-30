@@ -29,7 +29,7 @@ $('select#contents-gr').parent().hide();
 // XXX @kuc can't get semantic ui <select>.dropdown('set selected', random) to work
 var fileSizes = {
                     'eo': 30,
-                    'ko': 10,
+                    'ko': 19,
                     'ja': 2,
                     'cn': 10,
                     'gr': 11,
