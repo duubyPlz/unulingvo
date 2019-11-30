@@ -1,0 +1,59 @@
+> Two
+    O: 저는 집을 빌리고 싶어요.
+    E: I want to rent a house. @polite
+    F: _I_ want to rent a house. @polite
+
+    O: 늑대하고 곰은 무서워요.
+    E: Wolves and bears are scary. @polite
+    F: _Wolves and bears_ are scary. @polite
+
+    O: 작은 괴물이 아주 무서워요.
+    E: The small monster is very scary. @polite
+    F: The small monster _is very scary_. @polite
+
+    O: 아이가 괴물을 무서워해요.
+    E: The child is afraid of the monster. @polite
+    F: The child _is afraid of the monster_. @polite
+
+    O: 괴물이 사람을 먹고 싶어해요.
+    E: The monster wants to eat a person. @polite
+    F: The monster _wants to eat a person_. @polite
+
+    O: 슬퍼하지 마십시오.
+    E: Don't be sad. @polite
+
+    O: 남자아이가 없으면 개는 슬퍼해요.
+    E: If the boy is not there, the dog is sad. @polite
+    F: If the boy is not there, _the dog_ is sad. @polite
+
+    O: 큰 부엉이가 슬퍼합니다.
+    E: The big owl is sad. @formal
+    F: The big owl _is sad_. @formal
+
+    O: 저는 제 자신을 무서워해요.
+    E: I am afraid of myself. @polite
+    F: _I_ am afraid of myself. @polite
+
+    O: 괴물이 어디에 있습니까?
+    E: Where is the monster? @formal
+    F: _Where is_ the monster? @formal
+
+    O: 나는 숲 속의 호랑이를 무서워해요.
+    E: I'm afraid of the tiger in the forest. @polite
+    F: _I_'m afraid of the tiger in the forest. @polite
+
+    O: 저는 한국에 가고 싶어요.
+    E: I want to go to Korea. @polite
+    F: _I_ want to go to Korea. @polite
+
+    O: 긴 뱀은 아주 무서워요.
+    E: Long snakes are very scary. @polite
+    F: _Long snakes_ are very scary. @polite
+
+    O: 여자아이가 날고 싶어해요.
+    E: The girl wants to fly. @polite
+    F: The girl _wants to fly_. @polite
+
+    O: 아기가 맥주를 마시고 싶어해요.
+    E: The baby wants to drink beer. @polite
+    F: The baby _wants to drink beer_. @polite
