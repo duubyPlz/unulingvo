@@ -2,6 +2,7 @@
 * s -> short
 * f -> fully
 * ss -> vshort
+* sp -> spoken
 
 > One
     O: 배낭이 책상 앞에 있어요.
