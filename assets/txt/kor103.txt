@@ -4,8 +4,8 @@
     F: The duck _is in the water_. @formal
 
     O: 아이가 남자와 여자의 사이에서 먹어요.
-    E: The child eats between the man and the woman. @polite
-    F: The child _eats between the man and the woman_. @polite
+    E: The child eats between the man and[sp] the woman. @polite
+    F: The child _eats between the man and[sp] the woman_. @polite
 
     O: 의자가 방 가운데에 있습니다.
     E: The chair is in the center of the room. @formal
