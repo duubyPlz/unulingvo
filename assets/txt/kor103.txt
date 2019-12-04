@@ -46,9 +46,5 @@
     E: The dining table is in the center. @formal
     F: _The dining table_ is in the center. @formal
 
-    O: 장난감이 의자하고 책상 사이에 있어요.
-    E: The toy is between the chair and[sp] the desk. @polite
-    F: _The toy_ is between the chair and[sp] the desk. @polite
-
     O: 꿈속의 꿈
     E: Dream within a dream
