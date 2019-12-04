@@ -4,8 +4,8 @@
     F: The duck _is in the water_. @formal
 
     O: 아이가 남자와 여자의 사이에서 먹어요.
-    E: The child eats between the man and the woman. @polite
-    F: The child _eats between the man and the woman_. @polite
+    E: The child eats between[l] the man and the woman. @polite
+    F: The child _eats between[l] the man and the woman_. @polite
 
     O: 의자가 방 가운데에 있습니다.
     E: The chair is in the center of the room. @formal
@@ -20,8 +20,8 @@
     F: _I_ stand between the actors. @polite
 
     O: 장난감이 두 아이의 사이에 있습니다.
-    E: The toy is between the two children. @formal
-    F: The toy _is between the two children_. @formal
+    E: The toy is between[l] the two children. @formal
+    F: The toy _is between[l] the two children_. @formal
 
     O: 고양이들 사이의 쥐
     E: A mouse between cats
