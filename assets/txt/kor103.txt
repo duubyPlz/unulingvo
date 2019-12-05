@@ -11,6 +11,9 @@
     E: The chair is in the center of the room. @formal
     F: The chair _is in the center of the room_. @formal
 
+    # "산속" is an independent word and means "a place deep in a mountain".
+    # Based on the particle used (로):
+    # The actor is going towards a place deep into a mountain/mountains.
     O: 배우가 산속으로 가요.
     E: The actor goes into the mountains. @polite
     F: The actor _goes into the mountains_. @polite
