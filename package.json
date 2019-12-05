@@ -1,0 +1,22 @@
+{
+  "name": "unulingvo",
+  "version": "1.0.0",
+  "description": "Quick, infinite practice of duolingo's sentences; personal flash cards",
+  "main": "app/js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duubyPlz/unulingvo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duubyPlz/unulingvo/issues"
+  },
+  "homepage": "https://github.com/duubyPlz/unulingvo#readme",
+  "dependencies": {
+    "http-server": "^0.12.0"
+  }
+}
