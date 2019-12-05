@@ -7,9 +7,10 @@
     E: The sheep sleeps[ss] on the opposite side. @polite
     F: The sheep _sleeps[ss] on the opposite side_. @polite
 
+    # 재미있다 is shorthand for 재미가 있다.
+    # 책은 재미있어요 is shorthand for 책은 재미가 있어요 which reads something like "as for the book (or books in general), there is fun", noting 있다 is intransitive
     O: 왼쪽에 있는 책은 재미있어요.
     E: The book on the left is interesting. @polite
-    F: _The book on the left_ is interesting. @polite
 
     O: 호랑이가 오른쪽으로 가요.
     E: The tiger goes to the right. @polite
