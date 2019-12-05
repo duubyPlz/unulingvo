@@ -398,7 +398,7 @@ function parse(module, language) {
     };
 
     if (languageToFilePrefix && languageToFilePrefix[language]) {
-        fileName = 'assets/txt/' + languageToFilePrefix[language] + module + '.txt';
+        fileName = 'static/txt/' + languageToFilePrefix[language] + module + '.txt';
     } else {
         console.warn("Language isn't valid: " + language);
     }

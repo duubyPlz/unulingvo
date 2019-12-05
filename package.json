@@ -4,7 +4,8 @@
   "description": "Quick, infinite practice of duolingo's sentences; personal flash cards",
   "main": "app/js/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npx http-server"
   },
   "repository": {
     "type": "git",
