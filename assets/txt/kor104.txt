@@ -50,10 +50,6 @@
     E: The boy eats across from the woman. @polite
     F: The boy _eats across from the woman_. @polite
 
-    O: 제 집은 은행 가까이에 있습니다.
-    E: My house is near the bank. @formal
-    F: _My house_ is near the bank. @formal
-
     O: 식당이 공원 근처에 있습니다.
     E: The restaurant is near the park. @formal
     F: The restaurant _is near the park_. @formal
