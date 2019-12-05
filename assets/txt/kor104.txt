@@ -19,16 +19,12 @@
 
     O: 남자아이는 여자 가까이에 앉아요.
     E: The boy sits near the woman. @polite
-    F: The boy _sits near the woman_. @polite
+    F: _The boy_ sits near the woman. @polite
 
     O: 식당이 공원 근처에 있습니다.
     E: The restaurant is near the park. @formal
     F: The restaurant _is near the park_. @formal
-
-    O: 남자아이는 여자 가까이에 앉아요.
-    E: The boy sits near the woman. @polite
-    F: The boy _sits near the woman_. @polite
-
+    
     O: 제 집은 은행 가까이에 있습니다.
     E: My house is near the bank. @formal
     F: _My house_ is near the bank. @formal
