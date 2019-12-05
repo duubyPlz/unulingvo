@@ -17,6 +17,11 @@
     E: The tiger goes to the right. @polite
     F: The tiger _goes to the right_. @polite
 
+    # 근처에 should also work, different meaning
+    # As is, 근처 is a noun and 가까이 is an adverb used only in conjunction with other stuff.
+    # However, if you add the particle 에 after 가까이, it becomes synonymous with 근처(에) essentially.
+    # 근처 is more like the vicinity around the speaker and 가까이에 is "close" (distance between two objects).
+    # Think of 가까이 as a string between two objects a short distance apart, whereas 근처에 is a circle radiating a short distance around a central object.
     O: 남자아이는 여자 가까이에 앉아요.
     E: The boy sits near the woman. @polite
     F: _The boy_ sits near the woman. @polite
@@ -24,10 +29,10 @@
     O: 식당이 공원 근처에 있습니다.
     E: The restaurant is near the park. @formal
     F: The restaurant _is near the park_. @formal
-    
+
     O: 제 집은 은행 가까이에 있습니다.
-    E: My house is near the bank. @formal
-    F: _My house_ is near the bank. @formal
+    E: My[s] house is near the bank. @formal
+    F: _My[s] house_ is near the bank. @formal
 
     O: 남자가 왼쪽에 있고 여자아이가 오른쪽에 있어요.
     E: The man is on the left and the girl is on the right. @polite
