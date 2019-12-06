@@ -66,6 +66,9 @@ module.exports = {
     minimizer: [new TerserPlugin()],
   },
   devServer: {
-    publicPath: './dist',
+    port: 8080,
+    contentBase: ['./src', './dist'], // both src and output dirs
+    inline: true,
+    hot: true
   }
 };
