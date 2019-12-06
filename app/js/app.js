@@ -15,11 +15,12 @@
 // jquery npm package
 // import $ from 'jquery';
 import './jquery-global';
+import 'jquery-ui';
 import 'diff-match-patch';
-import 'bootstrap';
 import '../../semantic/dist/semantic.css';
 import '../../semantic/dist/components/transition';
 import '../../semantic/dist/components/dropdown';
+import Bootstrap from 'bootstrap/dist/css/bootstrap.css';
 import '../css/custom.css';
 
 // toggle all tooltips
