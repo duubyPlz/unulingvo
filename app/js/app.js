@@ -15,19 +15,22 @@
 // jquery npm package
 import $ from 'jquery';
 import 'diff-match-patch';
-import 'semantic-ui-dropdown';
+import '../../semantic/dist/semantic.css';
+import '../../semantic/dist/components/transition';
+import '../../semantic/dist/components/dropdown';
+import '../css/custom.css';
 
 // toggle all tooltips
 $(function () {
   $('[data-toggle="tooltip"]').tooltip();
 });
 // toggle all dropdowns
-// $('.ui.dropdown').dropdown();
-$('.ui.dropdown').each(function() {
-    console.log("A DROPDOWN FOUND");
-    console.log($(this));
-    $(this).dropdown();
-});
+$('.ui.dropdown').dropdown();
+// $('.ui.dropdown').each(function() {
+//     console.log("A DROPDOWN FOUND");
+//     console.log($(this));
+//     $(this).dropdown();
+// });
 
 // default language
 var language = 'eo';
