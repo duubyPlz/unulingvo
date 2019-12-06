@@ -11,7 +11,7 @@
 // * toggling modules doesn't rerender
 // * unit testing
 
-import './vendor/jquery-1.10.2';
+import './jquery-global';
 import './vendor/jquery-ui.custom.min';
 import './vendor/bootstrap';
 import './vendor/semantic.min';
