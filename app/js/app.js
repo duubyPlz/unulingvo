@@ -12,16 +12,18 @@
 // * unit testing
 
 // 0. Init
-// jquery npm package
-// import $ from 'jquery';
+// import packages' js
 import './jquery-global';
 import 'jquery-ui';
 import 'diff-match-patch';
 import 'bootstrap';
-import Bootstrap from 'bootstrap/dist/css/bootstrap.css';
-import '../../semantic/dist/semantic.css';
 import '../../semantic/dist/components/transition';
 import '../../semantic/dist/components/dropdown';
+
+// import packages' css
+// import '../../app/css/vendor/ionicons.min.css';
+import Bootstrap from 'bootstrap/dist/css/bootstrap.css';
+import '../../semantic/dist/semantic.css';
 import '../css/custom.css';
 
 // toggle all tooltips

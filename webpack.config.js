@@ -8,7 +8,11 @@ const devMode = process.env.NODE_ENV !== 'production';
 
 module.exports = {
   mode: "development",
-  entry: './app/js/app.js',
+  entry: [
+    "ionicons-webpack!./node_modules/ionicons-webpack/ionicons.config.js",
+    './app/js/app.js'
+  ],
+  // entry: './app/js/app.js',
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, './dist')
@@ -36,13 +40,14 @@ module.exports = {
         ],
       },
       {
-        test: /\.(woff(2)?|ttf|eot|svg|png|jpe?g)(\?v=\d+\.\d+\.\d+)?$/,
+        // test: /\.(woff(2)?|ttf|eot|svg|png|jpe?g)(\?v=\d+\.\d+\.\d+)?$/,
+        test: /\.(jpe|jpg|woff|woff2|eot|ttf|png|svg)(\?.*$|$)/,
         use: [
           {
             loader: 'file-loader',
             options: {
               name: '[name].[ext]',
-              outputPath: 'fonts/'
+              outputPath: 'static/fonts/'
             }
           }
         ]

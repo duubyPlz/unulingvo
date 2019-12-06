@@ -23,6 +23,10 @@ body {
   background: rgba(255, 165, 0, 0.2);
 }
 
+h1#title {
+  margin: -webkit-calc(2rem -  0.165em) 0em 1rem;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Exo', sans-serif;
   font-weight: 300;
