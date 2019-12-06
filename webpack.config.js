@@ -1,6 +1,10 @@
 const path = require('path');
 const webpack = require('webpack');
 const TerserPlugin = require('terser-webpack-plugin');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+
+// css sourcemaps
+const devMode = process.env.NODE_ENV !== 'production';
 
 module.exports = {
   mode: "development",
@@ -14,11 +18,22 @@ module.exports = {
       $: "jquery/src/jquery",
     }
   },
+  devtool: devMode ? 'cheap-module-eval-source-map' : 'source-map',
   module: {
     rules: [
       {
         test: /\.css$/i,
-        use: ['style-loader', 'css-loader'],
+        use: [
+          {
+            loader: devMode ? 'style-loader' : MiniCssExtractPlugin.loader,
+          },
+          {
+            loader: 'css-loader',
+            options: {
+              sourceMap: true
+            }
+          }
+        ],
       },
       {
         test: /\.(woff(2)?|ttf|eot|svg|png|jpe?g)(\?v=\d+\.\d+\.\d+)?$/,
