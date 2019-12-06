@@ -11,6 +11,11 @@
 // * toggling modules doesn't rerender
 // * unit testing
 
+import './vendor/jquery-1.10.2';
+import './vendor/jquery-ui.custom.min';
+import './vendor/bootstrap';
+import './vendor/semantic.min';
+
 // 0. Init
 // toggle all tooltips
 $(function () {
