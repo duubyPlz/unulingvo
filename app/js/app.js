@@ -16,6 +16,7 @@
 // import $ from 'jquery';
 import './jquery-global';
 import 'diff-match-patch';
+import 'bootstrap';
 import '../../semantic/dist/semantic.css';
 import '../../semantic/dist/components/transition';
 import '../../semantic/dist/components/dropdown';
