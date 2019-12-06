@@ -14,13 +14,20 @@
 // 0. Init
 // jquery npm package
 import $ from 'jquery';
+import * as diff from 'diff-match-patch';
+import * as semantic from 'fomantic-ui';
 
 // toggle all tooltips
 $(function () {
   $('[data-toggle="tooltip"]').tooltip();
 });
 // toggle all dropdowns
-$('.ui.dropdown').dropdown();
+// $('.ui.dropdown').dropdown();
+$('.ui.dropdown').each(function() {
+    console.log("A DROPDOWN FOUND");
+    console.log($(this));
+});
+
 // default language
 var language = 'eo';
 // hide unwanted dropdowns
@@ -751,8 +758,8 @@ function formatCorrect(correct, userAnswer) {
 
     var formatted = "";
 
-    // call fast-diff, returns e.g. [[-1, "Goo"], [1, "Ba"], [0, "d dog"]]
-    var diffResult = diff(userAnswer, correct);
+    // call diff-match-patch, returns e.g. [[-1, "Goo"], [1, "Ba"], [0, "d dog"]]
+    var diffResult = diff.diff(userAnswer, correct);
 
     for (var i=0; i<diffResult.length; i++) {
         var currentElement = diffResult[i];
