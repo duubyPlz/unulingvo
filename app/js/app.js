@@ -12,6 +12,9 @@
 // * unit testing
 
 // 0. Init
+// jquery npm package
+import $ from 'jquery';
+
 // toggle all tooltips
 $(function () {
   $('[data-toggle="tooltip"]').tooltip();
