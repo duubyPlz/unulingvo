@@ -8,11 +8,7 @@ const devMode = process.env.NODE_ENV !== 'production';
 
 module.exports = {
   mode: "development",
-  entry: [
-    "ionicons-webpack!./node_modules/ionicons-webpack/ionicons.config.js",
-    './app/js/app.js'
-  ],
-  // entry: './app/js/app.js',
+  entry: './app/js/app.js',
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, './dist')

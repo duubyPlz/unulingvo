@@ -24,6 +24,7 @@
     "css-loader": "^3.2.1",
     "diff-match-patch": "^1.0.4",
     "extend": "^2.0.2",
+    "font-awesome": "^4.7.0",
     "jquery": "^3.4.1",
     "jquery-ui": "^1.12.1",
     "jsdom": "^15.2.1",
