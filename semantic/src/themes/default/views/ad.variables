@@ -2,12 +2,12 @@
           Advertisement
 *******************************/
 
-@margin: 1em 0;
+@margin: 1em 0em;
 @overflow: hidden;
 
 @testBackground: @lightBlack;
 @testColor: @white;
-@testFontWeight: @bold;
+@testFontWeight: bold;
 @testText: 'Ad';
-@testFontSize: @relativeMedium;
-@testMobileFontSize: @relativeTiny;
+@testFontSize: 1em;
+@testMobileFontSize: 0.85714em;

@@ -1,8 +1,9 @@
 /*!
- * # Fomantic-UI - Accordion
- * http://github.com/fomantic/Fomantic-UI/
+ * # Semantic UI 1.12.3 - Accordion
+ * http://github.com/semantic-org/semantic-ui/
  *
  *
+ * Copyright 2014 Contributors
  * Released under the MIT license
  * http://opensource.org/licenses/MIT
  *
@@ -16,10 +17,11 @@
 .ui.accordion,
 .ui.accordion .accordion {
   max-width: 100%;
+  font-size: 1em;
 }
 .ui.accordion .accordion {
-  margin: 1em 0 0;
-  padding: 0;
+  margin: 1em 0em 0em;
+  padding: 0em;
 }
 
 /* Title */
@@ -30,20 +32,26 @@
 
 /* Default Styling */
 .ui.accordion .title:not(.ui) {
-  padding: 0.5em 0;
+  padding: 0.5em 0em;
   font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
   font-size: 1em;
-  color: rgba(0, 0, 0, 0.87);
+  color: rgba(0, 0, 0, 0.8);
+}
+
+/* Content */
+.ui.accordion .title ~ .content,
+.ui.accordion .accordion .title ~ .content {
+  display: none;
 }
 
 /* Default Styling */
 .ui.accordion:not(.styled) .title ~ .content:not(.ui),
 .ui.accordion:not(.styled) .accordion .title ~ .content:not(.ui) {
-  margin: '';
-  padding: 0.5em 0 1em;
+  margin: 0em;
+  padding: 0.5em 0em 1em;
 }
 .ui.accordion:not(.styled) .title ~ .content:not(.ui):last-child {
-  padding-bottom: 0;
+  padding-bottom: 0em;
 }
 
 /* Arrow */
@@ -54,15 +62,14 @@
   opacity: 1;
   width: 1.25em;
   height: 1em;
-  margin: 0 0.25rem 0 0;
-  padding: 0;
+  margin: 0em 0.25rem 0em 0rem;
+  padding: 0em;
   font-size: 1em;
-  -webkit-transition: opacity 0.1s ease, -webkit-transform 0.1s ease;
-  transition: opacity 0.1s ease, -webkit-transform 0.1s ease;
-  transition: transform 0.1s ease, opacity 0.1s ease;
-  transition: transform 0.1s ease, opacity 0.1s ease, -webkit-transform 0.1s ease;
+  -webkit-transition: -webkit-transform 0.2s ease, opacity 0.2s ease;
+          transition: transform 0.2s ease, opacity 0.2s ease;
   vertical-align: baseline;
   -webkit-transform: none;
+      -ms-transform: none;
           transform: none;
 }
 
@@ -74,19 +81,20 @@
 /* Menu */
 .ui.accordion.menu .item .title {
   display: block;
-  padding: 0;
+  padding: 0em;
 }
 .ui.accordion.menu .item .title > .dropdown.icon {
   float: right;
-  margin: 0.21425em 0 0 1em;
+  margin: 0.165em 0em 0em 1em;
   -webkit-transform: rotate(180deg);
+      -ms-transform: rotate(180deg);
           transform: rotate(180deg);
 }
 
 /* Header */
 .ui.accordion .ui.header .dropdown.icon {
   font-size: 1em;
-  margin: 0 0.25rem 0 0;
+  margin: 0em 0.25rem 0em 0rem;
 }
 
 
@@ -97,10 +105,12 @@
 .ui.accordion .active.title .dropdown.icon,
 .ui.accordion .accordion .active.title .dropdown.icon {
   -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
           transform: rotate(90deg);
 }
 .ui.accordion.menu .item .active.title > .dropdown.icon {
   -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
           transform: rotate(90deg);
 }
 
@@ -111,28 +121,27 @@
 
 
 /*--------------
-       Styled
-  ---------------*/
+     Styled
+---------------*/
 
 .ui.styled.accordion {
   width: 600px;
 }
 .ui.styled.accordion,
 .ui.styled.accordion .accordion {
-  border-radius: 0.28571429rem;
-  background: #FFFFFF;
-  -webkit-box-shadow: 0 1px 2px 0 rgba(34, 36, 38, 0.15), 0 0 0 1px rgba(34, 36, 38, 0.15);
-          box-shadow: 0 1px 2px 0 rgba(34, 36, 38, 0.15), 0 0 0 1px rgba(34, 36, 38, 0.15);
+  border-radius: 0.2857rem;
+  background: #ffffff;
+  box-shadow: 0px 1px 2px 0 rgba(0, 0, 0, 0.05), 0px 0px 0px 1px rgba(39, 41, 43, 0.15);
 }
 .ui.styled.accordion .title,
 .ui.styled.accordion .accordion .title {
-  margin: 0;
+  margin: 0em;
   padding: 0.75em 1em;
   color: rgba(0, 0, 0, 0.4);
   font-weight: bold;
-  border-top: 1px solid rgba(34, 36, 38, 0.15);
-  -webkit-transition: background 0.1s ease, color 0.1s ease;
-  transition: background 0.1s ease, color 0.1s ease;
+  border-top: 1px solid rgba(39, 41, 43, 0.15);
+  -webkit-transition: background 0.2s ease, color 0.2s ease;
+          transition: background 0.2s ease, color 0.2s ease;
 }
 .ui.styled.accordion > .title:first-child,
 .ui.styled.accordion .accordion .title:first-child {
@@ -142,11 +151,11 @@
 /* Content */
 .ui.styled.accordion .content,
 .ui.styled.accordion .accordion .content {
-  margin: 0;
+  margin: 0em;
   padding: 0.5em 1em 1.5em;
 }
 .ui.styled.accordion .accordion .content {
-  margin: 0;
+  padding: 0em;
   padding: 0.5em 1em 1.5em;
 }
 
@@ -156,22 +165,22 @@
 .ui.styled.accordion .accordion .title:hover,
 .ui.styled.accordion .accordion .active.title {
   background: transparent;
-  color: rgba(0, 0, 0, 0.87);
+  color: rgba(0, 0, 0, 0.8);
 }
 .ui.styled.accordion .accordion .title:hover,
 .ui.styled.accordion .accordion .active.title {
   background: transparent;
-  color: rgba(0, 0, 0, 0.87);
+  color: rgba(0, 0, 0, 0.8);
 }
 
 /* Active */
 .ui.styled.accordion .active.title {
   background: transparent;
-  color: rgba(0, 0, 0, 0.95);
+  color: rgba(0, 0, 0, 0.8);
 }
 .ui.styled.accordion .accordion .active.title {
   background: transparent;
-  color: rgba(0, 0, 0, 0.95);
+  color: rgba(0, 0, 0, 0.8);
 }
 
 
@@ -181,12 +190,12 @@
 
 
 /*--------------
-   Not Active
+     Active
 ---------------*/
 
-.ui.accordion .title ~ .content:not(.active),
-.ui.accordion .accordion .title ~ .content:not(.active) {
-  display: none;
+.ui.accordion .active.content,
+.ui.accordion .accordion .active.content {
+  display: block;
 }
 
 
@@ -196,8 +205,8 @@
 
 
 /*--------------
-       Fluid
-  ---------------*/
+     Fluid
+---------------*/
 
 .ui.fluid.accordion,
 .ui.fluid.accordion .accordion {
@@ -205,11 +214,11 @@
 }
 
 /*--------------
-       Inverted
-  ---------------*/
+     Inverted
+---------------*/
 
 .ui.inverted.accordion .title:not(.ui) {
-  color: rgba(255, 255, 255, 0.9);
+  color: #ffffff;
 }
 
 

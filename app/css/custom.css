@@ -378,6 +378,8 @@ button#submit {
   font-size: 20px;
   font-weight: 700;
   right: 13px;
+  margin: 0;
+  padding: 0;
 }
 
 .ui.dropdown>.dropdown.icon:before {
@@ -456,7 +458,7 @@ select#flu {
   color: orange;
   vertical-align: center;
   position: absolute;
-  top: 120px;
+  top: 100px;
   left: 395px;
 }
 

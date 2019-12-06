@@ -1,6 +1,6 @@
 /*!
- * # Fomantic-UI - Ad
- * http://github.com/fomantic/Fomantic-UI/
+ * # Semantic UI 1.12.3 - Ad
+ * http://github.com/semantic-org/semantic-ui/
  *
  *
  * Copyright 2013 Contributors
@@ -17,17 +17,17 @@
 .ui.ad {
   display: block;
   overflow: hidden;
-  margin: 1em 0;
+  margin: 1em 0em;
 }
 .ui.ad:first-child {
-  margin: 0;
+  margin: 0em;
 }
 .ui.ad:last-child {
-  margin: 0;
+  margin: 0em;
 }
 .ui.ad iframe {
-  margin: 0;
-  padding: 0;
+  margin: 0em;
+  padding: 0em;
   border: none;
   overflow: hidden;
 }
@@ -62,8 +62,8 @@
 }
 
 /*--------------
-       Square
-  ---------------*/
+     Square
+---------------*/
 
 
 /* Square */
@@ -79,8 +79,8 @@
 }
 
 /*--------------
-      Rectangle
-  ---------------*/
+    Rectangle
+---------------*/
 
 
 /* Small Rectangle */
@@ -96,8 +96,8 @@
 }
 
 /*--------------
-       Button
-  ---------------*/
+     Button
+---------------*/
 
 .ui.button.ad {
   width: 120px;
@@ -113,8 +113,8 @@
 }
 
 /*--------------
-     Skyscrapers
-  ---------------*/
+   Skyscrapers
+---------------*/
 
 
 /* Skyscraper */
@@ -129,8 +129,8 @@
 }
 
 /*--------------
-       Banners
-  ---------------*/
+     Banners
+---------------*/
 
 
 /* Banner */
@@ -175,8 +175,8 @@
 }
 
 /*--------------
-      Panorama
-  ---------------*/
+    Panorama
+---------------*/
 
 
 /* Panorama */
@@ -186,8 +186,8 @@
 }
 
 /*--------------
-       Netboard
-  ---------------*/
+     Netboard
+---------------*/
 
 
 /* Netboard */
@@ -197,8 +197,8 @@
 }
 
 /*--------------
-       Mobile
-  ---------------*/
+     Mobile
+---------------*/
 
 
 /* Large Mobile Banner */
@@ -223,7 +223,7 @@
 .ui.mobile.ad {
   display: none;
 }
-@media only screen and (max-width: 767.98px) {
+@media only screen and (max-width: 767px) {
   .ui.mobile.ad {
     display: block;
   }
@@ -240,7 +240,7 @@
 }
 .ui.test.ad {
   position: relative;
-  background: #545454;
+  background: #333333;
 }
 .ui.test.ad:after {
   position: absolute;
@@ -249,14 +249,15 @@
   width: 100%;
   text-align: center;
   -webkit-transform: translateX(-50%) translateY(-50%);
+      -ms-transform: translateX(-50%) translateY(-50%);
           transform: translateX(-50%) translateY(-50%);
   content: 'Ad';
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 1em;
   font-weight: bold;
 }
 .ui.mobile.test.ad:after {
-  font-size: 0.85714286em;
+  font-size: 0.85714em;
 }
 .ui.test.ad[data-text]:after {
   content: attr(data-text);

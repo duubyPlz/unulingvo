@@ -1,8 +1,9 @@
 /*!
- * # Fomantic-UI - Transition
- * http://github.com/fomantic/Fomantic-UI/
+ * # Semantic UI - Transition
+ * http://github.com/semantic-org/semantic-ui/
  *
  *
+ * Copyright 2014 Contributorss
  * Released under the MIT license
  * http://opensource.org/licenses/MIT
  *
@@ -37,16 +38,15 @@
 /* Animating */
 .animating.transition {
   backface-visibility: @backfaceVisibility;
+  transform: @use3DAcceleration;
   visibility: visible !important;
 }
 
-& when (@variationTransitionLoading) {
-  /* Loading */
-  .loading.transition {
-    position: absolute;
-    top: -99999px;
-    left: -99999px;
-  }
+/* Loading */
+.loading.transition {
+  position: absolute;
+  top: -99999px;
+  left: -99999px;
 }
 
 /* Hidden */
@@ -59,24 +59,22 @@
 .visible.transition {
   display: block !important;
   visibility: visible !important;
-/*  backface-visibility: @backfaceVisibility;
-  transform: @use3DAcceleration;*/
+  backface-visibility: @backfaceVisibility;
+  transform: @use3DAcceleration;
 }
 
-& when (@variationTransitionDisabled) {
-  /* Disabled */
-  .disabled.transition {
-    animation-play-state: paused;
-  }
+/* Disabled */
+.disabled.transition {
+  animation-play-state: paused;
 }
 
 /*******************************
           Variations
 *******************************/
-& when (@variationTransitionLoading) {
-  .looping.transition {
-    animation-iteration-count: infinite;
-  }
+
+.looping.transition {
+  animation-iteration-count: infinite;
 }
+
 
 .loadUIOverrides();

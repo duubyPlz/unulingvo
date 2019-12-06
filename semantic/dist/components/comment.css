@@ -1,8 +1,9 @@
 /*!
- * # Fomantic-UI - Comment
- * http://github.com/fomantic/Fomantic-UI/
+ * # Semantic UI 1.12.3 - Comment
+ * http://github.com/semantic-org/semantic-ui/
  *
  *
+ * Copyright 2014 Contributorss
  * Released under the MIT license
  * http://opensource.org/licenses/MIT
  *
@@ -19,14 +20,14 @@
 ---------------*/
 
 .ui.comments {
-  margin: 1.5em 0;
+  margin: 1.5em 0em;
   max-width: 650px;
 }
 .ui.comments:first-child {
-  margin-top: 0;
+  margin-top: 0em;
 }
 .ui.comments:last-child {
-  margin-bottom: 0;
+  margin-bottom: 0em;
 }
 
 /*--------------
@@ -36,31 +37,31 @@
 .ui.comments .comment {
   position: relative;
   background: none;
-  margin: 0.5em 0 0;
-  padding: 0.5em 0 0;
+  margin: 0.5em 0em 0em;
+  padding: 0.5em 0em 0em;
   border: none;
   border-top: none;
   line-height: 1.2;
 }
 .ui.comments .comment:first-child {
-  margin-top: 0;
-  padding-top: 0;
+  margin-top: 0em;
+  padding-top: 0em;
 }
 
 /*--------------------
     Nested Comments
 ---------------------*/
 
-.ui.comments .comment > .comments {
-  margin: 0 0 0.5em 0.5em;
-  padding: 1em 0 1em 1em;
+.ui.comments .comment .comments {
+  margin: 0em 0em 0.5em 0.5em;
+  padding: 1em 0em 1em 1em;
 }
-.ui.comments .comment > .comments:before {
+.ui.comments .comment .comments:before {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 0px;
+  left: 0px;
 }
-.ui.comments .comment > .comments .comment {
+.ui.comments .comment .comments .comment {
   border: none;
   border-top: none;
   background: none;
@@ -75,12 +76,12 @@
   width: 2.5em;
   height: auto;
   float: left;
-  margin: 0.2em 0 0;
+  margin: 0.2em 0em 0em;
 }
 .ui.comments .comment img.avatar,
 .ui.comments .comment .avatar img {
   display: block;
-  margin: 0 auto;
+  margin: 0em auto;
   width: 100%;
   height: 100%;
   border-radius: 0.25rem;
@@ -105,14 +106,14 @@
 
 .ui.comments .comment .author {
   font-size: 1em;
-  color: rgba(0, 0, 0, 0.87);
+  color: rgba(0, 0, 0, 0.8);
   font-weight: bold;
 }
 .ui.comments .comment a.author {
   cursor: pointer;
 }
 .ui.comments .comment a.author:hover {
-  color: #1e70bf;
+  color: #00b2f3;
 }
 
 /*--------------
@@ -127,10 +128,10 @@
 }
 .ui.comments .comment .metadata > * {
   display: inline-block;
-  margin: 0 0.5em 0 0;
+  margin: 0em 0.5em 0em 0em;
 }
 .ui.comments .comment .metadata > :last-child {
-  margin-right: 0;
+  margin-right: 0em;
 }
 
 /*--------------------
@@ -138,10 +139,10 @@
 ---------------------*/
 
 .ui.comments .comment .text {
-  margin: 0.25em 0 0.5em;
+  margin: 0.25em 0em 0.5em;
   font-size: 1em;
   word-wrap: break-word;
-  color: rgba(0, 0, 0, 0.87);
+  color: rgba(0, 0, 0, 0.8);
   line-height: 1.3;
 }
 
@@ -155,11 +156,11 @@
 .ui.comments .comment .actions a {
   cursor: pointer;
   display: inline-block;
-  margin: 0 0.75em 0 0;
+  margin: 0em 0.75em 0em 0em;
   color: rgba(0, 0, 0, 0.4);
 }
 .ui.comments .comment .actions a:last-child {
-  margin-right: 0;
+  margin-right: 0em;
 }
 .ui.comments .comment .actions a.active,
 .ui.comments .comment .actions a:hover {
@@ -200,28 +201,27 @@
 
 
 /*--------------------
-          Threaded
-  ---------------------*/
+        Threaded
+---------------------*/
 
-.ui.threaded.comments .comment > .comments {
+.ui.threaded.comments .comment .comments {
   margin: -1.5em 0 -1em 1.25em;
-  padding: 3em 0 2em 2.25em;
-  -webkit-box-shadow: -1px 0 0 rgba(34, 36, 38, 0.15);
-          box-shadow: -1px 0 0 rgba(34, 36, 38, 0.15);
+  padding: 3em 0em 2em 2.25em;
+  box-shadow: -1px 0px 0px rgba(39, 41, 43, 0.15);
 }
 
 /*--------------------
-          Minimal
-  ---------------------*/
+        Minimal
+---------------------*/
 
 .ui.minimal.comments .comment .actions {
   opacity: 0;
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 0px;
+  right: 0px;
   left: auto;
   -webkit-transition: opacity 0.2s ease;
-  transition: opacity 0.2s ease;
+          transition: opacity 0.2s ease;
   -webkit-transition-delay: 0.1s;
           transition-delay: 0.1s;
 }
@@ -229,58 +229,21 @@
   opacity: 1;
 }
 
-/*-------------------
-        Sizes
---------------------*/
+/*--------------------
+       Sizes
+---------------------*/
 
-.ui.comments {
-  font-size: 1rem;
-}
-.ui.mini.comments {
-  font-size: 0.78571429rem;
-}
-.ui.tiny.comments {
-  font-size: 0.85714286rem;
-}
 .ui.small.comments {
-  font-size: 0.92857143rem;
+  font-size: 0.9em;
+}
+.ui.comments {
+  font-size: 1em;
 }
 .ui.large.comments {
-  font-size: 1.14285714rem;
-}
-.ui.big.comments {
-  font-size: 1.28571429rem;
+  font-size: 1.1em;
 }
 .ui.huge.comments {
-  font-size: 1.42857143rem;
-}
-.ui.massive.comments {
-  font-size: 1.71428571rem;
-}
-
-/*-------------------
-          Inverted
-  --------------------*/
-
-.ui.inverted.comments .comment {
-  background-color: #1B1C1D;
-}
-.ui.inverted.comments .comment .author,
-.ui.inverted.comments .comment .text {
-  color: rgba(255, 255, 255, 0.9);
-}
-.ui.inverted.comments .comment .metadata,
-.ui.inverted.comments .comment .actions a {
-  color: rgba(255, 255, 255, 0.7);
-}
-.ui.inverted.comments .comment a.author:hover,
-.ui.inverted.comments .comment .actions a.active,
-.ui.inverted.comments .comment .actions a:hover {
-  color: #ffffff;
-}
-.ui.inverted.threaded.comments .comment > .comments {
-  -webkit-box-shadow: -1px 0 0 #555555;
-          box-shadow: -1px 0 0 #555555;
+  font-size: 1.2em;
 }
 
 

@@ -8,7 +8,7 @@
 var
   fs          = require('fs'),
   path        = require('path'),
-  githubAPI   = require('@octokit/rest'),
+  githubAPI   = require('github'),
 
   // stores oauth info for GitHub API
   oAuthConfig = path.join(__dirname, 'oauth.js'),
@@ -19,6 +19,7 @@ var
 ;
 
 if(!oAuth) {
+  console.log('here');
   console.error('Must add oauth token for GitHub in tasks/config/admin/oauth.js');
 }
 

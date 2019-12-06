@@ -20,6 +20,8 @@ var
   fs             = require('fs'),
   path           = require('path'),
   git            = require('gulp-git'),
+  githubAPI      = require('github'),
+  requireDotFile = require('require-dot-file'),
 
   // admin files
   github         = require('../../config/admin/github.js'),
@@ -64,6 +66,9 @@ module.exports = function(callback) {
       distribution         = release.distributions[index],
       outputDirectory      = path.resolve(path.join(release.outputRoot, distribution.toLowerCase() )),
       repoName             = release.distRepoRoot + distribution,
+
+      gitURL               = 'https://github.com/' + release.org + '/' + repoName + '.git',
+      repoURL              = 'https://github.com/' + release.org + '/' + repoName + '/',
 
       commitArgs = (oAuth.name !== undefined && oAuth.email !== undefined)
         ? '--author "' + oAuth.name + ' <' + oAuth.email + '>"'
@@ -149,7 +154,7 @@ module.exports = function(callback) {
       if(version) {
         releaseOptions.target_commitish = version;
       }
-      github.repos.createRelease(releaseOptions, function() {
+      github.releases.createRelease(releaseOptions, function() {
         nextRepo();
       });
     }
@@ -159,7 +164,7 @@ module.exports = function(callback) {
       console.log('Sleeping for 1 second...');
       // avoid rate throttling
       global.clearTimeout(timer);
-      timer = global.setTimeout(stepRepo, 100);
+      timer = global.setTimeout(stepRepo, 500);
     }
 
 

@@ -7,45 +7,47 @@
 --------------------*/
 
 @inputFont: @pageFont;
-@verticalPadding: @inputVerticalPadding;
-@horizontalPadding: @inputHorizontalPadding;
+@verticalPadding: 0.78571em;
+@horizontalPadding: 1em;
 
-@lineHeight: @inputLineHeight;
+@lineHeight: 1.2142em;
 @lineHeightOffset: ((@lineHeight - 1em) / 2);
 
 @padding: (@verticalPadding - @lineHeightOffset) @horizontalPadding;
 
 @textAlign: left;
-@background: @inputBackground;
+@background: #FFFFFF;
 @borderWidth: 1px;
-@border: @borderWidth solid @borderColor;
+@border: @borderWidth solid rgba(0, 0, 0, 0.15);
 @boxShadow: none;
 
 @borderRadius: @defaultBorderRadius;
 @transition:
-  box-shadow @defaultDuration @defaultEasing,
-  border-color @defaultDuration @defaultEasing
+  background-color @transitionDuration @transitionEasing,
+  box-shadow @transitionDuration @transitionEasing,
+  border-color @transitionDuration @transitionEasing
 ;
+
+@inputColor: @textColor;
 
 /*-------------------
         Types
 --------------------*/
 
 /* Icon Input */
+@glyphWidth: 1.25em;
+
 @iconWidth: (@verticalPadding * 2) + @glyphWidth;
 @iconOpacity: 0.5;
 @iconFocusOpacity: 1;
 @iconOffset: -0.5em;
 
-@iconDistance: 0;
+@iconDistance: 0em;
 @iconMargin: @iconWidth + @iconDistance;
 @iconTransition: opacity 0.3s @defaultEasing;
 
 @transparentIconWidth: @glyphWidth;
 @transparentIconMargin: 2em;
-
-@textareaIconHeight: 3em;
-@transparentTextareaIconHeight: 1.3em;
 
 /* Circular Icon Input */
 @circularIconVerticalOffset: 0.35em;
@@ -54,9 +56,8 @@
 /* Labeled Input */
 @labelCornerTop: @borderWidth;
 @labelCornerRight: @borderWidth;
-@labelCornerSize: @relative9px;
+@labelCornerSize: 0.75em;
 @labelSize: 1em;
-@labelVerticalPadding: (@verticalPadding - @lineHeightOffset);
 
 @labeledMargin: 2.5em;
 @labeledIconInputMargin: 3.25em;
@@ -67,8 +68,11 @@
 --------------------*/
 
 /* Placeholder */
-@placeholderColor: @inputPlaceholderColor;
-@placeholderFocusColor: @inputPlaceholderFocusColor;
+@placeholderColor: @unselectedTextColor;
+@placeholderFocusColor: @textColor;
+
+@placeholderErrorColor: rgba(255, 80, 80, 0.4);
+@placeholderErrorFocusColor: rgba(255, 80, 80, 0.7);
 
 /* Down */
 @downBorderColor: rgba(0, 0, 0, 0.3);
@@ -77,12 +81,21 @@
 @downBoxShadow: none;
 
 /* Focus */
-@focusBorderColor: @focusedFormBorderColor;
+@focusBorderColor: @selectedBorderColor;
 @focusBackground: @background;
 @focusColor: @hoveredTextColor;
 @focusBoxShadow: none;
 
+/* Error */
+@errorBackground: @negativeBackgroundColor;
+@errorBorder: @negativeBorderColor;
+@errorColor: @negativeColor;
+@errorBoxShadow: none;
+
 /* Loader */
+@loaderSize: 1.2857em;
+@loaderOffset: -(@loaderSize / 2);
+@loaderMargin: @loaderOffset 0em 0em @loaderOffset;
 @invertedLoaderFillColor: rgba(0, 0, 0, 0.15);
 
 /*-------------------
@@ -93,10 +106,13 @@
 @transparentInvertedPlaceholderColor: @invertedUnselectedTextColor;
 @transparentInvertedColor: @white;
 
-@miniInputSize: @relativeMini;
-@tinyInputSize: @relativeTiny;
-@smallInputSize: @relativeSmall;
-@largeInputSize: @relativeLarge;
-@bigInputSize: @relativeBig;
-@hugeInputSize: @relativeHuge;
-@massiveInputSize: @relativeMassive;
+
+/* Sizing */
+@mini: 0.8125rem;
+@small: 0.875rem;
+@medium: 1rem;
+@large: 1.125rem;
+@big: 1.25rem;
+@huge: 1.375rem;
+@massive: 1.5rem;
+

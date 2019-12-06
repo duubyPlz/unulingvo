@@ -1,18 +1,14 @@
 /*!
- * # Fomantic-UI - Site
- * http://github.com/fomantic/Fomantic-UI/
+ * # Semantic UI 1.12.3 - Site
+ * http://github.com/semantic-org/semantic-ui/
  *
  *
+ * Copyright 2014 Contributors
  * Released under the MIT license
  * http://opensource.org/licenses/MIT
  *
  */
-
-;(function ($, window, document, undefined) {
-
-$.isFunction = $.isFunction || function(obj) {
-    return typeof obj === "function" && typeof obj.nodeType !== "number";
-};
+;(function ( $, window, document, undefined ) {
 
 $.site = $.fn.site = function(parameters) {
   var
@@ -30,6 +26,7 @@ $.site = $.fn.site = function(parameters) {
     namespace       = settings.namespace,
     error           = settings.error,
 
+    eventNamespace  = '.' + namespace,
     moduleNamespace = 'module-' + namespace,
 
     $document       = $(document),
@@ -84,7 +81,7 @@ $.site = $.fn.site = function(parameters) {
       requestAnimationFrame: function() {
         module.debug('Normalizing requestAnimationFrame');
         if(window.requestAnimationFrame === undefined) {
-          module.debug('RequestAnimationFrame not available, normalizing event');
+          module.debug('RequestAnimationFrame not available, normailizing event');
           window.requestAnimationFrame = window.requestAnimationFrame
             || window.mozRequestAnimationFrame
             || window.webkitRequestAnimationFrame
@@ -323,7 +320,7 @@ $.site = $.fn.site = function(parameters) {
           });
         }
         clearTimeout(module.performance.timer);
-        module.performance.timer = setTimeout(module.performance.display, 500);
+        module.performance.timer = setTimeout(module.performance.display, 100);
       },
       display: function() {
         var
@@ -394,7 +391,7 @@ $.site = $.fn.site = function(parameters) {
       else if(found !== undefined) {
         response = found;
       }
-      if(Array.isArray(returnedValue)) {
+      if($.isArray(returnedValue)) {
         returnedValue.push(response);
       }
       else if(returnedValue !== undefined) {
@@ -436,32 +433,29 @@ $.site.settings = {
   },
 
   debug       : false,
-  verbose     : false,
+  verbose     : true,
   performance : true,
 
   modules: [
     'accordion',
     'api',
-    'calendar',
     'checkbox',
     'dimmer',
     'dropdown',
-    'embed',
     'form',
     'modal',
     'nag',
     'popup',
-    'slider',
     'rating',
     'shape',
     'sidebar',
     'state',
     'sticky',
     'tab',
-    'toast',
     'transition',
-    'visibility',
-    'visit'
+    'video',
+    'visit',
+    'visibility'
   ],
 
   siteNamespace   : 'site',
@@ -490,4 +484,4 @@ $.extend($.expr[ ":" ], {
 });
 
 
-})( jQuery, window, document );
+})( jQuery, window , document );

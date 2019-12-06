@@ -1,8 +1,9 @@
 /*!
- * # Fomantic-UI - Feed
- * http://github.com/fomantic/Fomantic-UI/
+ * # Semantic UI - Feed
+ * http://github.com/semantic-org/semantic-ui/
  *
  *
+ * Copyright 2014 Contributorss
  * Released under the MIT license
  * http://opensource.org/licenses/MIT
  *
@@ -25,10 +26,10 @@
   margin: @margin;
 }
 .ui.feed:first-child {
-  margin-top: 0;
+  margin-top: 0em;
 }
 .ui.feed:last-child {
-  margin-bottom: 0;
+  margin-top: 0em;
 }
 
 
@@ -38,8 +39,7 @@
 
 /* Event */
 .ui.feed > .event {
-  display: flex;
-  flex-direction: row;
+  display: @eventDisplay;
   width: @eventWidth;
   padding: @eventPadding;
   margin: @eventMargin;
@@ -47,20 +47,19 @@
   border-top: @eventDivider;
 }
 .ui.feed > .event:first-child {
-  border-top: 0;
-  padding-top: 0;
+  border-top: 0px;
+  padding-top: 0em;
 }
 .ui.feed > .event:last-child {
-  padding-bottom: 0;
+  padding-bottom: 0em;
 }
 
 /* Event Label */
 .ui.feed > .event > .label {
-  display: block;
-  flex: 0 0 auto;
+  display: @labelDisplay;
   width: @labelWidth;
   height: @labelHeight;
-  align-self: @labelAlignSelf;
+  vertical-align: @labelVerticalAlign;
   text-align: @labelTextAlign;
 }
 .ui.feed > .event > .label .icon {
@@ -79,18 +78,13 @@
   border-radius: @imageLabelBorderRadius;
 }
 .ui.feed > .event > .label + .content {
-  margin: @labeledContentMargin;
+  padding: @labeledContentPadding;
 }
-
-/*--------------
-     Content
----------------*/
 
 /* Content */
 .ui.feed > .event > .content {
-  display: block;
-  flex: 1 1 auto;
-  align-self: @contentAlignSelf;
+  display: @contentDisplay;
+  vertical-align: @contentVerticalAlign;
   text-align: @contentTextAlign;
   word-wrap: @contentWordWrap;
 }
@@ -114,6 +108,7 @@
   font-weight: @dateFontWeight;
   font-size: @dateFontSize;
   font-style: @dateFontStyle;
+  color: @dateColor;
 }
 
 /*--------------
@@ -218,7 +213,7 @@
 .ui.feed > .event > .content .meta > *:after {
   content: @metadataDivider;
   color: @metadataDividerColor;
-  top: 0;
+  top: 0em;
   left: @metadataDividerOffset;
   opacity: 1;
   position: absolute;
@@ -238,7 +233,7 @@
 
 /* First element */
 .ui.feed > .event > .content .meta > :first-child {
-  margin-left: 0;
+  margin-left: 0em;
 }
 .ui.feed > .event > .content .meta > :first-child::after {
   display: none;
@@ -264,41 +259,14 @@
             Variations
 *******************************/
 
+.ui.small.feed {
+  font-size: @small;
+}
 .ui.feed {
   font-size: @medium;
 }
-& when not (@variationFeedSizes = false) {
-  each(@variationFeedSizes, {
-    @s: @@value;
-    .ui.@{value}.feed  {
-      font-size: @s;
-    }
-  })
+.ui.large.feed {
+  font-size: @large;
 }
-
-& when (@variationFeedInverted) {
-  /*------------------
-        Inverted
-  -------------------*/
-
-  .ui.inverted.feed > .event {
-    background: @black;
-  }
-
-  .ui.inverted.feed > .event > .content .date,
-  .ui.inverted.feed > .event > .content .meta .like {
-    color: @invertedLightTextColor;
-  }
-
-  .ui.inverted.feed > .event > .content .summary,
-  .ui.inverted.feed > .event > .content .extra.text {
-    color: @invertedTextColor;
-  }
-
-  .ui.inverted.feed > .event > .content .meta .like:hover {
-    color: @invertedSelectedTextColor;
-  }
-}
-
 
 .loadUIOverrides();

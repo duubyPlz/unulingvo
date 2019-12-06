@@ -10,15 +10,15 @@
 @background: @white;
 
 @maxWidth: 250px;
-@borderColor: @solidBorderColor;
+@borderColor: #CCCCCC;
 @borderWidth: 1px;
-@boxShadow: @floatingShadow;
+@boxShadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 @color: @textColor;
 
 @verticalPadding: 0.833em;
 @horizontalPadding: 1em;
-@fontWeight: @normal;
-@fontStyle: @normal;
+@fontWeight: normal;
+@fontStyle: normal;
 @borderRadius: @defaultBorderRadius;
 
 /*-------------------
@@ -26,79 +26,35 @@
 --------------------*/
 
 /* Placement */
-@arrowSize: @relative10px;
+@arrowSize: 0.75em;
 @arrowWidth: 1em;
 @arrowDistanceFromEdge: 1em;
-@boxArrowOffset: 0;
+@boxArrowOffset: 0em;
 @popupDistanceAway: @arrowSize;
 
 
 /* Header */
 @headerFontFamily: @headerFont;
-@headerFontWeight: @bold;
-@headerFontSize: @relativeLarge;
-@headerDistance: @relative7px;
+@headerFontSize: 1.125em;
+@headerDistance: 0.5em;
 @headerLineHeight: 1.2;
 
 /* Content Border */
 @border: @borderWidth solid @borderColor;
 
 /* Arrow */
-@arrowBackground: @background;
-@arrowZIndex: 1901;
+@arrowBackground: @white;
+@arrowZIndex: 2;
 @arrowJitter: 0.05em;
 @arrowOffset: -(@arrowSize / 2) + @arrowJitter;
 
 @arrowStroke: @borderWidth;
 @arrowColor: darken(@borderColor, 10);
 
-/* Arrow color by position */
-@arrowTopBackground: @arrowBackground;
-@arrowCenterBackground: @arrowBackground;
-@arrowBottomBackground: @arrowBackground;
-
-@arrowBoxShadow: @arrowStroke @arrowStroke 0 0 @arrowColor;
-@leftArrowBoxShadow: @arrowStroke -@arrowStroke 0 0 @arrowColor;
-@rightArrowBoxShadow: -@arrowStroke @arrowStroke 0 0 @arrowColor;
-@bottomArrowBoxShadow: -@arrowStroke -@arrowStroke 0 0 @arrowColor;
-
-/*-------------------
-       Types
---------------------*/
-
-/* Tooltip */
-@tooltipBackground: @background;
-@tooltipBorderRadius: @borderRadius;
-@tooltipPadding: @verticalPadding @horizontalPadding;
-@tooltipFontWeight: @fontWeight;
-@tooltipFontStyle: @fontStyle;
-@tooltipColor: @color;
-@tooltipBorder: @border;
-@tooltipBoxShadow: @boxShadow;
-@tooltipMaxWidth: none;
-@tooltipFontSize: @medium;
-@tooltipLineHeight: @lineHeight;
-@tooltipDistanceAway: @relative7px;
-@tooltipZIndex: 1900;
-@tooltipDuration: @defaultDuration;
-@tooltipEasing: @defaultEasing;
-
-/* Inverted */
-@tooltipInvertedBackground: @invertedBackground;
-@tooltipInvertedColor: @invertedColor;
-@tooltipInvertedBorder: @invertedBorder;
-@tooltipInvertedBoxShadow: @invertedBoxShadow;
-@tooltipInvertedHeaderBackground: @invertedHeaderBackground;
-@tooltipInvertedHeaderColor: @invertedHeaderColor;
-
-/* Arrow */
-@tooltipArrowVerticalOffset: -@2px;
-@tooltipArrowHorizontalOffset: -@1px;
-@tooltipArrowBoxShadow: @arrowBoxShadow;
-@tooltipArrowBackground: @arrowBackground;
-@tooltipArrowTopBackground: @arrowTopBackground;
-@tooltipArrowCenterBackground: @arrowCenterBackground;
-@tooltipArrowBottomBackground: @arrowBottomBackground;
+@arrowBoxShadow: @arrowStroke @arrowStroke 0px 0px @arrowColor;
+@leftArrowBoxShadow: @arrowStroke -@arrowStroke 0px 0px @arrowColor;
+@rightArrowBoxShadow: -@arrowStroke @arrowStroke 0px 0px @arrowColor;
+@bottomArrowBoxShadow: -@arrowStroke -@arrowStroke 0px 0px @arrowColor;
 
 /*-------------------
        Coupling
@@ -106,7 +62,7 @@
 
 /* Grid Inside Popup */
 @nestedGridMargin: -0.7rem -0.875rem; /* (padding * @medium) */
-@nestedGridWidth: e("calc(100% + 1.75rem)");
+@nestedGridWidth: ~"calc(100% + 1.75rem)";
 
 /*-------------------
        States
@@ -130,9 +86,10 @@
 
 @invertedHeaderBackground: none;
 @invertedHeaderColor: @white;
-@invertedArrowColor: @invertedBackground;
+@invertedArrowColor: @black;
 
-/* Arrow color by position */
-@invertedArrowTopBackground: @invertedBackground;
-@invertedArrowCenterBackground: @invertedBackground;
-@invertedArrowBottomBackground: @invertedBackground;
+/* Sizes */
+@small: 0.785714rem;
+@medium: 0.85714rem;
+@large: 1rem;
+@huge: 1.14285rem;

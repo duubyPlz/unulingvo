@@ -18,17 +18,23 @@ var
   gulp            = require('gulp'),
 
   // node dependencies
+  console         = require('better-console'),
+  del             = require('del'),
   fs              = require('fs'),
   path            = require('path'),
+  runSequence     = require('run-sequence'),
 
   // admin dependencies
   concatFileNames = require('gulp-concat-filenames'),
+  debug           = require('gulp-debug'),
   flatten         = require('gulp-flatten'),
+  git             = require('gulp-git'),
   jsonEditor      = require('gulp-json-editor'),
   plumber         = require('gulp-plumber'),
   rename          = require('gulp-rename'),
   replace         = require('gulp-replace'),
   tap             = require('gulp-tap'),
+  util            = require('gulp-util'),
 
   // config
   config          = require('../../config/user'),
@@ -87,8 +93,8 @@ module.exports = function(callback) {
             unrelatedNotes    : new RegExp('^((?!(^.*(' + component + ').*$|###.*)).)*$', 'gmi'),
             whitespace        : /\n\s*\n\s*\n/gm,
             // npm
-            componentExport   : /(.*)\$\.fn\.\w+\s*=\s*function\(([^\)]*)\)\s*{/g,
-            componentReference: '$.fn.' + component,
+            export            : /\$\.fn\.\w+\s*=\s*function\(parameters\)\s*{/g,
+            formExport        : /\$\.fn\.\w+\s*=\s*function\(fields, parameters\)\s*{/g,
             settingsExport    : /\$\.fn\.\w+\.settings\s*=/g,
             settingsReference : /\$\.fn\.\w+\.settings/g,
             trailingComma     : /,(?=[^,]*$)/,
@@ -105,8 +111,8 @@ module.exports = function(callback) {
             unrelatedNotes    : '',
             whitespace        : '\n\n',
             // npm
-            componentExport   :  'var _module = module;\n$1module.exports = function($2) {',
-            componentReference:  '_module.exports',
+            export            :  'var _module = module;\nmodule.exports = function(parameters) {',
+            formExport        :  'var _module = module;\nmodule.exports = function(fields, parameters) {',
             settingsExport    :  'module.exports.settings =',
             settingsReference :  '_module.exports.settings',
             jQuery            :  'require("jquery")'
@@ -131,32 +137,32 @@ module.exports = function(callback) {
       ;
 
       // copy dist files into output folder adjusting asset paths
-      function copyDist() {
+      gulp.task(task.repo, false, function() {
         return gulp.src(release.source + component + '.*')
           .pipe(plumber())
           .pipe(flatten())
           .pipe(replace(release.paths.source, release.paths.output))
           .pipe(gulp.dest(outputDirectory))
         ;
-      }
+      });
 
       // create npm module
-      function createNpmModule() {
+      gulp.task(task.npm, false, function() {
         return gulp.src(release.source + component + '!(*.min|*.map).js')
           .pipe(plumber())
           .pipe(flatten())
-          .pipe(replace(regExp.match.componentExport, regExp.replace.componentExport))
-          .pipe(replace(regExp.match.componentReference, regExp.replace.componentReference))
+          .pipe(replace(regExp.match.export, regExp.replace.export))
+          .pipe(replace(regExp.match.formExport, regExp.replace.formExport))
           .pipe(replace(regExp.match.settingsExport, regExp.replace.settingsExport))
           .pipe(replace(regExp.match.settingsReference, regExp.replace.settingsReference))
           .pipe(replace(regExp.match.jQuery, regExp.replace.jQuery))
           .pipe(rename('index.js'))
           .pipe(gulp.dest(outputDirectory))
         ;
-      }
+      });
 
       // create readme
-      function createReadme() {
+      gulp.task(task.readme, false, function() {
         return gulp.src(release.templates.readme)
           .pipe(plumber())
           .pipe(flatten())
@@ -164,10 +170,10 @@ module.exports = function(callback) {
           .pipe(replace(regExp.match.titleName, regExp.replace.titleName))
           .pipe(gulp.dest(outputDirectory))
         ;
-      }
+      });
 
       // extend bower.json
-      function extendBower() {
+      gulp.task(task.bower, false, function() {
         return gulp.src(release.templates.bower)
           .pipe(plumber())
           .pipe(flatten())
@@ -199,38 +205,38 @@ module.exports = function(callback) {
           }))
           .pipe(gulp.dest(outputDirectory))
         ;
-      }
+      });
 
       // extend package.json
-      function extendPackage() {
+      gulp.task(task.package, false, function() {
         return gulp.src(release.templates.package)
           .pipe(plumber())
           .pipe(flatten())
-          .pipe(jsonEditor(function(npm) {
+          .pipe(jsonEditor(function(package) {
             if(isJavascript) {
-              npm.dependencies = {
+              package.dependencies = {
                 jquery: 'x.x.x'
               };
-              npm.main = 'index.js';
+              package.main = 'index.js';
             }
-            npm.name = packageName;
+            package.name = packageName;
             if(version) {
-              npm.version = version;
+              package.version = version;
             }
-            npm.title       = 'Semantic UI - ' + capitalizedComponent;
-            npm.description = 'Single component release of ' + component;
-            npm.repository  = {
+            package.title       = 'Semantic UI - ' + capitalizedComponent;
+            package.description = 'Single component release of ' + component;
+            package.repository  = {
               type : 'git',
               url  : gitURL
             };
-            return npm;
+            return package;
           }))
           .pipe(gulp.dest(outputDirectory))
         ;
-      }
+      });
 
       // extend composer.json
-      function extendComposer(){
+      gulp.task(task.composer, false, function() {
         return gulp.src(release.templates.composer)
           .pipe(plumber())
           .pipe(flatten())
@@ -250,10 +256,10 @@ module.exports = function(callback) {
           }))
           .pipe(gulp.dest(outputDirectory))
         ;
-      }
+      });
 
       // create release notes
-      function createReleaseNotes() {
+      gulp.task(task.notes, false, function() {
         return gulp.src(release.templates.notes)
           .pipe(plumber())
           .pipe(flatten())
@@ -265,10 +271,10 @@ module.exports = function(callback) {
           .pipe(replace(regExp.match.trim, regExp.replace.trim))
           .pipe(gulp.dest(outputDirectory))
         ;
-      }
+      });
 
       // Creates meteor package.js
-      function createMeteorPackage() {
+      gulp.task(task.meteor, function() {
         var
           filenames = ''
         ;
@@ -300,20 +306,27 @@ module.exports = function(callback) {
             ;
           })
         ;
-      }
+      });
 
-      tasks.push(gulp.series(
-          copyDist,
-          createNpmModule,
-          extendBower,
-          createReadme,
-          extendPackage,
-          extendComposer,
-          createReleaseNotes,
-          createMeteorPackage
-      ));
+
+      // synchronous tasks in orchestrator? I think not
+      gulp.task(task.all, false, function(callback) {
+        runSequence([
+          task.repo,
+          task.npm,
+          task.bower,
+          task.readme,
+          task.package,
+          task.composer,
+          task.notes,
+          task.meteor
+        ], callback);
+      });
+
+      tasks.push(task.all);
+
     })(component);
   }
 
-  gulp.series(...tasks)(callback);
+  runSequence(tasks, callback);
 };

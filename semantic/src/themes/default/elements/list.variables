@@ -9,68 +9,56 @@
 /* List */
 @listStyleType: none;
 @listStylePosition: outside;
-@margin: 1em 0;
-@verticalPadding: 0;
-@horizontalPadding: 0;
-
-/* List Item */
-@itemVerticalPadding: @relative3px;
-@itemHorizontalPadding: 0;
-@itemPadding: @itemVerticalPadding @itemHorizontalPadding;
-@itemLineHeight: @relativeLarge;
+@margin: 1em 0em;
+@verticalPadding: 0em;
+@horizontalPadding: 0em;
 
 /* Sub List */
-@childListPadding: 0.75em 0 0.25em 0.5em;
+@childListPadding: 0.75em 0em 0.25em 0.5em;
 @childListIndent: 1em;
 
-/* Sub List Item */
-@childItemVerticalPadding: @relative2px;
-@childItemHorizontalPadding: 0;
-@childItemPadding: @childItemVerticalPadding @childItemHorizontalPadding;
-@childItemLineHeight: inherit;
+/* List Item */
+@itemVerticalPadding: 0.3em;
+@itemHorizontalPadding: 0em;
+@itemLineHeight: 1.2;
 
 /*-------------------
       Elements
 --------------------*/
 
 /* Icon */
-@iconDistance: @relative4px;
-@iconOffset: 0;
-@iconTransition: color @defaultDuration @defaultEasing;
+@iconDistance: 0.3em;
+@iconOffset: ((@itemLineHeight - 1rem) / 2);
+@iconTransition: color 0.2s ease;
 @iconVerticalAlign: top;
-@iconContentVerticalAlign: top;
+@iconContentVerticalAlign: middle;
 
 /* Image */
 @imageDistance: 0.5em;
-@imageAlign: top;
+@imageAlign: middle;
 
 /* Content */
 @contentDistance: 0.5em;
-@contentLineHeight: @itemLineHeight;
+@contentLineHeight: 1.2em;
 @contentLineHeightOffset: (@contentLineHeight - 1em) / 2;
-@contentVerticalAlign: top;
-@contentColor: @textColor;
-
-/* Header */
-@itemHeaderFontFamily: @headerFont;
-@itemHeaderFontWeight: @bold;
-@itemHeaderColor: @textColor;
-
-/* Description */
-@itemDescriptionColor: rgba(0, 0, 0, 0.7);
+@contentVerticalAlign: middle;
 
 /* Link */
-@itemLinkColor: @linkColor;
+@itemLinkColor: @textColor;
 @itemLinkHoverColor: @linkHoverColor;
-
-/* Header Link */
-@itemHeaderLinkColor: @itemLinkColor;
-@itemHeaderLinkHoverColor: @itemLinkHoverColor;
 
 /* Linked Icon */
 @itemLinkIconColor: @lightTextColor;
 @itemLinkIconHoverColor: @textColor;
 @invertedIconLinkColor: @invertedLightTextColor;
+
+/* Header */
+@itemHeaderFontFamily: @headerFont;
+@itemHeaderFontWeight: bold;
+@itemHeaderColor: @textColor;
+
+/* Description */
+@itemDescriptionColor: @textColor;
 
 /*-------------------
         States
@@ -85,13 +73,12 @@
 
 /* Float */
 @floatDistance: 1em;
-@leftFloatMargin: 0 @floatDistance 0 0;
-@rightFloatMargin: 0 0 0 @floatDistance;
+@leftFloatMargin: 0em @floatDistance 0em 0em;
+@rightFloatMargin: 0em 0em 0em @floatDistance;
 
 /* Horizontal */
 @horizontalSpacing: 1em;
 @horizontalIconDistance: 0.25em;
-@horizontalVerticalAlign: middle;
 
 /* Inverted */
 @invertedListIconColor: @invertedLightTextColor;
@@ -99,7 +86,6 @@
 @invertedDescriptionColor: @invertedLightTextColor;
 @invertedItemLinkColor: @invertedTextColor;
 @invertedItemLinkHoverColor: @linkHoverColor;
-@invertedContentColor: @invertedLightTextColor;
 
 /* Link List */
 @linkListItemColor: @unselectedTextColor;
@@ -107,7 +93,7 @@
 @linkListItemDownColor: @pressedTextColor;
 @linkListItemActiveColor: @selectedTextColor;
 @linkListTransition:
-  @defaultDuration color @defaultEasing
+  0.2s color @defaultEasing
 ;
 
 /* Inverted Link List */
@@ -117,14 +103,14 @@
 @invertedLinkListItemActiveColor: @invertedSelectedTextColor;
 
 /* Selection List */
-@selectionListItemMargin: 0;
+@selectionListItemMargin: 0em;
 @selectionListItemBorderRadius: 0.5em;
 @selectionListItemVerticalPadding: 0.5em;
 @selectionListItemHorizontalPadding: 0.5em;
 @selectionListTransition:
-  @defaultDuration color @defaultEasing,
-  @defaultDuration padding-left @defaultEasing,
-  @defaultDuration background-color @defaultEasing
+  0.2s color @defaultEasing,
+  0.2s padding-left @defaultEasing,
+  0.2s background-color @defaultEasing
 ;
 
 /* Selection List States */
@@ -148,36 +134,29 @@
 @invertedSelectionListActiveColor: @invertedSelectedTextColor;
 
 /* Animated List */
-@animatedDuration: 0.25s;
-@animatedDelay: 0.1s;
 @animatedListTransition:
-  @animatedDuration color @defaultEasing @animatedDelay,
-  @animatedDuration padding-left @defaultEasing @animatedDelay,
-  @animatedDuration background-color @defaultEasing @animatedDelay
+  0.2s color ease,
+  0.2s padding-left ease,
+  0.2s background-color ease
 ;
 @animatedListIndent: 1em;
 
 /* Bulleted */
-@bulletDistance: 1.25rem;
-@bulletOffset: -@bulletDistance;
+@bulletDistance: 1rem;
+@bulletOffset: -1rem;
 
 @bulletOpacity: 1;
-@bulletCharacter: '\2022';
-@bulletColor: inherit;
-@bulletLinkColor: @textColor;
+@bulletCharacter: '•';
+@bulletColor: @textColor;
 @bulletVerticalAlign: top;
 @bulletChildDistance: @bulletDistance;
 
 /* Horizontal Bullets */
-@horizontalBulletColor: @textColor;
-@horizontalBulletSpacing: @bulletDistance + 0.5em;
+@horizontalBulletSpacing: 1.5rem;
 
 /* Ordered List */
 @orderedCountName: ordered;
-@orderedCountSeparator: ".";
-@orderedCountSuffix: ".";
-@orderedCountContent: counters(@orderedCountName, @orderedCountSeparator) " ";
-@orderedCountContentSuffixed: counters(@orderedCountName, @orderedCountSeparator) @orderedCountSuffix;
+@orderedCountContent: counters(ordered, ".") " ";
 @orderedCountColor: @textColor;
 @orderedCountDistance: 1.25rem;
 @orderedCountOpacity: 0.8;
@@ -187,9 +166,7 @@
 @orderedChildCountDistance: 1em;
 @orderedChildCountOffset: -2em;
 
-@orderedInvertedCountColor: @invertedLightTextColor;
-
-/* Horizontal Ordered */
+/* Horizontal Ordereded */
 @horizontalOrderedCountDistance: 0.5em;
 
 /* Divided */
@@ -206,7 +183,7 @@
 /* Divided */
 @celledBorderWidth: 1px;
 @celledBorder: @celledBorderWidth solid @borderColor;
-@celledInvertedBorder: @whiteBorderColor;
+@celledInvertedBorder: @dividedBorderWidth solid @whiteBorderColor;
 @celledHorizontalPadding: 0.5em;
 @celledChildListBorder: none;
 @celledChildItemBorder: none;
@@ -216,21 +193,12 @@
 @horizontalCelledLineHeight: 0.6;
 
 /* Relaxed */
-@relaxedItemVerticalPadding: @relative6px;
-@relaxedChildItemVerticalPadding: @relative3px;
+@relaxedVerticalPadding: 0.5rem;
 @relaxedHeaderMargin: 0.25rem;
-@relaxedHorizontalPadding: 1rem;
+@relaxedHorizontalPadding: 1.25rem;
 
 /* Very Relaxed */
-@veryRelaxedItemVerticalPadding: @relative12px;
-@veryRelaxedChildItemVerticalPadding: @relative4px;
+@veryRelaxedVerticalPadding: 1rem;
 @veryRelaxedHeaderMargin: 0.5rem;
-@veryRelaxedHorizontalPadding: 1.5rem;
+@veryRelaxedHorizontalPadding: 2rem;
 
-@miniListSize: @relativeMini;
-@tinyListSize: @relativeTiny;
-@smallListSize: @relativeSmall;
-@largeListSize: @relativeLarge;
-@bigListSize: @relativeBig;
-@hugeListSize: @relativeHuge;
-@massiveListSize: @relativeMassive;

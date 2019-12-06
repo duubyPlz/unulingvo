@@ -15,6 +15,7 @@
 
 @headerFont    : "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
 @pageFont      : "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
+@fontSmoothing : antialiased;
 
 /*-------------------
       Site Colors
@@ -62,7 +63,6 @@
 @linkColor           : #009FDA;
 @linkUnderline       : none;
 @linkHoverColor      : lighten( @linkColor, 5);
-@linkHoverUnderline  : @linkUnderline;
 
 @highlightBackground : #FFFFCC;
 @highlightColor      : @textColor;

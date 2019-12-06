@@ -31,7 +31,7 @@ var when = {
 
   // install
   hasConfig: function() {
-    return requireDotFile('semantic.json', process.cwd());
+    return requireDotFile('semantic.json');
   },
 
   allowOverwrite: function(questions) {
@@ -82,14 +82,6 @@ module.exports = {
     return when.hasConfig();
   },
 
-  // detect whether there is a semantic.json configuration and that the auto-install option is set to true
-  shouldAutoInstall: function() {
-    var
-      config = when.hasConfig()
-    ;
-    return config['autoInstall'];
-  },
-
   // checks if files are in a PM directory
   getPackageManager: function(directory) {
     var
@@ -100,6 +92,7 @@ module.exports = {
           folder        = pathArray[pathArray.length - 1],
           nextDirectory = path.join(directory, path.sep, '..')
         ;
+        console.log(folder, nextDirectory);
         if( folder == 'bower_components') {
           return {
             name: 'Bower',
@@ -282,7 +275,13 @@ module.exports = {
         type    : 'list',
         name    : 'useRoot',
         message :
-          '{packageMessage} Is this your project folder? {root}',
+          '    \n' +
+          '    {packageMessage} \n' +
+          '    \n' +
+          '    Is this your project folder?\n' +
+          '    \033[92m{root}\033[0m \n' +
+          '    \n ' +
+          '\n',
         choices: [
           {
             name  : 'Yes',
@@ -333,7 +332,7 @@ module.exports = {
         when: when.allowOverwrite,
         choices: [
           {
-            name: 'Automatic (Use default locations and all components)',
+            name: 'Automatic (Use defaults locations and all components)',
             value: 'auto'
           },
           {
@@ -356,9 +355,7 @@ module.exports = {
           { name: "reset", checked: true },
           { name: "site", checked: true },
           { name: "button", checked: true },
-          { name: "container", checked: true },
           { name: "divider", checked: true },
-          { name: "emoji", checked: true },
           { name: "flag", checked: true },
           { name: "header", checked: true },
           { name: "icon", checked: true },
@@ -384,26 +381,21 @@ module.exports = {
           { name: "item", checked: true },
           { name: "statistic", checked: true },
           { name: "accordion", checked: true },
-          { name: "calendar", checked: true },
           { name: "checkbox", checked: true },
           { name: "dimmer", checked: true },
           { name: "dropdown", checked: true },
-          { name: "embed", checked: true },
           { name: "modal", checked: true },
           { name: "nag", checked: true },
-          { name: "placeholder", checked: true },
           { name: "popup", checked: true },
           { name: "progress", checked: true },
-          { name: "slider", checked: true },
           { name: "rating", checked: true },
           { name: "search", checked: true },
           { name: "shape", checked: true },
           { name: "sidebar", checked: true },
           { name: "sticky", checked: true },
           { name: "tab", checked: true },
-          { name: "text", checked: true },
-          { name: "toast", checked: true },
           { name: "transition", checked: true },
+          { name: "video", checked: true },
           { name: "api", checked: true },
           { name: "form", checked: true },
           { name: "state", checked: true },
@@ -413,7 +405,7 @@ module.exports = {
       },
       {
         type: 'list',
-        name: 'changePermissions',
+        name: 'changePermisions',
         when: when.notAuto,
         message: 'Should we set permissions on outputted files?',
         choices: [
@@ -424,7 +416,7 @@ module.exports = {
           {
             name: 'Yes',
             value: true
-          }
+          },
         ]
       },
       {
@@ -448,10 +440,6 @@ module.exports = {
             name: 'Yes',
             value: true
           },
-          {
-            name: 'Build Both',
-            value: 'both'
-          }
         ]
       },
       {
@@ -738,7 +726,7 @@ module.exports = {
 
     /* Rename Files */
     rename: {
-      json : { extname : '.json' }
+      json : { extname : '.json' },
     },
 
     /* Copy Install Folders */
@@ -760,4 +748,5 @@ module.exports = {
 
     }
   }
+
 };
