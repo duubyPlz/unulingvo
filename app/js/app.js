@@ -14,8 +14,8 @@
 // 0. Init
 // jquery npm package
 import $ from 'jquery';
-import * as diff from 'diff-match-patch';
-import * as semantic from 'fomantic-ui';
+import 'diff-match-patch';
+import 'semantic-ui-dropdown';
 
 // toggle all tooltips
 $(function () {
@@ -26,6 +26,7 @@ $(function () {
 $('.ui.dropdown').each(function() {
     console.log("A DROPDOWN FOUND");
     console.log($(this));
+    $(this).dropdown();
 });
 
 // default language
@@ -443,16 +444,18 @@ function parse(module, language) {
             var line = "";
             for (var i=0; i<lines.length; i++) {
                 line = lines[i];
-
-                if (matchesTarget = line.match(originalRegexMatch)) {
+                var matchesTarget = line.match(originalRegexMatch);
+                var matchesEnglish = line.match(englishRegexMatch);
+                var matchesFormatted = line.match(formattedRegexMatch);
+                if (matchesTarget) {
                     // > Original [O:]
                     var original = matchesTarget[0].replace(originalRegexReplace, "");
                     currentEntry.original = original;
-                } else if (matchesEnglish = line.match(englishRegexMatch)) {
+                } else if (matchesEnglish) {
                     // > English [E:]
                     var english = matchesEnglish[0].replace(englishRegexReplace, "");
                     currentEntry.english = english;
-                } else if (matchesFormatted = line.match(formattedRegexMatch)) {
+                } else if (matchesFormatted) {
                     // > Formatted [F:]
                     var formatted = matchesFormatted[0].replace(formattedRegexReplace, "");
                     currentEntry.formatted = formatted;
@@ -759,7 +762,7 @@ function formatCorrect(correct, userAnswer) {
     var formatted = "";
 
     // call diff-match-patch, returns e.g. [[-1, "Goo"], [1, "Ba"], [0, "d dog"]]
-    var diffResult = diff.diff(userAnswer, correct);
+    var diffResult = diff(userAnswer, correct);
 
     for (var i=0; i<diffResult.length; i++) {
         var currentElement = diffResult[i];

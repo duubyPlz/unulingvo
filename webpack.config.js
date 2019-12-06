@@ -19,4 +19,7 @@ module.exports = {
         // minimize: true,
         minimizer: [new TerserPlugin()],
     },
+    devServer: {
+        publicPath: './dist',
+    }
 };
