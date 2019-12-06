@@ -7,9 +7,9 @@
  * http://opensource.org/licenses/MIT
  *
  */
-import $ from 'jquery'
-import jQuery from 'jquery'
-window.jQuery = jQuery
+// import $ from 'jquery'
+// import jQuery from 'jquery'
+// window.jQuery = jQuery
  
 ;(function ($, window, document, undefined) {
 

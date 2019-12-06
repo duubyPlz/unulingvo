@@ -13,7 +13,8 @@
 
 // 0. Init
 // jquery npm package
-import $ from 'jquery';
+// import $ from 'jquery';
+import './jquery-global';
 import 'diff-match-patch';
 import '../../semantic/dist/semantic.css';
 import '../../semantic/dist/components/transition';
