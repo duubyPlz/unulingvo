@@ -30,14 +30,15 @@ import '../css/custom.css';
 if (process.env.NODE_ENV === 'development') {
   if (module.hot) {
     console.log("MOD ULE HOT");
+    console.log(module.hot);
     module.hot.accept();
     module.hot.accept(this);
   } else {
     console.log("NOT HOT");
   }
-  
-  console.log("   asdfasdf");
 }
+
+console.log("asdfasdf");
 
 // toggle all tooltips
 $(function () {

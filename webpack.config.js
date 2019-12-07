@@ -9,12 +9,16 @@ const devMode = process.env.NODE_ENV !== 'production';
 module.exports = {
   mode: "development",
   entry: [
-    // 'webpack-dev-server/client?reload=true',
+    'webpack-dev-server/client?reload=true',
+    'webpack/hot/only-dev-server?name=client',
     './app/js/app.js'
   ],
   output: {
     filename: 'bundle.js',
-    path: path.resolve(__dirname, './dist')
+    path: path.resolve(__dirname, './dist'),
+    publicPath: '/',
+    hotUpdateChunkFilename: 'hot/hot-update.js',
+    hotUpdateMainFilename: 'hot/hot-update.json'
   },
   resolve: {
     alias: {
@@ -74,7 +78,7 @@ module.exports = {
   devServer: {
     // port: 8080,
     // contentBase: ['./src', './dist'], // both src and output dirs
-    // inline: true,
+    inline: true,
     hot: true
   }
 };
