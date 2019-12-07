@@ -36,7 +36,7 @@
 
     O: 남자가 왼쪽에 있고 여자아이가 오른쪽에 있어요.
     E: The man is on the left and the girl is on the right. @polite
-    F: The man _is on the left and the girl is on the right_. @polite
+    F: The man _is on the left and_ the girl _is on the right_. @polite
 
     O: 아이들이 멀리에서 와요.
     E: The children come from far away. @polite
