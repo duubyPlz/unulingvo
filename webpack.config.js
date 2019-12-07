@@ -8,7 +8,10 @@ const devMode = process.env.NODE_ENV !== 'production';
 
 module.exports = {
   mode: "development",
-  entry: './app/js/app.js',
+  entry: [
+    // 'webpack-dev-server/client?reload=true',
+    './app/js/app.js'
+  ],
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, './dist')
@@ -65,10 +68,13 @@ module.exports = {
     // minimize: true,
     minimizer: [new TerserPlugin()],
   },
+  plugins: [
+    new webpack.HotModuleReplacementPlugin()
+  ],
   devServer: {
-    port: 8080,
-    contentBase: ['./src', './dist'], // both src and output dirs
-    inline: true,
+    // port: 8080,
+    // contentBase: ['./src', './dist'], // both src and output dirs
+    // inline: true,
     hot: true
   }
 };

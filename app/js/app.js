@@ -27,6 +27,18 @@ import Bootstrap from 'bootstrap/dist/css/bootstrap.css';
 import '../../semantic/dist/semantic.css';
 import '../css/custom.css';
 
+if (process.env.NODE_ENV === 'development') {
+  if (module.hot) {
+    console.log("MOD ULE HOT");
+    module.hot.accept();
+    module.hot.accept(this);
+  } else {
+    console.log("NOT HOT");
+  }
+  
+  console.log("   asdfasdf");
+}
+
 // toggle all tooltips
 $(function () {
   $('[data-toggle="tooltip"]').tooltip();
