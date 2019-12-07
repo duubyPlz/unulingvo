@@ -57,7 +57,7 @@ module.exports = {
   },
   optimization: {
     minimize: false,
-    // minimize: true,
+    // minimize: true, // turn this on for prod
     minimizer: [new TerserPlugin()],
   },
   plugins: [
