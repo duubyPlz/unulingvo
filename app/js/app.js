@@ -29,16 +29,12 @@ import '../css/custom.css';
 
 if (process.env.NODE_ENV === 'development') {
   if (module.hot) {
-    console.log("MOD ULE HOT");
-    console.log(module.hot);
-    module.hot.accept();
-    module.hot.accept(this);
+      module.hot.accept();
+      console.log("Webpack dev server: Hot reload accepted");
   } else {
-    console.log("NOT HOT");
+    console.log("Webpack dev server: No hot reload");
   }
 }
-
-console.log("asdfasdf");
 
 // toggle all tooltips
 $(function () {
@@ -46,11 +42,6 @@ $(function () {
 });
 // toggle all dropdowns
 $('.ui.dropdown').dropdown();
-// $('.ui.dropdown').each(function() {
-//     console.log("A DROPDOWN FOUND");
-//     console.log($(this));
-//     $(this).dropdown();
-// });
 
 // default language
 var language = 'eo';
