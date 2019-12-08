@@ -11,6 +11,7 @@
 // * toggling modules doesn't rerender
 // * unit testing
 
+// APP
 // 0. Init
 // import packages' js
 import './jquery-global';
@@ -21,11 +22,13 @@ import '../../semantic/dist/components/transition';
 import '../../semantic/dist/components/dropdown';
 
 // import packages' css
-// import '../../app/css/vendor/ionicons.min.css';
 import 'font-awesome/css/font-awesome.css';
 import Bootstrap from 'bootstrap/dist/css/bootstrap.css';
 import '../../semantic/dist/semantic.css';
 import '../css/custom.css';
+
+// import local modules
+import * as languageSelector from './components/languageSelector';
 
 if (process.env.NODE_ENV === 'development') {
   if (module.hot) {
@@ -36,13 +39,19 @@ if (process.env.NODE_ENV === 'development') {
   }
 }
 
-// toggle all tooltips
-$(function () {
-  $('[data-toggle="tooltip"]').tooltip();
-});
+// // LANGUAGESELECTOR CONTROLS
+// // toggle all tooltips
+// $(function () {
+//   $('[data-toggle="tooltip"]').tooltip();
+// });
+
+languageSelector.init();
+
+// MODULESELECTOR
 // toggle all dropdowns
 $('.ui.dropdown').dropdown();
 
+// LANGUAGESELECTOR
 // default language
 var language = 'eo';
 // hide unwanted dropdowns
@@ -51,6 +60,7 @@ $('select#contents-ja').parent().hide();
 $('select#contents-cn').parent().hide();
 $('select#contents-gr').parent().hide();
 
+// MODULESELECTOR
 // XXX @kuc can't get semantic ui <select>.dropdown('set selected', random) to work
 var fileSizes = {
                     'eo': 30,
@@ -61,6 +71,7 @@ var fileSizes = {
                     'flu': 2
                 };
 
+// TRANSLATOR
 // Global hash representation of current file
 var fileHash = new Object();
 
