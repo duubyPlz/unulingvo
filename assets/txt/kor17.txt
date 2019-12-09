@@ -60,3 +60,187 @@
     O: 집 밖에 나무가 많아요.
     E: There are many trees outside the house. @polite
     F: There are many trees outside the house. @polite
+
+> Two
+    O: 라디오 밑에 책 두 권이 있습니다.
+    E: There are two books under the radio. @formal
+
+    O: 수프는 와인 뒤에 있어요.
+    E: The soup is behind the wine. @polite
+    F: _The soup_ is behind the wine. @polite
+
+    O: 저는 공원 바로 옆에 살아요.
+    E: I live right next to the park. @polite
+    F: _I_ live right next to the park. @polite
+
+    O: 학생은 도서관 바로 뒤에서 놀아요.
+    E: The student plays right behind the library. @polite
+    F: _The student_ plays right behind the library. @polite
+
+    O: 공원 아래에 용이 살아요?
+    E: Does a dragon live under the park? @polite
+    F: Does a dragon _live_ under the park? @polite
+
+    O: 하늘 아래
+    E: Under the sky
+
+    O: 아이가 식탁 밑에 숨어요.
+    E: The child hides under the dining table. @polite
+    F: The child _hides under the dining table_. @polite
+
+    O: 부엉이가 길 위에서 날아요.
+    E: The owl flies above the street. @polite
+    F: The owl _flies above the street_. @polite
+
+    O: 식탁 뒤에 의자가 있어요.
+    E: There is a chair behind the dining table. @polite
+
+    O: 여자아이가 텔레비전 바로 뒤에 앉아요.
+    E: The girl sits right behind the television. @polite
+    F: The girl _sits right behind the television_. @polite
+
+    O: 하늘은 우리의 위에 있습니다.
+    E: The sky is above us. @formal
+    F: _The sky_ is above us. @formal
+
+    O: 쥐가 의자 밑에 있어요.
+    E: The mouse is under the chair. @polite
+    F: The mouse _is under the chair_. @polite
+
+    O: 하늘 위에 무엇이 있습니까?
+    E: What is above the sky? @formal
+
+    # The gimbap is on the kitchen table.
+    O: 김밥이 식탁 위에 있습니다.
+    E: The gimbap is on the dining table. @formal
+    F: The gimbap _is on the dining table_. @formal
+
+    O: 침대 아래에 거미 세 마리가 숨어요.
+    E: Three spiders hide under[f] the bed. @polite
+    F: Three spiders _hide_ under[f] the bed. @polite
+
+    O: 케이크 위에
+    E: Atop a cake
+
+> Three
+    O: 오리가 물 속에 있습니다.
+    E: The duck is in the water. @formal
+    F: The duck _is in the water_. @formal
+
+    O: 아이가 남자와 여자의 사이에서 먹어요.
+    E: The child eats between[l] the man and the woman. @polite
+    F: The child _eats between[l] the man and the woman_. @polite
+
+    O: 의자가 방 가운데에 있습니다.
+    E: The chair is in the center of the room. @formal
+    F: The chair _is in the center of the room_. @formal
+
+    # "산속" is an independent word and means "a place deep in a mountain".
+    # Based on the particle used (로):
+    # The actor is going towards a place deep into a mountain/mountains.
+    O: 배우가 산속으로 가요.
+    E: The actor goes into the mountains. @polite
+    F: The actor _goes into the mountains_. @polite
+
+    O: 저는 배우들 사이에 서요.
+    E: I stand between the actors. @polite
+    F: _I_ stand between the actors. @polite
+
+    O: 장난감이 두 아이의 사이에 있습니다.
+    E: The toy is between[l] the two children. @formal
+    F: The toy _is between[l] the two children_. @formal
+
+    O: 고양이들 사이의 쥐
+    E: A mouse between cats
+
+    O: 남자아이가 장난감 속에서 잡니다.
+    E: The boy sleeps[ss] among the toys. @formal
+    F: The boy _sleeps[ss] among the toys_. @formal
+
+    O: 식탁은 가운데에 있습니다.
+    E: The dining table is in the center. @formal
+    F: _The dining table_ is in the center. @formal
+
+    O: 남자아이가 장난감 속에서 잡니다.
+    E: The boy sleeps[ss] among the toys. @formal
+    F: The boy _sleeps[ss] among the toys_. @formal
+
+    O: 그는 가운데에 앉아요.
+    E: He sits in the center. @polite
+    F: _He_ sits in the center. @polite
+
+    O: 식탁은 가운데에 있습니다.
+    E: The dining table is in the center. @formal
+    F: _The dining table_ is in the center. @formal
+
+    O: 장난감이 의자하고 책상 사이에 있어요.
+    E: The toy is between the chair and[sp] the desk. @polite
+    F: The toy _is between the chair and[sp] the desk_. @polite
+
+    O: 꿈속의 꿈
+    E: Dream within a dream
+
+> Four
+    O: 그는 멀리에 갑니다.
+    E: He goes far away. @formal
+    F: _He_ goes far away. @formal
+
+    O: 양이 건너편에서 자요.
+    E: The sheep sleeps[ss] on the opposite side. @polite
+    F: The sheep _sleeps[ss] on the opposite side_. @polite
+
+    # 재미있다 is shorthand for 재미가 있다.
+    # 책은 재미있어요 is shorthand for 책은 재미가 있어요 which reads something like "as for the book (or books in general), there is fun", noting 있다 is intransitive
+    O: 왼쪽에 있는 책은 재미있어요.
+    E: The book on the left is interesting. @polite
+    F: _The book on the left_ is interesting. @polite
+
+    O: 호랑이가 오른쪽으로 가요.
+    E: The tiger goes to the right. @polite
+    F: The tiger _goes to the right_. @polite
+
+    # 근처에 should also work, different meaning
+    # As is, 근처 is a noun and 가까이 is an adverb used only in conjunction with other stuff.
+    # However, if you add the particle 에 after 가까이, it becomes synonymous with 근처(에) essentially.
+    # 근처 is more like the vicinity around the speaker and 가까이에 is "close" (distance between two objects).
+    # Think of 가까이 as a string between two objects a short distance apart, whereas 근처에 is a circle radiating a short distance around a central object.
+    O: 남자아이는 여자 가까이에 앉아요.
+    E: The boy sits near the woman. @polite
+    F: _The boy_ sits near the woman. @polite
+
+    O: 식당이 공원 근처에 있습니다.
+    E: The restaurant is near the park. @formal
+    F: The restaurant _is near the park_. @formal
+
+    # My[s] house is near the bank.
+    O: 제 집은 은행 가까이에 있습니다.
+    E: My[s] house is close to the bank. @formal
+    F: _My[s] house_ is close to the bank. @formal
+
+    O: 남자가 왼쪽에 있고 여자아이가 오른쪽에 있어요.
+    E: The man is on the left and the girl is on the right. @polite
+    F: The man _is on the left and_ the girl _is on the right_. @polite
+
+    O: 아이들이 멀리에서 와요.
+    E: The children come from far away. @polite
+    F: The children _come from far away_. @polite
+
+    O: 저는 은행 근처에서 춤을 춰요.
+    E: I dance near the bank. @polite
+    F: _I_ dance near the bank. @polite
+
+    O: 남자아이가 여자 건너편에서 먹어요.
+    E: The boy eats across from the woman. @polite
+    F: The boy _eats across from the woman_. @polite
+
+    O: 식당이 공원 근처에 있습니다.
+    E: The restaurant is near the park. @formal
+    F: The restaurant _is near the park_. @formal
+
+    O: 은행 건너편에서 곰이 춤을 춰요.
+    E: The bear dances across from the bank. @polite
+    F: The bear _dances_ across from the bank. @polite
+
+
+
+
