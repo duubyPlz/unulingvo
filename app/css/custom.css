@@ -311,6 +311,7 @@ button#submit {
 }
 
 .tooltip-inner {
+  font-family: 'Exo', 'Noto Sans TC', 'Noto Sans KR', 'Noto Sans Japanese', sans-serif;
   border-radius: 0;
   background-color: rgba(0,0,0,0.8);
   position: relative;

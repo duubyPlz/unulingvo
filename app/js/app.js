@@ -39,21 +39,17 @@ if (process.env.NODE_ENV === 'development') {
   }
 }
 
-// // LANGUAGESELECTOR CONTROLS
-// // toggle all tooltips
-// $(function () {
-//   $('[data-toggle="tooltip"]').tooltip();
-// });
-
+// LANGUAGESELECTOR CONTROLS
 languageSelector.init();
 
 // MODULESELECTOR
 // toggle all dropdowns
 $('.ui.dropdown').dropdown();
 
-// LANGUAGESELECTOR
 // default language
 var language = 'eo';
+
+// LANGUAGESELECTOR
 // hide unwanted dropdowns
 $('select#contents-ko').parent().hide();
 $('select#contents-ja').parent().hide();
