@@ -1,4 +1,4 @@
-import './jquery-global';
+import '../jquery-global';
 import 'jquery-ui';
 
 function init() {
