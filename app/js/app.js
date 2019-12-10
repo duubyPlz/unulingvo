@@ -39,8 +39,12 @@ if (process.env.NODE_ENV === 'development') {
   }
 }
 
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip();
+});
+
 // LANGUAGESELECTOR CONTROLS
-languageSelector.init();
+// languageSelector.init();
 
 // MODULESELECTOR
 // toggle all dropdowns
