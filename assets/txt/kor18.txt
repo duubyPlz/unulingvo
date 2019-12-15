@@ -19,7 +19,7 @@
     F: The movie _is enjoyable_. @polite
 
     O: 즐겁게 공부해요.
-    E: I study joyfully. @polite
+    E: (I) study joyfully. @polite
 
     O: 아기가 시끄럽게 울어요.
     E: The baby cries noisily. @polite
