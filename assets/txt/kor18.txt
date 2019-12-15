@@ -26,8 +26,8 @@
     F: The baby _cries noisily_. @polite
 
     O: 게가 물에서 편하게 잡니다.
-    E: The crab sleeps comfortably in the water. @formal
-    F: The crab _sleeps comfortably in the water_. @formal
+    E: The crab sleeps[ss] comfortably in the water. @formal
+    F: The crab _sleeps[ss] comfortably in the water_. @formal
 
     # 조용하게 하세요 - [Lit. Do something 'quietly' (by not making noise/in a discreet manner)] Keep the noise down (Active)
     # 조용히 하세요 - [Lit. Do something 'staidly' (in a calm/boring way)] - Stay/Be quiet (Passive- Stative)
@@ -48,7 +48,7 @@
     F: The children _play noisily_. @polite
 
     O: 늦게 자지 마세요.
-    E: Do not go to sleep late. @polite
+    E: Do not go to sleep[ss] late. @polite
 
     O: 웃는 아이는 즐겁게 놀아요.
     E: The smiling child plays joyfully. @polite
