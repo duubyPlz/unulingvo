@@ -1,4 +1,4 @@
-== Phrases 1 ==
+== Phrases One ==
 > One
     O: 謝謝！再見！
     E: Thank you! Goodbye!
@@ -20,5 +20,8 @@
     O: 我很忙，對不起！
     E: I am busy, sorry!
 
-    O: 
-    E: 
+    O: 沒關係！再見！
+    E: No worries! Goodbye!
+
+    O: 對不起！沒關係！
+    E: Sorry! No worries!

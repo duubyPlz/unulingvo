@@ -31,7 +31,7 @@ var fileSizes = {
                     'eo': 30,
                     'ko': 19,
                     'ja': 2,
-                    'cn': 10,
+                    'cn': 12,
                     'gr': 11,
                     'flu': 2
                 };
