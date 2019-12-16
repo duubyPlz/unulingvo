@@ -30,8 +30,8 @@
     F: _She_ does not study hard. @polite
 
     O: 소고기 없이 불고기는 못 만들어요.
-    E: We can't make bulgogi without beef. @polite
-    F: We can't make _bulgogi_ without beef. @polite
+    E: (We) can't make bulgogi without beef. @polite
+    F: (We) can't make _bulgogi without beef_. @polite
 
     O: 저는 따로 놉니다.
     E: I play separately. @formal
