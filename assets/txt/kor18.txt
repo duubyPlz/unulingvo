@@ -1,5 +1,5 @@
 == Adverbs Two ==
-* p -> plural
+* a -> all
 
 > One
     O: 까치는 시끄럽습니다.
