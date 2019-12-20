@@ -29,6 +29,7 @@
     E: She does not study hard. @polite
     F: _She_ does not study hard. @polite
 
+    # 소고기 없이 불고기를 못 만들어요. (different F: though)
     O: 소고기 없이 불고기는 못 만들어요.
     E: (We) can't make bulgogi without beef. @polite
     F: (We) can't make _bulgogi without beef_. @polite
