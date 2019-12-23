@@ -231,6 +231,11 @@ img.logo {
   border-right: solid 2px rgba(255, 255, 255, 0.4);
 }
 
+/* override semantic 2 font */
+button, input, optgroup, select, textarea {
+  font-family: 'Exo', sans-serif;
+}
+
 button.btn-green {
   background-color: rgba(0, 208, 0, 0.1);
   border-left: solid 2px rgba(0, 208, 0, 0.4);
@@ -284,9 +289,9 @@ button#flu-skip:focus {
 
 button#randomise,
 button#flu-randomise {
-  min-width: 30px;
+  min-width: 40px;
   font-size: 12px;
-  height: 33px;
+  height: 43px;
   padding: 6px 10px 4px 10px;
   background-color: rgba(0, 0, 0, 0);
   color: rgba(255, 255, 255, 0.5);
@@ -332,7 +337,7 @@ button#submit {
   vertical-align: middle;
   cursor: pointer;
   width: 300px;
-  padding: 7px 1.1em 9px 1.1em;
+  /* padding: 7px 1.1em 9px 1.1em; */
   font-weight: 300;
   border-radius: 0;
   border: none;
@@ -357,6 +362,11 @@ button#submit {
   color: rgba(255, 255, 255, 0.9);
 }
 
+/* override semantic-ui 2 active menu borders */
+.ui.selection.active.dropdown .menu {
+  border: none;
+}
+
 .ui.selection.search.dropdown>.menu {
   max-height: 350px;
   border-radius: 0;
@@ -367,6 +377,7 @@ button#submit {
 .ui.selection.dropdown .menu>.item {
   font-weight: 300;
   color: rgba(255, 255, 255, 0.7);
+  border-top: none; /* override semantic-ui 2 dropdown item border */
 }
 
 .ui.selection.dropdown .menu>.item.active {
@@ -382,7 +393,8 @@ button#submit {
   /*color: #555;*/
   font-size: 20px;
   font-weight: 700;
-  right: 13px;
+  right: 5px;
+  bottom: 15px;
   margin: 0;
   padding: 0;
 }
