@@ -39,26 +39,23 @@ if (process.env.NODE_ENV === 'development') {
   }
 }
 
-$(function () {
-    $('[data-toggle="tooltip"]').tooltip();
-});
+// LANGUAGESELECTOR
+// $(function () {
+//     $('[data-toggle="tooltip"]').tooltip();
+// });
 
-// LANGUAGESELECTOR CONTROLS
-// languageSelector.init();
+// $('.ui.dropdown').dropdown();
 
-// MODULESELECTOR
-// toggle all dropdowns
-$('.ui.dropdown').dropdown();
+// // hide unwanted dropdowns
+// $('select#contents-ko').parent().hide();
+// $('select#contents-ja').parent().hide();
+// $('select#contents-cn').parent().hide();
+// $('select#contents-gr').parent().hide();
+
+languageSelector.init();
 
 // default language
 var language = 'eo';
-
-// LANGUAGESELECTOR
-// hide unwanted dropdowns
-$('select#contents-ko').parent().hide();
-$('select#contents-ja').parent().hide();
-$('select#contents-cn').parent().hide();
-$('select#contents-gr').parent().hide();
 
 // MODULESELECTOR
 // XXX @kuc can't get semantic ui <select>.dropdown('set selected', random) to work
