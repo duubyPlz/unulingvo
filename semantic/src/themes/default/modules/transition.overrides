@@ -95,7 +95,7 @@
 
 .drop.transition {
   transform-origin: top center;
-  animation-duration: 500ms;
+  animation-duration: 400ms;
   animation-timing-function: cubic-bezier(0.34, 1.61, 0.7, 1);
 }
 .drop.transition.in {
@@ -229,7 +229,7 @@
   }
   100% {
     opacity: 0;
-    transform: translateY(10%);
+    transform: translateY(5%);
   }
 }
 @keyframes fadeOutDown {
@@ -239,7 +239,7 @@
   }
   100% {
     opacity: 0;
-    transform: translateY(-10%);
+    transform: translateY(-5%);
   }
 }
 @keyframes fadeOutLeft {
@@ -249,7 +249,7 @@
   }
   100% {
     opacity: 0;
-    transform: translateX(10%);
+    transform: translateX(5%);
   }
 }
 @keyframes fadeOutRight {
@@ -259,7 +259,7 @@
   }
   100% {
     opacity: 0;
-    transform: translateX(-10%);
+    transform: translateX(-5%);
   }
 }
 
@@ -270,7 +270,6 @@
 .flip.transition.in,
 .flip.transition.out {
   animation-duration: 600ms;
-  perspective: 2000px;
 }
 .horizontal.flip.transition.in {
   animation-name: horizontalFlipIn;
@@ -340,11 +339,10 @@
   animation-name: scaleOut;
 }
 
-/* In */
 @keyframes scaleIn {
   0% {
     opacity: 0;
-    transform: scale(0.7);
+    transform: scale(0.8);
   }
   100% {
     opacity: 1;
@@ -360,9 +358,10 @@
   }
   100% {
     opacity: 0;
-    transform: scale(0.7);
+    transform: scale(0.9);
   }
 }
+
 
 /*--------------
       Fly
@@ -777,6 +776,38 @@
 }
 
 
+/*--------------
+      Zoom
+---------------*/
+
+.transition.zoom.in {
+  animation-name: zoomIn;
+}
+.transition.zoom.out {
+  animation-name: zoomOut;
+}
+@keyframes zoomIn {
+  0% {
+    opacity: 1;
+    transform: scale(0);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+@keyframes zoomOut {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(0);
+  }
+}
+
+
 /*******************************
        Static Animations
 *******************************/
@@ -784,6 +815,7 @@
 /*--------------
     Emphasis
 ---------------*/
+
 
 .flash.transition {
   animation-duration: 750ms;
@@ -809,6 +841,14 @@
   animation-duration: 750ms;
   animation-name: jiggle;
 }
+.transition.glow {
+  animation-duration: 2000ms;
+  animation-timing-function: cubic-bezier(0.190, 1.000, 0.220, 1.000);
+}
+.transition.glow {
+  animation-name: glow;
+}
+
 
 /* Flash */
 @keyframes flash {
@@ -882,7 +922,7 @@
 
 }
 
-/* Rubberband */
+/* Jiggle */
 @keyframes jiggle {
   0% {
     transform: scale3d(1, 1, 1);
@@ -907,5 +947,16 @@
   }
 }
 
-
+/* Glow */
+@keyframes glow {
+  0% {
+    background-color: #FCFCFD;
+  }
+  30% {
+    background-color: #FFF6CD;
+  }
+  100% {
+    background-color: #FCFCFD;
+  }
+}
 

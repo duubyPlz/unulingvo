@@ -1,9 +1,8 @@
 /*!
- * # Semantic UI 1.12.3 - Image
+ * # Semantic UI 2.4.2 - Image
  * http://github.com/semantic-org/semantic-ui/
  *
  *
- * Copyright 2014 Contributors
  * Released under the MIT license
  * http://opensource.org/licenses/MIT
  *
@@ -40,10 +39,19 @@ img.ui.image {
 .ui.hidden.image {
   display: none;
 }
+.ui.hidden.transition.images,
+.ui.hidden.transition.image {
+  display: block;
+  visibility: hidden;
+}
+.ui.images > .hidden.transition {
+  display: inline-block;
+  visibility: hidden;
+}
 .ui.disabled.images,
 .ui.disabled.image {
   cursor: default;
-  opacity: 0.3;
+  opacity: 0.45;
 }
 
 
@@ -93,11 +101,9 @@ img.ui.image {
 ---------------*/
 
 .ui.rounded.images .image,
-.ui.rounded.images img,
-.ui.rounded.images svg,
-.ui.rounded.image img,
-.ui.rounded.image svg,
-.ui.rounded.image {
+.ui.rounded.image,
+.ui.rounded.images .image > *,
+.ui.rounded.image > * {
   border-radius: 0.3125em;
 }
 
@@ -123,11 +129,9 @@ img.ui.bordered.image {
   overflow: hidden;
 }
 .ui.circular.images .image,
-.ui.circular.images img,
-.ui.circular.images svg,
-.ui.circular.image img,
-.ui.circular.image svg,
-.ui.circular.image {
+.ui.circular.image,
+.ui.circular.images .image > *,
+.ui.circular.image > * {
   border-radius: 500rem;
 }
 
@@ -158,9 +162,27 @@ img.ui.bordered.image {
 .ui.avatar.image {
   margin-right: 0.25em;
   display: inline-block;
-  width: 2.5em;
-  height: 2.5em;
+  width: 2em;
+  height: 2em;
   border-radius: 500rem;
+}
+
+/*-------------------
+       Spaced
+--------------------*/
+
+.ui.spaced.image {
+  display: inline-block !important;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+.ui[class*="left spaced"].image {
+  margin-left: 0.5em;
+  margin-right: 0em;
+}
+.ui[class*="right spaced"].image {
+  margin-left: 0em;
+  margin-right: 0.5em;
 }
 
 /*-------------------
@@ -198,9 +220,9 @@ img.ui.bordered.image {
 .ui.mini.images img,
 .ui.mini.images svg,
 .ui.mini.image {
-  width: 20px;
+  width: 35px;
   height: auto;
-  font-size: 0.71428571rem;
+  font-size: 0.78571429rem;
 }
 .ui.tiny.images .image,
 .ui.tiny.images img,
@@ -269,8 +291,8 @@ img.ui.bordered.image {
   margin: 0em -0.25rem 0rem;
 }
 .ui.images .image,
-.ui.images img,
-.ui.images svg {
+.ui.images > img,
+.ui.images > svg {
   display: inline-block;
   margin: 0em 0.25rem 0.5rem;
 }

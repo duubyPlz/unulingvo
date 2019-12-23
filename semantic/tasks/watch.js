@@ -3,7 +3,7 @@
 *******************************/
 
 var
-  gulp         = require('gulp'),
+  gulp         = require('gulp-help')(require('gulp')),
 
   // node dependencies
   console      = require('better-console'),
@@ -15,20 +15,20 @@ var
   clone        = require('gulp-clone'),
   gulpif       = require('gulp-if'),
   less         = require('gulp-less'),
-  minifyCSS    = require('gulp-minify-css'),
+  minifyCSS    = require('gulp-clean-css'),
   plumber      = require('gulp-plumber'),
-  print        = require('gulp-print'),
+  print        = require('gulp-print').default,
   rename       = require('gulp-rename'),
   replace      = require('gulp-replace'),
   uglify       = require('gulp-uglify'),
-  util         = require('gulp-util'),
+  replaceExt   = require('replace-ext'),
   watch        = require('gulp-watch'),
 
   // user config
   config       = require('./config/user'),
 
   // task config
-  tasks        = require('./config/project/tasks'),
+  tasks        = require('./config/tasks'),
   install      = require('./config/project/install'),
 
   // shorthand
@@ -44,7 +44,10 @@ var
 
 ;
 
-// add tasks that shouldn't be exposed to end-user
+// add tasks referenced using gulp.run (sub-tasks)
+if(config.rtl) {
+  require('./collections/rtl')(gulp);
+}
 require('./collections/internal')(gulp);
 
 
@@ -56,7 +59,10 @@ module.exports = function(callback) {
     return;
   }
 
-  // check for right-to-left language
+  // check for right-to-left (RTL) language
+  if(config.rtl == 'both') {
+    gulp.start('watch-rtl');
+  }
   if(config.rtl === true || config.rtl === 'Yes') {
     gulp.start('watch-rtl');
     return;
@@ -108,17 +114,17 @@ module.exports = function(callback) {
       if(isConfig) {
         console.info('Rebuilding all UI');
         // impossible to tell which file was updated in theme.config, rebuild all
-        gulp.start('build');
+        gulp.start('build-css');
         return;
       }
       else if(isPackagedTheme) {
         console.log('Change detected in packaged theme');
-        lessPath = util.replaceExtension(file.path, '.less');
+        lessPath = replaceExt(file.path, '.less');
         lessPath = lessPath.replace(tasks.regExp.theme, source.definitions);
       }
       else if(isSiteTheme) {
         console.log('Change detected in site theme');
-        lessPath = util.replaceExtension(file.path, '.less');
+        lessPath = replaceExt(file.path, '.less');
         lessPath = lessPath.replace(source.site, source.definitions);
       }
       else {
@@ -134,8 +140,9 @@ module.exports = function(callback) {
 
         // unified css stream
         stream = gulp.src(lessPath)
-          .pipe(plumber())
+          .pipe(plumber(settings.plumber.less))
           .pipe(less(settings.less))
+          .pipe(print(log.created))
           .pipe(replace(comments.variables.in, comments.variables.out))
           .pipe(replace(comments.license.in, comments.license.out))
           .pipe(replace(comments.large.in, comments.large.out))
@@ -159,7 +166,7 @@ module.exports = function(callback) {
           })
         ;
 
-        compressedStream = stream
+        compressedStream
           .pipe(plumber())
           .pipe(replace(assets.source, assets.compressed))
           .pipe(minifyCSS(settings.minify))
@@ -170,7 +177,6 @@ module.exports = function(callback) {
             gulp.start('package compressed css');
           })
         ;
-
       }
       else {
         console.log('Cannot find UI definition at path', lessPath);
@@ -211,7 +217,7 @@ module.exports = function(callback) {
   // only copy assets that match component names (or their plural)
   gulp
     .watch([
-      source.themes   + '/**/assets/**/' + globs.components + '?(s).*'
+      source.themes   + '/**/assets/**/*.*'
     ], function(file) {
       // copy assets
       gulp.src(file.path, { base: source.themes })

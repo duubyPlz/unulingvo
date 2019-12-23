@@ -1,6 +1,16 @@
 import '../jquery-global';
 import 'jquery-ui';
 
+// XXX @kuc can't get semantic ui <select>.dropdown('set selected', random) to work
+const fileSizes = {
+    'eo': 30,
+    'ko': 19,
+    'ja': 2,
+    'cn': 10,
+    'gr': 11,
+    'flu': 2
+};
+
 function init() {
     console.debug("Initialising lessonSelector...");
     initDropdowns();

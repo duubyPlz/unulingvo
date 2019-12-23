@@ -1,11 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto);
-
-.ui.button {
-  min-width: 72px;
-}
-.ui.buttons .button {
-  min-width: 0px;
-}
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 
 .ui.primary.button:hover {
   box-shadow:

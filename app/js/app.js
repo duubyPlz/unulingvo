@@ -10,6 +10,9 @@
 //     * have a keypress for randomisation
 // * toggling modules doesn't rerender
 // * unit testing
+// * var -> let & const
+
+// -------------------------------------
 
 // APP
 // 0. Init
@@ -61,7 +64,7 @@ function initTooltips() {
 // App.js main:
 init();
 
-// ---
+// -------------------------------------
 
 // LANGUAGESELECTOR
 // $(function () {
@@ -76,16 +79,16 @@ init();
 // $('select#contents-cn').parent().hide();
 // $('select#contents-gr').parent().hide();
 
-// MODULESELECTOR
+// LESSONSELECTOR
 // XXX @kuc can't get semantic ui <select>.dropdown('set selected', random) to work
-var fileSizes = {
-                    'eo': 30,
-                    'ko': 19,
-                    'ja': 2,
-                    'cn': 10,
-                    'gr': 11,
-                    'flu': 2
-                };
+// var fileSizes = {
+//                     'eo': 30,
+//                     'ko': 19,
+//                     'ja': 2,
+//                     'cn': 10,
+//                     'gr': 11,
+//                     'flu': 2
+//                 };
 
 // TRANSLATOR
 // Global hash representation of current file
@@ -106,6 +109,7 @@ setTimeout(function () {
     display(false);
 }, 1000);
 
+// MODULESELECTOR
 // 2. Module swaps triggered
 $('#duoButton').on('click', function() {
     var duo = $('#duo-module');

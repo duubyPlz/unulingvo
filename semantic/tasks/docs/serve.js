@@ -15,21 +15,21 @@ var
   gulpif       = require('gulp-if'),
   header       = require('gulp-header'),
   less         = require('gulp-less'),
-  minifyCSS    = require('gulp-minify-css'),
+  minifyCSS    = require('gulp-clean-css'),
   plumber      = require('gulp-plumber'),
-  print        = require('gulp-print'),
+  print        = require('gulp-print').default,
   rename       = require('gulp-rename'),
   replace      = require('gulp-replace'),
   uglify       = require('gulp-uglify'),
-  util         = require('gulp-util'),
+  replaceExt   = require('replace-ext'),
   watch        = require('gulp-watch'),
 
   // user config
   config       = require('../config/docs'),
 
   // task config
+  tasks        = require('../config/tasks'),
   configSetup  = require('../config/project/config'),
-  tasks        = require('../config/project/tasks'),
   install      = require('../config/project/install'),
 
   // shorthand
@@ -77,6 +77,24 @@ module.exports = function () {
   ;
 
   /*--------------
+    Copy Examples
+  ---------------*/
+
+  gulp
+    .watch([
+      'examples/**/*.*'
+    ], function(file) {
+      console.clear();
+      return gulp.src(file.path, {
+          base: 'examples/'
+        })
+        .pipe(gulp.dest(output.examples))
+        .pipe(print(log.created))
+      ;
+    })
+  ;
+
+  /*--------------
       Watch CSS
   ---------------*/
 
@@ -111,24 +129,25 @@ module.exports = function () {
       ---------------*/
 
       // recompile on *.override , *.variable change
-      isConfig        = (file.path.indexOf('theme.config') !== -1);
+      isConfig        = (file.path.indexOf('theme.config') !== -1 || file.path.indexOf('site.variables') !== -1);
       isPackagedTheme = (file.path.indexOf(source.themes) !== -1);
       isSiteTheme     = (file.path.indexOf(source.site) !== -1);
       isDefinition    = (file.path.indexOf(source.definitions) !== -1);
 
       if(isConfig) {
-        console.info('Change detected in theme config, rebuild docs with `build-docs`');
-        // impossible to tell which file was updated in theme.config
+        // console.info('Rebuilding all files');
+        // cant rebuild paths are wrong
+        // gulp.start('build-docs');
         return;
       }
       else if(isPackagedTheme) {
         console.log('Change detected in packaged theme');
-        lessPath = util.replaceExtension(file.path, '.less');
+        lessPath = replaceExt(file.path, '.less');
         lessPath = lessPath.replace(tasks.regExp.theme, source.definitions);
       }
       else if(isSiteTheme) {
         console.log('Change detected in site theme');
-        lessPath = util.replaceExtension(file.path, '.less');
+        lessPath = replaceExt(file.path, '.less');
         lessPath = lessPath.replace(source.site, source.definitions);
       }
       else {
@@ -169,7 +188,7 @@ module.exports = function () {
           })
         ;
 
-        compressedStream = stream
+        compressedStream
           .pipe(plumber())
           .pipe(replace(assets.source, assets.compressed))
           .pipe(minifyCSS(settings.minify))
