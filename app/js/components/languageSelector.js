@@ -3,16 +3,21 @@ import 'jquery-ui';
 
 function init() {
     console.debug("Initialising languageSelector...");
-    toggleTooltips();
+    initTooltips();
+    initDropdowns();
     hideUnwantedDropdowns();
 }
 
-// toggle all tooltips
-function toggleTooltips() {
-    console.debug("LanguageSelector: toggling tooltips");
+function initTooltips() {
+    console.debug("LanguageSelector: initialising tooltips");
     $(function () {
         $('[data-toggle="tooltip"]').tooltip();
     });
+}
+
+function initDropdowns() {
+    console.debug("LanguageSelector: initialising dropdowns");
+    $('.ui.dropdown').dropdown();
 }
 
 function hideUnwantedDropdowns() {
