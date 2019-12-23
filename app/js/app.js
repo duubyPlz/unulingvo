@@ -28,16 +28,40 @@ import '../../semantic/dist/semantic.css';
 import '../css/custom.css';
 
 // import local modules
-import * as languageSelector from './components/languageSelector';
+import * as lessonSelector from './components/lessonSelector';
 
 if (process.env.NODE_ENV === 'development') {
   if (module.hot) {
       module.hot.accept();
       console.log("Webpack dev server: Hot reload accepted");
   } else {
-    console.log("Webpack dev server: No hot reload");
+    console.log("Webpack dev server: No hot reload, life is hard");
   }
 }
+
+// App.js specific variables
+var language = 'eo';
+
+// App.js specific subroutines:
+function init() {
+    console.debug("Initialising App...");
+    initTooltips();
+
+    // Init submodules (all static)
+    lessonSelector.init();
+}
+
+function initTooltips() {
+    console.debug("App: initialising tooltips");
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip();
+    });
+}
+
+// App.js main:
+init();
+
+// ---
 
 // LANGUAGESELECTOR
 // $(function () {
@@ -51,11 +75,6 @@ if (process.env.NODE_ENV === 'development') {
 // $('select#contents-ja').parent().hide();
 // $('select#contents-cn').parent().hide();
 // $('select#contents-gr').parent().hide();
-
-languageSelector.init();
-
-// default language
-var language = 'eo';
 
 // MODULESELECTOR
 // XXX @kuc can't get semantic ui <select>.dropdown('set selected', random) to work
