@@ -16,7 +16,7 @@
 // import packages' js
 import './jquery-global';
 import 'jquery-ui';
-import 'diff-match-patch';
+import DiffMatchPatch from 'diff-match-patch';
 import 'bootstrap';
 import '../../semantic/dist/components/transition';
 import '../../semantic/dist/components/dropdown';
@@ -547,7 +547,7 @@ function display(isFlu) {
     currentCorrectOriginal = currentEntry.original
     var formatted = currentEntry.formatted
     if (formatted != "") {
-        formattedHtml = generateFormattedHtml(formatted, english);
+        var formattedHtml = generateFormattedHtml(formatted, english);
         if (isFlu) {
             $('.flu-display-text').html(formattedHtml);
         } else {
@@ -570,7 +570,7 @@ function generateFormattedHtml(formatted, english) {
     var zeroth = parts.shift();
     var result = brightenString(zeroth);
 
-    for (i=0; i<parts.length; i++) {
+    for (var i=0; i<parts.length; i++) {
         // Now that zeroth element is removed, if UNSHIFTED LENGTH 1 -> then wouldn't enter loop.
         // unshifted first (shifted even) element -> BOLD
         // unshifted second (shifted odd) element -> UNBOLD
@@ -787,7 +787,8 @@ function formatCorrect(correct, userAnswer) {
     var formatted = "";
 
     // call diff-match-patch, returns e.g. [[-1, "Goo"], [1, "Ba"], [0, "d dog"]]
-    var diffResult = diff(userAnswer, correct);
+    var differ = new DiffMatchPatch();
+    var diffResult = differ.diff_main(userAnswer, correct);
 
     for (var i=0; i<diffResult.length; i++) {
         var currentElement = diffResult[i];
@@ -796,13 +797,13 @@ function formatCorrect(correct, userAnswer) {
         var value = currentElement[1];
         
         switch (status) {
-            case diff.INSERT:
+            case DiffMatchPatch.DIFF_INSERT:
                 formatted += styleInsert(value);
                 break;
-            case diff.DELETE:
+            case DiffMatchPatch.DIFF_DELETE:
                 formatted += styleDelete(value);
                 break;
-            case diff.EQUAL:
+            case DiffMatchPatch.DIFF_EQUAL:
                 formatted += value;
                 break;
             default:
