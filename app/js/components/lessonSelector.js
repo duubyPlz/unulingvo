@@ -1,8 +1,7 @@
 import '../jquery-global';
 import 'jquery-ui';
 
-TODO think of dependencies of this module
-https://stackoverflow.com/questions/51737267/dependency-injection-with-es6-modules
+// https://stackoverflow.com/questions/51737267/dependency-injection-with-es6-modules
 
 // XXX @kuc can't get semantic ui <select>.dropdown('set selected', random) to work
 const fileSizes = {
