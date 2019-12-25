@@ -55,6 +55,7 @@
     E: A crab helps the shark. @polite
     F: _A crab_ helps the shark. @polite
 
+    # With regard to the compound verbs, as McPwny mentioned, one is active and the other passive. Essentially, if there is an agent acting on an object (i.e. a dog returning a ball) then the compound verb will contain the root 돌려. If there is no agent acting on the object/subject (i.e. a car comes back) then you use the root 돌아
     O: 개가 공을 돌려줍니다.
     E: The dog returns the ball. @formal
     F: The dog _returns the ball_. @formal
