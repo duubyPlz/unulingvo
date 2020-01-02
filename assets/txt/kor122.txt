@@ -20,7 +20,7 @@
     F: The monster _wants to eat a person_. @polite
 
     O: 슬퍼하지 마십시오.
-    E: Don't be sad. @polite
+    E: Don't be sad. @formal
 
     # 남자아이 is the subject of the verb 없다, so it has the subject marker
     # 개 is the subject of 슬퍼하다 but is also the main topic of the sentence, so it has the 는 marker
