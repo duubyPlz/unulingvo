@@ -2,6 +2,7 @@
 * l -> long
 * s -> short
 * p -> plural
+* m -> my
 
 > One
     O: 이 여자는 우리를 미워해요.
@@ -123,9 +124,12 @@
     E: Your[p] bread. @i
 
 > Three
+    # 내 자신을 means "my oneself/ myself"
+    # 나 자신을 means "I oneself/myself"
+    # I don't think the meaning changes much.
     O: 나는 내 자신을 압니다.
-    E: I know myself. @formal,i
-    F: _I_ know myself. @formal,i
+    E: I know myself[m]. @formal,i
+    F: _I_ know myself[m]. @formal,i
 
     O: 나는 혼자 요리합니다.
     E: I cook by myself. @formal,i
@@ -154,8 +158,8 @@
     E: Affirmative. @formal
 
     O: 나는 나 자신을 사랑합니다.
-    E: I love myself[u]. @formal,i
-    F: _I_ love myself[u]. @formal,i
+    E: I love myself. @formal,i
+    F: _I_ love myself. @formal,i
 
     O: 나는 그녀를 사랑해요.
     E: I love her. @polite,i
@@ -172,6 +176,6 @@
     F: _They_ know each other. @formal
 
     O: 나는 나 자신을 놀려요.
-    E: I make fun of myself[u]. @polite,i
-    F: _I_ make fun of myself[u]. @polite,i
+    E: I make fun of myself. @polite,i
+    F: _I_ make fun of myself. @polite,i
 

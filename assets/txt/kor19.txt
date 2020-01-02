@@ -1,4 +1,6 @@
 == Compound Verbs ==
+* m -> my
+
 > One
     O: 남자가 돌려줍니다.
     E: The man returns it. @formal

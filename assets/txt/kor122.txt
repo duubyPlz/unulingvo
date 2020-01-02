@@ -31,8 +31,8 @@
     F: The big owl _is sad_. @formal
 
     O: 저는 제 자신을 무서워해요.
-    E: I am afraid of myself. @polite
-    F: _I_ am afraid of myself. @polite
+    E: I am afraid of myself[m]. @polite
+    F: _I_ am afraid of myself[m]. @polite
 
     O: 괴물이 어디에 있습니까?
     E: Where is the monster? @formal
