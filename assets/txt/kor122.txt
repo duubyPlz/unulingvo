@@ -4,8 +4,8 @@
     F: _I_ want to rent a house. @polite
 
     O: 늑대하고 곰은 무서워요.
-    E: Wolves and bears are scary. @polite
-    F: _Wolves and bears_ are scary. @polite
+    E: Wolves and[s] bears are scary. @polite
+    F: _Wolves and[s] bears_ are scary. @polite
 
     O: 작은 괴물이 아주 무서워요.
     E: The small monster is very scary. @polite

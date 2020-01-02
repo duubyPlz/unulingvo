@@ -1,5 +1,6 @@
 == Compound Verbs ==
 * m -> my
+* s -> spoken
 
 > One
     O: 남자가 돌려줍니다.
