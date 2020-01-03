@@ -89,6 +89,10 @@
     E: This pasta tastes especially bad. @polite
     F: _This pasta_ tastes especially bad. @polite
 
+    O: 매우 작은 것은 무엇이에요?
+    E: What is the very small thing? @polite
+    F: What is _the very small thing_? @polite
+
 > Two
     O: 싼 신문이 굉장히 가벼워요.
     E: The cheap newspaper is immensely light. @polite
@@ -165,6 +169,9 @@
     E: That is considerably expensive. @formal
     F: _That_ is considerably expensive. @formal
 
+    O: 엄청 비싼 차를 사지 마세요.
+    E: Do not buy an overly expensive car. @polite
+
 > Three
     O: 싼 음식은 비싼 음식보다 뜨겁습니다.
     E: Cheap food is hotter than expensive food. @formal
@@ -238,3 +245,7 @@
     O: 저의 친구들은 저보다 친구가 많아요.
     E: My friends have more friends than I. @polite
     F: _My friends_ have more friends than I. @polite
+
+    O: 저는 바쁜 학생이 정말 좋습니다.
+    E: I really like the busy student. @formal
+    F: _I_ really like the busy student. @formal
