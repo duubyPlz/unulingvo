@@ -41,8 +41,8 @@
     F: _Where is_ the monster? @formal
 
     O: 나는 숲 속의 호랑이를 무서워해요.
-    E: I'm afraid of the tiger in the forest. @polite
-    F: _I_'m afraid of the tiger in the forest. @polite
+    E: I'm afraid of the tiger in the forest. @polite,i
+    F: _I_'m afraid of the tiger in the forest. @polite,i
 
     O: 저는 한국에 가고 싶어요.
     E: I want to go to Korea. @polite
