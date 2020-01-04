@@ -1,0 +1,49 @@
+> Three
+    O: 노랑이 어디에 있어요?
+    E: Where is yellow?
+    F: _Where is_ yellow?
+
+    O: 그는 검정색을 싫어해요.
+    E: He hates black. @polite
+    F: _He_ hates black. @polite
+
+    O: 너의 색깔을 찾아!
+    E: Find your color! @impolite
+
+    O: 하양과 검정은 색깔입니다.
+    E: White and black are colors. @formal
+    F: _White and black_ are colors. @formal
+
+    O: 무슨 색깔은 파랑입니까?
+    E: What color is blue? @formal
+    F: What _color_ is blue? @formal
+
+    # 검정색 오렌지를 먹지 마세요.
+    O: 검정 오렌지를 먹지 마세요.
+    E: Don't eat the black[n] orange. @polite
+
+    O: 노랑은 예뻐요.
+    E: Yellow is pretty. @polite
+    F: _Yellow_ is pretty. @polite
+
+    # 그 색깔은 하얀색이다.
+    O: 그 색깔은 하양입니다.
+    E: That color is white. @formal
+    F: _That color_ is white. @formal
+
+    O: 나는 파랑새
+    E: Flying bluebird
+
+    O: 빨강하고 하양하고 파랑
+    E: Red, white, and blue
+
+    O: 주황색과 검정색
+    E: Orange and black
+
+    O: 빨강은 예뻐요?
+    E: Is red pretty? @polite
+    F: Is _red_ pretty? @polite
+
+    O: 고양이의 색깔은 노랑이에요.
+    E: The cat's color is yellow. @polite
+    F: _The cat's color_ is yellow. @polite

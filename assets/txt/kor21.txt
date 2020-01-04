@@ -1,5 +1,7 @@
 == Colours ==
 * l -> long
+* n -> noun
+* g -> green
 
 > One
     O: 노란 책 몇 권이 있습니까?
@@ -24,15 +26,15 @@
     F: _This apple_ is red. @formal
 
     O: 검은색인 공이 있습니까?
-    E: Do you have a black ball?
-    F: _Do you have_ a black ball?
+    E: Do you have a black[l] ball?
+    F: _Do you have_ a black[l] ball?
 
     O: 꽃이 노란색이에요.
     E: The flower is yellow. @polite
     F: The flower _is yellow_. @polite
 
     O: 파란색인 새
-    E: The bird which is blue
+    E: The bird which is blue[l]
 
     O: 빨간 꽃 하나
     E: One red flower
@@ -44,7 +46,7 @@
     E: Yellow butterfly
 
     O: 빨간색인 책을 읽지 마세요.
-    E: Do not read the red book. @polite
+    E: Do not read the red[l] book. @polite
 
     O: 하얀 양
     E: White sheep
