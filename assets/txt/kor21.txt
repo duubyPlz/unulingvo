@@ -1,0 +1,55 @@
+== Colours ==
+* l -> long
+
+> One
+    O: 노란 책 몇 권이 있습니까?
+    E: How many yellow books are there? @formal
+
+    O: 저는 빨간 꽃을 좋아하지만 그는 저에게 노란 꽃을 보냅니다.
+    E: I like red flowers, but he sends me yellow flowers. @formal
+    F: _I_ like red flowers, but he sends me yellow flowers. @formal
+
+    O: 검은 까치
+    E: Black magpie
+
+    O: 그는 하얀 집에 삽니다.
+    E: He lives in a white house. @formal
+    F: _He_ lives in a white house. @formal
+
+    O: 파란 바다
+    E: Blue ocean
+
+    O: 이 사과는 빨간색입니다.
+    E: This apple is red. @formal
+    F: _This apple_ is red. @formal
+
+    O: 검은색인 공이 있습니까?
+    E: Do you have a black ball?
+    F: _Do you have_ a black ball?
+
+    O: 꽃이 노란색이에요.
+    E: The flower is yellow. @polite
+    F: The flower _is yellow_. @polite
+
+    O: 파란색인 새
+    E: The bird which is blue
+
+    O: 빨간 꽃 하나
+    E: One red flower
+
+    O: 하얀 고양이를 원해요.
+    E: I want a white cat. @polite
+
+    O: 노란 나비
+    E: Yellow butterfly
+
+    O: 빨간색인 책을 읽지 마세요.
+    E: Do not read the red book. @polite
+
+    O: 하얀 양
+    E: White sheep
+
+    # 검은색인 곰 - Black-coloured bear
+    # 검은색 곰
+    O: 검은 곰
+    E: Black bear
