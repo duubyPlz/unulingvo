@@ -29,6 +29,12 @@ $1.\n    Answer
 [$1]
 
 // Get rid of E:  and O:  markings
+[OE]: 
 
 // Add [num] to top title
+(.*\n\n.*Lesson One.)
+<lesson number> $1
+
 // Replace last "Next Sentence" with End of [num] - [title].
+// Find title with: (.*)\n\n.*Lesson One.
+// Find last sentence with: Next Sentence.\n$$ 
