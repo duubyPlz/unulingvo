@@ -4,27 +4,26 @@
 
     O: 저는 여기에서 은행까지 걸어가고 싶어요.
     E: I would like to walk to the bank from here. @polite
-    F: I would like to walk to the bank from here. @polite
+    F: _I_ would like to walk to the bank from here. @polite
 
     O: 곰이 학교까지 걸어가요.
     E: The bear walks up to the school. @polite
-    F: The bear walks up to the school. @polite
+    F: The bear _walks up to the school_. @polite
 
     O: 자동차가 돕니다.
     E: The car turns. @polite
-    F: The car turns. @polite
+    F: The car _turns_. @polite
 
     O: 산에서 빨리 내려오세요.
-    E: Come down from the mountain quickly. @polite
     F: Come down from the mountain quickly. @polite
 
     O: 자동차가 돌아와요.
     E: The car comes back. @polite
-    F: The car comes back. @polite
+    F: The car _comes back_. @polite
 
     O: 그녀는 산에 올라가요.
     E: She goes up to the mountain. @polite
-    F: She goes up to the mountain. @polite
+    F: _She_ goes up to the mountain. @polite
 
     # "probable future", add ~겠다
     # ~ㄹ 거예요 is a "for sure" or "definite" kind of feeling like
@@ -33,50 +32,47 @@
     # Although they are conjugated to the future tense, those two words are typically used to express _ in the present tense.
     O: 나는 돌아오겠다.
     E: I'll be back. @plain,i
-    F: I'll be back. @plain,i
+    F: _I_'ll be back. @plain,i
 
     O: 뱀이 내려와요.
     E: The snake comes down. @polite
-    F: The snake comes down. @polite
+    F: The snake _comes down_. @polite
 
     O: 아기가 돌아요. @polite
     E: The baby turns.
-    F: The baby turns.
+    F: The baby _turns_.
 
     O: 학생이 학교를 올라요.
     E: The student climbs the school. @polite
-    F: The student climbs the school. @polite
+    F: The student _climbs the school_. @polite
 
     O: 호랑이 두 마리가 한국에 들어가요.
     E: Two tigers enter Korea. @polite
-    F: Two tigers enter Korea. @polite
+    F: Two tigers _enter Korea_. @polite
 
     O: 남자는 산을 오릅니다.
     E: A man climbs a mountain. @formal
-    F: A man climbs a mountain. @formal
+    F: _A man_ climbs a mountain. @formal
 
     O: 비싼 차들이 건물에 들어가요.
     E: The expensive cars enter the building. @polite
-    F: The expensive cars enter the building. @polite
+    F: The expensive cars _enter the building_. @polite
 
     O: 여우가 공원으로 돌아와요.
     E: The fox returns to the park. @polite
-    F: The fox returns to the park. @polite
+    F: The fox _returns to the park_. @polite
 
     O: 새는 날아올라요.
     E: A bird flies high. @polite
-    F: A bird flies high. @polite
+    F: _A bird_ flies high. @polite
 
     O: 그는 집에서 걸어가요.
     E: He walks from the house. @polite
-    F: He walks from the house. @polite
+    F: _He_ walks from the house. @polite
 
     O: 내려오세요!
     E: Come down! @polite
 
     O: 쥐가 올라가요.
     E: The rat goes up. @polite
-    F: The rat goes up. @polite
-
-    O: 
-    E: 
+    F: The rat _goes up_. @polite
