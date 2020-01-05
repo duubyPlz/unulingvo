@@ -1,209 +1,506 @@
-== Compound Verbs ==
-* m -> my
-* s -> spoken
+19 Compound Verbs.
 
-> One
-    O: 남자가 돌려줍니다.
-    E: The man returns it. @formal
-    F: The man _returns it_. @formal
+Lesson One.
+    The man returns it. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자가 돌려줍니다.
 
-    O: 남자에게 자동차를 빌려주세요.
-    E: Lend the man a car. @polite
+    Next Sentence.    
+    Lend the man a car. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자에게 자동차를 빌려주세요.
 
-    O: 저는 친구에게 연필을 빌려줍니다.
-    E: I lend a pencil to my friend. @formal
-    F: _I_ lend a pencil to my friend. @formal
+    Next Sentence.
+    I lend a pencil to my friend. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 친구에게 연필을 빌려줍니다.
 
-    O: 이 음식을 먹어보세요.
-    E: Try this food please. @polite
+    Next Sentence.    
+    Try this food please. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 음식을 먹어보세요.
 
-    O: 아이는 큰 탁자를 빌려요.
-    E: A child borrows a big table. @polite
-    F: _A child_ borrows a big table. @polite
+    Next Sentence.
+    A child borrows a big table. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아이는 큰 탁자를 빌려요.
 
-    O: 그는 소를 도와주지 않아요.
-    E: He does not help the cow. @polite
-    F: _He_ does not help the cow. @polite
+    Next Sentence.    
+    He does not help the cow. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그는 소를 도와주지 않아요.
 
-    O: 학생들이 서로 도와줘요.
-    E: The students help each other. @polite
-    F: The students _help each other_. @polite
+    Next Sentence.    
+    The students help each other. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생들이 서로 도와줘요.
 
-    O: 노래를 해보세요.
-    E: Try to sing. @polite
+    Next Sentence.    
+    Try to sing. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    노래를 해보세요.
 
-    O: 여기로 돌려주세요.
-    E: Return it here, please. @polite
+    Next Sentence.
+    Return it here, please. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여기로 돌려주세요.
 
-    O: 김치를 먹어봅시다.
-    E: Let's try kimchi. @formal
+    Next Sentence.
+    Let's try kimchi. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    김치를 먹어봅시다.
 
-    O: 고양이가 거북이를 돌립니다.
-    E: The cat turns the turtle. @formal
-    F: The cat _turns the turtle_. @formal
+    Next Sentence.
+    The cat turns the turtle. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    고양이가 거북이를 돌립니다.
 
-    O: 그는 운동을 해봐요.
-    E: He tries to exercise. @polite
-    F: _He_ tries to exercise. @polite
+    Next Sentence.    
+    He tries to exercise. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그는 운동을 해봐요.
 
-    O: 학생이 의자를 돌려요.
-    E: The student turns the chair. @polite
-    F: The student _turns the chair_. @polite
+    Next Sentence.    
+    The student turns the chair. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생이 의자를 돌려요.
 
-    O: 제가 책을 빌려요.
-    E: I borrow a book. @polite
-    F: I _borrow a book_. @polite
+    Next Sentence.    
+    I borrow a book. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    제가 책을 빌려요.
 
-    O: 게는 상어를 도와줘요.
-    E: A crab helps the shark. @polite
-    F: _A crab_ helps the shark. @polite
+    Next Sentence.    
+    A crab helps the shark. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    게는 상어를 도와줘요.
 
-    # With regard to the compound verbs, as McPwny mentioned, one is active and the other passive. Essentially, if there is an agent acting on an object (i.e. a dog returning a ball) then the compound verb will contain the root 돌려. If there is no agent acting on the object/subject (i.e. a car comes back) then you use the root 돌아
-    O: 개가 공을 돌려줍니다.
-    E: The dog returns the ball. @formal
-    F: The dog _returns the ball_. @formal
+    Next Sentence.    
+    The dog returns the ball. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    개가 공을 돌려줍니다.
 
-    O: 조용히 생각을 해보세요.
-    E: Try to think quietly. @polite
+    Next Sentence.    
+    Try to think quietly. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    조용히 생각을 해보세요.
 
-> Two
-    O: 저는 집을 빌리고 싶어요.
-    E: I want to rent a house. @polite
-    F: _I_ want to rent a house. @polite
+Lesson Two.
+    I want to rent a house. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 집을 빌리고 싶어요.
 
-    O: 늑대하고 곰은 무서워요.
-    E: Wolves and[s] bears are scary. @polite
-    F: _Wolves and[s] bears_ are scary. @polite
+    Next Sentence.    
+    Wolves and[s] bears are scary. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    늑대하고 곰은 무서워요.
 
-    O: 작은 괴물이 아주 무서워요.
-    E: The small monster is very scary. @polite
-    F: The small monster _is very scary_. @polite
+    Next Sentence.    
+    The small monster is very scary. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    작은 괴물이 아주 무서워요.
 
-    O: 아이가 괴물을 무서워해요.
-    E: The child is afraid of the monster. @polite
-    F: The child _is afraid of the monster_. @polite
+    Next Sentence.    
+    The child is afraid of the monster. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아이가 괴물을 무서워해요.
 
-    O: 괴물이 사람을 먹고 싶어해요.
-    E: The monster wants to eat a person. @polite
-    F: The monster _wants to eat a person_. @polite
+    Next Sentence.    
+    The monster wants to eat a person. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    괴물이 사람을 먹고 싶어해요.
 
-    O: 슬퍼하지 마십시오.
-    E: Don't be sad. @formal
+    Next Sentence.    
+    Don't be sad. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    슬퍼하지 마십시오.
 
-    # 남자아이 is the subject of the verb 없다, so it has the subject marker
-    # 개 is the subject of 슬퍼하다 but is also the main topic of the sentence, so it has the 는 marker
-    O: 남자아이가 없으면 개는 슬퍼해요.
-    E: If the boy is not there, the dog is sad. @polite
-    F: If the boy is not there, _the dog_ is sad. @polite
+    Next Sentence.
+    If the boy is not there, the dog is sad. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자아이가 없으면 개는 슬퍼해요.
 
-    O: 큰 부엉이가 슬퍼합니다.
-    E: The big owl is sad. @formal
-    F: The big owl _is sad_. @formal
+    Next Sentence.    
+    The big owl is sad. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    큰 부엉이가 슬퍼합니다.
 
-    O: 저는 제 자신을 무서워해요.
-    E: I am afraid of myself[m]. @polite
-    F: _I_ am afraid of myself[m]. @polite
+    Next Sentence.    
+    I am afraid of myself[m]. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 제 자신을 무서워해요.
 
-    O: 괴물이 어디에 있습니까?
-    E: Where is the monster? @formal
-    F: _Where is_ the monster? @formal
+    Next Sentence.    
+    Where is the monster? [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    괴물이 어디에 있습니까?
 
-    O: 나는 숲 속의 호랑이를 무서워해요.
-    E: I'm afraid of the tiger in the forest. @polite,i
-    F: _I_'m afraid of the tiger in the forest. @polite,i
+    Next Sentence.    
+    I'm afraid of the tiger in the forest. [polite,i].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    나는 숲 속의 호랑이를 무서워해요.
 
-    O: 저는 한국에 가고 싶어요.
-    E: I want to go to Korea. @polite
-    F: _I_ want to go to Korea. @polite
+    Next Sentence.    
+    I want to go to Korea. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 한국에 가고 싶어요.
 
-    O: 긴 뱀은 아주 무서워요.
-    E: Long snakes are very scary. @polite
-    F: _Long snakes_ are very scary. @polite
+    Next Sentence.    
+    Long snakes are very scary. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    긴 뱀은 아주 무서워요.
 
-    O: 여자아이가 날고 싶어해요.
-    E: The girl wants to fly. @polite
-    F: The girl _wants to fly_. @polite
+    Next Sentence.    
+    The girl wants to fly. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여자아이가 날고 싶어해요.
 
-    O: 아기가 맥주를 마시고 싶어해요.
-    E: The baby wants to drink beer. @polite
-    F: The baby _wants to drink beer_. @polite
+    Next Sentence.    
+    The baby wants to drink beer. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아기가 맥주를 마시고 싶어해요.
 
-> Three
-    O: 집에 빨리 돌아오세요.
-    E: Come back home quickly. @polite
+Lesson Three.
+    Come back home quickly. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집에 빨리 돌아오세요.
 
-    O: 저는 여기에서 은행까지 걸어가고 싶어요.
-    E: I would like to walk to the bank from here. @polite
-    F: I would like to walk to the bank from here. @polite
+    Next Sentence.
+    I would like to walk to the bank from here. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 여기에서 은행까지 걸어가고 싶어요.
 
-    O: 곰이 학교까지 걸어가요.
-    E: The bear walks up to the school. @polite
-    F: The bear walks up to the school. @polite
+    Next Sentence.    
+    The bear walks up to the school. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    곰이 학교까지 걸어가요.
 
-    O: 자동차가 돕니다.
-    E: The car turns. @polite
-    F: The car turns. @polite
+    Next Sentence.    
+    The car turns. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    자동차가 돕니다.
 
-    O: 산에서 빨리 내려오세요.
-    E: Come down from the mountain quickly. @polite
-    F: Come down from the mountain quickly. @polite
+    Next Sentence.    
+    산에서 빨리 내려오세요.
 
-    O: 자동차가 돌아와요.
-    E: The car comes back. @polite
-    F: The car comes back. @polite
+    Next Sentence.    
+    The car comes back. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    자동차가 돌아와요.
 
-    O: 그녀는 산에 올라가요.
-    E: She goes up to the mountain. @polite
-    F: She goes up to the mountain. @polite
+    Next Sentence.    
+    She goes up to the mountain. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그녀는 산에 올라가요.
 
-    # "probable future", add ~겠다
-    # ~ㄹ 거예요 is a "for sure" or "definite" kind of feeling like
-    # 좋다(be good) becomes 좋겠다(likely to be good)
-    # 알다 and 모르다 are often conjugated to 알겠다 or 모르겠다.
-    # Although they are conjugated to the future tense, those two words are typically used to express _ in the present tense.
-    O: 나는 돌아오겠다.
-    E: I'll be back. @plain,i
-    F: I'll be back. @plain,i
+    Next Sentence.    
+    I'll be back. [plain,i].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    나는 돌아오겠다.
 
-    O: 뱀이 내려와요.
-    E: The snake comes down. @polite
-    F: The snake comes down. @polite
+    Next Sentence.    
+    The snake comes down. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뱀이 내려와요.
 
-    O: 아기가 돌아요. @polite
-    E: The baby turns.
-    F: The baby turns.
+    Next Sentence.    
+    The baby turns.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아기가 돌아요. [polite]
 
-    O: 학생이 학교를 올라요.
-    E: The student climbs the school. @polite
-    F: The student climbs the school. @polite
+    Next Sentence.    
+    The student climbs the school. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생이 학교를 올라요.
 
-    O: 호랑이 두 마리가 한국에 들어가요.
-    E: Two tigers enter Korea. @polite
-    F: Two tigers enter Korea. @polite
+    Next Sentence.    
+    Two tigers enter Korea. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    호랑이 두 마리가 한국에 들어가요.
 
-    O: 남자는 산을 오릅니다.
-    E: A man climbs a mountain. @formal
-    F: A man climbs a mountain. @formal
+    Next Sentence.    
+    A man climbs a mountain. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    남자는 산을 오릅니다.
 
-    O: 비싼 차들이 건물에 들어가요.
-    E: The expensive cars enter the building. @polite
-    F: The expensive cars enter the building. @polite
+    Next Sentence.    
+    The expensive cars enter the building. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    비싼 차들이 건물에 들어가요.
 
-    O: 여우가 공원으로 돌아와요.
-    E: The fox returns to the park. @polite
-    F: The fox returns to the park. @polite
+    Next Sentence.    
+    The fox returns to the park. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여우가 공원으로 돌아와요.
 
-    O: 새는 날아올라요.
-    E: A bird flies high. @polite
-    F: A bird flies high. @polite
+    Next Sentence.    
+    A bird flies high. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    새는 날아올라요.
 
-    O: 그는 집에서 걸어가요.
-    E: He walks from the house. @polite
-    F: He walks from the house. @polite
+    Next Sentence.    
+    He walks from the house. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그는 집에서 걸어가요.
 
-    O: 내려오세요!
-    E: Come down! @polite
+    Next Sentence.    
+    Come down! [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내려오세요!
 
-    O: 쥐가 올라가요.
-    E: The rat goes up. @polite
-    F: The rat goes up. @polite
+    Next Sentence.
+    The rat goes up. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    쥐가 올라가요.
+
+    End of 19 - Compound Verbs.

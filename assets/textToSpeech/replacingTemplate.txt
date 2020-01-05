@@ -33,7 +33,7 @@ $1.\n    Answer
 
 // Add [num] to top title
 (.*\n\n.*Lesson One.)
-<lesson number> $1
+numPlaceholder $1
 
 // Replace last "Next Sentence" with End of [num] - [title].
 // Find title with: (.*)\n\n.*Lesson One.
