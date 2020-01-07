@@ -351,7 +351,7 @@ Lesson Three.
     곰이 학교까지 걸어가요.
 
     Next Sentence.    
-    The car turns. [polite].
+    The car turns. [formal].
     Answer in
     One.
     Two.
