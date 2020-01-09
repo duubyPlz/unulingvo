@@ -11,8 +11,8 @@
     F: The bear _walks up to the school_. @polite
 
     O: 자동차가 돕니다.
-    E: The car turns. @polite
-    F: The car _turns_. @polite
+    E: The car turns. @formal
+    F: The car _turns_. @formal
 
     O: 산에서 빨리 내려오세요.
     F: Come down from the mountain quickly. @polite
