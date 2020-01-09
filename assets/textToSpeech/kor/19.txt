@@ -411,7 +411,7 @@ Lesson Three.
     Three.
     Four.
     Five.
-    아기가 돌아요. [polite]
+    아기가 돌아요.
 
     Next Sentence.    
     The student climbs the school. [polite].
