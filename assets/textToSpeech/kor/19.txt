@@ -360,7 +360,14 @@ Lesson Three.
     Five.
     자동차가 돕니다.
 
-    Next Sentence.    
+    Next Sentence.
+    Come down from the mountain quickly. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.   
     산에서 빨리 내려오세요.
 
     Next Sentence.    

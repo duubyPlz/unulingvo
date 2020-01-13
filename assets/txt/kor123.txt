@@ -15,7 +15,7 @@
     F: The car _turns_. @formal
 
     O: 산에서 빨리 내려오세요.
-    F: Come down from the mountain quickly. @polite
+    E: Come down from the mountain quickly. @polite
 
     O: 자동차가 돌아와요.
     E: The car comes back. @polite
