@@ -62,9 +62,12 @@
     E: The fox returns to the park. @polite
     F: The fox _returns to the park_. @polite
 
+    # Duolingo: A bird flies high.
+    # Birds fly up.
+    # The birds fly up.
     O: 새는 날아올라요.
-    E: A bird flies high. @polite
-    F: _A bird_ flies high. @polite
+    E: A bird flies up. @polite
+    F: _A bird_ flies up. @polite
 
     O: 그는 집에서 걸어가요.
     E: He walks from the house. @polite
