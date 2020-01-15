@@ -38,9 +38,9 @@
     E: The snake comes down. @polite
     F: The snake _comes down_. @polite
 
-    O: 아기가 돌아요. @polite
-    E: The baby turns.
-    F: The baby _turns_.
+    O: 아기가 돌아요.
+    E: The baby turns. @polite
+    F: The baby _turns_. @polite
 
     O: 학생이 학교를 올라요.
     E: The student climbs the school. @polite
