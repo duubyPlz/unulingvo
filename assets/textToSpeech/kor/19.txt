@@ -360,17 +360,17 @@ Lesson Three.
     Five.
     자동차가 돕니다.
 
-    Next Sentence.
+    Next Sentence.    
     Come down from the mountain quickly. [polite].
     Answer in
     One.
     Two.
     Three.
     Four.
-    Five.   
+    Five.
     산에서 빨리 내려오세요.
 
-    Next Sentence.    
+    Next Sentence.
     The car comes back. [polite].
     Answer in
     One.
@@ -418,7 +418,7 @@ Lesson Three.
     Three.
     Four.
     Five.
-    아기가 돌아요.
+    아기가 돌아요. [polite]
 
     Next Sentence.    
     The student climbs the school. [polite].
@@ -471,7 +471,7 @@ Lesson Three.
     여우가 공원으로 돌아와요.
 
     Next Sentence.    
-    A bird flies high. [polite].
+    A bird flies up. [polite].
     Answer in
     One.
     Two.
