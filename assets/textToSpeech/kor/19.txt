@@ -411,14 +411,14 @@ Lesson Three.
     뱀이 내려와요.
 
     Next Sentence.    
-    The baby turns.
+    The baby turns. [polite].
     Answer in
     One.
     Two.
     Three.
     Four.
     Five.
-    아기가 돌아요. [polite]
+    아기가 돌아요.
 
     Next Sentence.    
     The student climbs the school. [polite].
