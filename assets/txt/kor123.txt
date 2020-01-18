@@ -55,8 +55,8 @@
     F: _A man_ climbs a mountain. @formal
 
     O: 비싼 차들이 건물에 들어가요.
-    E: The expensive cars enter the building. @polite
-    F: The expensive cars _enter the building_. @polite
+    E: The expensive cars[s] enter the building. @polite
+    F: The expensive cars[s] _enter the building_. @polite
 
     O: 여우가 공원으로 돌아와요.
     E: The fox returns to the park. @polite
