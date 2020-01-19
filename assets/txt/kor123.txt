@@ -59,8 +59,8 @@
     F: The expensive cars[s] _enter the building_. @polite
 
     O: 여우가 공원으로 돌아와요.
-    E: The fox returns to the park. @polite
-    F: The fox _returns to the park_. @polite
+    E: The fox returns to(wards) the park. @polite
+    F: The fox _returns to(wards) the park_. @polite
 
     # Duolingo: A bird flies high.
     # Birds fly up.

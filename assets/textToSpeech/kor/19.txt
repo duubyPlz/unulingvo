@@ -461,7 +461,7 @@ Lesson Three.
     비싼 차들이 건물에 들어가요.
 
     Next Sentence.    
-    The fox returns to the park. [polite].
+    The fox returns to(wards) the park. [polite].
     Answer in
     One.
     Two.
