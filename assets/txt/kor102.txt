@@ -47,8 +47,8 @@
     F: The smart student _is carrying four books_. @polite
 
     O: 우리는 무거운 책을 읽고 있어요.
-    E: We are reading a heavy book.
-    F: _We_ are reading a heavy book.
+    E: We are reading a heavy book. @polite
+    F: _We_ are reading a heavy book. @polite
 
     O: 생각하는 여자가 서 있어요.
     E: The thinking woman is standing. @polite
