@@ -50,6 +50,8 @@
     E: We are reading a heavy book. @polite
     F: _We_ are reading a heavy book. @polite
 
+    # 서다 is a stative verb, which has the irregular progressive form of appending the 해체 form with 있다. Thus the appropriate present progressive verb is 서 있다.
+    # Note: can still form a progressive verb in the usual fashion (서고 있다) but the meaning shifts to "in the process of standing".
     O: 생각하는 여자가 서 있어요.
     E: The thinking woman is standing. @polite
     F: The thinking woman _is standing_. @polite
