@@ -20,13 +20,16 @@
     E: The thinking employee is working slowly. @polite
     F: _The thinking employee_ is working slowly. @polite
 
-    O: 앉는 여자가 생각하고 있어요.
+    # 앉는 going from standing to sitting
+    # 앉는 여자가 생각하고 있어요.
+    O: 앉아있는 여자가 생각하고 있어요.
     E: The woman sitting is thinking. @polite
     F: The woman _sitting is thinking_. @polite
 
-    O: 저는 앉는 남자하고 이야기하고 있어요.
-    E: I am talking to the seated man. @polite
-    F: _I_ am talking to the seated man. @polite
+    # 저는 앉는 남자하고 이야기하고 있어요.
+    O: 저는 앉아있는 남자하고 이야기하고 있어요.
+    E: I am talking with the seated man. @polite
+    F: _I_ am talking with the seated man. @polite
 
     O: 집은 비어 있습니까?
     E: Is _the house_ empty? @formal
