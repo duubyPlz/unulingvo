@@ -24,7 +24,7 @@
     # 앉는 여자가 생각하고 있어요.
     O: 앉아있는 여자가 생각하고 있어요.
     E: The woman sitting is thinking. @polite
-    F: The woman _sitting is thinking_. @polite
+    F: The woman sitting_ is thinking_. @polite
 
     # 저는 앉는 남자하고 이야기하고 있어요.
     O: 저는 앉아있는 남자하고 이야기하고 있어요.
