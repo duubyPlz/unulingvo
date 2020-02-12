@@ -44,3 +44,68 @@
     O: 여우가 쥐를 가지고 있어요.
     E: The fox has a mouse. @polite
     F: The fox _has a mouse_. @polite
+
+> Two
+    O: 빈 의자
+    E: Empty chair
+
+    O: 무거운 와인을 조심하십시오!
+    E: Watch out for the heavy wine! @formal
+
+    O: 예쁜 아기는 많이 울지 않아요.
+    E: Pretty babies don't cry much. @polite
+    F: _Pretty babies_ don't cry much. @polite
+
+    O: 제 친구가 피자를 들고 있습니다.
+    E: My[s] friend is carrying a pizza. @formal
+    F: My[s] friend _is carrying a pizza_. @formal
+
+    O: 이 가벼운 상자 안에 무엇이 있습니까?
+    E: What's in this light box? @formal
+
+    O: 생각하는 회사원은 천천히 일하고 있어요.
+    E: The thinking employee is working slowly. @polite
+    F: _The thinking employee_ is working slowly. @polite
+
+    # 앉는 going from standing to sitting
+    # 앉는 여자가 생각하고 있어요.
+    O: 앉아 있는 여자가 생각하고 있어요.
+    E: The woman sitting is thinking. @polite
+    F: The woman sitting_ is thinking_. @polite
+
+    # 저는 앉는 남자하고 이야기하고 있어요.
+    O: 저는 앉아 있는 남자하고 이야기하고 있어요.
+    E: I am talking with the seated man. @polite
+    F: _I_ am talking with the seated man. @polite
+
+    O: 집은 비어 있습니까?
+    E: Is _the house_ empty? @formal
+
+    O: 가벼운 텔레비전
+    E: A light television
+
+    O: 예쁜 나비가 날고 있어요.
+    E: The pretty butterfly is flying. @polite
+    F: The pretty butterfly _is flying_. @polite
+
+    O: 예쁜 여자가 수영하고 있어요.
+    E: The pretty woman is swimming. @polite
+    F: The pretty woman _is swimming_. @polite
+
+    O: 똑똑한 학생이 책 네 권을 들고 있어요.
+    E: The smart student is carrying four books. @polite
+    F: The smart student _is carrying four books_. @polite
+
+    O: 우리는 무거운 책을 읽고 있어요.
+    E: We are reading a heavy book. @polite
+    F: _We_ are reading a heavy book. @polite
+
+    # 서다 is a stative verb, which has the irregular progressive form of appending the 해체 form with 있다. Thus the appropriate present progressive verb is 서 있다.
+    # Note: can still form a progressive verb in the usual fashion (서고 있다) but the meaning shifts to "in the process of standing".
+    O: 생각하는 여자가 서 있어요.
+    E: The thinking woman is standing. @polite
+    F: The thinking woman _is standing_. @polite
+
+    O: 생각하는 선생님은 책을 읽고 있어요.
+    E: The thinking teacher is reading a book. @polite
+    F: _The thinking teacher_ is reading a book. @polite
