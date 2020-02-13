@@ -28,7 +28,7 @@
     O: 她是那國人？
     E: What country is she from?
 
-    O: 王医生是美國人。
+    O: 王醫生是美國人。
     E: Doctor Wang is American.
 
     O: 我們是英國人。
