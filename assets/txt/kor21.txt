@@ -26,8 +26,8 @@
     F: _This apple_ is red. @formal
 
     O: 검은색인 공이 있습니까?
-    E: Do you have a black[l] ball?
-    F: _Do you have_ a black[l] ball?
+    E: Do you have a black[l] ball? @formal
+    F: _Do you have_ a black[l] ball? @formal
 
     O: 꽃이 노란색이에요.
     E: The flower is yellow. @polite
