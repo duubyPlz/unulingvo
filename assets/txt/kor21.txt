@@ -2,14 +2,15 @@
 * l -> long
 * n -> noun
 * g -> green
+* hs -> hard,short
 
 > One
     O: 노란 책 몇 권이 있습니까?
     E: How many yellow books are there? @formal
 
     O: 저는 빨간 꽃을 좋아하지만 그는 저에게 노란 꽃을 보냅니다.
-    E: I like red flowers, but he sends me yellow flowers. @formal
-    F: _I_ like red flowers, but he sends me yellow flowers. @formal
+    E: I like red flowers, but[hs] he sends me yellow flowers. @formal
+    F: _I_ like red flowers, but[hs] he sends me yellow flowers. @formal
 
     O: 검은 까치
     E: Black magpie
