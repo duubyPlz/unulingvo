@@ -41,7 +41,7 @@
     E: One red flower
 
     O: 하얀 고양이를 원해요.
-    E: I want a white cat. @polite
+    E: (I) want a white cat. @polite
 
     O: 노란 나비
     E: Yellow butterfly
