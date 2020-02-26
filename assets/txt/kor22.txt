@@ -1,0 +1,30 @@
+== Honorifics ==
+* s -> short
+
+> One
+    O: 김치와 드셔보세요!
+    E: Try it with kimchi! @polite
+
+    O: 우리 할아버지께서 일하세요.
+    E: My grandfather works. @polite
+
+    O: 할아버님께서 파스타를 드십니까?
+    E: Does grandfather eat pasta? @formal
+
+    O: 할머님께서 진지를 드세요.
+    E: Grandmother eats rice. @polite
+
+    O: 우리들의 할머님께서 노래하십니다.
+    E: Our grandmother sings. @formal
+
+    O: 우리 할아버지께서 일하세요.
+    E: My grandfather works. @polite
+
+    O: 할머님께서 진지를 요리하세요.
+    E: Grandmother cooks rice. @polite
+
+    O: 할머님과 할아버님께서는 진지를 드십니다.
+    E: Grandmother and grandfather eat rice. @formal
+
+    O: 할아버님께서 파스타를 드십니까?
+    E: Does grandfather eat pasta? @formal

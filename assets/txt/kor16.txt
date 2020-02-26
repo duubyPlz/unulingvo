@@ -69,7 +69,7 @@
 
     # 몇살 이세요
     # 나이가 어떻게 되세요
-    # (or 연세, even more honourific)
+    # (or 연세, even more honorific)
     O: 몇 살이에요?
     E: How old are you? @polite
 

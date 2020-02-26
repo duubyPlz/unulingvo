@@ -1,0 +1,40 @@
+> Three
+    O: 우리 할아버님의 성함은 가람이에요.
+    E: My grandfather's name is Garam. @polite
+
+    O: 선생님 네 분
+    E: Four teachers
+
+    O: 저는 할아버지 생신 케이크를 삽니다.
+    E: I buy a birthday cake for grandfather. @formal
+
+    O: 우리 할아버지는 연세가 많습니다.
+    E: My grandfather is old. @formal
+
+    O: 우리 할머니의 연세가 어떻게 되세요?
+    E: How old is my grandmother? @polite
+
+    O: 오늘은 선생님 두 분의 생신이에요.
+    E: It is two teachers' birthday today. @polite
+
+    # 나이가 어떻게 되세요?
+    # 몇 살이에요? # non-honorific
+    # 연세가 어떻게 되세요?
+    O: 몇살 이세요?
+    E: How old are you? (Less honorific) @polite
+
+    # 신사: gentleman, 신부: lady
+    O: 이분의 성함은 어떻게 되세요?
+    E: What is this gentleman/lady's name? @polite
+
+    O: 연세가 어떻게 되세요?
+    E: How old are you? (More honorific) @polite
+
+    O: 오늘은 할머님의 생신이에요.
+    E: Today is Grandmother's birthday. @polite
+
+    O: 저는 제 선생님 성함을 몰라요.
+    E: I do not know my teacher's name. @polite
+
+    O: 제 할아버지는 연세가 많습니다.
+    E: My grandfather is old. @formal
