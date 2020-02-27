@@ -1,0 +1,59 @@
+> Three
+    # 싸우다
+    O: 그들은 안 싸워.
+    E: They do not fight.
+    F: _They_ do not fight.
+
+    O: 누가 지금 싸워?
+    E: Who _fights now_?
+
+    O: 나는 재미있는 게 있어.
+    E: I[l] have something interesting.
+    F: _I[l]_ have something interesting.
+
+    O: 아이가 책을 시작해.
+    E: The child starts the book.
+    F: The child _starts the book_.
+
+    O: 그녀의 가장 친한 친구는 몇 살이에요?
+    E: How old is her best friend?
+    F: How old is _her best friend_?
+
+    O: 이건 어려워.
+    E: This is difficult.
+    F: _This_ is difficult.
+
+    # (I) start now. # Without imperative
+    O: 지금 시작해.
+    E: Start now.
+
+    O: 그는 어느 걸 먹어?
+    E: Which one does he eat?
+    F: Which one does _he_ eat?
+
+    O: 그건 뭐야?
+    E: What is that?
+    F: What is _that_?
+
+    O: 아기가 이걸 읽어.
+    E: The baby reads this.
+    F: The baby _reads this_.
+
+    O: 학생들이 매일 학교에서 싸워.
+    E: The students fight every day at school.
+    F: The students _fight every day at school_.
+
+    O: 너의 제일 친한 친구가 누구야?
+    E: Who is your best friend?
+    F: _Who is_ your best friend?
+
+    O: 시작하자!
+    E: Let's start!
+
+    O: 이게 재미있어.
+    E: This is fun.
+    F: This _is fun_.
+
+    O: 나는 재미있는 게 있어.
+    E: I[l] have something interesting.
+    F: _I[l]_ have something interesting.
