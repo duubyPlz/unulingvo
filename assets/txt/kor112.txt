@@ -11,8 +11,8 @@
     F: The gray[l] rabbit _is cute_. @polite
 
     O: 녹색인 새는 오리예요.
-    E: The green[l] bird is a duck. @polite
-    F: _The green[l] bird_ is a duck. @polite
+    E: The green[l][c] bird is a duck. @polite
+    F: _The green[l][c] bird_ is a duck. @polite
 
     O: 돼지는 분홍색이에요.
     E: Pigs are pink. @polite
@@ -55,7 +55,7 @@
     F: _The orange banana_ tastes bad. @polite
 
     O: 녹차 아이스크림
-    E: Green tea ice cream
+    E: Green[c] tea ice cream
 
     O: 주황색인 꽃이 싸요.
     E: The orange[l] flower is cheap. @polite

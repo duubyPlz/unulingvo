@@ -3,6 +3,7 @@
 * n -> noun
 * g -> green
 * hs -> hard,short
+* c -> sino
 
 > One
     O: 노란 책 몇 권이 있습니까?
