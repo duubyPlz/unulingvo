@@ -17,10 +17,14 @@
     E: The woman kicks the man. @formal
     F: The woman kicks the man. @formal
 
-    # pair:  켤레
+    # pair: 켤레
     O: 소가 장갑 두 짝을 낍니다.
     E: The cow wears two gloves. @formal
     F: The cow wears two gloves. @formal
+
+    O: 소가 장갑 두 켤레를 낍니다.
+    E: The cow wears two pairs of gloves. @formal
+    F: The cow wears two pairs of gloves. @formal
 
     O: 넥타이를 매지 않는 남자는 영어를 못합니다.
     E: The man who does not wear a tie cannot speak English. @formal
