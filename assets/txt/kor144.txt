@@ -1,0 +1,61 @@
+> Four
+    O: 그 손목시계는 사과가 있어요.
+    E: That watch has an apple. @polite
+    F: That watch has an apple. @polite
+
+    O: 공을 차다
+    E: To kick a ball (infinitive)
+
+    O: 비싼 손목시계
+    E: Expensive watch
+
+    O: 우리는 공을 차요.
+    E: We kick the ball. @polite
+    F: We kick the ball. @polite
+
+    O: 여자가 남자를 찹니다.
+    E: The woman kicks the man. @formal
+    F: The woman kicks the man. @formal
+
+    # pair:  켤레
+    O: 소가 장갑 두 짝을 낍니다.
+    E: The cow wears two gloves. @formal
+    F: The cow wears two gloves. @formal
+
+    O: 넥타이를 매지 않는 남자는 영어를 못합니다.
+    E: The man who does not wear a tie cannot speak English. @formal
+    F: The man who does not wear a tie cannot speak English. @formal
+
+    O: 서연이는 아름다운 반지를 매일 낍니다.
+    E: Seoyeon wears the beautiful ring every day. @formal
+    F: Seoyeon wears the beautiful ring every day. @formal
+
+    O: 고래는 넥타이를 매요.
+    E: The whale puts on a tie. @polite
+    F: The whale puts on a tie. @polite
+
+    O: 나는 장갑을 끼고 학교에 갑니다.
+    E: I go to school wearing gloves. @formal,i
+    F: I go to school wearing gloves. @formal,i
+
+    O: 남자가 넥타이를 못 맵니다.
+    E: The man cannot tie a tie. @formal
+    F: The man cannot tie a tie. @formal
+
+    O: 반지를 껴?
+    E: Are you wearing a ring? @impolite
+
+    O: 허리띠를 매세요.
+    E: Put on the belt. @polite
+
+    O: 제가 허리띠를 차고 있습니다.
+    E: I am wearing a belt. @formal
+    F: I am wearing a belt. @formal
+
+    O: 남자가 반지를 낍니다.
+    E: The man wears a ring. @formal
+    F: The man wears a ring. @formal
+
+    O: 용은 손목시계를 얼마나 많이 가지고 있습니까?
+    E: How many watches does the dragon have? @formal
+    F: How many watches does the dragon have? @formal

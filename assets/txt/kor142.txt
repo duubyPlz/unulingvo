@@ -1,0 +1,21 @@
+> Two
+    O: 구두 열 짝
+    E: Ten dress shoes
+
+    O: 분홍색 운동화
+    E: Pink sneaker
+
+    O: 귀여운 양말 한 짝
+    E: A cute sock
+
+    O: 양말과 운동화
+    E: Socks and sneakers
+
+    O: 할머니께서 양말하고 신발을 신으세요.
+    E: Grandmother wears socks and shoes. @polite @honorific
+
+    O: 운동화 세 짝
+    E: Three sneakers
+
+    O: 신발을 신어보세요.
+    E: Try on the shoes. @polite
