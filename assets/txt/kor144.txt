@@ -17,7 +17,10 @@
     E: The woman kicks the man. @formal
     F: The woman kicks the man. @formal
 
-    # pair: 켤레
+    # pair:
+    # * 켤레
+    # * 쌍
+    # * 묶음
     O: 소가 장갑 두 짝을 낍니다.
     E: The cow wears two gloves. @formal
     F: The cow wears two gloves. @formal
