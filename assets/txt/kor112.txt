@@ -29,8 +29,8 @@
     F: The purple[l] car _is fast_. @formal
 
     O: 나비는 보라색하고 초록색이에요.
-    E: The butterfly is purple and green. @polite
-    F: _The butterfly_ is purple and green. @polite
+    E: The butterfly is purple and[s] green. @polite
+    F: _The butterfly_ is purple and[s] green. @polite
 
     O: 빨간색은 분홍색이 아닙니다.
     E: Red is not pink. @formal
