@@ -1,4 +1,6 @@
 > Two
+    # Sino: adjectives (modified descriptive verbs) have to have at least ~색 (or ~색인)
+
     O: 산이 초록색이에요.
     E: The mountain is green. @polite
     F: The mountain _is green_. @polite
