@@ -4,8 +4,8 @@
     F: _Where is_ yellow?
 
     O: 그는 검정색을 싫어해요.
-    E: He hates black. @polite
-    F: _He_ hates black. @polite
+    E: He hates black[l]. @polite
+    F: _He_ hates black[l]. @polite
 
     O: 너의 색깔을 찾아!
     E: Find your color! @impolite
@@ -38,7 +38,7 @@
     E: Red, white, and[s] blue
 
     O: 주황색과 검정색
-    E: Orange and black
+    E: Orange and black[l]
 
     O: 빨강은 예뻐요?
     E: Is red pretty? @polite
