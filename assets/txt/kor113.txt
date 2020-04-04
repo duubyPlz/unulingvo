@@ -1,7 +1,7 @@
 > Three
     O: 노랑이 어디에 있어요?
-    E: Where is yellow?
-    F: _Where is_ yellow?
+    E: Where is yellow? @polite
+    F: _Where is_ yellow? @polite
 
     O: 그는 검정색을 싫어해요.
     E: He hates black[l]. @polite
