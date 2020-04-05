@@ -8,8 +8,8 @@
     F: _The sweet banana_ is perfectly yellow. @formal
 
     O: 저 쓴 불고기는 매우 검어요.
-    E: That bitter bulgogi (over there) is very black. @polite
-    F: _That bitter bulgogi (over there)_ is very black. @polite
+    E: That bitter bulgogi (over there) is very[v] black. @polite
+    F: _That bitter bulgogi (over there)_ is very[v] black. @polite
 
     O: 비싼 집은 노래요.
     E: The expensive house is yellow. @polite
