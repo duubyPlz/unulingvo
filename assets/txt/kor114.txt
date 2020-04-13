@@ -22,7 +22,7 @@
     # 푸르다
     # 풀(grass)
     # something green (for example a green field, green eyes etc.), can also use it to describe something blue-ish
-    # 러-irregular: contains four words only: 푸르다, 누르다 (when meaning “yellow”), 노르다, 이르다 (when meaning “arrive” or “reach”).
+    # (not 푸러요) 러-irregular: contains four words only: 푸르다, 누르다 (when meaning “yellow”), 노르다, 이르다 (when meaning “arrive” or “reach”).
     O: 물이 푸르러요.
     E: The water is blue[g]. @polite
     F: The water _is blue[g]_. @polite
@@ -46,7 +46,7 @@
 
     O: 매운 음식은 빨개요.
     E: Spicy foods are red. @polite
-    F: Spicy foods _are red_. @polite
+    F: _Spicy foods_ are red. @polite
 
     O: 무슨 야채가 노래요?
     E: Which vegetable is yellow? @polite
