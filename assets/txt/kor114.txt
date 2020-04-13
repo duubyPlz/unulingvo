@@ -37,8 +37,8 @@
     F: _The bad-tasting cheese_ is white. @polite
 
     O: 생선이 빨갛습니까?
-    E: Is the fish red? @formal
-    F: _Is_ the fish _red_? @formal
+    E: Is the fish (to eat) red? @formal
+    F: _Is_ the fish (to eat) _red_? @formal
 
     O: 나쁜 개가 검습니다.
     E: The bad dog is black. @formal
