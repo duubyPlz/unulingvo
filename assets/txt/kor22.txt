@@ -25,6 +25,7 @@
 
     O: 할머님과 할아버님께서는 진지를 드십니다.
     E: Grandmother and grandfather eat rice. @formal
+    F: _Grandmother and grandfather_ eat rice. @formal
 
     O: 할아버님께서 파스타를 드십니까?
     E: Does grandfather eat pasta? @formal

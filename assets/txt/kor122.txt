@@ -10,9 +10,11 @@
 
     O: 우리 할아버님께서는 주무십니다.
     E: My grandfather sleeps. @formal
+    F: _My grandfather_ sleeps. @formal
 
     O: 저희 할아버지께서는 댁에 계십니다.
     E: My grandfather is at home. @formal
+    F: _My grandfather_ is at home. @formal
 
     O: 오늘 제 선생님이 학교에 계십니다.
     E: My teacher is at school today. @formal
