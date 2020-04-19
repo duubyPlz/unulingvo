@@ -18,6 +18,7 @@
 
     O: 오늘 제 선생님이 학교에 계십니다.
     E: My teacher is at school today. @formal
+    E: My teacher _is at school_ today[s]. @formal
 
     O: 할머니께서 우리에게 천천히 말씀하십니다.
     E: Grandmother speaks to us slowly. @formal
@@ -27,6 +28,7 @@
 
     O: 할머님의 댁이 커요.
     E: Grandmother's house is big. @polite
+    F: Grandmother's house _is big_. @polite
 
     O: 저는 선생님께 사과를 드려요.
     E: I give the teacher an apple. @polite
