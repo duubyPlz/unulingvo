@@ -1,6 +1,6 @@
 > Two
     O: 할머니께서 주무십니까?
-    E: Does grandmother sleep? @formal
+    E: Does grandmother[n] sleep? @formal
 
     O: 친구는 선생님께 책을 드립니다.
     E: The friend gives the teacher a book. @formal
@@ -13,8 +13,8 @@
     F: _My grandfather_ sleeps. @formal
 
     O: 저희 할아버지께서는 댁에 계십니다.
-    E: My grandfather is at home. @formal
-    F: _My grandfather_ is at home. @formal
+    E: My[h] grandfather[n] is at home. @formal
+    F: _My[h] grandfather[n]_ is at home. @formal
 
     # Why is 이 used as a subject marker here when we are told 께서 is the honorific equivalent?
     # Why is it 제 선생님 here instead of 우리 선생님?
@@ -25,7 +25,7 @@
     E: Today[s], my[s] teacher is at school. @formal
 
     O: 할머니께서 우리에게 천천히 말씀하십니다.
-    E: Grandmother speaks to us slowly. @formal
+    E: Grandmother[n] speaks to us slowly. @formal
 
     O: 친구는 선생님께 책을 드립니다.
     E: The friend gives the teacher a book. @formal
@@ -41,19 +41,19 @@
     E: Where is our grandmother? @polite
 
     O: 할아버지께서 차에서 주무십니다.
-    E: Grandfather sleeps in the car[s]. @formal
+    E: Grandfather[n] sleeps in the car[s]. @formal
 
     O: 저는 할머니의 댁에 가요.
     E: I go to my grandmother's house. @polite
 
     O: 할머니께 사과를 드리세요.
-    E: Give your grandmother an apple. @polite
+    E: Give your grandmother[n] an apple. @polite
 
     O: 할머님께서 할아버님께 말씀하세요.
     E: Grandmother speaks to Grandfather. @polite
 
     O: 우리들의 할머니께서 어디 계세요?
-    E: Where is our grandmother? @polite
+    E: Where is our grandmother[n]? @polite
 
     O: 선생님께서 학생에게 말씀하십니다.
     E: The teacher talks to the student. @formal

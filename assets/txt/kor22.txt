@@ -1,5 +1,10 @@
 == Honorifics ==
 * s -> short
+* n -> normal
+* h -> humble
+
+# 우리: neutral
+# 저희: humble
 
 > One
     O: 김치와 드셔보세요!
@@ -18,7 +23,7 @@
     E: Our grandmother sings. @formal
 
     O: 우리 할아버지께서 일하세요.
-    E: My grandfather works. @polite
+    E: My grandfather[n] works. @polite
 
     O: 할머님께서 진지를 요리하세요.
     E: Grandmother cooks rice. @polite
