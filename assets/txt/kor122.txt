@@ -16,9 +16,13 @@
     E: My grandfather is at home. @formal
     F: _My grandfather_ is at home. @formal
 
-    O: 오늘 제 선생님이 학교에 계십니다.
-    E: My teacher is at school today. @formal
-    E: My teacher _is at school_ today[s]. @formal
+    # Why is 이 used as a subject marker here when we are told 께서 is the honorific equivalent?
+    # Why is it 제 선생님 here instead of 우리 선생님?
+    # Yes, it is for all collectives. But, this lesson should be using 저희 instead of 우리 if it's for super formal honorifics. Funnily enough, they did use it ONCE.
+    # My teacher is at school today
+    # 오늘 제 선생님이 학교에 계십니다.
+    O: 오늘 제 선생님께서 학교에 계십니다.
+    E: Today[s], my[s] teacher is at school. @formal
 
     O: 할머니께서 우리에게 천천히 말씀하십니다.
     E: Grandmother speaks to us slowly. @formal
@@ -26,9 +30,9 @@
     O: 친구는 선생님께 책을 드립니다.
     E: The friend gives the teacher a book. @formal
 
-    O: 할머님의 댁이 커요.
+    # 할머님의 댁이 커요.
+    O: 할머님의 댁께서 커요.
     E: Grandmother's house is big. @polite
-    F: Grandmother's house _is big_. @polite
 
     O: 저는 선생님께 사과를 드려요.
     E: I give the teacher an apple. @polite
