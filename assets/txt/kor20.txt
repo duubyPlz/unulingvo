@@ -6,8 +6,9 @@
     E: The park is on the map. @formal
     F: The park _is on the map_. @formal
 
+    # Hello! Thank you! Take care! See you again!
     O: 안녕하세요! 감사해요! 잘 있어요! 다시 만나요!
-    E: Hello! Thank you! Take care! See you again! @polite
+    E: Hello! Thank you! Be well! Meet you again! @polite
 
     O: 선생님이 앉아 있어요.
     E: The teacher is sitting. @polite
