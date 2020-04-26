@@ -41,23 +41,20 @@
     F: _I_ give the teacher an apple. @polite
 
     O: 우리들의 할머니께서 어디 계세요?
-    E: Where is our grandmother? @polite
+    E: Where is our grandmother[n]? @polite
 
     O: 할아버지께서 차에서 주무십니다.
     E: Grandfather[n] sleeps in the car[s]. @formal
 
     O: 저는 할머니의 댁에 가요.
-    E: I go to my grandmother's house. @polite
-    F: _I_ go to my grandmother's house. @polite
+    E: I go to my grandmother[n]'s house. @polite
+    F: _I_ go to my grandmother[n]'s house. @polite
 
     O: 할머니께 사과를 드리세요.
     E: Give your grandmother[n] an apple. @polite
 
     O: 할머님께서 할아버님께 말씀하세요.
     E: Grandmother speaks to Grandfather. @polite
-
-    O: 우리들의 할머니께서 어디 계세요?
-    E: Where is our grandmother[n]? @polite
 
     O: 선생님께서 학생에게 말씀하십니다.
     E: The teacher talks to the student. @formal
