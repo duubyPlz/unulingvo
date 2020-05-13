@@ -91,7 +91,8 @@ $('#fluButton').on('click', function() {
         selectedModule = $('#flu').val();
 
         display_loader(true);
-        parse(selectedModule, 'flu');
+        language = 'flu';
+        parse(selectedModule, language);
         setTimeout(function () {
             display(true);
         }, 1000);
@@ -147,11 +148,11 @@ $('.main-panel').on('click', function() {
 $('#toggle-gr').change(function() {
     var selectedModule = $('select#contents-' + language).val();
     greekFirst = $('#toggle-gr').is(":checked");
-    reparse(selectedModule);
+    reparse(selectedModule, false);
 });
 
 
-function reparse(selectedModule) {
+function reparse(selectedModule, isFlu) {
     // reparse/redisplay
     // o_O" .. code reuse from 1.
     if (greekFirst) {
@@ -160,7 +161,7 @@ function reparse(selectedModule) {
 
     checkIsModuleValid(selectedModule);
 
-    display_loader(false);
+    display_loader(isFlu);
     parse(selectedModule, language);
     currentCorrectOriginal = "";
 
@@ -170,7 +171,7 @@ function reparse(selectedModule) {
     $('.textarea#answer').removeClass('incorrect');
 
     setTimeout(function () {
-        display(false);
+        display(isFlu);
     }, 1000);
 }
 
@@ -225,7 +226,7 @@ function goToPill(currentPill) {
         // setTimeout(function () {
         //     display(false);
         // }, 1000);
-        reparse(selectedModule);
+        reparse(selectedModule, false);
     } else {
         // Already active pill
     }
@@ -241,7 +242,7 @@ $('select#contents-eo, select#contents-ko, select#contents-ja, select#contents-c
     // setTimeout(function () {
     //     display(false);
     // }, 1000);
-    reparse(selectedModule);
+    reparse(selectedModule, false);
 });
 
 // TODO @kuc if UI changed
@@ -254,7 +255,7 @@ $('select#flu').change(function() {
     // setTimeout(function () {
     //     display(true);
     // }, 1000);
-    reparse(selectedModule);
+    reparse(selectedModule, true);
 });
 
 // 5. Randomise modules
@@ -285,7 +286,7 @@ $('button#randomise').click(function() {
 
     selectedModule = random;
 
-    reparse(selectedModule.toString());
+    reparse(selectedModule.toString(), false);
     // display_loader(false);
     // parse(selectedModule, language);
     // setTimeout(function () {
@@ -394,7 +395,7 @@ function parse(module, language) {
         "ja": "jpn",
         "cn": "chn",
         "gr": "gre",
-        "flu": "flu"
+        "flu": "flu",
     };
 
     if (languageToFilePrefix && languageToFilePrefix[language]) {

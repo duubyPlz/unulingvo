@@ -1,0 +1,69 @@
+== TTMIK Level 1 ==
+* p -> period
+
+> One
+	O: 안녕하세요.
+	E: Hello.
+
+	O: 감사합니다.
+	E: Thank you.
+
+> Two
+    O: 네.
+    E: Yes.
+
+    O: 아니요.
+    E: No.
+
+	O: 커피 좋아해요?
+	E: Do you like coffee?
+
+	O: 네. 좋아해요.
+	E: Yes, I like it.
+
+	O: 커피 안 좋아해요?
+	E: You don’t like coffee?
+
+	O: 아니요. 좋아해요.
+	E: No, I like it.
+
+	O: 네. 안 좋아해요.
+	E: Yes, I don't like it.
+
+	O: 네, 맞아요.
+	E: Yes, that is right.
+
+> Three
+    O: 안녕히 계세요.
+    E: Goodbye (stay in peace).
+
+    O: 안녕히 가세요.
+    E: Goodbye (go in peace).
+
+> Four
+    O: 죄송합니다.
+    E: I apologise.
+
+    O: 저기요.
+    E: Hey, you!
+
+    O: 잠시만요.
+    E: Just a moment.
+
+    O: 잠깐만요.
+    E: Just a moment[p].
+
+> Five
+    O: 물이에요.
+    E: It's water.
+
+    O: 가방이에요.
+    E: It's a bag.
+
+    O: 사무실이에요.
+    E: It's an office.
+
+    O: 학교예요.
+    E: It's a school.
+
+> Six
