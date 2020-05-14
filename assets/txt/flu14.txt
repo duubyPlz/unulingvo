@@ -1,0 +1,12 @@
+== TTMIK 1.4 - I’m sorry. Excuse me. / 죄송합니다. 저기요. ==
+    O: 죄송합니다.
+    E: I apologise.
+
+    O: 저기요.
+    E: Hey, you!
+
+    O: 잠시만요.
+    E: Just a moment.
+
+    O: 잠깐만요.
+    E: Just a moment[p].

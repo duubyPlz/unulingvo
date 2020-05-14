@@ -1,14 +1,14 @@
 == TTMIK Level 1 ==
 * p -> period
 
-> One
+> One - Hello. Thank you. / 안녕하세요. 감사합니다.
 	O: 안녕하세요.
 	E: Hello.
 
 	O: 감사합니다.
 	E: Thank you.
 
-> Two
+> Two - Yes. No. What? / 네. 아니요. 네?
     O: 네.
     E: Yes.
 
@@ -33,14 +33,14 @@
 	O: 네, 맞아요.
 	E: Yes, that is right.
 
-> Three
+> Three - Good-bye. See you. / 안녕히 가세요. 안녕히 계세요. 안녕.
     O: 안녕히 계세요.
     E: Goodbye (stay in peace).
 
     O: 안녕히 가세요.
     E: Goodbye (go in peace).
 
-> Four
+> Four - I’m sorry. Excuse me. / 죄송합니다. 저기요.
     O: 죄송합니다.
     E: I apologise.
 
@@ -53,7 +53,7 @@
     O: 잠깐만요.
     E: Just a moment[p].
 
-> Five
+> Five - It’s me. What is it? / 저예요. 뭐예요?
     O: 물이에요.
     E: It's water.
 
@@ -66,4 +66,116 @@
     O: 학교예요.
     E: It's a school.
 
-> Six
+> Six - What is this? This is … / 이거 뭐예요? 이거…
+    O: 책이에요.
+    E: It's a book.
+
+    O: 저예요.
+    E: It's me.
+
+    O: 이거 책이에요.
+    E: This is a book.
+
+    O: 카메라예요.
+    E: It's a camera.
+
+    O: 이거 카메라예요.
+    E: This is a camera.
+
+    O: 커피예요.
+    E: It's coffee.
+
+    O: 이거 커피예요.
+    E: This is coffee.
+
+    O: 사전이에요.
+    E: It's a dictionary.
+
+    O: 이거 사전이에요.
+    E: This is a dictionary.
+
+    O: 이거 뭐예요?
+    E: What is this?
+
+    O: 이거 마이크예요.
+    E: This is a microphone.
+
+    O: 이거 핸드폰이에요.
+    E: This is a cellphone.
+
+    O: 이거 물이에요.
+    E: This is water.
+
+    O: 이거 커피예요?
+    E: Is this coffee?
+
+    O: 아니요. 이거 물이에요.
+    E: No. This is water.
+
+    O: 네. 맞아요.
+    E: Yes, that’s right.
+
+> Seven - This, That, It / 이, 그, 저
+    O: 이 커피
+    E: this coffee
+
+    O: 이 컴퓨터
+    E: this computer
+
+    O: 이 아이스크림
+    E: this ice-cream
+
+    O: 이 호텔
+    E: this hotel
+
+    O: 이 택시
+    E: this taxi
+
+    O: 이 버스
+    E: this bus
+
+    O: 이 카메라
+    E: this camera
+
+    O: 이 피자
+    E: this pizza
+
+    O: 저 마이크
+    E: that microphone over there
+
+    O: 저 테이블
+    E: that table over there
+
+    O: 저 레스토랑
+    E: that restaurant over there
+
+> Eight - It’s NOT me. / 아니에요.
+    O: 저 아니에요.
+    E: It is not me.
+
+    O: 우유 아니에요.
+    E: It is not milk.
+
+    O: 물 아니에요.
+    E: It is not water.
+
+    O: 이거 우유 아니에요.
+    E: This is not milk.
+
+    O: 저 학생 아니에요.
+    E: I am not a student.
+
+    O: 학생 아니에요
+    E: not a student
+
+    O: 저거 술 아니에요
+    E: That over there is not liquor.
+
+    O: 그거 고양이 아니에요.
+    E: That is not a cat.
+
+    O: 그거 호랑이 아니에요.
+    E: That is not a tiger.
+
+> Nine - Particles for Topic and Subject / 은, 는, 이, 가
+

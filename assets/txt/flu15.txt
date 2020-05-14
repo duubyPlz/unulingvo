@@ -1,0 +1,12 @@
+== TTMIK 1.5 - It’s me. What is it? / 저예요. 뭐예요? ==
+    O: 물이에요.
+    E: It's water.
+
+    O: 가방이에요.
+    E: It's a bag.
+
+    O: 사무실이에요.
+    E: It's an office.
+
+    O: 학교예요.
+    E: It's a school.
