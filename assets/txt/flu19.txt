@@ -1,1 +1,37 @@
 == TTMIK 1.9 - Particles for Topic and Subject / 은, 는, 이, 가 ==
+    O: 저는 학생이에요.
+    E: I[l] am a student.
+    F: _I[l]_ am a student.
+
+    O: 이거 사과예요. 
+    E: This is an apple.
+
+    # The other things are not apples, but THIS is an apple.
+    O: 이거는 사과예요.
+    E: This[l] is an apple.
+    F: _This[l]_ is an apple.
+
+    O: 이거는 뭐예요?
+    E: And as for this one, what is it?
+
+    O: 오늘 날씨 좋네요
+    E: The weather is good today.
+
+    O: 늘은 날씨 좋네요.
+    E: The weather (has not been so good lately, but) today (it) is good.
+
+    O: 오늘 날씨는 좋네요.
+    E: Today (everything else is not good, but at least) the weather is good.
+
+    O: 뭐가 좋아요?
+    E: WHAT is good?
+    F: WHAT _is good_?
+
+    O: 이 책 좋아요.
+    E: This book is good.
+
+    O: 이 책은 좋아요.
+    E: (The other books are not good, and I do not care about the other books, but at least) This book is good.
+
+    O: 이 책이 좋아요.
+    E: (There are no other books as good as this one) This book is good.
