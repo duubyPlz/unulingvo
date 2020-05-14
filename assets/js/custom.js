@@ -404,6 +404,8 @@ function parse(module, language) {
         console.warn("Language isn't valid: " + language);
     }
 
+    console.log('filename: ' + fileName);
+
     try {
         $.get(fileName, function(data) {
             // console.log(fileName);
@@ -488,6 +490,8 @@ function parse(module, language) {
             formatted: ""
         };
     }
+
+    console.log(fileHash);
 }
 
 function display_loader(isFlu) {
