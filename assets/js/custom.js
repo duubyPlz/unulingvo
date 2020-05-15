@@ -508,6 +508,7 @@ function display(isFlu) {
     var english = keys[index]; // key to retrieve
     var currentEntry = fileHash[english]; // Get
     currentCorrectOriginal = currentEntry.original
+
     var formatted = currentEntry.formatted
     if (formatted != "") {
         formattedHtml = generateFormattedHtml(formatted, english);
@@ -588,15 +589,28 @@ function styleDelete(string) {
     return formatted;
 }
 
+function makeWhitelistRegex(string) {
+    return new RegExp("[^" + string + "]", "g");
+}
+
+function makeBlacklistRegex(string) {
+    return new RegExp("[" + string + "]", "g");
+}
+
 function logic(language, isFlu) {
     var correct = false;
-    var inputString = isFlu ? $('.textarea#flu-answer').html() : $('.textarea#answer').html();
+    var inputString = 
+        isFlu
+        ? $('.textarea#flu-answer').html().replace("&nbsp;", " ").trim()
+        : $('.textarea#answer').html().replace("&nbsp;", " ").trim();
+
+    console.log("input: `" + inputString + "`");
 
     var hyphenRegex = new RegExp("\-", "g");
-    var eoWhitelistString = "[^a-zA-Z0-9_.,?!'\" ĉĝĥĵŝŭĈĜĤĴŜŬ\-]";
-    var eoWhitelistRegex = new RegExp(eoWhitelistString, "g");
-    var eoBlacklistString = "[.,?!:\";]";
-    var eoBlacklistRegex = new RegExp(eoBlacklistString, "g");
+    var eoWhitelistString = "a-zA-Z0-9_.,?!'\" ĉĝĥĵŝŭĈĜĤĴŜŬ\-";
+    var eoWhitelistRegex = makeWhitelistRegex(eoWhitelistString);
+    var eoBlacklistString = ".,?!:\";";
+    var eoBlacklistRegex = makeBlacklistRegex(eoBlacklistString);
     /// Whitelisting CJK:
     //     \p{Han} [\x3400-\x4DB5\x4E00-\x9FCB\xF900-\xFA6A]
     //     Hangul Compatibility Jamo [\x3130-\x318F]
@@ -617,17 +631,17 @@ function logic(language, isFlu) {
     //     http://stackoverflow.com/questions/30069846/how-to-find-out-chinese-or-japanese-character-in-a-string-in-python
     //     http://stackoverflow.com/questions/280712/javascript-unicode-regexes
     // \u3000-\u303F is cjk punctuation, no need to whitelist
-    var cjkWhitelistString = "[^\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5]";
-    var cjkWhitelistRegex = new RegExp(cjkWhitelistString, "g");
-    var grWhitelistString = "[^a-zA-Z0-9_.,?!'\" \-\u1F00-\u1FFF\u0370-\u03FF ]";
-    var grWhitelistRegex = new RegExp(grWhitelistString , "g");
-    var grBlacklistString = "[.,?!:\";]";
-    var grBlacklistRegex = new RegExp(grBlacklistString , "g");
+    var cjkWhitelistString = "\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5";
+    var cjkWhitelistRegex = makeWhitelistRegex(cjkWhitelistString);
+    var grWhitelistString = "a-zA-Z0-9_.,?!'\" \-\u1F00-\u1FFF\u0370-\u03FF";
+    var grWhitelistRegex = makeWhitelistRegex(grWhitelistString);
+    var grBlacklistString = ".,?!:\";";
+    var grBlacklistRegex = makeBlacklistRegex(grBlacklistString);
 
-    var sanitisedString = ""; // Need to use this in another 'if' statement
+    var sanitisedInput = ""; // Need to use this in another 'if' statement
     if (language == 'eo') {    
-        sanitisedString = inputString.replace(eoWhitelistRegex, "");
-        var simplifiedString = sanitisedString.replace(eoBlacklistRegex, "").toLowerCase().trim();
+        sanitisedInput = inputString.replace(eoWhitelistRegex, "");
+        var simplifiedString = sanitisedInput.replace(eoBlacklistRegex, "").toLowerCase().trim();
 
         var simplifiedEO = currentCorrectOriginal.replace(eoBlacklistRegex, "").toLowerCase().trim();
         var simplifiedEONoHyphens = simplifiedEO.replace(hyphenRegex, " ");
@@ -637,38 +651,42 @@ function logic(language, isFlu) {
         }
     }
     else if (language == 'flu') { // [TODO] refactor
-        inputString = $('.textarea#flu-answer').html();
         var eoAndCjkWhitelistString = eoWhitelistString + cjkWhitelistString;
-        var eoAndCjkWhitelistRegex = new RegExp(eoAndCjkWhitelistString, "g");
-        sanitisedString = inputString.replace(eoAndCjkWhitelistRegex, "");
-        var simplifiedString = sanitisedString.replace(eoBlacklistRegex, "").toLowerCase().trim();
+        console.log(eoWhitelistString + "+" + cjkWhitelistString);
+        var eoAndCjkWhitelistRegex = makeWhitelistRegex(eoAndCjkWhitelistString);
+        sanitisedInput = inputString.replace(eoAndCjkWhitelistRegex, "");
 
-        var simplifiedEO = currentCorrectOriginal.replace(eoBlacklistRegex, "").toLowerCase().trim();
-        var simplifiedEONoHyphens = simplifiedEO.replace(hyphenRegex, " ");
+        console.log("SINPUT: " + sanitisedInput);
 
-        if ((simplifiedEO === simplifiedString) || (simplifiedEONoHyphens === simplifiedString)) {
+        var simplifiedString = sanitisedInput.replace(eoBlacklistRegex, "").toLowerCase().trim();
+
+        console.log("orig now: " + currentCorrectOriginal);
+
+        var simplifiedAnswer = currentCorrectOriginal.replace(eoBlacklistRegex, "").toLowerCase().trim();
+        var simplifiedAnswerNoHyphens = simplifiedAnswer.replace(hyphenRegex, " ");
+
+        if ((simplifiedAnswer === simplifiedString) || (simplifiedAnswerNoHyphens === simplifiedString)) {
             correct = true;
         }
 
-        console.log("SINPUT: " + sanitisedString);
-        console.log("SCORRECT: " + sanitisedCJK); 
+        console.log("SCORRECT: " + simplifiedAnswer + " or " + simplifiedAnswerNoHyphens); 
     }
     else if ((language == 'ja')
             || (language == 'ko')
             || (language == 'cn')) {
-        sanitisedString = inputString
+        sanitisedInput = inputString
         .replace(cjkWhitelistRegex, "");
 
         var sanitisedCJK = currentCorrectOriginal
         .replace(cjkWhitelistRegex, "");
-        console.log(sanitisedString);
+        console.log(sanitisedInput);
         
-        if (sanitisedCJK === sanitisedString) {
+        if (sanitisedCJK === sanitisedInput) {
             correct = true;
         }
     } else if (language == 'gr') {
-        sanitisedString = inputString.replace(grWhitelistRegex, "");
-        var simplifiedString = sanitisedString.replace(grBlacklistRegex, "").toLowerCase().trim();
+        sanitisedInput = inputString.replace(grWhitelistRegex, "");
+        var simplifiedString = sanitisedInput.replace(grBlacklistRegex, "").toLowerCase().trim();
 
         var simplifiedGr = currentCorrectOriginal.replace(grBlacklistRegex, "").toLowerCase().trim();
         var simplifiedGrNoHyphens = simplifiedGr.replace(hyphenRegex, " ");
@@ -709,7 +727,7 @@ function logic(language, isFlu) {
             // Change to correct answer
             $('.textarea#flu-answer').addClass('incorrect');
 
-            var correctFormatted = formatCorrect(currentCorrectOriginal, sanitisedString);
+            var correctFormatted = formatCorrect(currentCorrectOriginal, sanitisedInput);
 
             $('.textarea#flu-answer').html(correctFormatted);
 
@@ -732,7 +750,7 @@ function logic(language, isFlu) {
             // Change to correct answer
             $('.textarea#answer').addClass('incorrect');
 
-            var correctFormatted = formatCorrect(currentCorrectOriginal, sanitisedString);
+            var correctFormatted = formatCorrect(currentCorrectOriginal, sanitisedInput);
 
             $('.textarea#answer').html(correctFormatted);
 
