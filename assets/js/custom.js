@@ -656,11 +656,7 @@ function logic(language, isFlu) {
         var eoAndCjkWhitelistRegex = makeWhitelistRegex(eoAndCjkWhitelistString);
         sanitisedInput = inputString.replace(eoAndCjkWhitelistRegex, "");
 
-        console.log("SINPUT: " + sanitisedInput);
-
         var simplifiedString = sanitisedInput.replace(eoBlacklistRegex, "").toLowerCase().trim();
-
-        console.log("orig now: " + currentCorrectOriginal);
 
         var simplifiedAnswer = currentCorrectOriginal.replace(eoBlacklistRegex, "").toLowerCase().trim();
         var simplifiedAnswerNoHyphens = simplifiedAnswer.replace(hyphenRegex, " ");
@@ -668,8 +664,6 @@ function logic(language, isFlu) {
         if ((simplifiedAnswer === simplifiedString) || (simplifiedAnswerNoHyphens === simplifiedString)) {
             correct = true;
         }
-
-        console.log("SCORRECT: " + simplifiedAnswer + " or " + simplifiedAnswerNoHyphens); 
     }
     else if ((language == 'ja')
             || (language == 'ko')
@@ -679,7 +673,6 @@ function logic(language, isFlu) {
 
         var sanitisedCJK = currentCorrectOriginal
         .replace(cjkWhitelistRegex, "");
-        console.log(sanitisedInput);
         
         if (sanitisedCJK === sanitisedInput) {
             correct = true;
