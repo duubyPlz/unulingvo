@@ -6,10 +6,8 @@
     O: 이거 사과예요. 
     E: This is an apple.
 
-    # The other things are not apples, but THIS is an apple.
     O: 이거는 사과예요.
-    E: This[l] is an apple.
-    F: _This[l]_ is an apple.
+    E: (The other things are not apples, but) This is an apple.
 
     O: 이거는 뭐예요?
     E: And as for this one, what is it?
@@ -17,7 +15,7 @@
     O: 오늘 날씨 좋네요
     E: The weather is good today.
 
-    O: 늘은 날씨 좋네요.
+    O: 오늘은 날씨 좋네요.
     E: The weather (has not been so good lately, but) today (it) is good.
 
     O: 오늘 날씨는 좋네요.

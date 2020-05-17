@@ -1,9 +1,9 @@
 == TTMIK 1.12 - It’s delicious. Thank you for the food. / 맛있어요. 잘 먹겠습니다. 잘 먹었습니다.==
-    O: 
-    E: 
+    O: 이거 맛있어요.
+    E: This is delicious.
 
-    O: 
-    E: 
+    O: 맛있어요.
+    E: It is tasty. / It is delicious.
 
     O: 
     E: 
