@@ -1,4 +1,6 @@
 == TTMIK 1.4 - I’m sorry. Excuse me. / 죄송합니다. 저기요. ==
+* p -> period
+
     O: 죄송합니다.
     E: I apologise.
 

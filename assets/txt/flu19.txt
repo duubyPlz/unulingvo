@@ -1,4 +1,6 @@
 == TTMIK 1.9 - Particles for Topic and Subject / 은, 는, 이, 가 ==
+* l -> long
+
     O: 저는 학생이에요.
     E: I[l] am a student.
     F: _I[l]_ am a student.

@@ -1,0 +1,63 @@
+== TTMIK 1.21 - Negative Sentences / 안, -지 않다 ==
+* f -> formal
+* l -> long
+
+    # 안 is simpler and more colloquial
+    # -자 않다 is relatively formal but not necessarily only for formal situations.
+
+    O: 집에 가요.
+    E: I am going home. / I go home.
+
+    O: 집에 안 가요.
+    E: I am NOT going home. / I DO NOT go home.
+
+    O: 집에 안 가요?
+    E: You are NOT going home? / You DO NOT go home?
+
+    O: 그거 버렸어요.
+    E: I threw it away.
+
+    O: 그거 안 버렸어요.
+    E: I DID NOT throw it away.
+
+    O: 그거 아직 안 버렸어요.
+    E: I DID NOT throw it away yet.
+
+    O: 가지 않았어요.
+    E: I DID NOT[l] go.
+
+    O: 가지 않아요.
+    E: I DO NOT go. / I am NOT going.
+
+    O: 버리지 않아요.
+    E: I DO NOT throw it away.
+
+    O: 버리지 않았어요
+    E: I DID NOT throw it away.
+
+    O: 아파요?
+    E: Does it hurt?
+
+    O: 안 아파요.
+    E: It does not hurt.
+
+    O: 안 먹어요?
+    E: You are not going to eat?
+
+    O: 안 먹어요!
+    E: I am not eating!
+
+    O: 정말 안 먹어요? 맛있어요!
+    E: You are really[f] not going to eat? It is delicious.
+
+    O: 안 먹어요. 배 안 고파요.
+    E: I am not eating. I am not hungry.
+
+    O: 이거 매워요?
+    E: Is this spicy?
+
+    O: 아니요. 안 매워요.
+    E: No. It is not spicy.
+
+    O: 진짜 안 매워요?
+    E: It is really not spicy?
