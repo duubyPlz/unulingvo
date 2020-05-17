@@ -1,0 +1,18 @@
+== TTMIK 1.19 - When / 언제 ==
+    O: 언제 했어요?
+    E: When did you do it?
+
+    O: 언제 도착했어요?
+    E: When did you arrive?
+
+    O: 언제 왔어요?
+    E: When did you come?
+
+    O: 언제 일어나요?
+    E: When do you get up?
+
+    O: 아침에 언제 일어나요?
+    E: In the morning, when do you get up?
+
+    O: What time do you get up in the morning?
+    E: 아침에 몇 시에 일어나요?

@@ -39,24 +39,3 @@
 
     O: 사무실에서 일해요.
     E: I work at the office.
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
