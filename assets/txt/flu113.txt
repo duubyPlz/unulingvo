@@ -1,72 +1,24 @@
 == TTMIK 1.13 - I want to … / -고 싶어요 ==
-    O: 
-    E:
+    O: 가고 싶어요. 
+    E: I want to go.
  
-    O: 
-    E:
+    O: 보고 싶어요. 
+    E: I want to see/look/watch.
  
-    O: 
-    E:
+    O: 먹고 싶어요.
+    E: I want to eat.
  
-    O: 
-    E:
+    O: 뭐 먹고 싶어요?
+    E: What do you want to eat?
  
-    O: 
-    E:
+    O: 햄버거 먹고 싶어요.
+    E: I want to eat a hamburger.
  
-    O: 
-    E:
+    O: 회 먹고 싶어요.
+    E: I want to eat raw fish.
  
-    O: 
-    E:
+    O: 더 먹고 싶어요.
+    E: I want to eat more.
  
-    O: 
-    E:
- 
-    O: 
-    E:
- 
-    O: 
-    E:
- 
-    O: 
-    E:
- 
-    O: 
-    E:
- 
-    O: 
-    E:
- 
-    O: 
-    E:
- 
-    O: 
-    E:
- 
-    O: 
-    E:
- 
-    O: 
-    E:
- 
-    O: 
-    E:
- 
-    O: 
-    E:
- 
-    O: 
-    E:
- 
-    O: 
-    E:
- 
-    O: 
-    E:
- 
-    O: 
-    E:
- 
-    O: 
-    E:
+    O: 더 주세요.
+    E: Please give me more.
