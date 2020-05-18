@@ -27,7 +27,7 @@
     E: There is no time. / I do not have time. / We do not have time.
 
     O: 시간은 있어요
-    E: (I) have nothing but time.
+    E: (I) have (nothing but) time.
 
     O: 시간은 없어요.
     E: (I have other things, but) TIME is not what I have.
