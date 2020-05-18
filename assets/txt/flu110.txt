@@ -30,7 +30,7 @@
     E: I have nothing but time.
 
     O: 시간은 없어요.
-    E: I have other things, but TIME is not what I have.
+    E: (I have other things, but) TIME is not what I have.
 
     O: 시간이 없어요. 
     E: (What is it that you don’t have?) TIME is what I don’t have.
