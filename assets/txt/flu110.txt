@@ -21,13 +21,13 @@
     E: There is no water. / I do not have water. / They do not have water.
 
     O: 친구 없어요.
-    E: I do not have friends.
+    E: (I) do not have friends.
 
     O: 시간 없어요.
     E: There is no time. / I do not have time. / We do not have time.
 
     O: 시간은 있어요
-    E: I have nothing but time.
+    E: (I) have nothing but time.
 
     O: 시간은 없어요.
     E: (I have other things, but) TIME is not what I have.
