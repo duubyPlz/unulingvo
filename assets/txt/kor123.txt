@@ -16,6 +16,7 @@
 
     O: 오늘은 선생님 두 분의 생신이에요.
     E: It is two teachers' birthday today. @polite
+    F: It is two teachers' birthday _today_. @polite
 
     # 나이가 어떻게 되세요?
     # 몇 살이에요? # non-honorific
@@ -35,6 +36,7 @@
 
     O: 저는 제 선생님 성함을 몰라요.
     E: I do not know my teacher's name. @polite
+    F: _I_ do not know my[s] teacher's[s] name. @polite
 
     O: 제 할아버지는 연세가 많습니다.
     E: My grandfather is old. @formal
