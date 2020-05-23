@@ -2,9 +2,12 @@
     O: 할머니께서 주무십니까?
     E: Does grandmother[n] sleep? @formal
 
+    # 드리다: used when the recipient is respected
+    # 주시다: person giving is being respected
+    # 주다: normal
     O: 친구는 선생님께 책을 드립니다.
     E: The friend gives the teacher a book. @formal
-    ㄹ: _The friend_ gives the teacher a book. @formal
+    F: _The friend_ gives the teacher a book. @formal
 
     O: 저는 선생님께 사과를 드려요.  
     E: I give the teacher an apple. @polite
