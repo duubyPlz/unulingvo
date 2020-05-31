@@ -11,16 +11,20 @@
     F: WHO _did it_?
 
     O: 누가 전화했어요?
-    E: Who called?
+    E: WHO called?
+    F: WHO _called_?
 
     O: 이거 누구예요?
     E: Who is this? 
 
     O: 어제 누가 왔어요?
-    E: Who came yesterday?
+    E: WHO came yesterday?
+    F: WHO _came yesterday_?
 
     O: 그거 누가 만들었어요?
-    E: Who made that?
+    E: WHO made that?
+    F: WHO _made that_?
 
     O: 누가 샀어요?
-    E: Who bought it?
+    E: WHO bought it?
+    F: WHO _bought it_?

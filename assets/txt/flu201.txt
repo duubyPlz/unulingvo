@@ -1,0 +1,63 @@
+== TTMIK 2.1 - Future Tense / -ㄹ/을 거예요, 할 거예요 ==
+    O: 지금 갈 거예요
+    E: I am going to go (there) now.
+
+    O: 혼자 갈 거예요.
+    E: I am going to go alone.
+
+    O: 내일 갈 거예요.
+    E: I am going to go tomorrow.
+
+    O: 할 거예요.
+    E: I am going to do (it). / I will do (it).
+
+    O: 뭐 할 거예요?
+    E: What are you going to do?
+
+    O: 언제 할 거예요?
+    E: When are you going to do (it)?
+
+    O: 이거 언제 할 거예요?
+    E: When are you going to do this?
+
+    O: 이거 정말 할 거예요?
+    E: Are you really going to do this?
+
+    O: I am going to wear (it). / I will wear (it).
+    E: 입을 거예요.
+
+    O: 청바지 입을 거예요.
+    E: I am going to wear blue jeans.
+
+    O: 뭐 입을 거예요?
+    E: What are you going to wear?
+
+    O: 티셔츠 입을 거예요.
+    E: I am going to wear a t-shirt.
+
+    O: 치마 입을 거예요
+    E: I am going to wear a skirt.
+
+    O: 만날 거예요.
+    E: I am going to meet (him/her/that person/them). / I will meet (him/her/that person/them).
+
+    O: 누구 만날 거예요?
+    E: Who are you going to meet?
+
+    O: 어디에서 만날 거예요?
+    E: Where are you going to meet?
+
+    O: 언제 만날 거예요?
+    E: When are you going to meet?
+
+    O: 팔 거예요.
+    E: I am going to sell (it). / I will sell (it).
+
+    O: 뭐 팔 거예요?
+    E: What are you going to sell?
+
+    O: 어디에서 팔 거예요?
+    E: Where are you going to sell it?
+
+    O: 얼마에 팔 거예요?
+    E: At what price are you going to sell it?
