@@ -1,0 +1,39 @@
+== TTMIK 1.24 - Why? How? / 왜? 어떻게? ==
+    O: 어떻게
+    E: how
+
+    O: 어떻게 찾았어요?
+    E: How did you find it?
+
+    O: 어떻게 왔어요?
+    E: How did you get here?
+
+    O: 왜 전화했어요?
+    E: Why did you call?
+
+    O: 왜 안 왔어요?
+    E: Why didn’t you come?
+
+    O: 얼마예요?
+    E: How much is it?
+
+    O: 이거 얼마예요?
+    E: How much is this?
+
+    O: 저거 얼마예요? 
+    E: How much is that (over there)?
+
+    O: 그거 얼마예요?
+    E: How much is that?
+
+    O: 얼마 냈어요?
+    E: How much did you pay?
+
+    O: 얼마나 자주 와요?
+    E: How often do you come?
+
+    O: 얼마나 커요?
+    E: How big is it?
+
+    O: 얼마나 무거워요?
+    E: How heavy is it?
