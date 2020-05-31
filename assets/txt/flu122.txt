@@ -1,0 +1,51 @@
+== TTMIK 1.22 - 하다 verbs ==
+    O: 공부해요
+    E: study
+
+    O: work
+    E: 일해요
+
+    O: remember
+    E: 기억해요
+
+    O: clean
+    E: 청소해요
+
+    O: cook
+    E: 요리해요
+
+    O: move, move into a different house
+    E: 이사해요
+
+    O: sing
+    E: 노래해요
+
+    O: make an effort, try hard
+    E: 노력해요
+
+    O: agree
+    E: 동의해요
+
+    O: admit, acknowledge
+    E: 인정해요
+
+    O: regret
+    E: 후회해요
+
+    O: exercise, work out
+    E: 운동해요
+
+    O: love
+    E: 사랑해요
+
+    O: speak
+    E: 말해요
+
+    O: think
+    E: 생각해요
+
+    O: not thinking
+    E: 생각 안 해요
+
+    O: not making an effort, not trying hard
+    E: 노력 안 해요
