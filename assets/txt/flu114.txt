@@ -45,4 +45,4 @@
     E: I want to watch a movie.
 
     O: 김밥 먹고 싶어요.
-    E: I want to eat kiimbap.
+    E: I want to eat kimbap.
