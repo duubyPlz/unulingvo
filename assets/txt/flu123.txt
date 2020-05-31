@@ -1,0 +1,26 @@
+== TTMIK 1.23 - Who? / 누구? ==
+    O: 누구예요?
+    E: Who is it?
+
+    O: 누가 제인이에요?
+    E: (Among these people, none other than) WHO is Jane?
+    F: (Among these people, none other than) WHO _is Jane_?
+
+    O: 누가 했어요?
+    E: WHO did it?
+    F: WHO _did it_?
+
+    O: 누가 전화했어요?
+    E: Who called?
+
+    O: 이거 누구예요?
+    E: Who is this? 
+
+    O: 어제 누가 왔어요?
+    E: Who came yesterday?
+
+    O: 그거 누가 만들었어요?
+    E: Who made that?
+
+    O: 누가 샀어요?
+    E: Who bought it?
