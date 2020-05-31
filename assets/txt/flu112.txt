@@ -6,7 +6,7 @@
     E: It is tasty. / It is delicious.
 
     O: 저 케이크 맛있어요.
-    E: That cake is delicious.
+    E: That cake (over there) is delicious.
 
     O: 삼겹살 맛있어요.
     E: Samgyupsal is delicious.
