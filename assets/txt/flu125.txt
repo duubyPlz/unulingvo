@@ -1,0 +1,47 @@
+== TTMIK 1.25 - From A To B, From C Until D / -에서/부터 -까지 ==
+    # ~에서 not for time
+
+    O: 서울에서
+    E: From Seoul (to another place)
+
+    O: 서울부터
+    E: (Starting) From Seoul
+
+    O: 지금부터
+    E: From now
+
+    O: 어제부터
+    E: From (or since) yesterday
+
+    O: 서울까지
+    E: (From somewhere else) to Seoul
+
+    O: 지금까지
+    E: Until now
+
+    O: 내일까지
+    E: Until tomorrow
+
+    O: 언제까지
+    E: Until when
+
+    O: 여기에서 저기까지
+    E: From here to (over) there
+
+    O: 머리부터 발끝까지
+    E: (Starting) From head to toe
+
+    O: 여기부터 저기까지
+    E: (Starting) From here to (over) there
+
+    O: 머리에서 발끝까지
+    E: From head to toe
+
+    O: 서울에서 부산까지
+    E: From Seoul to Busan
+
+    O: 서울부터 부산까지
+    E: (Starting) From Seoul to Busan
+
+    O: 아침부터 저녁까지
+    E: From morning until evening
