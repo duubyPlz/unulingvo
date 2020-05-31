@@ -455,10 +455,10 @@ function parse(module, language) {
             // End of loop.
             // Just in case, if the last line is not a separator
             if (!line.match(separatorRegex)) {
-                // 
                 addToFileHash(fileHash, currentEntry);
                 currentEntry = generateEmptyEntry();
             }
+            console.log(fileHash);
         }, 'text');
     } catch (e) {
         console.warn(e);
