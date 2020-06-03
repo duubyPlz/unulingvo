@@ -14,5 +14,5 @@
     O: 아침에 언제 일어나요?
     E: In the morning, when do you get up?
 
-    O: What time do you get up in the morning?
-    E: 아침에 몇 시에 일어나요?
+    O: 아침에 몇 시에 일어나요?
+    E: What time do you get up in the morning?
