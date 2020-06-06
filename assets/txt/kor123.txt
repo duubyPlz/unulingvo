@@ -6,7 +6,9 @@
     O: 선생님 네 분
     E: Four teachers
 
-    O: 저는 할아버지 생신 케이크를 삽니다.
+    # 저는 할아버지 생신 케이크를 삽니다.
+    # ^ "I buy a birthday cake for grandfathers." Or maybe "cake for grandfathers' birthdays."
+    O: 저는 할아버지께 생신 케이크를 삽니다.
     E: I buy a birthday cake for grandfather[n]. @formal
     F: _I_ buy a birthday cake for grandfather[n]. @formal
 
