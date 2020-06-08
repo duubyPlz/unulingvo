@@ -27,13 +27,13 @@
     E: I DID NOT[l] go.
 
     O: 가지 않아요.
-    E: I DO NOT go. / I am NOT going.
+    E: I DO NOT[l] go. / I am NOT[l] going.
 
     O: 버리지 않아요.
-    E: I DO NOT throw it away.
+    E: I DO NOT[l] throw it away.
 
     O: 버리지 않았어요
-    E: I DID NOT throw it away.
+    E: I DID NOT[l] throw it away.
 
     O: 아파요?
     E: Does it hurt?
