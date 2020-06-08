@@ -15,13 +15,13 @@
     E: You are NOT going home? / You DO NOT go home?
 
     O: 그거 버렸어요.
-    E: I threw it away.
+    E: I threw that away.
 
     O: 그거 안 버렸어요.
-    E: I DID NOT throw it away.
+    E: I DID NOT throw that away.
 
     O: 그거 아직 안 버렸어요.
-    E: I DID NOT throw it away yet.
+    E: I DID NOT throw that away yet.
 
     O: 가지 않았어요.
     E: I DID NOT[l] go.
