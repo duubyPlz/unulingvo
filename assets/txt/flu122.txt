@@ -2,50 +2,50 @@
     O: 공부해요
     E: study
 
-    O: work
-    E: 일해요
+    O: 일해요
+    E: work
 
-    O: remember
-    E: 기억해요
+    O: 기억해요
+    E: remember
 
-    O: clean
-    E: 청소해요
+    O: 청소해요
+    E: clean
 
-    O: cook
-    E: 요리해요
+    O: 요리해요
+    E: cook
 
-    O: move, move into a different house
-    E: 이사해요
+    O: 이사해요
+    E: move, move into a different house
 
-    O: sing
-    E: 노래해요
+    O: 노래해요
+    E: sing
 
-    O: make an effort, try hard
-    E: 노력해요
+    O: 노력해요
+    E: make an effort, try hard
 
-    O: agree
-    E: 동의해요
+    O: 동의해요
+    E: agree
 
-    O: admit, acknowledge
-    E: 인정해요
+    O: 인정해요
+    E: admit, acknowledge
 
-    O: regret
-    E: 후회해요
+    O: 후회해요
+    E: regret
 
-    O: exercise, work out
-    E: 운동해요
+    O: 운동해요
+    E: exercise, work out
 
-    O: love
-    E: 사랑해요
+    O: 사랑해요
+    E: love
 
-    O: speak
-    E: 말해요
+    O: 말해요
+    E: speak
 
-    O: think
-    E: 생각해요
+    O: 생각해요
+    E: think
 
-    O: not thinking
-    E: 생각 안 해요
+    O: 생각 안 해요
+    E: not thinking
 
-    O: not making an effort, not trying hard
-    E: 노력 안 해요
+    O: 노력 안 해요
+    E: not making an effort, not trying hard
