@@ -6,7 +6,7 @@
     E: How did you find it?
 
     O: 어떻게 왔어요?
-    E: How did you get here?
+    E: How did you get (here)?
 
     O: 왜 전화했어요?
     E: Why did you call?
