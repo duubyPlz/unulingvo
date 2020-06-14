@@ -14,7 +14,7 @@
     E: From (or since) yesterday
 
     O: 서울까지
-    E: (From somewhere else) to Seoul
+    E: (Starting from somewhere else) to Seoul
 
     O: 지금까지
     E: Until now
