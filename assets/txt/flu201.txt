@@ -23,8 +23,8 @@
     O: 이거 정말 할 거예요?
     E: Are you really going to do this?
 
-    O: I am going to wear (it). / I will wear (it).
-    E: 입을 거예요.
+    O: 입을 거예요.
+    E: I am going to wear (it). / I will wear (it).
 
     O: 청바지 입을 거예요.
     E: I am going to wear blue jeans.
