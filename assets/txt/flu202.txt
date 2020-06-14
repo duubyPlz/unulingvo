@@ -1,0 +1,55 @@
+== TTMIK 2.2 - Object-marking Particles / -을, -를 ==
+* s -> short
+
+    O: 지갑 찾았어요?
+    E: Literal translation: "Wallet found?”
+
+    O: 네. 찾았어요.
+    E: Literal translation: "Yes. Found."
+
+    O: 사과를 먹었어요?
+    E: Did you eat an apple?
+
+    O: 사과를 사요?
+    E: Are you buying an apple?
+
+    O: 이 사과가 맛있어요.
+    E: This apple is delicious.
+    F: This apple _is delicious_.
+
+    O: 사과가 떨어졌어요.
+    E: The apple fell.
+    F: The apple _fell_.
+
+    O: 사과 사요?
+    E: Are you buying an apple[s]?
+
+    O: 이 사과 맛있어요.
+    E: This apple[s] is delicious.
+
+    O: 만났어요.
+    E: I met.
+
+    O: 누구 만났어요?
+    E: Who[s] did you meet?
+
+    O: 어제 여기에서 누구 만났어요?
+    E: Who[s] did you meet here yesterday?
+
+    O: 어제 누구를 여기에서 만났어요?
+    E: WHO did you meet here yesterday?
+
+    O: 텔레비전 봐요.
+    E: I watch TV[s].
+
+    O: 텔레비전 봐요?
+    E: Do you watch TV[s]?
+
+    O: 텔레비전 자주 봐요?
+    E: Do you watch TV[s] often?
+
+    O: 일주일에 몇 번 텔레비전 봐요?
+    E: How many times per week do you watch TV[s]?
+
+    O: 텔레비전을 일주일에 몇 번 봐요?
+    E: How many times a week do you watch TV?
