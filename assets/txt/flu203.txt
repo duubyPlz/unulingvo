@@ -4,6 +4,7 @@
     O: 커피, 빵, 그리고 물
     E: coffee, bread and water
 
+    # Can also use -하고
     O: 서울 그리고 부산
     E: Seoul and Busan
 
