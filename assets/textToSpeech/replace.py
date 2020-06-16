@@ -26,6 +26,7 @@ def replace(content_to_mutate):
     :return mutated content
     '''
 
+    # TODO continue here: fix regex syntax to be pythonic
     replacements = [
         (r"F:.*$\n", ""),
         (r"\*.*$\n", ""),
