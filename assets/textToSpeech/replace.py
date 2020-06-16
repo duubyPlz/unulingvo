@@ -26,37 +26,33 @@ def replace(content_to_mutate):
     :return mutated content
     '''
 
-    # TODO continue here: fix regex syntax to be pythonic
     replacements = [
-        (r"F:.*$\n", ""),
-        (r"\*.*$\n", ""),
-        (r"#.*$\n    ", ""),
-        (r"#.*$\n", ""),
-        (r"== (.*) ==", "\1."),
-        (r"(    O:.*)\n(    E:.*)", "\2\n\1"),
-        # (r"E:(.*)", "E:\1\n    Answer in\n    One.\n    Two.\n    Three.\n    Four.\n    Five."),
-        # (r"O:(.*)\n", "O:\1\n\n    Next Sentence."),
-        # (r">(.*)", "Lesson\1."),
-        # (r"    Next Sentence.\s*\nLesson", "Lesson"),
-        # (r"([^.])\n    Answer", "\1.\n    Answer"),
-        # (r"@([a-z, ]+)", "[\1]"),
-        # (r"", ""),
-        # (r"", ""),
-        # (r"", ""),
-        # (r"", ""),
-        # (r"", ""),
-        # (r"", ""),
-        # (r"", ""),
-        # (r"", ""),
-        # (r"", ""),
-        # (r"", ""),
+        (r"F:.*\n", r""),
+        (r"\*.*\n", r""),
+        (r"#.*\n    ", r""),
+        (r"#.*\n", r""),
+        (r"== (.*) ==", r"\1."),
+        (r"(    O:.*)\n(    E:.*)", r"\2\n\1"),
+        (r"E:(.*)", r"E:\1\n    Answer in\n    One.\n    Two.\n    Three.\n    Four.\n    Five."),
+        (r"O:(.*)\n", r"O:\1\n\n    Next Sentence."),
+        (r">(.*)", r"Lesson\1."),
+        (r"    Next Sentence.\s*\nLesson", r"Lesson"),
+        (r"([^.])\n    Answer", r"\1.\n    Answer"),
+        (r"@([a-z, ]+)", r"[\1]"),
+        (r"[OE]: ", r""),
+        (r"(.*\n\n.*Lesson One.)", r"NUMPLACEHOLDER \1"),
+        (r"Next Sentence.\s*\Z", "End of NUMPLACEHOLDER - TITLEPLACEHOLDER"),
+        # (r"Next Sentence.\s*\Z", "End of NUMPLACEHOLDER - {}".format(title)),
     ]
+
+    # TODO continue here: get title working & get NUMPLACEHOLDER (arg or in file_path)
+    # title = re.match(r"== (.*) ==") the first group
+    # for old, _ in replacements:
+    #     derp = re.findall(old, content_to_mutate)
+    #     print(derp)
 
     for old, new in replacements:
         content_to_mutate = re.sub(old, new, content_to_mutate)
-
-    print("FINAL")
-    print(content_to_mutate)
 
     return content_to_mutate
 
@@ -70,8 +66,7 @@ def overwrite(text, file_path):
         with open(file_path, "w") as file_stream:
             file_stream.write(text)
     except FileNotFoundError:
-        # print('Cannot open file: "{}". Exiting...'.format(file_path), file=sys.stderr)
-        print('Cannot open file: "{}". Exiting...'.format(file_path))
+        print('Cannot open file: "{}". Exiting...'.format(file_path), file=sys.stderr)
         exit(1)
 
 
