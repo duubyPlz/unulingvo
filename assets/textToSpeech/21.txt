@@ -1,0 +1,246 @@
+.
+* l -> long
+* n -> noun
+* g -> green
+* hs -> hard,short
+* c -> sino
+* s -> spoken
+* v -> variation
+
+> One
+
+
+
+
+
+    F: _I_ like red flowers, but[hs] he sends me yellow flowers. @formal
+
+
+
+
+
+
+    F: _He_ lives in a white house. @formal
+
+
+
+
+
+
+    F: _This apple_ is red. @formal
+
+
+
+    F: _Do you have_ a black[l] ball? @formal
+
+
+
+    F: The flower _is yellow_. @polite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    # 검은색인 곰 - Black-coloured bear
+    # 검은색 곰
+
+
+
+> Two
+    # Sino: adjectives (modified descriptive verbs) have to have at least ~색 (or ~색인)
+
+
+
+    F: The mountain _is green_. @polite
+
+
+
+
+
+
+    F: The gray[l] rabbit _is cute_. @polite
+
+
+
+    F: _The green[l][c] bird_ is a duck. @polite
+
+
+
+    F: _Pigs_ are pink. @polite
+
+
+
+    F: Where is _the brown[l] one_? @polite
+    
+
+
+    F: The purple[l] car _is fast_. @formal
+
+
+
+    F: _The butterfly_ is purple and[s] green. @polite
+
+
+
+    F: _Red_ is not pink. @formal
+
+
+
+    F: The wolf _is grey_. @polite
+
+
+
+    F: The green water _tastes bad_. @formal
+
+
+
+    F: _The sea_ is grey. @formal
+
+
+
+    F: The purple[l] bird _sings_. @formal
+
+
+
+    F: _The orange banana_ tastes bad. @polite
+
+
+
+
+
+
+    F: The orange[l] flower _is cheap_. @polite
+
+> Three
+
+
+    F: _Where is_ yellow? @polite
+
+
+
+    F: _He_ hates black[l]. @polite
+
+
+
+
+
+
+    F: _White and black_ are colors. @formal
+
+
+
+    F: What _color_ is blue? @formal
+
+    # 검정색 오렌지를 먹지 마세요.
+
+
+
+
+
+    F: _Yellow_ is pretty. @polite
+
+    # 그 색깔은 하얀색이다.
+
+
+    F: _That color_ is white. @formal
+
+
+
+
+
+
+
+
+
+
+
+
+    F: Is _red_ pretty? @polite
+
+
+
+    F: _The cat's color_ is yellow. @polite
+
+> Four
+
+
+    F: _The bear_ is[st] black. @polite
+
+
+
+    F: _The sweet banana_ is[st] perfectly yellow. @formal
+
+
+
+    F: _That bitter bulgogi (over there)_ is[st] very[v] black. @polite
+
+
+
+    F: _The expensive house_ is[st] yellow. @polite
+
+
+
+    F: The ocean _is[st] blue_. @polite
+
+    # 푸르다
+    # 풀(grass)
+    # something green (for example a green field, green eyes etc.), can also use it to describe something blue-ish
+    # (not 푸러요) 러-irregular: contains four words only: 푸르다, 누르다 (when meaning “yellow”), 노르다, 이르다 (when meaning “arrive” or “reach”).
+
+
+    F: The water _is[st] blue[g]_. @polite
+
+
+
+    F: _The best milk_ is[st] completely white. @formal
+
+    # tasteless is 싱겁다
+
+
+    F: _The bad-tasting cheese_ is[st] white. @polite
+
+
+
+    F: _Is[st]_ the fish (to eat) _red_? @formal
+
+
+
+    F: The bad dog _is[st] black_. @formal
+
+
+
+    F: _Spicy foods_ are[st] red. @polite
+
+
+
+    F: _Which_ vegetable _is[st] yellow_? @polite
+
+
+
+    F: _A pencil_ is[st] white. @formal
+
+
+
+    F: _This banana_ is[st] a little bit blue. @polite
+
+
+
+    F: _Which_ vegetable _is[st] yellow_? @polite
+
+
+
+    
