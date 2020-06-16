@@ -37,7 +37,7 @@
     E: Yesterday, who[s] did you meet here?
 
     O: 어제 누구를 여기에서 만났어요?
-    E: WHO did you meet here yesterday?
+    E: Yesterday, WHO did you meet here?
 
     O: 텔레비전 봐요.
     E: I watch TV[s].
