@@ -34,7 +34,7 @@
     E: Who[s] did you meet?
 
     O: 어제 여기에서 누구 만났어요?
-    E: Who[s] did you meet here yesterday?
+    E: Yesterday, who[s] did you meet here?
 
     O: 어제 누구를 여기에서 만났어요?
     E: WHO did you meet here yesterday?
