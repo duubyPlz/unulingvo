@@ -1,246 +1,603 @@
-== Colours ==
-* l -> long
-* n -> noun
-* g -> green
-* hs -> hard,short
-* c -> sino
-* s -> spoken
-* v -> variation
+21 Colours.
 
-> One
-    O: 노란 책 몇 권이 있습니까?
-    E: How many yellow books are there? @formal
+Lesson One.
+    How many yellow books are there? [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    노란 책 몇 권이 있습니까?
 
-    O: 저는 빨간 꽃을 좋아하지만 그는 저에게 노란 꽃을 보냅니다.
-    E: I like red flowers, but[hs] he sends me yellow flowers. @formal
-    F: _I_ like red flowers, but[hs] he sends me yellow flowers. @formal
+    Next Sentence.
+    I like red flowers, but[hs] he sends me yellow flowers. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 빨간 꽃을 좋아하지만 그는 저에게 노란 꽃을 보냅니다.
 
-    O: 검은 까치
-    E: Black magpie
+    Next Sentence.    
+    Black magpie.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    검은 까치
 
-    O: 그는 하얀 집에 삽니다.
-    E: He lives in a white house. @formal
-    F: _He_ lives in a white house. @formal
+    Next Sentence.
+    He lives in a white house. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그는 하얀 집에 삽니다.
 
-    O: 파란 바다
-    E: Blue ocean
+    Next Sentence.    
+    Blue ocean.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    파란 바다
 
-    O: 이 사과는 빨간색입니다.
-    E: This apple is red. @formal
-    F: _This apple_ is red. @formal
+    Next Sentence.
+    This apple is red. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 사과는 빨간색입니다.
 
-    O: 검은색인 공이 있습니까?
-    E: Do you have a black[l] ball? @formal
-    F: _Do you have_ a black[l] ball? @formal
+    Next Sentence.    
+    Do you have a black[l] ball? [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    검은색인 공이 있습니까?
 
-    O: 꽃이 노란색이에요.
-    E: The flower is yellow. @polite
-    F: The flower _is yellow_. @polite
+    Next Sentence.    
+    The flower is yellow. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    꽃이 노란색이에요.
 
-    O: 파란색인 새
-    E: The bird which is blue[l]
+    Next Sentence.    
+    The bird which is blue[l].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    파란색인 새
 
-    O: 빨간 꽃 하나
-    E: One red flower
+    Next Sentence.
+    One red flower.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빨간 꽃 하나
 
-    O: 하얀 고양이를 원해요.
-    E: (I) want a white cat. @polite
+    Next Sentence.
+    (I) want a white cat. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    하얀 고양이를 원해요.
 
-    O: 노란 나비
-    E: Yellow butterfly
+    Next Sentence.
+    Yellow butterfly.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    노란 나비
 
-    O: 빨간색인 책을 읽지 마세요.
-    E: Do not read the red[l] book. @polite
+    Next Sentence.
+    Do not read the red[l] book. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빨간색인 책을 읽지 마세요.
 
-    O: 하얀 양
-    E: White sheep
+    Next Sentence.
+    White sheep.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    하얀 양
 
-    # 검은색인 곰 - Black-coloured bear
-    # 검은색 곰
-    O: 검은 곰
-    E: Black bear
+    Next Sentence.
+    Black bear.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    검은 곰
 
-> Two
-    # Sino: adjectives (modified descriptive verbs) have to have at least ~색 (or ~색인)
+Lesson Two.
+    The mountain is green. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    산이 초록색이에요.
 
-    O: 산이 초록색이에요.
-    E: The mountain is green. @polite
-    F: The mountain _is green_. @polite
+    Next Sentence.    
+    The orange[l] flower is cheap. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    주황색인 꽃이 싸요.
 
-    O: 주황색인 꽃이 싸요.
-    E: The orange[l] flower is cheap. @polite
+    Next Sentence.
+    The gray[l] rabbit is cute. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    회색인 토끼가 귀여워요.
 
-    O: 회색인 토끼가 귀여워요.
-    E: The gray[l] rabbit is cute. @polite
-    F: The gray[l] rabbit _is cute_. @polite
+    Next Sentence.    
+    The green[l][c] bird is a duck. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    녹색인 새는 오리예요.
 
-    O: 녹색인 새는 오리예요.
-    E: The green[l][c] bird is a duck. @polite
-    F: _The green[l][c] bird_ is a duck. @polite
+    Next Sentence.    
+    Pigs are pink. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    돼지는 분홍색이에요.
 
-    O: 돼지는 분홍색이에요.
-    E: Pigs are pink. @polite
-    F: _Pigs_ are pink. @polite
+    Next Sentence.    
+    Where is the brown[l] one? [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    갈색인 것은 어디에 있어요?
 
-    O: 갈색인 것은 어디에 있어요?
-    E: Where is the brown[l] one? @polite
-    F: Where is _the brown[l] one_? @polite
-    
-    O: 보라색인 자동차가 빠릅니다.
-    E: The purple[l] car is fast. @formal
-    F: The purple[l] car _is fast_. @formal
+    Next Sentence.        
+    The purple[l] car is fast. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    보라색인 자동차가 빠릅니다.
 
-    O: 나비는 보라색하고 초록색이에요.
-    E: The butterfly is purple and[s] green. @polite
-    F: _The butterfly_ is purple and[s] green. @polite
+    Next Sentence.    
+    The butterfly is purple and[s] green. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    나비는 보라색하고 초록색이에요.
 
-    O: 빨간색은 분홍색이 아닙니다.
-    E: Red is not pink. @formal
-    F: _Red_ is not pink. @formal
+    Next Sentence.    
+    Red is not pink. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빨간색은 분홍색이 아닙니다.
 
-    O: 늑대가 회색이에요.
-    E: The wolf is grey. @polite
-    F: The wolf _is grey_. @polite
+    Next Sentence.    
+    The wolf is grey. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    늑대가 회색이에요.
 
-    O: 초록색 물이 맛없습니다.
-    E: The green water tastes bad. @formal
-    F: The green water _tastes bad_. @formal
+    Next Sentence.    
+    The green water tastes bad. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    초록색 물이 맛없습니다.
 
-    O: 바다는 회색입니다.
-    E: The sea is grey. @formal
-    F: _The sea_ is grey. @formal
+    Next Sentence.    
+    The sea is grey. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    바다는 회색입니다.
 
-    O: 보라색인 새가 노래합니다.
-    E: The purple[l] bird sings. @formal
-    F: The purple[l] bird _sings_. @formal
+    Next Sentence.    
+    The purple[l] bird sings. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    보라색인 새가 노래합니다.
 
-    O: 주황색 바나나는 맛없어요.
-    E: The orange banana tastes bad. @polite
-    F: _The orange banana_ tastes bad. @polite
+    Next Sentence.    
+    The orange banana tastes bad. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    주황색 바나나는 맛없어요.
 
-    O: 녹차 아이스크림
-    E: Green[c] tea ice cream
+    Next Sentence.    
+    Green[c] tea ice cream.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    녹차 아이스크림
 
-    O: 주황색인 꽃이 싸요.
-    E: The orange[l] flower is cheap. @polite
-    F: The orange[l] flower _is cheap_. @polite
+    Next Sentence.
+    The orange[l] flower is cheap. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    주황색인 꽃이 싸요.
 
-> Three
-    O: 노랑이 어디에 있어요?
-    E: Where is yellow? @polite
-    F: _Where is_ yellow? @polite
+Lesson Three.
+    Where is yellow? [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    노랑이 어디에 있어요?
 
-    O: 그는 검정색을 싫어해요.
-    E: He hates black[l]. @polite
-    F: _He_ hates black[l]. @polite
+    Next Sentence.    
+    He hates black[l]. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그는 검정색을 싫어해요.
 
-    O: 너의 색깔을 찾아!
-    E: Find your color! @impolite
+    Next Sentence.    
+    Find your color! [impolite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너의 색깔을 찾아!
 
-    O: 하양과 검정은 색깔입니다.
-    E: White and black are colors. @formal
-    F: _White and black_ are colors. @formal
+    Next Sentence.
+    White and black are colors. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    하양과 검정은 색깔입니다.
 
-    O: 무슨 색깔은 파랑입니까?
-    E: What color is blue? @formal
-    F: What _color_ is blue? @formal
+    Next Sentence.    
+    What color is blue? [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    무슨 색깔은 파랑입니까?
 
-    # 검정색 오렌지를 먹지 마세요.
-    O: 검정 오렌지를 먹지 마세요.
-    E: Don't eat the black[n] orange. @polite
+    Next Sentence.    
+    Don't eat the black[n] orange. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    검정 오렌지를 먹지 마세요.
 
-    O: 노랑은 예뻐요.
-    E: Yellow is pretty. @polite
-    F: _Yellow_ is pretty. @polite
+    Next Sentence.
+    Yellow is pretty. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    노랑은 예뻐요.
 
-    # 그 색깔은 하얀색이다.
-    O: 그 색깔은 하양입니다.
-    E: That color is white. @formal
-    F: _That color_ is white. @formal
+    Next Sentence.    
+    That color is white. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그 색깔은 하양입니다.
 
-    O: 나는 파랑새
-    E: Flying bluebird
+    Next Sentence.    
+    Flying bluebird.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    나는 파랑새
 
-    O: 빨강하고 하양하고 파랑
-    E: Red, white, and[s] blue
+    Next Sentence.
+    Red, white, and[s] blue.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빨강하고 하양하고 파랑
 
-    O: 주황색과 검정색
-    E: Orange and black[l]
+    Next Sentence.
+    Orange and black[l].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    주황색과 검정색
 
-    O: 빨강은 예뻐요?
-    E: Is red pretty? @polite
-    F: Is _red_ pretty? @polite
+    Next Sentence.
+    Is red pretty? [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빨강은 예뻐요?
 
-    O: 고양이의 색깔은 노랑이에요.
-    E: The cat's color is yellow. @polite
-    F: _The cat's color_ is yellow. @polite
+    Next Sentence.    
+    The cat's color is yellow. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    고양이의 색깔은 노랑이에요.
 
-> Four
-    O: 곰은 검어요.
-    E: The bear is[st] black. @polite
-    F: _The bear_ is[st] black. @polite
+Lesson Four.
+    The bear is[st] black. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    곰은 검어요.
 
-    O: 단 바나나는 완전히 노랗습니다.
-    E: The sweet banana is[st] perfectly yellow. @formal
-    F: _The sweet banana_ is[st] perfectly yellow. @formal
+    Next Sentence.    
+    The sweet banana is[st] perfectly yellow. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    단 바나나는 완전히 노랗습니다.
 
-    O: 저 쓴 불고기는 매우 검어요.
-    E: That bitter bulgogi (over there) is[st] very[v] black. @polite
-    F: _That bitter bulgogi (over there)_ is[st] very[v] black. @polite
+    Next Sentence.    
+    That bitter bulgogi (over there) is[st] very[v] black. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 쓴 불고기는 매우 검어요.
 
-    O: 비싼 집은 노래요.
-    E: The expensive house is[st] yellow. @polite
-    F: _The expensive house_ is[st] yellow. @polite
+    Next Sentence.    
+    The expensive house is[st] yellow. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    비싼 집은 노래요.
 
-    O: 바다가 파래요.
-    E: The ocean is[st] blue. @polite
-    F: The ocean _is[st] blue_. @polite
+    Next Sentence.    
+    The ocean is[st] blue. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    바다가 파래요.
 
-    # 푸르다
-    # 풀(grass)
-    # something green (for example a green field, green eyes etc.), can also use it to describe something blue-ish
-    # (not 푸러요) 러-irregular: contains four words only: 푸르다, 누르다 (when meaning “yellow”), 노르다, 이르다 (when meaning “arrive” or “reach”).
-    O: 물이 푸르러요.
-    E: The water is[st] blue[g]. @polite
-    F: The water _is[st] blue[g]_. @polite
+    Next Sentence.    
+    The water is[st] blue[g]. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    물이 푸르러요.
 
-    O: 가장 좋은 우유는 완전히 하얗습니다.
-    E: The best milk is[st] completely white. @formal
-    F: _The best milk_ is[st] completely white. @formal
+    Next Sentence.    
+    The best milk is[st] completely white. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가장 좋은 우유는 완전히 하얗습니다.
 
-    # tasteless is 싱겁다
-    O: 맛없는 치즈는 하얘요.
-    E: The bad-tasting cheese is[st] white. @polite
-    F: _The bad-tasting cheese_ is[st] white. @polite
+    Next Sentence.    
+    The bad-tasting cheese is[st] white. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    맛없는 치즈는 하얘요.
 
-    O: 생선이 빨갛습니까?
-    E: Is[st] the fish (to eat) red? @formal
-    F: _Is[st]_ the fish (to eat) _red_? @formal
+    Next Sentence.    
+    Is[st] the fish (to eat) red? [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    생선이 빨갛습니까?
 
-    O: 나쁜 개가 검습니다.
-    E: The bad dog is[st] black. @formal
-    F: The bad dog _is[st] black_. @formal
+    Next Sentence.    
+    The bad dog is[st] black. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    나쁜 개가 검습니다.
 
-    O: 매운 음식은 빨개요.
-    E: Spicy foods are[st] red. @polite
-    F: _Spicy foods_ are[st] red. @polite
+    Next Sentence.    
+    Spicy foods are[st] red. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    매운 음식은 빨개요.
 
-    O: 무슨 야채가 노래요?
-    E: Which vegetable is[st] yellow? @polite
-    F: _Which_ vegetable _is[st] yellow_? @polite
+    Next Sentence.    
+    Which vegetable is[st] yellow? [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    무슨 야채가 노래요?
 
-    O: 연필은 하얗습니다.
-    E: A pencil is[st] white. @formal
-    F: _A pencil_ is[st] white. @formal
+    Next Sentence.    
+    A pencil is[st] white. [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    연필은 하얗습니다.
 
-    O: 이 바나나는 조금 파래요.
-    E: This banana is[st] a little bit blue. @polite
-    F: _This banana_ is[st] a little bit blue. @polite
+    Next Sentence.    
+    This banana is[st] a little bit blue. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 바나나는 조금 파래요.
 
-    O: 무슨 야채가 노래요?
-    E: Which vegetable is[st] yellow? @polite
-    F: _Which_ vegetable _is[st] yellow_? @polite
+    Next Sentence.    
+    Which vegetable is[st] yellow? [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    무슨 야채가 노래요?
 
-    O: 딸기는 빨개요.
-    E: Strawberries are[st] red. @polite
-    F: _Strawberries_ are[st] red. @polite
+    Next Sentence.    
+    Strawberries are[st] red. [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    딸기는 빨개요.
+
+    End of 21 - Colours.
