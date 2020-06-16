@@ -458,7 +458,7 @@ function parse(module, language) {
                 addToFileHash(fileHash, currentEntry);
                 currentEntry = generateEmptyEntry();
             }
-            console.log(fileHash);
+            // console.log(fileHash);
         }, 'text');
     } catch (e) {
         console.warn(e);

@@ -1,5 +1,5 @@
 == TTMIK 1.21 - Negative Sentences / 안, -지 않다 ==
-* f -> formal
+* i -> informal
 * l -> long
 
     # 안 is simpler and more colloquial
@@ -48,7 +48,7 @@
     E: I am not eating!
 
     O: 정말 안 먹어요? 맛있어요!
-    E: You are really[f] not going to eat? It is delicious.
+    E: You are really not going to eat? It is delicious.
 
     O: 안 먹어요. 배 안 고파요.
     E: I am not eating. I am not hungry.
@@ -60,4 +60,4 @@
     E: No. It is not spicy.
 
     O: 진짜 안 매워요?
-    E: It is really not spicy?
+    E: It is really[i] not spicy?
