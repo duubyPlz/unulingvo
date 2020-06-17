@@ -23,7 +23,7 @@ def open_file(file_path):
 def replace(content_to_mutate):
     '''
     Performs the hardcoded string find/replace mutations on `content_to_mutate`.
-    :return mutated content
+    :return: mutated content
     '''
 
     replacements = [
