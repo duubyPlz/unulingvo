@@ -33,7 +33,7 @@ var fileSizes = {
                     'ja': 2,
                     'cn': 12,
                     'gr': 11,
-                    'flu': 2
+                    'flu': 30
                 };
 
 // Global hash representation of current file
