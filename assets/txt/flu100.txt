@@ -1,0 +1,793 @@
+== TTMIK Level 1 ==
+* p -> period
+* l -> long
+* i -> informal
+
+> 1.1
+    O: 안녕하세요.
+    E: Hello.
+
+    O: 감사합니다.
+    E: Thank you.
+
+> 1.2
+    O: 네.
+    E: Yes.
+
+    O: 아니요.
+    E: No.
+
+    O: 커피 좋아해요?
+    E: Do you like coffee?
+
+    O: 네. 좋아해요.
+    E: Yes, I like it.
+
+    O: 커피 안 좋아해요?
+    E: You don’t like coffee?
+
+    O: 아니요. 좋아해요.
+    E: No, I like it.
+
+    O: 네. 안 좋아해요.
+    E: Yes, I don't like it.
+
+    O: 네, 맞아요.
+    E: Yes, that is right.
+
+> 1.3
+    O: 안녕히 계세요.
+    E: Goodbye (stay in peace).
+
+    O: 안녕히 가세요.
+    E: Goodbye (go in peace).
+
+> 1.4
+    O: 죄송합니다.
+    E: I apologise.
+
+    O: 저기요.
+    E: Hey, you!
+
+    O: 잠시만요.
+    E: Just a moment.
+
+    O: 잠깐만요.
+    E: Just a moment[p].
+
+> 1.5
+    O: 물이에요.
+    E: It's water.
+
+    O: 가방이에요.
+    E: It's a bag.
+
+    O: 사무실이에요.
+    E: It's an office.
+
+    O: 학교예요.
+    E: It's a school.
+
+> 1.6
+   O: 책이에요.
+    E: It's a book.
+
+    O: 저예요.
+    E: It's me.
+
+    O: 이거 책이에요.
+    E: This is a book.
+
+    O: 카메라예요.
+    E: It's a camera.
+
+    O: 이거 카메라예요.
+    E: This is a camera.
+
+    O: 커피예요.
+    E: It's coffee.
+
+    O: 이거 커피예요.
+    E: This is coffee.
+
+    O: 사전이에요.
+    E: It's a dictionary.
+
+    O: 이거 사전이에요.
+    E: This is a dictionary.
+
+    O: 이거 뭐예요?
+    E: What is this?
+
+    O: 이거 마이크예요.
+    E: This is a microphone.
+
+    O: 이거 핸드폰이에요.
+    E: This is a cellphone.
+
+    O: 이거 물이에요.
+    E: This is water.
+
+    O: 이거 커피예요?
+    E: Is this coffee?
+
+    O: 아니요. 이거 물이에요.
+    E: No. This is water.
+
+    O: 네. 맞아요.
+    E: Yes, that’s right.
+
+> 1.7
+    O: 이 커피
+    E: this coffee
+
+    O: 이 컴퓨터
+    E: this computer
+
+    O: 이 아이스크림
+    E: this ice-cream
+
+    O: 이 호텔
+    E: this hotel
+
+    O: 이 택시
+    E: this taxi
+
+    O: 이 버스
+    E: this bus
+
+    O: 이 카메라
+    E: this camera
+
+    O: 이 피자
+    E: this pizza
+
+    O: 저 마이크
+    E: that microphone over there
+
+    O: 저 테이블
+    E: that table over there
+
+    O: 저 레스토랑
+    E: that restaurant over there
+
+> 1.8
+    O: 저 아니에요.
+    E: It is not me.
+
+    O: 우유 아니에요.
+    E: It is not milk.
+
+    O: 물 아니에요.
+    E: It is not water.
+
+    O: 이거 우유 아니에요.
+    E: This is not milk.
+
+    O: 저 학생 아니에요.
+    E: I am not a student.
+
+    O: 학생 아니에요
+    E: not a student
+
+    O: 저거 술 아니에요
+    E: That over there is not liquor.
+
+    O: 그거 고양이 아니에요.
+    E: That is not a cat.
+
+    O: 그거 호랑이 아니에요.
+    E: That is not a tiger.
+
+> 1.9
+    O: 저는 학생이에요.
+    E: I[l] am a student.
+    F: _I[l]_ am a student.
+
+    O: 이거 사과예요. 
+    E: This is an apple.
+
+    O: 이거는 사과예요.
+    E: (The other things are not apples, but) This is an apple.
+
+    O: 이거는 뭐예요?
+    E: And as for this one, what is it?
+
+    O: 오늘 날씨 좋네요
+    E: The weather is good today.
+
+    O: 오늘은 날씨 좋네요.
+    E: The weather (has not been so good lately, but) today (it) is good.
+
+    O: 오늘 날씨는 좋네요.
+    E: Today (everything else is not good, but at least) the weather is good.
+
+    O: 뭐가 좋아요?
+    E: WHAT is good?
+    F: WHAT _is good_?
+
+    O: 이 책 좋아요.
+    E: This book is good.
+
+    O: 이 책은 좋아요.
+    E: (The other books are not good, and I do not care about the other books, but at least) This book is good.
+
+    O: 이 책이 좋아요.
+    E: (There are no other books as good as this one) This book is good.
+
+> 1.10
+    O: 물 있어요.
+    E: There is water. / Water exists. / I have water. / They have water.
+
+    O: 물 있어요?
+    E: Is there water? / Do you have water? / Do they have water?
+
+    O: 친구 있어요. 
+    E: I have friends. / I have a friend. / There are friends.
+
+    O: 친구 있어요?
+    E: Do you have friends? / Do they have friends?
+
+    O: 시간 있어요.
+    E: There is time. / I have time. / They have time.
+
+    O: 시간 있어요?
+    E: Is there time? / Do you have time? / Do they have time?
+
+    O: 물 없어요.
+    E: There is no water. / I do not have water. / They do not have water.
+
+    O: 친구 없어요.
+    E: (I) do not have friends.
+
+    O: 시간 없어요.
+    E: There is no time. / I do not have time. / We do not have time.
+
+    O: 시간은 있어요
+    E: (I) have (nothing but) time.
+
+    O: 시간은 없어요.
+    E: (I have other things, but) TIME is not what I have.
+
+    O: 시간이 없어요. 
+    E: (What is it that you don’t have?) TIME is what I don’t have.
+    F: (What is it that you don’t have?) TIME _is what I don’t have_.
+
+    O: ㅇ 재미있어요!
+    E: ㅇ is fun!
+
+> 1.11
+    O: 사과 없어요?
+    E: You do not have an apple? / There are no apples?
+
+    O: 사과 있어요?
+    E: Do you have an apple? / Do you have apples?
+
+    O: 시간 있어요?
+    E: Do you have some time?
+
+    O: 시간 없어요?
+    E: You do not have time?
+
+    O: 커피 있어요?
+    E: Do you have coffee?
+
+    O: 커피 없어요?
+    E: Don’t you have coffee? / You do not have coffee?
+
+    O: 돈 있어요?
+    E: Do you have money?
+
+    O: 돈 없어요?
+    E: You do not have money?
+
+    O: 돈 주세요.
+    E: Please give me some money.
+
+    O: 맥주 주세요.
+    E: Please give me a beer.
+
+    O: 장갑 주세요.
+    E: Please give me (a pair of) gloves.
+
+    O: 네. 사과 있어요.
+    E: Yes, we have apples.
+
+    O: 사과 주세요.
+    E: Give me (an/some) apple(s).
+
+    O: 아니요. 커피 없어요.
+    E: No, we don’t have coffee.
+
+    O: 우유 있어요?
+    E: Do you have milk?
+
+    O: 네. 우유 있어요.
+    E: Yes, we have milk.
+
+    O: 우유 주세요.
+    E: Give me milk, please.
+
+    O: 아이스크림 주세요. 
+    E: Please give me ice cream.
+
+    O: 햄버거 주세요.
+    E: Please give me a hamburger.
+
+    O: 김치 주세요.
+    E: Please give me some kimchi.
+
+    O: 불고기 주세요.
+    E: Please give me some bulgogi.
+
+    O: 밥 주세요.
+    E: Please give me rice. / Please give me food.
+
+> 1.12
+    O: 이거 맛있어요.
+    E: This is delicious.
+
+    O: 맛있어요.
+    E: It is tasty. / It is delicious.
+
+    O: 저 케이크 맛있어요.
+    E: That cake (over there) is delicious.
+
+    O: 삼겹살 맛있어요.
+    E: Samgyupsal is delicious.
+
+    O: 치킨 맛있어요.
+    E: (Fried) Chicken is delicious.
+
+    O: 뭐가 맛있어요?
+    E: WHAT is delicious?
+
+    O: 이거 맛없어요?
+    E: Does this taste awful?
+
+    O: 이 차 맛없어요.
+    E: This tea tastes awful.
+
+    O: 굴 맛없어요.
+    E: Oysters taste awful.
+
+    O: 잘 먹겠습니다.
+    E: I will eat well.
+
+    O: 잘 먹을게!
+    E: (Your friend should buy you food) I'll eat well! @impolite
+
+    # Thank you for the food.
+    O: 잘 먹었습니다.
+    E: I have eaten well.
+
+> 1.13
+    O: 가고 싶어요.
+    E: I want to go.
+
+    O: 보고 싶어요. 
+    E: I want to see/look/watch.
+
+    O: 먹고 싶어요.
+    E: I want to eat.
+
+    O: 뭐 먹고 싶어요?
+    E: What do you want to eat?
+
+    O: 햄버거 먹고 싶어요.
+    E: I want to eat a hamburger.
+
+    O: 회 먹고 싶어요.
+    E: I want to eat raw fish.
+
+    O: 더 먹고 싶어요.
+    E: I want to eat more.
+
+    O: 더 주세요.
+    E: Please give me more.
+
+> 1.14
+    O: 뭐 하고 싶어요?
+    E: What do you want to do?
+
+    O: 텔레비전 보고 싶어요.
+    E: I want to watch TV.
+
+    O: 뭐 보고 싶어요?
+    E: What do you want to watch?
+
+    O: 뉴스 보고 싶어요.
+    E: I want to watch the news.
+
+    O: 이거 사고 싶어요.
+    E: I want to buy this.
+
+    O: 이거요?
+    E: This one?
+
+    O: 네. 이거 먹고 싶어요.
+    E: Yeah. I want to eat this.
+
+    O: 이거 뭐예요?
+    E: What is this?
+
+    O: 이거 김밥이에요.
+    E: This is kimbap.
+
+    O: 읽고 싶어요
+    E: I want to read.
+
+    O: 자고 싶어요.
+    E: I want to sleep.
+
+    O: 놀고 싶어요.
+    E: I want to play.
+
+    O: 쉬고 싶어요
+    E: I want to rest.
+
+    O: 일하고 싶어요.
+    E: I want to work.
+
+    O: 영화 보고 싶어요.
+    E: I want to watch a movie.
+
+    O: 김밥 먹고 싶어요.
+    E: I want to eat kimbap.
+
+> 1.16
+    O: 가요
+    E: I go. / You go. / He goes. / She goes. / They go. / etc.
+
+    O: 먹어요
+    E:  I eat. / You eat. / He eats. / etc.
+
+    O: 봐요
+    E: I see. / I look. / I watch. / You look. / etc.
+
+    # 보이다: to be seen, to be visible
+    O: 보여요
+    E: I see it. / It is visible.
+
+    O: 해요
+    E: I do. / You do. / He does. / etc.
+
+> 1.17
+    O: 샀어요
+    E: I bought / you bought / s/he bought / they bought / etc.
+
+    O: 왔어요
+    E: I came / you came / s/he came / they came / we came / etc.
+
+    O: 적었어요
+    E: I wrote / you wrote / s/he wrote / they wrote / we wrote / etc.
+
+    O: 했어요
+    E: I did / you did / he did / they did / etc.
+
+    O: 먹었어요
+    E: I/you/he/she ate
+
+    O: 잡았어요
+    E: I/you/he/she caught
+
+    O: 팔았어요
+    E: I/you/he/she sold
+
+    # hung out
+    O: 놀았어요
+    E: I/you/he/she played
+
+    O: 썼어요
+    E: I/you/he/she wrote
+
+    O: 기다렸어요
+    E: I/you/he/she waited
+
+    O: 이상했어요
+    E: I/you/he/she was strange
+
+    O: 멋있었어요
+    E: I/you/he/she was cool
+
+    O: 갔어요
+    E: went / to have gone
+
+    O: 있었어요
+    E: was / to have been
+
+    O: 봤어요
+    E: saw / to have seen
+
+> 1.18
+    # Whereas it is POSSIBLE to make sentences without location marking particles, by using the right location marking particles, you can make your message very clear. 
+
+    O: 어디 가고 싶어요?
+    E: Where do you want to go? (No location particle)
+
+    O: 학교에 갔어요.
+    E: I went to school.
+
+    O: 한국에 왔어요.
+    E: I came to Korea.
+
+    O: 어디에 가고 싶어요?
+    E: Where do you want to go?
+
+    O: 지금 어디에 있어요?
+    E: Where are you now? 
+
+    O: 사무실에
+    E: to the office, to an office, to my office
+
+    O: 사무실에서
+    E: from the office, from an office, from my office
+
+    O: 집에 있어요.
+    E: I am at home.
+
+    O: 집에 가요.
+    E: I am going home.
+
+    O: 사무실에 있어요.
+    E: I am at the office.
+
+    O: 집에서 일해요.
+    E: I work at home.
+
+    O: 집에서 뭐 해요? 
+    E: What are you doing at home?
+
+    O: 사무실에서 일해요.
+    E: I work at the office.
+
+> 1.19
+    O: 언제 했어요?
+    E: When did you do it?
+
+    O: 언제 도착했어요?
+    E: When did you arrive?
+
+    O: 언제 왔어요?
+    E: When did you come?
+
+    O: 언제 일어나요?
+    E: When do you get up?
+
+    O: 아침에 언제 일어나요?
+    E: In the morning, when do you get up?
+
+    O: 아침에 몇 시에 일어나요?
+    E: What time do you get up in the morning?
+
+> 1.21
+    # 안 is simpler and more colloquial
+    # -자 않다 is relatively formal but not necessarily only for formal situations.
+
+    O: 집에 가요.
+    E: I am going home. / I go home.
+
+    O: 집에 안 가요.
+    E: I am NOT going home. / I DO NOT go home.
+
+    O: 집에 안 가요?
+    E: You are NOT going home? / You DO NOT go home?
+
+    O: 그거 버렸어요.
+    E: I threw that away.
+
+    O: 그거 안 버렸어요.
+    E: I DID NOT throw that away.
+
+    O: 그거 아직 안 버렸어요.
+    E: I DID NOT throw that away yet.
+
+    O: 가지 않았어요.
+    E: I DID NOT[l] go.
+
+    O: 가지 않아요.
+    E: I DO NOT[l] go. / I am NOT[l] going.
+
+    O: 버리지 않아요.
+    E: I DO NOT[l] throw it away.
+
+    O: 버리지 않았어요
+    E: I DID NOT[l] throw it away.
+
+    O: 아파요?
+    E: Does it hurt?
+
+    O: 안 아파요.
+    E: It does not hurt.
+
+    O: 안 먹어요?
+    E: You are not going to eat?
+
+    O: 안 먹어요!
+    E: I am not eating!
+
+    O: 정말 안 먹어요? 맛있어요!
+    E: You are really not going to eat? It is delicious.
+
+    O: 안 먹어요. 배 안 고파요.
+    E: I am not eating. I am not hungry.
+
+    O: 이거 매워요?
+    E: Is this spicy?
+
+    O: 아니요. 안 매워요.
+    E: No. It is not spicy.
+
+    O: 진짜 안 매워요?
+    E: It is really[i] not spicy?
+
+> 1.22
+    O: 공부해요
+    E: study
+
+    O: 일해요
+    E: work
+
+    O: 기억해요
+    E: remember
+
+    O: 청소해요
+    E: clean
+
+    O: 요리해요
+    E: cook
+
+    O: 이사해요
+    E: move, move into a different house
+
+    O: 노래해요
+    E: sing
+
+    O: 노력해요
+    E: make an effort, try hard
+
+    O: 동의해요
+    E: agree
+
+    O: 인정해요
+    E: admit, acknowledge
+
+    O: 후회해요
+    E: regret
+
+    O: 운동해요
+    E: exercise, work out
+
+    O: 사랑해요
+    E: love
+
+    O: 말해요
+    E: speak
+
+    O: 생각해요
+    E: think
+
+    O: 생각 안 해요
+    E: not thinking
+
+    O: 노력 안 해요
+    E: not making an effort, not trying hard
+
+> 1.23
+    O: 누구예요?
+    E: Who is it?
+
+    O: 누가 제인이에요?
+    E: (Among these people, none other than) WHO is Jane?
+    F: (Among these people, none other than) WHO _is Jane_?
+
+    O: 누가 했어요?
+    E: WHO did it?
+    F: WHO _did it_?
+
+    O: 누가 전화했어요?
+    E: WHO called?
+    F: WHO _called_?
+
+    O: 이거 누구예요?
+    E: Who is this? 
+
+    O: 어제 누가 왔어요?
+    E: WHO came yesterday?
+    F: WHO _came yesterday_?
+
+    O: 그거 누가 만들었어요?
+    E: WHO made that?
+    F: WHO _made that_?
+
+    O: 누가 샀어요?
+    E: WHO bought it?
+    F: WHO _bought it_?
+
+> 1.24
+    O: 어떻게
+    E: how
+
+    O: 어떻게 찾았어요?
+    E: How did you find it?
+
+    O: 어떻게 왔어요?
+    E: How did you get (here)?
+
+    O: 왜 전화했어요?
+    E: Why did you call?
+
+    O: 왜 안 왔어요?
+    E: Why didn’t you come?
+
+    O: 얼마예요?
+    E: How much is it?
+
+    O: 이거 얼마예요?
+    E: How much is this?
+
+    O: 저거 얼마예요? 
+    E: How much is that (over there)?
+
+    O: 그거 얼마예요?
+    E: How much is that?
+
+    O: 얼마 냈어요?
+    E: How much did you pay?
+
+    O: 얼마나 자주 와요?
+    E: How often do you come?
+
+    O: 얼마나 커요?
+    E: How big is it?
+
+    O: 얼마나 무거워요?
+    E: How heavy is it?
+
+> 1.25
+    # ~에서 not for time
+
+    O: 서울에서
+    E: From Seoul (to another place)
+
+    O: 서울부터
+    E: (Starting) From Seoul
+
+    O: 지금부터
+    E: From now
+
+    O: 어제부터
+    E: From (or since) yesterday
+
+    O: 서울까지
+    E: (Starting from somewhere else) to Seoul
+
+    O: 지금까지
+    E: Until now
+
+    O: 내일까지
+    E: Until tomorrow
+
+    O: 언제까지
+    E: Until when
+
+    O: 여기에서 저기까지
+    E: From here to (over) there
+
+    O: 머리부터 발끝까지
+    E: (Starting) From head to toe
+
+    O: 여기부터 저기까지
+    E: (Starting) From here to (over) there
+
+    O: 머리에서 발끝까지
+    E: From head to toe
+
+    O: 서울에서 부산까지
+    E: From Seoul to Busan
+
+    O: 서울부터 부산까지
+    E: (Starting) From Seoul to Busan
+
+    O: 아침부터 저녁까지
+    E: From morning until evening

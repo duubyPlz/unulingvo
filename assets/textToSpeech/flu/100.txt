@@ -1,0 +1,2496 @@
+TTMIK Level 1.
+
+Lesson 1.1.
+    Hello.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    안녕하세요.
+
+    Next Sentence.
+    Thank you.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    감사합니다.
+
+Lesson 1.2.
+    Yes.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    네.
+
+    Next Sentence.
+    No.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아니요.
+
+    Next Sentence.
+    Do you like coffee?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    커피 좋아해요?
+
+    Next Sentence.
+    Yes, I like it.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    네. 좋아해요.
+
+    Next Sentence.
+    You don’t like coffee?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    커피 안 좋아해요?
+
+    Next Sentence.
+    No, I like it.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아니요. 좋아해요.
+
+    Next Sentence.
+    Yes, I don't like it.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    네. 안 좋아해요.
+
+    Next Sentence.
+    Yes, that is right.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    네, 맞아요.
+
+Lesson 1.3.
+    Goodbye (stay in peace).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    안녕히 계세요.
+
+    Next Sentence.
+    Goodbye (go in peace).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    안녕히 가세요.
+
+Lesson 1.4.
+    I apologise.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    죄송합니다.
+
+    Next Sentence.
+    Hey, you!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저기요.
+
+    Next Sentence.
+    Just a moment.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    잠시만요.
+
+    Next Sentence.
+    Just a moment[p].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    잠깐만요.
+
+Lesson 1.5.
+    It's water.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    물이에요.
+
+    Next Sentence.
+    It's a bag.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가방이에요.
+
+    Next Sentence.
+    It's an office.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사무실이에요.
+
+    Next Sentence.
+    It's a school.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학교예요.
+
+Lesson 1.6.
+   책이에요.
+
+    Next Sentence.    It's a book.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+
+    It's me.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저예요.
+
+    Next Sentence.
+    This is a book.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 책이에요.
+
+    Next Sentence.
+    It's a camera.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    카메라예요.
+
+    Next Sentence.
+    This is a camera.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 카메라예요.
+
+    Next Sentence.
+    It's coffee.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    커피예요.
+
+    Next Sentence.
+    This is coffee.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 커피예요.
+
+    Next Sentence.
+    It's a dictionary.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사전이에요.
+
+    Next Sentence.
+    This is a dictionary.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 사전이에요.
+
+    Next Sentence.
+    What is this?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 뭐예요?
+
+    Next Sentence.
+    This is a microphone.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 마이크예요.
+
+    Next Sentence.
+    This is a cellphone.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 핸드폰이에요.
+
+    Next Sentence.
+    This is water.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 물이에요.
+
+    Next Sentence.
+    Is this coffee?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 커피예요?
+
+    Next Sentence.
+    No. This is water.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아니요. 이거 물이에요.
+
+    Next Sentence.
+    Yes, that’s right.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    네. 맞아요.
+
+Lesson 1.7.
+    this coffee.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 커피
+
+    Next Sentence.
+    this computer.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 컴퓨터
+
+    Next Sentence.
+    this ice-cream.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 아이스크림
+
+    Next Sentence.
+    this hotel.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 호텔
+
+    Next Sentence.
+    this taxi.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 택시
+
+    Next Sentence.
+    this bus.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 버스
+
+    Next Sentence.
+    this camera.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 카메라
+
+    Next Sentence.
+    this pizza.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 피자
+
+    Next Sentence.
+    that microphone over there.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 마이크
+
+    Next Sentence.
+    that table over there.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 테이블
+
+    Next Sentence.
+    that restaurant over there.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 레스토랑
+
+Lesson 1.8.
+    It is not me.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 아니에요.
+
+    Next Sentence.
+    It is not milk.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    우유 아니에요.
+
+    Next Sentence.
+    It is not water.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    물 아니에요.
+
+    Next Sentence.
+    This is not milk.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 우유 아니에요.
+
+    Next Sentence.
+    I am not a student.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 학생 아니에요.
+
+    Next Sentence.
+    not a student.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생 아니에요
+
+    Next Sentence.
+    That over there is not liquor.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저거 술 아니에요
+
+    Next Sentence.
+    That is not a cat.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그거 고양이 아니에요.
+
+    Next Sentence.
+    That is not a tiger.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그거 호랑이 아니에요.
+
+Lesson 1.9.
+    I[l] am a student.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 학생이에요.
+
+    Next Sentence.    
+    This is an apple.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 사과예요. 
+
+    Next Sentence.
+    (The other things are not apples, but) This is an apple.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거는 사과예요.
+
+    Next Sentence.
+    And as for this one, what is it?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거는 뭐예요?
+
+    Next Sentence.
+    The weather is good today.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오늘 날씨 좋네요
+
+    Next Sentence.
+    The weather (has not been so good lately, but) today (it) is good.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오늘은 날씨 좋네요.
+
+    Next Sentence.
+    Today (everything else is not good, but at least) the weather is good.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오늘 날씨는 좋네요.
+
+    Next Sentence.
+    WHAT is good?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뭐가 좋아요?
+
+    Next Sentence.    
+    This book is good.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 책 좋아요.
+
+    Next Sentence.
+    (The other books are not good, and I do not care about the other books, but at least) This book is good.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 책은 좋아요.
+
+    Next Sentence.
+    (There are no other books as good as this one) This book is good.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 책이 좋아요.
+
+Lesson 1.10.
+    There is water. / Water exists. / I have water. / They have water.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    물 있어요.
+
+    Next Sentence.
+    Is there water? / Do you have water? / Do they have water?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    물 있어요?
+
+    Next Sentence.
+    I have friends. / I have a friend. / There are friends.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구 있어요. 
+
+    Next Sentence.
+    Do you have friends? / Do they have friends?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구 있어요?
+
+    Next Sentence.
+    There is time. / I have time. / They have time.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    시간 있어요.
+
+    Next Sentence.
+    Is there time? / Do you have time? / Do they have time?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    시간 있어요?
+
+    Next Sentence.
+    There is no water. / I do not have water. / They do not have water.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    물 없어요.
+
+    Next Sentence.
+    (I) do not have friends.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구 없어요.
+
+    Next Sentence.
+    There is no time. / I do not have time. / We do not have time.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    시간 없어요.
+
+    Next Sentence.
+    (I) have (nothing but) time.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    시간은 있어요
+
+    Next Sentence.
+    (I have other things, but) TIME is not what I have.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    시간은 없어요.
+
+    Next Sentence.
+    (What is it that you don’t have?) TIME is what I don’t have.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    시간이 없어요. 
+
+    Next Sentence.    
+    ㅇ is fun!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    ㅇ 재미있어요!
+
+Lesson 1.11.
+    You do not have an apple? / There are no apples?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과 없어요?
+
+    Next Sentence.
+    Do you have an apple? / Do you have apples?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과 있어요?
+
+    Next Sentence.
+    Do you have some time?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    시간 있어요?
+
+    Next Sentence.
+    You do not have time?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    시간 없어요?
+
+    Next Sentence.
+    Do you have coffee?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    커피 있어요?
+
+    Next Sentence.
+    Don’t you have coffee? / You do not have coffee?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    커피 없어요?
+
+    Next Sentence.
+    Do you have money?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    돈 있어요?
+
+    Next Sentence.
+    You do not have money?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    돈 없어요?
+
+    Next Sentence.
+    Please give me some money.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    돈 주세요.
+
+    Next Sentence.
+    Please give me a beer.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    맥주 주세요.
+
+    Next Sentence.
+    Please give me (a pair of) gloves.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    장갑 주세요.
+
+    Next Sentence.
+    Yes, we have apples.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    네. 사과 있어요.
+
+    Next Sentence.
+    Give me (an/some) apple(s).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과 주세요.
+
+    Next Sentence.
+    No, we don’t have coffee.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아니요. 커피 없어요.
+
+    Next Sentence.
+    Do you have milk?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    우유 있어요?
+
+    Next Sentence.
+    Yes, we have milk.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    네. 우유 있어요.
+
+    Next Sentence.
+    Give me milk, please.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    우유 주세요.
+
+    Next Sentence.
+    Please give me ice cream.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아이스크림 주세요. 
+
+    Next Sentence.
+    Please give me a hamburger.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    햄버거 주세요.
+
+    Next Sentence.
+    Please give me some kimchi.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    김치 주세요.
+
+    Next Sentence.
+    Please give me some bulgogi.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    불고기 주세요.
+
+    Next Sentence.
+    Please give me rice. / Please give me food.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    밥 주세요.
+
+Lesson 1.12.
+    This is delicious.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 맛있어요.
+
+    Next Sentence.
+    It is tasty. / It is delicious.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    맛있어요.
+
+    Next Sentence.
+    That cake (over there) is delicious.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 케이크 맛있어요.
+
+    Next Sentence.
+    Samgyupsal is delicious.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    삼겹살 맛있어요.
+
+    Next Sentence.
+    (Fried) Chicken is delicious.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    치킨 맛있어요.
+
+    Next Sentence.
+    WHAT is delicious?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뭐가 맛있어요?
+
+    Next Sentence.
+    Does this taste awful?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 맛없어요?
+
+    Next Sentence.
+    This tea tastes awful.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 차 맛없어요.
+
+    Next Sentence.
+    Oysters taste awful.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    굴 맛없어요.
+
+    Next Sentence.
+    I will eat well.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    잘 먹겠습니다.
+
+    Next Sentence.
+    (Your friend should buy you food) I'll eat well! [impolite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    잘 먹을게!
+
+    Next Sentence.
+    I have eaten well.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    잘 먹었습니다.
+
+Lesson 1.13.
+    I want to go.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가고 싶어요.
+
+    Next Sentence.
+    I want to see/look/watch.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    보고 싶어요. 
+
+    Next Sentence.
+    I want to eat.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    먹고 싶어요.
+
+    Next Sentence.
+    What do you want to eat?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뭐 먹고 싶어요?
+
+    Next Sentence.
+    I want to eat a hamburger.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    햄버거 먹고 싶어요.
+
+    Next Sentence.
+    I want to eat raw fish.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    회 먹고 싶어요.
+
+    Next Sentence.
+    I want to eat more.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    더 먹고 싶어요.
+
+    Next Sentence.
+    Please give me more.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    더 주세요.
+
+Lesson 1.14.
+    What do you want to do?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뭐 하고 싶어요?
+
+    Next Sentence.
+    I want to watch TV.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    텔레비전 보고 싶어요.
+
+    Next Sentence.
+    What do you want to watch?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뭐 보고 싶어요?
+
+    Next Sentence.
+    I want to watch the news.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뉴스 보고 싶어요.
+
+    Next Sentence.
+    I want to buy this.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 사고 싶어요.
+
+    Next Sentence.
+    This one?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거요?
+
+    Next Sentence.
+    Yeah. I want to eat this.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    네. 이거 먹고 싶어요.
+
+    Next Sentence.
+    What is this?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 뭐예요?
+
+    Next Sentence.
+    This is kimbap.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 김밥이에요.
+
+    Next Sentence.
+    I want to read.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    읽고 싶어요
+
+    Next Sentence.
+    I want to sleep.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    자고 싶어요.
+
+    Next Sentence.
+    I want to play.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    놀고 싶어요.
+
+    Next Sentence.
+    I want to rest.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    쉬고 싶어요
+
+    Next Sentence.
+    I want to work.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    일하고 싶어요.
+
+    Next Sentence.
+    I want to watch a movie.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    영화 보고 싶어요.
+
+    Next Sentence.
+    I want to eat kimbap.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    김밥 먹고 싶어요.
+
+Lesson 1.16.
+    I go. / You go. / He goes. / She goes. / They go. / etc.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가요
+
+    Next Sentence.
+     I eat. / You eat. / He eats. / etc.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    먹어요
+
+    Next Sentence.
+    I see. / I look. / I watch. / You look. / etc.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    봐요
+
+    Next Sentence.
+    I see it. / It is visible.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    보여요
+
+    Next Sentence.
+    I do. / You do. / He does. / etc.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    해요
+
+Lesson 1.17.
+    I bought / you bought / s/he bought / they bought / etc.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    샀어요
+
+    Next Sentence.
+    I came / you came / s/he came / they came / we came / etc.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    왔어요
+
+    Next Sentence.
+    I wrote / you wrote / s/he wrote / they wrote / we wrote / etc.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    적었어요
+
+    Next Sentence.
+    I did / you did / he did / they did / etc.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    했어요
+
+    Next Sentence.
+    I/you/he/she ate.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    먹었어요
+
+    Next Sentence.
+    I/you/he/she caught.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    잡았어요
+
+    Next Sentence.
+    I/you/he/she sold.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    팔았어요
+
+    Next Sentence.
+    I/you/he/she played.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    놀았어요
+
+    Next Sentence.
+    I/you/he/she wrote.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    썼어요
+
+    Next Sentence.
+    I/you/he/she waited.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    기다렸어요
+
+    Next Sentence.
+    I/you/he/she was strange.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이상했어요
+
+    Next Sentence.
+    I/you/he/she was cool.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    멋있었어요
+
+    Next Sentence.
+    went / to have gone.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    갔어요
+
+    Next Sentence.
+    was / to have been.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    있었어요
+
+    Next Sentence.
+    saw / to have seen.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    봤어요
+
+Lesson 1.18.
+    
+    Where do you want to go? (No location particle).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어디 가고 싶어요?
+
+    Next Sentence.
+    I went to school.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학교에 갔어요.
+
+    Next Sentence.
+    I came to Korea.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한국에 왔어요.
+
+    Next Sentence.
+    Where do you want to go?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어디에 가고 싶어요?
+
+    Next Sentence.
+    Where are you now? .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지금 어디에 있어요?
+
+    Next Sentence.
+    to the office, to an office, to my office.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사무실에
+
+    Next Sentence.
+    from the office, from an office, from my office.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사무실에서
+
+    Next Sentence.
+    I am at home.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집에 있어요.
+
+    Next Sentence.
+    I am going home.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집에 가요.
+
+    Next Sentence.
+    I am at the office.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사무실에 있어요.
+
+    Next Sentence.
+    I work at home.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집에서 일해요.
+
+    Next Sentence.
+    What are you doing at home?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집에서 뭐 해요? 
+
+    Next Sentence.
+    I work at the office.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사무실에서 일해요.
+
+Lesson 1.19.
+    When did you do it?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    언제 했어요?
+
+    Next Sentence.
+    When did you arrive?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    언제 도착했어요?
+
+    Next Sentence.
+    When did you come?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    언제 왔어요?
+
+    Next Sentence.
+    When do you get up?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    언제 일어나요?
+
+    Next Sentence.
+    In the morning, when do you get up?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아침에 언제 일어나요?
+
+    Next Sentence.
+    What time do you get up in the morning?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아침에 몇 시에 일어나요?
+
+Lesson 1.21.
+    
+    I am going home. / I go home.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집에 가요.
+
+    Next Sentence.
+    I am NOT going home. / I DO NOT go home.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집에 안 가요.
+
+    Next Sentence.
+    You are NOT going home? / You DO NOT go home?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집에 안 가요?
+
+    Next Sentence.
+    I threw that away.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그거 버렸어요.
+
+    Next Sentence.
+    I DID NOT throw that away.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그거 안 버렸어요.
+
+    Next Sentence.
+    I DID NOT throw that away yet.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그거 아직 안 버렸어요.
+
+    Next Sentence.
+    I DID NOT[l] go.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가지 않았어요.
+
+    Next Sentence.
+    I DO NOT[l] go. / I am NOT[l] going.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가지 않아요.
+
+    Next Sentence.
+    I DO NOT[l] throw it away.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    버리지 않아요.
+
+    Next Sentence.
+    I DID NOT[l] throw it away.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    버리지 않았어요
+
+    Next Sentence.
+    Does it hurt?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아파요?
+
+    Next Sentence.
+    It does not hurt.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    안 아파요.
+
+    Next Sentence.
+    You are not going to eat?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    안 먹어요?
+
+    Next Sentence.
+    I am not eating!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    안 먹어요!
+
+    Next Sentence.
+    You are really not going to eat? It is delicious.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    정말 안 먹어요? 맛있어요!
+
+    Next Sentence.
+    I am not eating. I am not hungry.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    안 먹어요. 배 안 고파요.
+
+    Next Sentence.
+    Is this spicy?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 매워요?
+
+    Next Sentence.
+    No. It is not spicy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아니요. 안 매워요.
+
+    Next Sentence.
+    It is really[i] not spicy?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    진짜 안 매워요?
+
+Lesson 1.22.
+    study.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공부해요
+
+    Next Sentence.
+    work.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    일해요
+
+    Next Sentence.
+    remember.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    기억해요
+
+    Next Sentence.
+    clean.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    청소해요
+
+    Next Sentence.
+    cook.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    요리해요
+
+    Next Sentence.
+    move, move into a different house.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이사해요
+
+    Next Sentence.
+    sing.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    노래해요
+
+    Next Sentence.
+    make an effort, try hard.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    노력해요
+
+    Next Sentence.
+    agree.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    동의해요
+
+    Next Sentence.
+    admit, acknowledge.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    인정해요
+
+    Next Sentence.
+    regret.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    후회해요
+
+    Next Sentence.
+    exercise, work out.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    운동해요
+
+    Next Sentence.
+    love.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사랑해요
+
+    Next Sentence.
+    speak.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    말해요
+
+    Next Sentence.
+    think.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    생각해요
+
+    Next Sentence.
+    not thinking.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    생각 안 해요
+
+    Next Sentence.
+    not making an effort, not trying hard.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    노력 안 해요
+
+Lesson 1.23.
+    Who is it?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    누구예요?
+
+    Next Sentence.
+    (Among these people, none other than) WHO is Jane?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    누가 제인이에요?
+
+    Next Sentence.    
+    WHO did it?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    누가 했어요?
+
+    Next Sentence.    
+    WHO called?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    누가 전화했어요?
+
+    Next Sentence.    
+    Who is this? .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 누구예요?
+
+    Next Sentence.
+    WHO came yesterday?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어제 누가 왔어요?
+
+    Next Sentence.    
+    WHO made that?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그거 누가 만들었어요?
+
+    Next Sentence.    
+    WHO bought it?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    누가 샀어요?
+
+Lesson 1.24.
+    how.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어떻게
+
+    Next Sentence.
+    How did you find it?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어떻게 찾았어요?
+
+    Next Sentence.
+    How did you get (here)?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어떻게 왔어요?
+
+    Next Sentence.
+    Why did you call?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    왜 전화했어요?
+
+    Next Sentence.
+    Why didn’t you come?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    왜 안 왔어요?
+
+    Next Sentence.
+    How much is it?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    얼마예요?
+
+    Next Sentence.
+    How much is this?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 얼마예요?
+
+    Next Sentence.
+    How much is that (over there)?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저거 얼마예요? 
+
+    Next Sentence.
+    How much is that?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그거 얼마예요?
+
+    Next Sentence.
+    How much did you pay?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    얼마 냈어요?
+
+    Next Sentence.
+    How often do you come?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    얼마나 자주 와요?
+
+    Next Sentence.
+    How big is it?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    얼마나 커요?
+
+    Next Sentence.
+    How heavy is it?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    얼마나 무거워요?
+
+Lesson 1.25.
+    
+    From Seoul (to another place).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    서울에서
+
+    Next Sentence.
+    (Starting) From Seoul.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    서울부터
+
+    Next Sentence.
+    From now.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지금부터
+
+    Next Sentence.
+    From (or since) yesterday.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어제부터
+
+    Next Sentence.
+    (Starting from somewhere else) to Seoul.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    서울까지
+
+    Next Sentence.
+    Until now.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지금까지
+
+    Next Sentence.
+    Until tomorrow.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일까지
+
+    Next Sentence.
+    Until when.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    언제까지
+
+    Next Sentence.
+    From here to (over) there.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여기에서 저기까지
+
+    Next Sentence.
+    (Starting) From head to toe.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    머리부터 발끝까지
+
+    Next Sentence.
+    (Starting) From here to (over) there.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여기부터 저기까지
+
+    Next Sentence.
+    From head to toe.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    머리에서 발끝까지
+
+    Next Sentence.
+    From Seoul to Busan.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    서울에서 부산까지
+
+    Next Sentence.
+    (Starting) From Seoul to Busan.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    서울부터 부산까지
+
+    Next Sentence.
+    From morning until evening.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아침부터 저녁까지
+
+    End of Level One.
