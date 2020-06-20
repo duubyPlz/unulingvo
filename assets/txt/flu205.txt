@@ -22,9 +22,12 @@
 
     O: 토요일에는 소풍을 갈 거예요.
     E: I am going to go on a picnic on Saturday.
+    F: I am going to go on a picnic on _Saturday_.
 
     O: 어제는 신나는 금요일이었어요.
     E: Yesterday was an exciting Friday.
+    F: _Yesterday_ was an exciting Friday.
 
     O: 저는 월요일에 영화를 봤어요.
     E: I watched a movie on Monday.
+    F: _I_ watched a movie on Monday.
