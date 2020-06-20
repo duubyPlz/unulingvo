@@ -1,0 +1,30 @@
+== TTMIK 2.5 - Days In A Week / 요일 ==
+    O: 일요일
+    E: Sunday
+
+    O: 월요일 
+    E: Monday
+
+    O: 화요일
+    E: Tuesday
+
+    O: 수요일
+    E: Wednesday
+
+    O: 목요일
+    E: Thursday
+
+    O: 금요일
+    E: Friday
+
+    O: 토요일
+    E: Saturday
+
+    O: 토요일에는 소풍을 갈 거예요.
+    E: I am going to go on a picnic on Saturday.
+
+    O: 어제는 신나는 금요일이었어요.
+    E: Yesterday was an exciting Friday.
+
+    O: 저는 월요일에 영화를 봤어요.
+    E: I watched a movie on Monday.
