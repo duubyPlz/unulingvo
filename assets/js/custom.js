@@ -270,6 +270,9 @@ $('button#randomise').click(function() {
     var size = fileSizes[language];
     var random = Math.floor(Math.random() * size) + 1;
 
+    // TODO probably also need to fix mapping of random to actual value
+    // [LOOK @ same section in flu]
+
     // http://semantic-ui.com/modules/dropdown.html#behavior
     if (language == 'eo') {
         $('#contents-eo').dropdown('set selected', random);
