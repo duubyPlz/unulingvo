@@ -33,7 +33,6 @@ var fileSizes = {
                     'ja': 2,
                     'cn': 12,
                     'gr': 11,
-                    'flu': 30
                 };
 
 // Global hash representation of current file
@@ -298,14 +297,13 @@ $('button#randomise').click(function() {
 });
 
 $('button#flu-randomise').click(() => {
-    const size = fileSizes['flu'];
-    const randomIndex = Math.floor(Math.random() * size) + 1;
-
     const options = [ ...document.getElementById('flu').children ];
     const optionValues = options.map((option) => {
         return option.value;
     });
 
+    const size = optionValues.length;
+    const randomIndex = Math.floor(Math.random() * size) + 1;
     const randomValue = optionValues[randomIndex];
 
     // http://semantic-ui.com/modules/dropdown.html#behavior
