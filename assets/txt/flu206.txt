@@ -1,31 +1,32 @@
 == TTMIK 2.6 - But, However / 그렇지만, 그런데 ==
+* v -> vs
 
-    O: 
-    E: 
+    # 그렇지만 Contrast. Writing & specific.
+    # 그런데 "but" or "and/then", background info & continuing on
+    O: 피곤해요. 그렇지만 영화 보고 싶어요. Wider variety of meaning.
+    E: I am tired, but[v] I want to see a movie.
 
-    O: 
-    E: 
+    O: 피곤해요. 그런데 영화 보고 싶어요.
+    E: I am tired. But-then, I want to see a movie.
 
-    O: 
-    E: 
+    O: 어제 이거 샀어요. 그렇지만 정말 커요.
+    E: I bought this yesterday. But[v] (disappointed - contrasting the purchase vs. big) it is really big.
 
-    O: 
-    E: 
+    O: 어제 이거 샀어요. 그런데 정말 커요.
+    E: I bought this yesterday. But (continuing on I found out) it is really big.
 
-    O: 
-    E: 
+    O: 어제 학교에 갔어요. 그렇지만 일요일이었어요.
+    E: I went to school yesterday, but[v] it was Sunday.
 
-    O: 
-    E: 
+    O: 어제 학교에 갔어요. 그런데 일요일이었어요.
+    E: I went to school yesterday, and by the way, it was Sunday.
 
-    O: 
-    E: 
+    O: 어젯밤 늦게 잤어요. 그런데 피곤하지 않아요.
+    E: I went to bed late last night, but (continuing on) I am not tired.
 
-    O: 
-    E: 
+    O: 저는 매일 운동을 해요. 그런데 살이 빠지지 않아요.
+    E: I work out every day, but (continuing on) I do not lose any weight.
 
-    O: 
-    E: 
-
-    O: 
-    E: 
+    # 왕따 = outcast, loner, someone who is bullied by others
+    O: 저는 친구가 없어요. 그런데 왕따는 아니에요.
+    E: I do not have friends, but (continuing on) I am not a loner.
