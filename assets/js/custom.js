@@ -294,13 +294,20 @@ $('button#randomise').click(function() {
     // }, 1000);
 });
 
-$('button#flu-randomise').click(function() {
-    var size = fileSizes['flu'];
-    var random = Math.floor(Math.random() * size) + 1;
+$('button#flu-randomise').click(() => {
+    const size = fileSizes['flu'];
+    const randomIndex = Math.floor(Math.random() * size) + 1;
+
+    const options = [ ...document.getElementById('flu').children ];
+    const optionValues = options.map((option) => {
+        return option.value;
+    });
+
+    const randomValue = optionValues[randomIndex];
 
     // http://semantic-ui.com/modules/dropdown.html#behavior
-    $('#flu').dropdown('set selected', random);
-    selectedModule = random;
+    $('#flu').dropdown('set selected', randomValue);
+    selectedModule = randomValue;
 
     display_loader(true);
     parse(selectedModule, 'flu');
@@ -604,8 +611,6 @@ function logic(language, isFlu) {
         ? $('.textarea#flu-answer').html().replace("&nbsp;", " ").trim()
         : $('.textarea#answer').html().replace("&nbsp;", " ").trim();
 
-    console.log("input: `" + inputString + "`");
-
     var hyphenRegex = new RegExp("\-", "g");
     var eoWhitelistString = "a-zA-Z0-9_.,?!'\" ĉĝĥĵŝŭĈĜĤĴŜŬ\-";
     var eoWhitelistRegex = makeWhitelistRegex(eoWhitelistString);
@@ -652,7 +657,6 @@ function logic(language, isFlu) {
     }
     else if (language == 'flu') { // [TODO] refactor
         var eoAndCjkWhitelistString = eoWhitelistString + cjkWhitelistString;
-        console.log(eoWhitelistString + "+" + cjkWhitelistString);
         var eoAndCjkWhitelistRegex = makeWhitelistRegex(eoAndCjkWhitelistString);
         sanitisedInput = inputString.replace(eoAndCjkWhitelistRegex, "");
 
