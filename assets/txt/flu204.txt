@@ -39,7 +39,7 @@
     E: I am going to study with my younger brother/sister.
 
     O: 선생님하고 밥을 먹을 거예요.
-    E: I am going to eat with my teacher.
+    E: I am going to eat rice/a meal with my teacher.
 
     O: 내일 선생님하고 경복궁에 갈 거예요.
     E: I am going to go to Gyeongbok Palace with my teacher tomorrow.
