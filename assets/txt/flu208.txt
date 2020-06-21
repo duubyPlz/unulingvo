@@ -1,0 +1,91 @@
+== TTMIK 2.8 - Telling The Time ==
+    O: 한 시 오 분
+    E: 1:05
+
+    O: 한 시 십오 분
+    E: 1:15
+
+    O: 세 시 이십 분
+    E: 3:20
+
+    O: 열 시
+    E: 10:00
+
+    O: 열 시 삼십 분
+    E: 10:30
+
+    O: 정각
+    E: o’clock sharp
+
+    O: 지금 몇 시예요?
+    E: What time is it now?
+
+    O: 지금 몇 시 몇 분이에요?
+    E: What is the hour, and what is the minute?
+
+    O: 저는 매일 아침 아홉시까지 출근해요.
+    E: I get to work by 9 every morning.
+    F: _I_ get to work by 9 every morning.
+
+    O: 내일 수업이 네시 반에 끝나요.
+    E: My classes finish at 4:30 tomorrow.
+
+    O: 오늘 몇 시에 친구를 만나요?
+    E: What time do you meet your friend today?
+
+    # O: 한 시 
+    # E: 1 o’clock
+
+    # O: 두 시 
+    # E: 2 o’clock
+
+    # O: 세 시 
+    # E: 3 o’clock
+
+    # O: 네 시 
+    # E: 4 o’clock
+
+    # O: 다섯 시 
+    # E: 5 o’clock
+
+    # O: 여섯 시 
+    # E: 6 o’clock
+
+    # O: 일곱 시 
+    # E: 7 o’clock
+
+    # O: 여덟 시 
+    # E: 8 o’clock
+
+    # O: 아홉 시 
+    # E: 9 o’clock
+
+    # O: 열 시
+    # E: 10 o’clock
+
+    # O: 열한 시 
+    # E: 11 o’clock
+
+    # O: 열두 시 
+    # E: 12 o’clock
+
+    # O: 일 분
+    # E: 1 minute
+
+    # O: 이 분
+    # E: 2 minutes
+
+    # O: 오 분
+    # E: 5 minutes
+
+    # O: 십 분
+    # E: 10 minutes
+
+    # O: 십오 분
+    # E: 15 minutes
+
+    # O: 삼십 분
+    # E: 30 minutes
+
+    # O: 오십오 분
+    # E: 55 minutes

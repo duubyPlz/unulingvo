@@ -1,0 +1,19 @@
+== TTMIK 2.7 - “To” someone, “From” someone / 한테, 한테서 ==
+    # Note: Person only
+    O: 저한테서
+    E: from me
+
+    O: 친구한테서
+    E: from a friend
+
+    O: 누구한테서
+    E: from whom
+
+    O: 누구한테
+    E: to whom, from whom
+
+    O: 친구한테
+    E: to a friend, from a friend
+
+    O: 저한테
+    E: to me, from me
