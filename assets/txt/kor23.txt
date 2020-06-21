@@ -7,6 +7,7 @@
 
     O: 민지가 식탁을 닦아.
     E: Minji wipes the table.
+    F: Minji _wipes the table_.
 
     O: 민지야! 방을 청소해!
     E: Minji! Clean the room!
@@ -28,18 +29,21 @@
 
     O: 내가 청소해.
     E: I clean.
+    F: I _clean_.
 
     O: 청소하지 마!
     E: Do not clean!
 
     O: 개구리가 설거지하고 있어.
     E: The frog is doing the dishes.
+    F: The frog _is doing the dishes_.
 
     O: 가람아, 식탁을 닦아!
     E: Garam, wipe the table!
 
     O: 나는 친구의 집에서 설거지해.
     E: I do the dishes at my friend's house.
+    F: _I_ do the dishes at my friend's house.
 
     O: 지훈아, 설거지해!
     E: Jihun, do the dishes!
