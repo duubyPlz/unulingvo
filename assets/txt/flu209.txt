@@ -1,0 +1,70 @@
+== TTMIK 2.9 - Counters / 개, 명 ==
+* w -> word
+
+    O: 아줌마 김치찌개 한 개 주세요.
+    E: Ma’am, give me one kimchi stew.
+
+    O: 콜라 한 병 주세요.
+    E: Please give me a bottle of cola.
+
+    O: 사과 한 개
+    E: one apple
+
+    O: 돌 두 개
+    E: two stones
+
+    O: 공 다섯 개
+    E: five balls
+
+    O: 몇 개
+    E: how many (things)
+
+    O: 한 명
+    E: one person
+
+    O: 학생 두 명
+    E: two students
+
+    O: 친구 세 명
+    E: three friends
+
+    O: 몇 명
+    E: how many (people)
+
+    O: 몇 명 있어요?
+    E: How many people are there?
+
+    O: 열 명 있어요.
+    E: There are 10 people.
+
+    # The word for “people” or “person”, 사람 [sa-ram], is also used when generally referring to a small number of people without specifying who they are.
+    # Can't go: 열 사람 있어요. (This is unnatural.)
+    O: 두 사람 있어요.
+    E: There are 2 people[w].
+
+    O: 몇 병
+    E: how many bottles
+
+    O: 오리 세 마리
+    E: three ducks
+
+    O: 개 한 마리
+    E: one dog
+
+    O: 새 한 마리
+    E: one bird
+
+    O: 차 한 대
+    E: one car
+
+    O: 비행기 세 대
+    E: three airplanes
+
+    O: 책 한 권 
+    E: one book
+
+    O: 책 두 권
+    E: two books
+
+    O: 종이 한 장
+    E: a sheet of paper
