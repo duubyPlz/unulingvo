@@ -281,7 +281,7 @@ Lesson Three.
     우리 할아버지는 연세가 많습니다.
 
     Next Sentence.    
-    How old is my grandmother? [polite].
+    How old is my grandmother[n]? [polite].
     Answer in
     One.
     Two.
