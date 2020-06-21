@@ -17,7 +17,7 @@
     F: _My grandfather[n]_ is old. @formal
 
     O: 우리 할머니의 연세가 어떻게 되세요?
-    E: How old is my grandmother? @polite
+    E: How old is my grandmother[n]? @polite
 
     O: 오늘은 선생님 두 분의 생신이에요.
     E: It is two teachers' birthday today. @polite
