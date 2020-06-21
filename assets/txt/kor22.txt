@@ -84,8 +84,8 @@
     E: Grandfather[n] sleeps in the car[s]. @formal
 
     O: 저는 할머니의 댁에 가요.
-    E: I go to my grandmother[n]'s house. @polite
-    F: _I_ go to my grandmother[n]'s house. @polite
+    E: I go to (my) grandmother[n]'s house. @polite
+    F: _I_ go to (my) grandmother[n]'s house. @polite
 
     O: 할머니께 사과를 드리세요.
     E: Give your grandmother[n] an apple. @polite
