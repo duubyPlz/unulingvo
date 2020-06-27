@@ -1,4 +1,4 @@
-== TTMIK 2.13 - Too, Also / -도 ==
+== TTMIK 2.13 - Too, Also / -도 (Nouns, pronouns) ==
     O: 저도 좋아요.
     E: I like it, too.
 

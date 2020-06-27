@@ -1,0 +1,17 @@
+== TTMIK 2.14 - Too, Also / -도 (Verbs) ==
+    # Change the verb into its noun form, it is absolutely possible to use -도 with verbs.
+    # Few different ways
+    # * adding -기 - “to do [verb]” and “[verb]ing” format.
+
+    O: 저는 영어도 가르쳐요.
+    E: I teach English as well.
+
+    O: 저는 영어를 가르치기도 해요.
+    E: I also teach English. / I even teach English. / I also work as an English teacher.
+
+    O: 컴퓨터도 고쳐요.
+    E: (I) fix computers as well.
+
+    # 고치다 - to repair
+    O: 컴퓨터를 고치기도 해요.
+    E: I also fix computers. / I even fix computers.
