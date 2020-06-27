@@ -1,30 +1,27 @@
 == TTMIK 2.13 - Too, Also / -도 ==
-    O: 
-    E: 
+    O: 저도 좋아요.
+    E: I like it, too.
 
-    O: 
-    E: 
+    O: 저도 그런 것 같아요.
+    E: I think so as well.
 
-    O: 
-    E: 
+    O: 저도 봤어요. 
+    E: I, too, saw it.
 
-    O: 
-    E: 
+    O: 저도 학생이에요.
+    E: I am a student, too.
 
-    O: 
-    E: 
+    O: 이것도 가져왔어요. 
+    E: I brought this, too.
 
-    O: 
-    E: 
+    O: 오늘도 일해요?
+    E: Do you work today as well?
 
-    O: 
-    E: 
+    O: 저도 물 주세요.
+    E: Please give water to me, too. (Not just other people)
 
-    O: 
-    E: 
-
-    O: 
-    E: 
+    O: 저 물도 주세요.
+    E: Please give me water as well. (Not only other things e.g. food)
 
     O: 
     E: 
