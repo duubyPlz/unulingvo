@@ -1,0 +1,56 @@
+== TTMIK 2.12 - What Is Today’s Date? / 날짜 ==
+    # 날짜 - Date
+
+    O: 생일이 언제예요?
+    E: When is your birthday?
+
+    O: 몇 월 며칠이에요?
+    E: What is the date?
+
+    O: 오늘 몇 월 며칠이에요?
+    E: What is today’s date?
+
+    O: 생일이 몇 월 며칠이에요? 
+    E: What date is your birthday?
+
+    O: 몇 월
+    E: Which month
+
+    O: 며칠
+    E: What date
+
+    O: 1월 
+    E: January
+
+    O: 2월 
+    E: February
+
+    O: 3월 
+    E: March
+
+    O: 4월 
+    E: April
+
+    O: 5월 
+    E: May
+
+    O: 6월 
+    E: June
+
+    O: 7월 
+    E: July
+
+    O: 8월 
+    E: August
+
+    O: 9월 
+    E: September
+
+    O: 10월 
+    E: October
+
+    O: 11월
+    E: November
+
+    O: 12월
+    E: December
