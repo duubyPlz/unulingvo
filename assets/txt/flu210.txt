@@ -1,0 +1,72 @@
+== TTMIK 2.10 - Lesson 10. Present Progressive / -고 있어요 ==
+    O: 밖에 비가 오고 있어요.
+    E: It is raining outside.
+
+    O: 밖에 눈이 오고 있어요.
+    E: It is snowing outside.
+
+    O: 밖에 바람이 불고 있어요.
+    E: The wind is blowing outside.
+
+    O: 눈이 오고 있었어요.
+    E: It was snowing.
+
+    O: 비가 오고 있었어요.
+    E: It was raining.
+
+    O: 바람이 불고 있었어요. 
+    E: The wind was blowing.
+
+    O: 경은 씨가 자고 있었어요.
+    E: Kyeong-eun was sleeping.
+
+    O: 공부하고 있을 거예요.
+    E: (I) will be studying.
+
+    O: 지금 뭐 하고 있어요?
+    E: What are you doing now?
+
+    O: 공부하고 있어요.
+    E: I am studying.
+
+    O: 지금 뭐 해요?
+    E: What are you doing now? (Not progressive)
+
+    O: 공부해요.
+    E: I am studying. (Not progressive)
+
+    O: 일하고 있어요.
+    E: I am working.
+
+    O: 일하고 있었어요.
+    E: I was working.
+
+    O: 일하고 있을 거예요.
+    E: I will be working.
+
+    O: 듣고 있어요.
+    E: I am listening.
+
+    O: 듣고 있었어요.
+    E: I was listening. 
+
+    O: 듣고 있을 거예요.
+    E: I will be listening.
+
+    O: 생각하고 있어요.
+    E: I am thinking.
+
+    O: 생각하고 있었어요.
+    E: I was thinking.
+
+    O: 생각하고 있을 거예요.
+    E: I will be thinking.
+
+    O: 졸고 있어요.
+    E: I am dozing off.
+
+    O: 졸고 있었어요.
+    E: I was dozing off.
+
+    O: 졸고 있을 거예요.
+    E: I will be dozing off.
