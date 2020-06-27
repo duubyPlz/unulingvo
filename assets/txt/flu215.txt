@@ -1,0 +1,34 @@
+== TTMIK 2.15 - Only / -만 ==
+    O: 이것만 살 거예요.
+    E: I will only buy this.
+
+    O: 저만 들었어요.
+    E: Only I heard.
+
+    O: 아침에는 커피만 마셔요.
+    E: I only drink coffee in the morning.
+
+    O: 아침에만 커피를 마셔요.
+    E: I drink coffee, only in the mornings.
+
+    O: 듣기만 했어요.
+    E: I only listened (and did not e.g. talk).
+
+    O: 보기만 할 거예요.
+    E: I will only look (and not e.g. touch it).
+
+    O: 오늘만 일찍 왔어요.
+    E: I got here early only today.
+
+    # 주문하다 - to order
+    O: 맥주만 주문했어요.
+    E: I only ordered beer.
+
+    O: 왜 이것만 샀어요?
+    E: Why did you only buy this?
+
+    O: 어제 놀기만 했어요.
+    E: I did nothing but play yesterday.
+
+    O: 영화는 집에서만 봐요.
+    E: I watch movies only at home.
