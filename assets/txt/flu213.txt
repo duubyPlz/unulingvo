@@ -22,33 +22,3 @@
 
     O: 저 물도 주세요.
     E: Please give me water as well. (Not only other things e.g. food)
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
