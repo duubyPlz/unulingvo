@@ -1,0 +1,70 @@
+== TTMIK 2.11 - Self-introduction / 자기소개 ==
+    O: 저는 학생이에요.
+    E: I am a student. 
+
+    O: 저는 선생님이에요. 
+    E: I am a teacher.
+
+    O: 저는 제임스예요.
+    E: I am James.
+
+    O: 제 이름은 스티븐이에요.
+    E: My name is Stephen.
+
+    O: 제 여동생 이름은 탈리아나예요.
+    E: My sister’s name is Taliana.
+
+    O: 저는 서른살이에요.
+    E: I am 30 years old.
+
+    O: 제 이름은 최경은이에요.
+    E: My name is Choi Kyeong-eun.
+
+    O: 제 나이는 비밀이에요.
+    E: My age is a secret.
+
+    O: 그리고 저는 한국어 선생님이에요.
+    E: And I am a Korean teacher.
+
+    O: 저는 여동생이 있어요.
+    E: I have a younger sister.
+
+    O: 저는 남동생이 있어요.
+    E: I have a younger brother.
+
+    O: 저는 언니가 있어요.
+    E: I have an older sister. (As a female)
+
+    O: 저는 취미가 없어요.
+    E: I do not have any hobbies.
+
+    O: 저는 취미가 수영이에요
+    E: My hobby is swimming.
+
+    O: 저는 서울에 살아요.
+    E: I live in Seoul.
+
+    O: 저는 은행에서 일해요.
+    E: I work in a bank.
+
+    O: 저는 대학교에서 중국어를 가르쳐요.
+    E: I teach Chinese in college.
+
+    # 태어나다 - to be born
+    O: 저는 미국에서 태어났어요.
+    E: I was born in the USA.
+
+    O: 처음 뵙겠습니다.
+    E: How do you do? (First time meeting you.)
+
+    O: 반갑습니다.
+    E: It is nice to meet you.
+
+    O: 제 명함이에요.
+    E: It is my business card.
+
+    O: 다음에 또 봬요.
+    E: See you again next time.
+
+    O: 이야기 많이 들었어요.
+    E: I have heard a lot about you.
