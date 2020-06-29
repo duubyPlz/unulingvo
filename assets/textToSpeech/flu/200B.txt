@@ -1,0 +1,824 @@
+TTMIK Level 2B.
+Lesson Five.
+    Sunday.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    일요일
+
+    Next Sentence.
+    Monday.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    월요일 
+
+    Next Sentence.
+    Tuesday.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    화요일
+
+    Next Sentence.
+    Wednesday.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    수요일
+
+    Next Sentence.
+    Thursday.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    목요일
+
+    Next Sentence.
+    Friday.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    금요일
+
+    Next Sentence.
+    Saturday.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    토요일
+
+    Next Sentence.
+    I am going to go on a picnic on Saturday.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    토요일에는 소풍을 갈 거예요.
+
+    Next Sentence.    
+    Yesterday was an exciting Friday.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어제는 신나는 금요일이었어요.
+
+    Next Sentence.    
+    I watched a movie on Monday.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 월요일에 영화를 봤어요.
+
+Lesson Six.
+
+    I am tired, but[v] I want to see a movie.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    피곤해요. 그렇지만 영화 보고 싶어요. Wider variety of meaning.
+
+    Next Sentence.
+    I am tired. But-then, I want to see a movie.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    피곤해요. 그런데 영화 보고 싶어요.
+
+    Next Sentence.
+    I bought this yesterday. But[v] (disappointed - contrasting the purchase vs. big) it is really big.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어제 이거 샀어요. 그렇지만 정말 커요.
+
+    Next Sentence.
+    I bought this yesterday. But (continuing on I found out) it is really big.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어제 이거 샀어요. 그런데 정말 커요.
+
+    Next Sentence.
+    I went to school yesterday, but[v] it was Sunday.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어제 학교에 갔어요. 그렇지만 일요일이었어요.
+
+    Next Sentence.
+    I went to school yesterday, and by the way, it was Sunday.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어제 학교에 갔어요. 그런데 일요일이었어요.
+
+    Next Sentence.
+    I went to bed late last night, but (continuing on) I am not tired.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어젯밤 늦게 잤어요. 그런데 피곤하지 않아요.
+
+    Next Sentence.
+    I work out every day, but (continuing on) I do not lose any weight.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 매일 운동을 해요. 그런데 살이 빠지지 않아요.
+
+    Next Sentence.    
+    I do not have friends, but (continuing on) I am not a loner.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 친구가 없어요. 그런데 왕따는 아니에요.
+
+Lesson Seven.
+    from me.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저한테서
+
+    Next Sentence.
+    from a friend.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구한테서
+
+    Next Sentence.
+    from whom.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    누구한테서
+
+    Next Sentence.
+    to whom, from whom.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    누구한테
+
+    Next Sentence.
+    to a friend, from a friend.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구한테
+
+    Next Sentence.
+    to me, from me.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저한테
+
+Lesson Eight.
+    1:05.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한 시 오 분
+
+    Next Sentence.
+    1:15.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한 시 십오 분
+
+    Next Sentence.
+    3:20.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    세 시 이십 분
+
+    Next Sentence.
+    10:00.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    열 시
+
+    Next Sentence.
+    10:30.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    열 시 삼십 분
+
+    Next Sentence.
+    o’clock sharp.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    정각
+
+    Next Sentence.
+    What time is it now?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지금 몇 시예요?
+
+    Next Sentence.
+    What is the hour, and what is the minute?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지금 몇 시 몇 분이에요?
+
+    Next Sentence.
+    I get to work by 9 every morning.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 매일 아침 아홉시까지 출근해요.
+
+    Next Sentence.    
+    My classes finish at 4:30 tomorrow.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일 수업이 네시 반에 끝나요.
+
+    Next Sentence.
+    What time do you meet your friend today?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오늘 몇 시에 친구를 만나요?
+
+Lesson Nine.
+
+    Ma’am, give me one kimchi stew.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아줌마 김치찌개 한 개 주세요.
+
+    Next Sentence.
+    Please give me a bottle of cola.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    콜라 한 병 주세요.
+
+    Next Sentence.
+    one apple.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과 한 개
+
+    Next Sentence.
+    two stones.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    돌 두 개
+
+    Next Sentence.
+    five balls.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공 다섯 개
+
+    Next Sentence.
+    how many (things).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    몇 개
+
+    Next Sentence.
+    one person.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한 명
+
+    Next Sentence.
+    two students.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생 두 명
+
+    Next Sentence.
+    three friends.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구 세 명
+
+    Next Sentence.
+    how many (people).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    몇 명
+
+    Next Sentence.
+    How many people are there?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    몇 명 있어요?
+
+    Next Sentence.
+    There are 10 people.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    열 명 있어요.
+
+    Next Sentence.
+    There are 2 people[w].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    두 사람 있어요.
+
+    Next Sentence.
+    how many bottles.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    몇 병
+
+    Next Sentence.
+    three ducks.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오리 세 마리
+
+    Next Sentence.
+    one dog.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    개 한 마리
+
+    Next Sentence.
+    one bird.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    새 한 마리
+
+    Next Sentence.
+    one car.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    차 한 대
+
+    Next Sentence.
+    three airplanes.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    비행기 세 대
+
+    Next Sentence.
+    one book.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    책 한 권 
+
+    Next Sentence.
+    two books.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    책 두 권
+
+    Next Sentence.
+    a sheet of paper.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    종이 한 장
+
+Lesson Ten.
+    It is raining outside.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    밖에 비가 오고 있어요.
+
+    Next Sentence.
+    It is snowing outside.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    밖에 눈이 오고 있어요.
+
+    Next Sentence.
+    The wind is blowing outside.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    밖에 바람이 불고 있어요.
+
+    Next Sentence.
+    It was snowing.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    눈이 오고 있었어요.
+
+    Next Sentence.
+    It was raining.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    비가 오고 있었어요.
+
+    Next Sentence.
+    The wind was blowing.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    바람이 불고 있었어요. 
+
+    Next Sentence.
+    Kyeong-eun was sleeping.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    경은 씨가 자고 있었어요.
+
+    Next Sentence.
+    (I) will be studying.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공부하고 있을 거예요.
+
+    Next Sentence.
+    What are you doing now?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지금 뭐 하고 있어요?
+
+    Next Sentence.
+    I am studying.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공부하고 있어요.
+
+    Next Sentence.
+    What are you doing now? (Not progressive).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지금 뭐 해요?
+
+    Next Sentence.
+    I am studying. (Not progressive).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공부해요.
+
+    Next Sentence.
+    I am working.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    일하고 있어요.
+
+    Next Sentence.
+    I was working.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    일하고 있었어요.
+
+    Next Sentence.
+    I will be working.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    일하고 있을 거예요.
+
+    Next Sentence.
+    I am listening.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    듣고 있어요.
+
+    Next Sentence.
+    I was listening. .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    듣고 있었어요.
+
+    Next Sentence.
+    I will be listening.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    듣고 있을 거예요.
+
+    Next Sentence.
+    I am thinking.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    생각하고 있어요.
+
+    Next Sentence.
+    I was thinking.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    생각하고 있었어요.
+
+    Next Sentence.
+    I will be thinking.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    생각하고 있을 거예요.
+
+    Next Sentence.
+    I am dozing off.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    졸고 있어요.
+
+    Next Sentence.
+    I was dozing off.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    졸고 있었어요.
+
+    Next Sentence.
+    I will be dozing off.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    졸고 있을 거예요.
+
+    End of Level 2B.

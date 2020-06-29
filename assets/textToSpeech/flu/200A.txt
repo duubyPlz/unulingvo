@@ -1,0 +1,645 @@
+TTMIK Level 2A.
+Lesson One.
+    I am going to go (there) now.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지금 갈 거예요
+
+    Next Sentence.
+    I am going to go alone.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    혼자 갈 거예요.
+
+    Next Sentence.
+    I am going to go tomorrow.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일 갈 거예요.
+
+    Next Sentence.
+    I am going to do (it). / I will do (it).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    할 거예요.
+
+    Next Sentence.
+    What are you going to do?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뭐 할 거예요?
+
+    Next Sentence.
+    When are you going to do (it)?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    언제 할 거예요?
+
+    Next Sentence.
+    When are you going to do this?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 언제 할 거예요?
+
+    Next Sentence.
+    Are you really going to do this?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 정말 할 거예요?
+
+    Next Sentence.
+    I am going to wear (it). / I will wear (it).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    입을 거예요.
+
+    Next Sentence.
+    I am going to wear blue jeans.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    청바지 입을 거예요.
+
+    Next Sentence.
+    What are you going to wear?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뭐 입을 거예요?
+
+    Next Sentence.
+    I am going to wear a t-shirt.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    티셔츠 입을 거예요.
+
+    Next Sentence.
+    I am going to wear a skirt.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    치마 입을 거예요
+
+    Next Sentence.
+    I am going to meet (him/her/that person/them). / I will meet (him/her/that person/them).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    만날 거예요.
+
+    Next Sentence.
+    Who are you going to meet?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    누구 만날 거예요?
+
+    Next Sentence.
+    Where are you going to meet?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어디에서 만날 거예요?
+
+    Next Sentence.
+    When are you going to meet?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    언제 만날 거예요?
+
+    Next Sentence.
+    I am going to sell (it). / I will sell (it).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    팔 거예요.
+
+    Next Sentence.
+    What are you going to sell?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뭐 팔 거예요?
+
+    Next Sentence.
+    Where are you going to sell it?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어디에서 팔 거예요?
+
+    Next Sentence.
+    At what price are you going to sell it?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    얼마에 팔 거예요?
+
+Lesson Two.
+
+    Literal translation: "Wallet found?”.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지갑 찾았어요?
+
+    Next Sentence.
+    Literal translation: "Yes. Found.".
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    네. 찾았어요.
+
+    Next Sentence.
+    Did you eat an apple?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과를 먹었어요?
+
+    Next Sentence.
+    Are you buying an apple?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과를 사요?
+
+    Next Sentence.
+    This apple is delicious.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 사과가 맛있어요.
+
+    Next Sentence.    
+    The apple fell.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과가 떨어졌어요.
+
+    Next Sentence.    
+    Are you buying an apple[s]?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사과 사요?
+
+    Next Sentence.
+    This apple[s] is delicious.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 사과 맛있어요.
+
+    Next Sentence.
+    I met.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    만났어요.
+
+    Next Sentence.
+    Who[s] did you meet?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    누구 만났어요?
+
+    Next Sentence.
+    Yesterday, who[s] did you meet here?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어제 여기에서 누구 만났어요?
+
+    Next Sentence.
+    Yesterday, WHO did you meet here?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어제 누구를 여기에서 만났어요?
+
+    Next Sentence.
+    I watch TV[s].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    텔레비전 봐요.
+
+    Next Sentence.
+    Do you watch TV[s]?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    텔레비전 봐요?
+
+    Next Sentence.
+    Do you watch TV[s] often?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    텔레비전 자주 봐요?
+
+    Next Sentence.
+    How many times per week do you watch TV[s]?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    일주일에 몇 번 텔레비전 봐요?
+
+    Next Sentence.
+    How many times a week do you watch TV?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    텔레비전을 일주일에 몇 번 봐요?
+
+Lesson Three.
+
+    coffee, bread and water.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    커피, 빵, 그리고 물
+
+    Next Sentence.
+    Seoul and Busan.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    서울 그리고 부산
+
+    Next Sentence.
+    Germany and the Philippines.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    독일 그리고 필리핀
+
+    Next Sentence.
+    (I) met my friend and[l] (I) ate rice.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구를 만났어요. 그리고 밥을 먹었어요.
+
+    Next Sentence.
+    It rained today. So I stayed at home.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오늘은 비가 왔어요. 그래서 집에 있었어요.
+
+    Next Sentence.    
+    Kimchi is delicious and[l] it is Korean food.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    김치는 맛있어요. 그리고 한국 음식이에요.
+
+    Next Sentence.    
+    I am a student and[l] I am studying French.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 학생이에요. 그리고 프랑스어를 공부해요.
+
+    Next Sentence.    
+    I am a student. So I do not have money.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 학생이에요. 그래서 돈이 없어요.
+
+    Next Sentence.    
+    Kimchi is delicious. So, I eat a lot of kimchi.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    김치는 맛있어요. 그래서 김치를 많이 먹어요.
+
+    Next Sentence.    
+    I am Korean. So, I eat a lot of kimchi.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 한국인이에요. 그래서 김치를 많이 먹어요.
+
+    Next Sentence.    
+    I eat a lot of kimchi. Therefore, I am strong.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 김치를 많이 먹어요. 그래서 튼튼해요.
+
+Lesson Four.
+
+    Give me this and this.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거하고 이거 주세요.
+
+    Next Sentence.
+    milk and[i] bread.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    우유랑 빵
+
+    Next Sentence.
+    bread and[i] milk.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빵이랑 우유
+
+    Next Sentence.
+    milk and bread.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    우유하고 빵
+
+    Next Sentence.
+    I bought milk and[i] bread.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    우유랑 빵 샀어요.
+
+    Next Sentence.
+    I bought milk and bread.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    우유하고 빵 샀어요.
+
+    Next Sentence.
+    I bought bread and[i] milk.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빵이랑 우유 샀어요.
+
+    Next Sentence.
+    I saw a movie with a friend.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구하고 영화 봤어요.
+
+    Next Sentence.
+    Who did you go with[i]?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    누구랑 갔어요?
+
+    Next Sentence.
+    (I) saw a movie together with a friend.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구하고 같이 영화 봤어요.
+
+    Next Sentence.
+    Who did you go with[i] together?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    누구랑 같이 갔어요?
+
+    Next Sentence.
+    I am going to study with my younger brother/sister.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    동생하고 공부할 거예요.
+
+    Next Sentence.
+    I am going to eat rice/a meal with my teacher.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    선생님하고 밥을 먹을 거예요.
+
+    Next Sentence.
+    I am going to go to Gyeongbok Palace with my teacher tomorrow.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일 선생님하고 경복궁에 갈 거예요.
+
+    Next Sentence.
+    I went to Hongdae and Sinchon yesterday.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어제 홍대하고 신촌에 갔어요.
+
+    End of Level 2A.
