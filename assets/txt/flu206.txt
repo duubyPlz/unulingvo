@@ -2,8 +2,8 @@
 * v -> vs
 
     # 그렇지만 Contrast. Writing & specific.
-    # 그런데 "but" or "and/then", background info & continuing on
-    O: 피곤해요. 그렇지만 영화 보고 싶어요. Wider variety of meaning.
+    # 그런데 "but" or "and/then", background info & continuing on. Wider variety of meaning.
+    O: 피곤해요. 그렇지만 영화 보고 싶어요.
     E: I am tired, but[v] I want to see a movie.
 
     O: 피곤해요. 그런데 영화 보고 싶어요.
