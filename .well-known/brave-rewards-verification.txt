@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: duubyplz.github.io
-Token: 3544550bd96d46bc032f24b6d72f222379646cb3a64c9f2b34bb2404424ff4cc
