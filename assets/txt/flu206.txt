@@ -25,8 +25,8 @@
     E: I went to bed late last night, but (continuing on) I am not tired.
 
     O: 저는 매일 운동을 해요. 그런데 살이 빠지지 않아요.
-    E: I work out every day, but (continuing on) I do not lose any weight.
-    F: _I_ work out every day, but (continuing on) I do not lose any weight.
+    E: I work out every day, but (continuing on) I do not[l] lose any weight.
+    F: _I_ work out every day, but (continuing on) I do not[l] lose any weight.
 
     # 왕따 = outcast, loner, someone who is bullied by others
     O: 저는 친구가 없어요. 그런데 왕따는 아니에요.
