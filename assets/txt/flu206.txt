@@ -32,3 +32,15 @@
     O: 저는 친구가 없어요. 그런데 왕따는 아니에요.
     E: I do not have friends, but (continuing on) I am not a loner.
     F: _I_ do not have friends, but (continuing on) I am not a loner.
+
+    # 과음하다 = to drink too much
+    # 말짱하다 = 멀쩡하다 = to be perfectly okay
+    O: 어제 과음했어요. 그런데 말짱해요.
+    E: I drank way too much yesterday. But I’m okay now.
+
+    O: 어제 밤 늦게 잤어요. 그런데 전혀 피곤하지 않아요.
+    E: I went to bed late last night. But I’m not tired at all.
+
+    O: 어제까지는 친구였어요. 그런데 오늘부터는 애인이에요.
+    E: Until yesterday, we were friends. But from today, we are dating each other
+    F: _Until yesterday_, we were friends. But _from today_, we are dating each other

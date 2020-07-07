@@ -17,3 +17,28 @@
 
     O: 저한테
     E: to me, from me
+
+    O: 너한테 할 말이 있어.
+    E: I have something to say to you. @informal
+
+    # 차이다 = to be dumped
+    O: 남자친구한테 차였어요.
+    E: I was dumped by my boyfriend.
+
+    # 풍기다 = give off a smell
+    # 암내 = armpit smell
+    # 진국이다 = to be very strong, to be very hardcore, to be superb
+    O: 너한테서 풍기는 암내가 진국이에요.
+    E: Your armpit smell is terrible. @i
+
+    O: 저한테 암내 나요?
+    E: Do I have a strong armpit smell?
+
+    # TODO clarify ending
+    O: 그건 전 남자친구한테서 받은 거예요.
+    E: That one[s] I received(?) it from my ex-boyfriend.
+    F: _That one[s]_ I received(?) it from my ex-boyfriend.
+
+    # 얻다 = to obtain, to acquire, to get
+    O: 그 남자한테 얻을 건 별로 없을 거예요.
+    E: You won’t be getting much out of him.

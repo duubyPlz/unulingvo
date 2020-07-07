@@ -89,3 +89,18 @@
 
     # O: 오십오 분
     # E: 55 minutes
+
+    O: 저는 매일 아침 아홉시까지 출근해요. 퇴근은 보통 여섯시 삼십분에 해요.
+    E: I get to work by 9 every morning. (I) usually leave work at 6:30. 
+    F: _I_ get to work by 9 every morning. (I) usually _leave work_ at 6:30. 
+
+    O: 내일 수업이 네시 반에 끝나요. 
+    E: My classes finish at 4:30 tomorrow. 
+
+    O: 오늘 몇 시에 친구를 만나요?
+    E: What time do you meet your friend today?
+
+    # 전쟁터 = battlefield
+    O: 아침 일곱시 지하철 이호선은 전쟁터예요.
+    E: At 7 o’clock in the morning, subway line number 2 is a battlefield. 
+    F: _At 7 o’clock in the morning, subway line number 2_ is a battlefield. 
