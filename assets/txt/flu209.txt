@@ -1,5 +1,6 @@
 == TTMIK 2.9 - Counters / 개, 명 ==
 * w -> word
+* f -> future
 
     O: 아줌마 김치찌개 한 개 주세요.
     E: Ma’am, give me one kimchi stew.
@@ -68,3 +69,13 @@
 
     O: 종이 한 장
     E: a sheet of paper
+
+    O: 소주도 한 병 주세요.
+    E: Give me a bottle of soju, as well. 🤔
+
+    O: 다 먹고 세 개 남았어요.
+    E: (I) ate everything and there are three left. 🤔
+
+    # 사탕 = candy
+    O: 사탕 몇 개 먹을래?
+    E: How many candies do you want[f] to eat? @informal 🤔

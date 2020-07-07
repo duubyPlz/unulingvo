@@ -15,3 +15,18 @@
     # 고치다 - to repair
     O: 컴퓨터를 고치기도 해요.
     E: I also fix computers. / I even fix computers.
+
+    O: 보기도 하다 
+    E: to also see, to even see
+
+    O: 먹기도 하다
+    E: to also eat, to even eat
+
+    O: 잡기도 하다
+    E: to also catch; to even catch
+
+    O: 팔기도 하다
+    E: to also sell; to even sell
+
+    O: 사기도 하다
+    E: to also buy; to even buy
