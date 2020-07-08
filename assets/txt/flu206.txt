@@ -40,7 +40,7 @@
     E: I drank way too much yesterday. But I’m okay now. 🤔
 
     O: 어제 밤 늦게 잤어요. 그런데 전혀 피곤하지 않아요.
-    E: I went to bed late last night. But I’m not tired at all. 🤔
+    E: I slept late last night. But I’m not tired at all. 🤔
 
     O: 어제까지는 친구였어요. 그런데 오늘부터는 애인이에요.
     E: Until yesterday, we were friends. But from today, we are lovers. 🤔
