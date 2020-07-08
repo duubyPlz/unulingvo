@@ -22,8 +22,9 @@
     O: 어제 학교에 갔어요. 그런데 일요일이었어요.
     E: I went to school yesterday, and by the way, it was Sunday.
 
+    # 어제 밤 늦게 잤어요. 그런데 전혀 피곤하지 않아요.
     O: 어젯밤 늦게 잤어요. 그런데 피곤하지 않아요.
-    E: I went to bed late last night, but (continuing on) I am not tired.
+    E: I slept late last night[s], but (continuing on) I am not tired.
 
     O: 저는 매일 운동을 해요. 그런데 살이 빠지지 않아요.
     E: I[l] work out every day, but (continuing on) I do not[l] lose any weight.
@@ -38,9 +39,6 @@
     # 말짱하다 = 멀쩡하다 = to be perfectly okay
     O: 어제 과음했어요. 그런데 말짱해요.
     E: I drank way too much yesterday. But I’m okay now. 🤔
-
-    O: 어제 밤 늦게 잤어요. 그런데 전혀 피곤하지 않아요.
-    E: I slept late last night. But I’m not tired at all. 🤔
 
     O: 어제까지는 친구였어요. 그런데 오늘부터는 애인이에요.
     E: Until yesterday, we were friends. But from today, we are lovers. 🤔
