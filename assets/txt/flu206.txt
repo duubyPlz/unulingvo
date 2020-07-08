@@ -43,5 +43,5 @@
     E: I went to bed late last night. But I’m not tired at all. 🤔
 
     O: 어제까지는 친구였어요. 그런데 오늘부터는 애인이에요.
-    E: Until yesterday, we were friends. But from today, we are dating each other 🤔
-    F: _Until yesterday_, we were friends. But _from today_, we are dating each other 🤔
+    E: Until yesterday, we were friends. But from today, we are lovers. 🤔
+    F: _Until yesterday_, we were friends. But _from today_, we are lovers. 🤔
