@@ -33,7 +33,7 @@
     # 왕따 = outcast, loner, someone who is bullied by others
     O: 저는 친구가 없어요. 그런데 왕따는 아니에요.
     E: I[l] do not have friends, but (continuing on) I am not a loner.
-    F: _I[l]_ do not have friends, but (continuing on) I am not a loner.
+    F: _I[l]_ do not have friends, but (continuing on) I am not _a loner_.
 
     # 과음하다 = to drink too much
     # 말짱하다 = 멀쩡하다 = to be perfectly okay
