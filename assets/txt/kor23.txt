@@ -6,8 +6,8 @@
     E: Yes, you are pretty.
 
     O: 민지가 식탁을 닦아.
-    E: Minji wipes the table.
-    F: Minji _wipes the table_.
+    E: Minji wipes the dining-table.
+    F: Minji _wipes the dining-table_.
 
     O: 민지야! 방을 청소해!
     E: Minji! Clean the room!
