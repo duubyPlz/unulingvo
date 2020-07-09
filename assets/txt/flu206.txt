@@ -38,7 +38,7 @@
     # 과음하다 = to drink too much
     # 말짱하다 = 멀쩡하다 = to be perfectly okay
     O: 어제 과음했어요. 그런데 말짱해요.
-    E: I over-drank yesterday. But I’m perfectly-ok now. 🤔
+    E: I over-drank yesterday. But I’m perfectly-ok (now). 🤔
 
     O: 어제까지는 친구였어요. 그런데 오늘부터는 애인이에요.
     E: Until yesterday, we were friends. But from today, we are lovers. 🤔
