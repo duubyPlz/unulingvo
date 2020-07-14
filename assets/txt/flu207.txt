@@ -34,11 +34,10 @@
     O: 저한테 암내 나요?
     E: Do I have a strong armpit smell? 🤔
 
-    # TODO clarify ending
     O: 그건 전 남자친구한테서 받은 거예요.
-    E: That one[s] I received(?) it from my ex-boyfriend. 🤔
-    F: _That one[s]_ I received(?) it from my ex-boyfriend. 🤔
+    E: (Trying to explain, the thing is:) That one[s] I received it from my ex-boyfriend. 🤔
+    F: (Trying to explain, the thing is:) _That one[s]_ I received it from my ex-boyfriend. 🤔
 
     # 얻다 = to obtain, to acquire, to get
     O: 그 남자한테 얻을 건 별로 없을 거예요.
-    E: You won’t be getting much out of him. 🤔
+    E: (Trying to explain, the thing is:) You won’t be getting much out of him. 🤔
