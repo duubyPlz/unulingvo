@@ -29,7 +29,7 @@
     # 암내 = armpit smell
     # 진국이다 = to be very strong, to be very hardcore, to be superb
     O: 너한테서 풍기는 암내가 진국이에요.
-    E: Your armpit smell is terrible. @i 🤔
+    E: Your armpit smell is legit (terrible). @i 🤔
 
     O: 저한테 암내 나요?
     E: Do I have a strong armpit smell? 🤔
