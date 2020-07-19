@@ -21,7 +21,7 @@
     E: What time is it now?
 
     O: 지금 몇 시 몇 분이에요?
-    E: What is the hour, and what is the minute?
+    E: What hour and minute is it now?
 
     O: 저는 매일 아침 아홉시까지 출근해요.
     E: I get to work by 9 every morning.
@@ -96,9 +96,6 @@
 
     O: 내일 수업이 네시 반에 끝나요. 
     E: My classes finish at 4:30 tomorrow. 🤔
-
-    O: 오늘 몇 시에 친구를 만나요?
-    E: What time do you meet your friend today? 🤔
 
     # 전쟁터 = battlefield
     O: 아침 일곱시 지하철 이호선은 전쟁터예요.
