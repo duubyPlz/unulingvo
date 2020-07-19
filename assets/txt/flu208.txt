@@ -24,8 +24,8 @@
     E: What hour and minute is it now?
 
     O: 저는 매일 아침 아홉시까지 출근해요.
-    E: I get to work by 9 every morning.
-    F: _I_ get to work by 9 every morning.
+    E: I get to work by 9 am every day.
+    F: _I_ get to work by 9 am every day.
 
     O: 내일 수업이 네시 반에 끝나요.
     E: My classes finish at 4:30 tomorrow.
@@ -91,8 +91,8 @@
     # E: 55 minutes
 
     O: 저는 매일 아침 아홉시까지 출근해요. 퇴근은 보통 여섯시 삼십분에 해요.
-    E: I get to work by 9 every morning. (I) usually leave work at 6:30. 🤔
-    F: _I_ get to work by 9 every morning. (I) usually _leave work_ at 6:30. 🤔
+    E: I get to work by 9 am every day. (I) usually leave work at 6:30. 🤔
+    F: _I_ get to work by 9 am every day. (I) usually _leave work_ at 6:30. 🤔
 
     O: 내일 수업이 네시 반에 끝나요. 
     E: My classes finish at 4:30 tomorrow. 🤔
