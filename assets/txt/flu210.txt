@@ -93,7 +93,7 @@
     E: The lecture is boring so I’m dozing of. 🤔
 
     O: 잠도 안 자고 영어 공부 하고 있어요.
-    E: I haven't even slept and I'm going to study English. 🤔
+    E: I haven't even slept and I am studying English. 🤔
 
     O: 저 사람 봐요. 자면서 이야기하고 있어요.
     E: Look at that person. He is talking while sleeping. 🤔
