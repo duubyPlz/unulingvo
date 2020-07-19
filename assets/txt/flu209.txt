@@ -33,7 +33,7 @@
     E: how many (people)
 
     O: 몇 명 있어요?
-    E: How many people are there?
+    E: How many people (are there)?
 
     O: 열 명 있어요.
     E: There are 10 people.
