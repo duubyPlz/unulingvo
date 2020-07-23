@@ -1,4 +1,6 @@
 == TTMIK 2.8 - Telling The Time ==
+* h -> half
+
     O: 한 시 오 분
     E: 1:05
 
@@ -28,7 +30,7 @@
     F: _I_ get to work by 9 am every day.
 
     O: 내일 수업이 네시 반에 끝나요.
-    E: My classes finish at 4:30 tomorrow.
+    E: My classes finish at 4:30[h] tomorrow.
 
     O: 오늘 몇 시에 친구를 만나요?
     E: What time do you meet your friend today?
@@ -93,9 +95,6 @@
     O: 저는 매일 아침 아홉시까지 출근해요. 퇴근은 보통 여섯시 삼십분에 해요.
     E: I get to work by 9 am every day. (I) usually leave work at 6:30. 🤔
     F: _I_ get to work by 9 am every day. (I) usually _leave work_ at 6:30. 🤔
-
-    O: 내일 수업이 네시 반에 끝나요. 
-    E: My classes finish at 4:30 tomorrow. 🤔
 
     # 전쟁터 = battlefield
     O: 아침 일곱시 지하철 이호선은 전쟁터예요.
