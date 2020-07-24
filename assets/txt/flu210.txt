@@ -96,7 +96,7 @@
     E: I haven't even slept and I am studying English. 🤔
 
     O: 저 사람 봐요. 자면서 이야기하고 있어요.
-    E: Look at that person. He is talking while sleeping. 🤔
+    E: Look at that person (over there). He is talking while sleeping. 🤔
 
     # 어제 이 시간에 뭐 했어요?
     O: 어제 이 시간에 뭐 하고 있었어요?
