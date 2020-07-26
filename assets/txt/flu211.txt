@@ -12,7 +12,7 @@
     E: My name is Stephen.
 
     O: 제 여동생 이름은 탈리아나예요.
-    E: My sister’s name is Taliana.
+    E: My younger sister’s name is Taliana.
 
     O: 저는 서른살이에요.
     E: I am 30 years old.
