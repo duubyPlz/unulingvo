@@ -19,9 +19,11 @@
 
     O: 제 이름은 최경은이에요.
     E: My name is Choi Kyeong-eun.
+    F: _My name_ is Choi Kyeong-eun.
 
     O: 제 나이는 비밀이에요.
     E: My age is a secret.
+    F: _My age_ is a secret.
 
     O: 그리고 저는 한국어 선생님이에요.
     E: And I am a Korean teacher.
