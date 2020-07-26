@@ -13,6 +13,7 @@
 
     O: 제 이름은 스티븐이에요.
     E: My name is Stephen.
+    F: _My name_ is Stephen.
 
     O: 제 여동생 이름은 탈리아나예요.
     E: My younger sister’s name is Taliana.
