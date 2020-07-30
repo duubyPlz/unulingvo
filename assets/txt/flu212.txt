@@ -3,6 +3,7 @@
 
     O: 생일이 언제예요?
     E: When is your birthday?
+    F: _When is_ your birthday?
 
     O: 몇 월 며칠이에요?
     E: What is the date?
@@ -12,6 +13,7 @@
 
     O: 생일이 몇 월 며칠이에요? 
     E: What date is your birthday?
+    F: _What date is_ your birthday?
 
     O: 몇 월
     E: Which month
