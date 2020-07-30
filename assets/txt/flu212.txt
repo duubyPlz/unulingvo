@@ -31,7 +31,7 @@
     O: 사월 
     E: April
 
-    O: 어월 
+    O: 오월 
     E: May
 
     O: 유월 
