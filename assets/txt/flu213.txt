@@ -1,4 +1,6 @@
 == TTMIK 2.13 - Too, Also / -도 (Nouns, pronouns) ==
+* s -> short
+
     O: 저도 좋아요.
     E: I like it, too.
 
@@ -21,4 +23,4 @@
     E: Please give water to me, too. (Not just other people)
 
     O: 저 물도 주세요.
-    E: Please give me water as well. (Not only other things e.g. food)
+    E: Please give me[s] water as well. (Not only other things e.g. food)
