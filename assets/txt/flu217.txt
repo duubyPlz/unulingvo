@@ -1,39 +1,50 @@
-== TTMIK 2.17 -  ==
-    O: 
-    E: 
+== TTMIK 2.17 - Can, Cannot / -ㄹ 수 있다/없다 ==
+* c -> common
 
-    O: 
-    E: 
+    # -(으)ㄹ 수 없다: basic way express “can not”
+    # adding 못 before verb: common way
 
-    O: 
-    E: 
+    O: 볼 수 있다
+    E: can see
 
-    O: 
-    E: 
+    O: 먹을 수 있다 
+    E: can eat
 
-    O: 
-    E: 
+    O: 잘 수 없다
+    E: can not sleep
 
-    O: 
-    E: 
+    O: 잘 수 있다 
+    E: can sleep 
 
-    O: 
-    E: 
+    O: 잡을 수 없다 
+    E: can not catch
 
-    O: 
-    E: 
+    O: 잡을 수 있다
+    E: can catch
 
-    O: 
-    E: 
+    O: 못 가다
+    E: can not[c] go
 
-    O: 
-    E: 
+    O: 못 보다
+    E: can not[c] see
 
-    O: 
-    E: 
+    O: 못 먹다
+    E: can not[c] eat
 
-    O: 
-    E: 
+    O: 못 하다
+    E: can not[c] do
 
-    O: 
-    E: 
+    O: 운전 할 수 있어요? 
+    E: Can you drive?
+
+    O: 일본어 할 수 있어요? 
+    E: Can you speak Japanese?
+
+    O: 이거 읽을 수 있어요? 
+    E: Can you read this?
+
+    O: 못 읽어요.
+    E: I can’t[c] read it
+
+    O: 지금 못 만나요. 
+    E: I can’t[c] meet you now.
