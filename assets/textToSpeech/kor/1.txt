@@ -1,5 +1,4 @@
 1 Basics One.
-* s -Lesson spoken.
 
 Lesson One.
     Or.
