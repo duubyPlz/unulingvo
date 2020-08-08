@@ -6,12 +6,12 @@
     # * adding -기 - “to do [verb]” and “[verb]ing” format.
 
     O: 저는 영어도 가르쳐요.
-    E: I teach English as well.
-    F: _I_ teach English as well.
+    E: I teach (the object) English as well.
+    F: _I_ teach (the object) English as well.
 
     O: 저는 영어를 가르치기도 해요.
-    E: I also teach English. / I even teach English. / I also work as an English teacher.
-    F: _I_ also teach English. / I even teach English. / I also work as an English teacher.
+    E: I also (do the act of) teach English. / I even teach English. / I also work as an English teacher.
+    F: _I_ also (do the act of) teach English. / I even teach English. / I also work as an English teacher.
 
     O: 컴퓨터도 고쳐요.
     E: (I) fix (the objects) computers as well.
