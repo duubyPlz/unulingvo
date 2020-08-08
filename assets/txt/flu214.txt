@@ -10,8 +10,8 @@
     F: _I_ teach (the object) English as well.
 
     O: 저는 영어를 가르치기도 해요.
-    E: I also (do the act of) teach English. / I even teach English. / I also work as an English teacher.
-    F: _I_ also (do the act of) teach English. / I even teach English. / I also work as an English teacher.
+    E: I also (do the act of) teach English[l]. / I even teach English. / I also work as an English teacher.
+    F: _I_ also (do the act of) teach English[l]. / I even teach English. / I also work as an English teacher.
 
     O: 컴퓨터도 고쳐요.
     E: (I) fix (the objects) computers as well.
