@@ -1,4 +1,6 @@
 == TTMIK 2.14 - Too, Also / -도 (Verbs) ==
+* l -> long
+
     # Change the verb into its noun form, it is absolutely possible to use -도 with verbs.
     # Few different ways
     # * adding -기 - “to do [verb]” and “[verb]ing” format.
@@ -16,7 +18,7 @@
 
     # 고치다 - to repair
     O: 컴퓨터를 고치기도 해요.
-    E: I also (do the act of) fix computers. / I even fix computers.
+    E: I also (do the act of) fix computers[l]. / I even fix computers.
 
     O: 보기도 하다 
     E: to also see, to even see
