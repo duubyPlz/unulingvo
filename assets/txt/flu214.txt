@@ -12,11 +12,11 @@
     F: _I_ also teach English. / I even teach English. / I also work as an English teacher.
 
     O: 컴퓨터도 고쳐요.
-    E: (I) fix computers as well.
+    E: (I) fix (the objects) computers as well.
 
     # 고치다 - to repair
     O: 컴퓨터를 고치기도 해요.
-    E: I also fix computers. / I even fix computers.
+    E: I also (do the act of) fix computers. / I even fix computers.
 
     O: 보기도 하다 
     E: to also see, to even see
