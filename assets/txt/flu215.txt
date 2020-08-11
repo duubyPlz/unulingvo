@@ -7,7 +7,7 @@
 
     O: 아침에는 커피만 마셔요.
     E: I only drink coffee in the morning.
-    E: I only drink coffee _in the morning_.
+    ㄹ: I only drink coffee _in the morning_.
 
     O: 아침에만 커피를 마셔요.
     E: I drink coffee, only in the mornings.
