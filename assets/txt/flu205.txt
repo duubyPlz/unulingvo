@@ -33,7 +33,9 @@
     F: _I_ watched a movie on Monday.
 
     O: 토요일 저녁에는 새로운 언어 공부를 시작해요.
-    E: This Saturday evening, I’m going to start studying a new language.
+    E: (This) Saturday evening, I am starting a new-language-studying (start studying a new language).
+    F: _(This) Saturday evening_, I am starting a new-language-studying (start studying a new language).
 
-    O: 저는 금요일마다 밤새 술을 마셔요.
-    E: I drink all night long every Friday
+    O: 저는 금요일마다 밤새 술을 마셔요. 🤔
+    E: I drink all night long every Friday. 🤔
+    F: _I_ drink all night long every Friday. 🤔
