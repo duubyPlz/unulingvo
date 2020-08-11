@@ -1,4 +1,6 @@
 == TTMIK 2.15 - Only / -만 ==
+* l -> long
+
     O: 이것만 살 거예요.
     E: I will only buy this.
 
@@ -10,7 +12,7 @@
     ㄹ: I only drink coffee _in the morning_.
 
     O: 아침에만 커피를 마셔요.
-    E: I drink coffee, only in the mornings.
+    E: I drink coffee[l], only in the mornings.
 
     O: 듣기만 했어요.
     E: I only listened (and did not e.g. talk).
