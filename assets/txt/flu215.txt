@@ -7,6 +7,7 @@
 
     O: 아침에는 커피만 마셔요.
     E: I only drink coffee in the morning.
+    E: I only drink coffee _in the morning_.
 
     O: 아침에만 커피를 마셔요.
     E: I drink coffee, only in the mornings.
@@ -32,3 +33,4 @@
 
     O: 영화는 집에서만 봐요.
     E: I watch movies only at home.
+    F: I watch _movies_ only at home.
