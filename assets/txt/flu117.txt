@@ -6,7 +6,7 @@
     E: I came / you came / s/he came / they came / we came / etc.
 
     O: 적었어요
-    E: I wrote / you wrote / s/he wrote / they wrote / we wrote / etc.
+    E: I wrote (not much thinking) / you wrote / s/he wrote / they wrote / we wrote / etc.
 
     O: 했어요
     E: I did / you did / he did / they did / etc.
@@ -25,7 +25,7 @@
     E: I/you/he/she played
 
     O: 썼어요
-    E: I/you/he/she wrote
+    E: I/you/he/she wrote (composed)
 
     O: 기다렸어요
     E: I/you/he/she waited
