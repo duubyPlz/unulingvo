@@ -34,6 +34,7 @@
 
     O: 제가 방 청소했어요!
     E: I cleaned up my room!
+    F: I _cleaned up my room_!
 
     O: 아... 진짜?
     E: Oh... really?
