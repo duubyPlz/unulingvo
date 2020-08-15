@@ -31,7 +31,7 @@
     E: Why did you only buy this?
 
     O: 어제 놀기만 했어요.
-    E: I did nothing but play yesterday.
+    E: I (did nothing but) only played yesterday.
 
     O: 영화는 집에서만 봐요.
     E: I watch movies only at home.
