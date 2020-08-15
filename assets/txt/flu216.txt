@@ -37,10 +37,10 @@
     F: I _cleaned up my room_!
 
     O: 아... 진짜?
-    E: Oh... really?
+    E: Oh... really[sp]?
 
     O: 예, 진짜! 보고 싶어요?
-    E: Yeah, really! Do you want to see it?
+    E: Yeah, really[sp]! Do you want to see it?
 
     O: 아주 맛있어요.
     E: It is very delicious.
