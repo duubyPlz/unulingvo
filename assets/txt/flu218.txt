@@ -50,4 +50,4 @@
     E: I’m not good at writing.
 
     O: 매운 거 잘 먹어요? 
-    E: Are you good at eating spicy food[s]?
+    E: Are you good at eating spicy things[s]?
