@@ -1,71 +1,73 @@
 == TTMIK 2.19 - Making Verbs Into Nouns / -는 것 ==
-# Related: 2.14
+# Related: 2.14 -기
+# -기 vs. -는 것: -는 것 most general way of verb -> noun.
+# -는 것 vs. -는 거: -는 거 easier pronunciation (not use formally).
 
-    O: 
-    E: 
+* l -> long
 
-    O: 
-    E: 
+    O: 보는 것
+    E: seeing; the act of seeing; the thing that you see; what I watch
 
-    O: 
-    E: 
+    O: 가는 것
+    E: going; the act of going
 
-    O: 
-    E: 
+    O: 먹는 것
+    E: eating; the act of eating; the thing that you eat; what you eat
 
-    O: 
-    E: 
+    O: 사는 것
+    E: buying; the act of buying; the thing that you buy; what you buy
 
-    O: 
-    E: 
+    O: 산 것
+    E: what you bought
 
-    O: 
-    E: 
+    O: 사는 것
+    E: what you buy
 
-    O: 
-    E: 
+    O: 살 것
+    E: what you will buy
 
-    O: 
-    E: 
+    O: 먹은 것
+    E: what you ate
 
-    O: 
-    E: 
+    O: 먹는 것
+    E: what you eat
 
-    O: 
-    E: 
+    O: 먹을 것
+    E: what you will eat
 
-    O: 
-    E: 
+    O: 지금 듣는 것은 노래예요
+    E: What I am listening to now is a song.
+    F: _What[l] I am listening to now_ is a song.
 
-    O: 
-    E: 
+    O: 지금 듣는 거는 노래예요.
+    E: What I am listening to now is a song.
+    F: _What I am listening to now_ is a song.
 
-    O: 
-    E: 
+    O: 오늘 만나는 것 알아요?
+    E: Do you know that we are meeting[l] today?
 
-    O: 
-    E: 
+    O: 오늘 만나는 거 알아요?
+    E: Do you know that we are meeting today?
 
-    O: 
-    E: 
+    O: 매운 것 잘 먹어요?
+    E: Are you good at eating spicy foods[l]?
 
-    O: 
-    E: 
+    O: 매운 거 잘 먹어요?
+    E: Are you good at eating spicy foods?
 
-    O: 
-    E: 
+    O: 제 취미는 영화 보는 거예요.
+    E: My hobby is watching movies.
 
-    O: 
-    E: 
+    O: 요즘 공부하는 거는 뭐예요?
+    E: Recently, what is it that you are studying?
+    F: Recently, what is it that _you are studying_?
 
-    O: 
-    E: 
+    O: 요즘 뭐 공부해요?
+    E: Recently, what are you studying?
 
-    O: 
-    E: 
+    # 수다 떨다: to chitchat
+    O: 저는 친구랑 수다떠는 거를 좋아해요.
+    E: I like chitchatting with my friends.
 
-    O: 
-    E: 
-
-    O: 
-    E: 
+    O: 경은 씨랑 일하는 거 좋아해요.
+    E: I like working with Kyeong-eun.
