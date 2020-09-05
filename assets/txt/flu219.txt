@@ -1,4 +1,6 @@
 == TTMIK 2.19 - Making Verbs Into Nouns / -는 것 ==
+# Related: 2.14
+
     O: 
     E: 
 
