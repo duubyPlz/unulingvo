@@ -1,4 +1,4 @@
-== TTMIK 2.14 - Too, Also / -도 (Verbs) ==
+== TTMIK 2.14 - Too, Also / -도 (Verbs), -기 ==
 * l -> long
 
     # Change the verb into its noun form, it is absolutely possible to use -도 with verbs.
