@@ -3,6 +3,12 @@
 # -기 vs. -는 것: -는 것 most general way of verb -> noun.
 # -는 것 vs. -는 거: -는 거 easier pronunciation (not use formally).
 
+# 1. “doing” something
+# 2. the act of “doing” something
+# 3. the thing which one “does”
+# 4. what one “does”
+# 5. the fact that one is “doing” or “does” something
+
 * l -> long
 
     O: 보는 것
