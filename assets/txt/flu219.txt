@@ -68,6 +68,7 @@
     # 수다 떨다: to chitchat
     O: 저는 친구랑 수다떠는 거를 좋아해요.
     E: I like chitchatting with my friends.
+    F: _I_ like chitchatting with my friends.
 
     O: 경은 씨랑 일하는 거 좋아해요.
     E: I like working with Kyeong-eun.
