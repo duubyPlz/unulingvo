@@ -1,4 +1,57 @@
 == TTMIK 2.22 - To like / 좋다 vs 좋아하다 ==
+* s -> short
 
-    O: 
-    E: 
+    # <subject> 좋다 - to personally like
+    # <object> 좋다 - to be good
+    # <object> 좋아하다 - to like + 3rd party (likes)
+
+    O: 이 가수가 좋아요.
+    E: I (personally) like this singer.
+
+    O: 이 가수를 좋아요.
+    E: This singer is good.
+
+    O: 한국어가 좋아요.
+    E: I (personally) like Korean.
+
+    O: 한국어 좋아요.
+    E: I like[s] Korean.
+
+    O: 싫다
+    E: to be unlikable; to be undesirable
+
+    O: 싫어하다
+    E: to hate; to not like
+
+    O: 예뻐하다
+    E: to consider someone pretty and treat them in such a manner
+
+    O: 슬퍼하다
+    E: to feel sad and therefore express such emotions
+
+    O: 슬퍼하지 마세요.
+    E: Do not be sad.
+
+    O: 싫어하지 마세요.
+    E: Do not hate me.
+
+    O: 저는 우유를 좋아해요.
+    E: I like milk.
+
+    O: 저는 우유를 안 좋아해요.
+    E: I do not like milk.
+
+    O: 우유가 좋아요? 주스가 좋아요?
+    E: Do you (personally) like milk? (Or) Do you (personally) like juice?
+
+    O: 뭐가 제일 좋아요?
+    E: What is your (personal) favorite?
+
+    O: 뭐를 제일 좋아해요? 
+    E: What do you like best?
+
+    O: 경은 씨는 송중기를 좋아해요.
+    E: Kyeong-eun likes Song Joong-ki.
+
+    O: 한국 영화 좋아하세요?
+    E: Do you like[s] Korean movies? @honorific
