@@ -55,3 +55,6 @@
 
     O: 한국 영화 좋아하세요?
     E: Do you like[s] Korean movies? @honorific
+
+    O: 저 좋아하세요?
+    E: Do you like[s] me? / Are you in love with me? @honorific
