@@ -64,6 +64,7 @@
 
     O: 제 취미는 영화 보는 거예요.
     E: My hobby is watching movies.
+    F: _My hobby_ is watching movies.
 
     O: 요즘 공부하는 거는 뭐예요?
     E: Recently, what is it that you are studying?
