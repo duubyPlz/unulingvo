@@ -10,6 +10,7 @@
 # 5. the fact that one is “doing” or “does” something
 
 * l -> long
+* s -> short
 
     O: 보는 것
     E: seeing; the act of seeing; the thing that you see; what I watch
@@ -63,13 +64,14 @@
 
     O: 제 취미는 영화 보는 거예요.
     E: My hobby is watching movies.
+    F: _My hobby_ is watching movies.
 
     O: 요즘 공부하는 거는 뭐예요?
     E: Recently, what is it that you are studying?
     F: Recently, what is it that _you are studying_?
 
     O: 요즘 뭐 공부해요?
-    E: Recently, what are you studying?
+    E: Recently[s], what are you studying?
 
     # 수다 떨다: to chitchat
     O: 저는 친구랑 수다떠는 거를 좋아해요.
