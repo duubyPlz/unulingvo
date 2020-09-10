@@ -57,7 +57,7 @@
     E: Please give me a hamburger.
 
     O: 김치 주세요.
-    E: Please give me some kimchi.
+    E: Please give me kimchi.
 
     O: 불고기 주세요.
     E: Please give me some bulgogi.
