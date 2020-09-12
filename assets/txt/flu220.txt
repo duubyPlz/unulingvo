@@ -22,7 +22,7 @@
     E: only when
 
     O: -야 되다
-    E: only when __, it works
+    E: (only) when __, it works
 
     O: 집에 가야 돼요.
     E: I have to go home.
