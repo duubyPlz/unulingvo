@@ -11,6 +11,7 @@
 
 * l -> long
 * s -> short
+* o -> object
 
     O: 보는 것
     E: seeing; the act of seeing; the thing that you see; what I watch
@@ -51,7 +52,7 @@
     F: _What I am listening to now_ is a song.
 
     O: 오늘 만나는 것 알아요?
-    E: Do you know that we are meeting[l] today?
+    E: Do you know that we are meeting[o] today?
 
     O: 오늘 만나는 거 알아요?
     E: Do you know that we are meeting today?
@@ -75,8 +76,8 @@
 
     # 수다 떨다: to chitchat
     O: 저는 친구랑 수다떠는 거를 좋아해요.
-    E: I like chitchatting[l] with my friends.
-    F: _I_ like chitchatting[l] with my friends.
+    E: I like chitchatting[o] with my friends.
+    F: _I_ like chitchatting[o] with my friends.
 
     O: 경은 씨랑 일하는 거 좋아해요.
     E: I like working with Kyeong-eun.
