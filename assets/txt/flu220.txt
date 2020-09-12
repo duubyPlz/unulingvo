@@ -35,7 +35,7 @@
     E: Until when should I be here?
 
     O: 누구한테 줘야 돼요?
-    E: Who should I give this to?
+    E: Who should I give it to?
 
     O: 어디에서 사야 돼요?
     E: Where should I buy it?
