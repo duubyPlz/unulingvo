@@ -28,8 +28,8 @@
     E: I have to go home.
 
     O: 저는 뭐 해야 돼요?
-    E: What should I do?
-    F: What should _I_ do?
+    E: What (task) should I do?
+    F: What (task) should _I_ do?
 
     O: 언제까지 여기에 있어야 돼요? 
     E: Until when should I be here?
