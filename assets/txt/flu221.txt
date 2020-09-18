@@ -15,8 +15,8 @@
     O: 이거보다 더 커요.
     E: It is bigger than this one.
 
-    O: to be nicer
-    E: 더 좋다
+    O: 더 좋다
+    E: to be nicer
 
     O: 더 좋아요.
     E: It is nicer.
