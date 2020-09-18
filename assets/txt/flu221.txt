@@ -18,16 +18,16 @@
     E: It is bigger than this one.
 
     O: 더 좋다
-    E: to be nicer
+    E: to be nicer (a thing)
 
     O: 더 좋아요.
-    E: It is nicer.
+    E: It is nicer (a thing).
 
     O: 이거보다 더 좋아요.
-    E: It is nicer than this one.
+    E: It is nicer (a thing) than this one.
 
     O: 더 착하다 
-    E: to be nicer 
+    E: to be nicer (a person)
 
     O: 현우 씨는 더 착해요.
     E: Hyunwoo is nicer.
