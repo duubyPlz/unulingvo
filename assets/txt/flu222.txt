@@ -13,9 +13,10 @@
 
     O: 한국어가 좋아요.
     E: I (personally) like Korean.
+    F: _I (personally) like_ Korean.
 
     O: 한국어 좋아요.
-    E: I like[s] Korean.
+    E: I (personally) like[s] Korean.
 
     O: 싫다
     E: to be unlikable; to be undesirable
