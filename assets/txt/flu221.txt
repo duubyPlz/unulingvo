@@ -29,12 +29,12 @@
 
     O: 현우 씨는 더 착해요.
     E: Hyunwoo is nicer.
-    E: _Hyunwoo_ is nicer.
+    F: _Hyunwoo_ is nicer.
 
     # 현우 씨는 경은 씨보다 착해요.
     O: 현우 씨는 경은 씨보다 더 착해요.
     E: Hyunwoo is nicer than Kyeong-eun. 
-    E: _Hyunwoo_ is nicer than Kyeong-eun. 
+    F: _Hyunwoo_ is nicer than Kyeong-eun. 
 
     O: 오늘은 어제보다 더워요. 
     E: Today is hotter than yesterday.

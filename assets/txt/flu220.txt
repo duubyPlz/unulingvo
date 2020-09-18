@@ -22,20 +22,20 @@
     E: only when
 
     O: -야 되다
-    E: only when __, it works
+    E: (only) when __, it works
 
     O: 집에 가야 돼요.
     E: I have to go home.
 
     O: 저는 뭐 해야 돼요?
-    E: What should I do?
-    F: What should _I_ do?
+    E: What (thing, not how) should I do?
+    F: What (thing, not how) should _I_ do?
 
     O: 언제까지 여기에 있어야 돼요? 
     E: Until when should I be here?
 
     O: 누구한테 줘야 돼요?
-    E: Who should I give this to?
+    E: Who should I give it to?
 
     O: 어디에서 사야 돼요?
     E: Where should I buy it?
