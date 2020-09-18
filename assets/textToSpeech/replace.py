@@ -71,6 +71,7 @@ def overwrite(text, file_path):
 
 
 # Main
+#   Example Usage: ./replace.py -f flu/200B.txt
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-f", "--file-path", type=str, required=True,
