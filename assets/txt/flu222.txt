@@ -5,6 +5,10 @@
     # <object> 좋다 - to be good
     # <object> 좋아하다 - to like + 3rd party (likes)
 
+    # Own thoughts:
+    # 좋다 = adjective, <noun>이/가 is adjective
+    # 좋아하다 = verb, do verb to 을/를<noun>
+
     O: 이 가수가 좋아요.
     E: I (personally) like this singer.
 
