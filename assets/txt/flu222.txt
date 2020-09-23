@@ -44,6 +44,7 @@
 
     O: 우유가 좋아요? 주스가 좋아요?
     E: Do you (personally) like milk? (Or) Do you (personally) like juice?
+    F: _Do you (personally) like_ milk_? (Or) Do you (personally) like_ juice?
 
     O: 뭐가 제일 좋아요?
     E: What is your (personal) favorite?
