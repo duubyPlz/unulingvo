@@ -13,9 +13,10 @@
 
     O: 한국어가 좋아요.
     E: I (personally) like Korean.
+    F: _I (personally) like_ Korean.
 
     O: 한국어 좋아요.
-    E: I like[s] Korean.
+    E: I (personally) like[s] Korean.
 
     O: 싫다
     E: to be unlikable; to be undesirable
@@ -54,7 +55,7 @@
     E: Kyeong-eun likes Song Joong-ki.
 
     O: 한국 영화 좋아하세요?
-    E: Do you like[s] Korean movies? @honorific
+    E: Do you like Korean movies[s]? @honorific
 
     O: 저 좋아하세요?
-    E: Do you like[s] me? / Are you in love with me? @honorific
+    E: Do you like me[s]? / Are you in love with me? @honorific

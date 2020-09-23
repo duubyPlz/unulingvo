@@ -1,4 +1,6 @@
 = TTMIK 2.21 - More.. than… / -보다 더 ==
+* s ➔ short
+
     O: 더 빠르다
     E: to be faster
 
@@ -15,17 +17,17 @@
     O: 이거보다 더 커요.
     E: It is bigger than this one.
 
-    O: to be nicer
-    E: 더 좋다
+    O: 더 좋다
+    E: to be nicer (a thing)
 
     O: 더 좋아요.
-    E: It is nicer.
+    E: It is nicer (a thing).
 
     O: 이거보다 더 좋아요.
-    E: It is nicer than this one.
+    E: It is nicer (a thing) than this one.
 
     O: 더 착하다 
-    E: to be nicer 
+    E: to be nicer (a person)
 
     O: 현우 씨는 더 착해요.
     E: Hyunwoo is nicer.
@@ -37,15 +39,15 @@
     F: _Hyunwoo_ is nicer than Kyeong-eun. 
 
     O: 오늘은 어제보다 더워요. 
-    E: Today is hotter than yesterday.
-    F: _Today_ is hotter than yesterday.
+    E: Today is hotter[s] than yesterday.
+    F: _Today_ is hotter[s] than yesterday.
 
     O: 영어는 한국어보다 어려워요.
-    E: English is more difficult than Korean.
-    F: _English_ is more difficult than Korean.
+    E: English is more[s] difficult than Korean.
+    F: _English_ is more[s] difficult than Korean.
 
     O: 어제보다 일찍 갈 거예요.
-    E: I will go earlier than yesterday.
+    E: I will go earlier[s] than yesterday.
 
     O: 현정 씨가 저보다 더 잘해요
     E: Hyeonjeong is better than me (at doing that).
