@@ -10,17 +10,17 @@
     # 좋아하다 = verb, do verb to 을/를<noun>
 
     O: 이 가수가 좋아요.
-    E: I (personally) like this singer.
+    E: (I) (personally) like this singer.
 
     O: 이 가수를 좋아요.
     E: This singer is good.
 
     O: 한국어가 좋아요.
-    E: I (personally) like Korean.
-    F: _I (personally) like_ Korean.
+    E: (I) (personally) like Korean.
+    F: _(I) (personally) like_ Korean.
 
     O: 한국어 좋아요.
-    E: I (personally) like[s] Korean.
+    E: (I) (personally) like[s] Korean.
 
     O: 싫다
     E: to be unlikable; to be undesirable
