@@ -35,7 +35,7 @@
     E: Do not be sad.
 
     O: 싫어하지 마세요.
-    E: Do not hate me.
+    E: Do not hate (me).
 
     O: 저는 우유를 좋아해요.
     E: I like milk.
