@@ -1,7 +1,7 @@
 == TTMIK 2.22 - To like / 좋다 vs 좋아하다 ==
 * s -> short
 
-    # <subject> 좋다 - to personally like
+    # <subject> 좋다 - to like (can only say this for yourself), likeable
     # <object> 좋다 - to be good
     # <object> 좋아하다 - to like + 3rd party (likes)
 
@@ -10,17 +10,14 @@
     # 좋아하다 = verb, do verb to 을/를<noun>
 
     O: 이 가수가 좋아요.
-    E: (I) (personally) like this singer.
+    E: (I) like this singer. (self, likeable)
 
     O: 이 가수를 좋아요.
     E: This singer is good.
 
     O: 한국어가 좋아요.
-    E: (I) (personally) like Korean.
-    F: _(I) (personally) like_ Korean.
-
-    O: 한국어 좋아요.
-    E: (I) (personally) like[s] Korean.
+    E: (I) like Korean. (self, likeable)
+    F: _(I) like_ Korean. (self, likeable)
 
     O: 싫다
     E: to be unlikable; to be undesirable
@@ -42,22 +39,26 @@
 
     O: 저는 우유를 좋아해요.
     E: I like milk.
+    F: _I_ like milk.
 
     O: 저는 우유를 안 좋아해요.
     E: I do not like milk.
+    F: _I_ do not like milk.
 
     O: 우유가 좋아요? 주스가 좋아요?
-    E: Do you (personally) like milk? (Or) Do you (personally) like juice?
-    F: _Do you (personally) like_ milk_? (Or) Do you (personally) like_ juice?
+    E: Do you like milk (self, likeable)? (Or) Do you like juice (self, likeable)?
+    F: _Do you like _milk_ (self, likeable)? (Or) Do you like _juice_ (self, likeable)?
 
     O: 뭐가 제일 좋아요?
-    E: What is your (personal) favorite?
+    E: What is your favorite? (self, likeable)
+    F: What _is your favorite? (self, likeable)_
 
     O: 뭐를 제일 좋아해요? 
     E: What do you like best?
 
     O: 경은 씨는 송중기를 좋아해요.
     E: Kyeong-eun likes Song Joong-ki.
+    F: _Kyeong-eun_ likes Song Joong-ki.
 
     O: 한국 영화 좋아하세요?
     E: Do you like Korean movies[s]? @honorific
