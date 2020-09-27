@@ -1,5 +1,6 @@
 = TTMIK 2.21 - More.. than… / -보다 더 ==
 * s ➔ short
+* l ➔ long
 
     O: 더 빠르다
     E: to be faster
@@ -54,5 +55,5 @@
     F: Hyeonjeong _is better than me (at doing that)_.
 
     O: 저는 책을 읽는 것보다 사는 것을 더 좋아해요.
-    E: I like buying books more than reading books.
-    F: _I_ like buying books more than reading books.
+    E: I like buying[l] books more than reading[l] books.
+    F: _I_ like buying[l] books more than reading[l] books.
