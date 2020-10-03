@@ -44,3 +44,12 @@ about it
 
     O: 그 사람은 벌써 학교를 졸업했어요!
     E: That person already graduated from school.
+
+    O: 벌써 비가 오고 있어요.
+    E: It is already raining.
+
+    O: 벌써 추워요.
+    E: It is already cold.
+
+    O: 벌써 끝났어요.
+    E: It is already over.
