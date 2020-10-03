@@ -17,7 +17,6 @@
 
     O: 한국어가 좋아요.
     E: (I) like Korean. (self, likeable)
-    F: _(I) like_ Korean. (self, likeable)
 
     O: 싫다
     E: to be unlikable; to be undesirable
@@ -35,7 +34,7 @@
     E: Do not be sad.
 
     O: 싫어하지 마세요.
-    E: Do not hate me.
+    E: Do not hate (me).
 
     O: 저는 우유를 좋아해요.
     E: I like milk.
@@ -47,11 +46,9 @@
 
     O: 우유가 좋아요? 주스가 좋아요?
     E: Do you like milk (self, likeable)? (Or) Do you like juice (self, likeable)?
-    F: _Do you like _milk_ (self, likeable)? (Or) Do you like _juice_ (self, likeable)?
 
     O: 뭐가 제일 좋아요?
     E: What is your favorite? (self, likeable)
-    F: What _is your favorite? (self, likeable)_
 
     O: 뭐를 제일 좋아해요? 
     E: What do you like best?
