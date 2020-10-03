@@ -45,7 +45,7 @@
     E: If it rains tomorrow, I will be at home.
 
     O: 이거 다 먹으면, 배가 아플 거예요.
-    E: If you eat all of it, your stomach will hurt
+    E: If you eat all of this, your stomach will hurt
 
     O: 리모콘을 찾으면, 티브이를 볼 수 있어요.
     E:  If you find the remote control, you can watch TV
