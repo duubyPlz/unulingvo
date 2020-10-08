@@ -31,7 +31,7 @@ about it
     E: It’s already three o’clock.
 
     O: 세 시예요, 벌써!
-    E: It’s three o’clock already!
+    E: It’s three o’clock, already!
 
     O: 벌써 왔어요? 
     E: (Oh,) you are already here!
