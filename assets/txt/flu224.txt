@@ -25,7 +25,7 @@ about it
     E: He’s not here yet?
 
     O: 네, 아직도 안 왔어요.
-    E: No, he’s still not here. 
+    E: Yes, he’s still not here. 
 
     O: 벌써 세 시예요
     E: It’s already three o’clock.
