@@ -40,10 +40,12 @@ about it
     E: Is it already over? Did it already finish?
 
     O: 그 사람은 이미 학교를 졸업했어요. 
-    E: That person already graduated from school.
+    E: That person already graduated from school. (just statement)
+    F: _That person_ already graduated from school. (just statement)
 
     O: 그 사람은 벌써 학교를 졸업했어요!
-    E: That person already graduated from school.
+    E: That person already graduated from school! (shocked)
+    F: _That person_ already graduated from school! (shocked)
 
     O: 벌써 비가 오고 있어요.
     E: It is already raining.
