@@ -25,16 +25,16 @@ about it
     E: He’s not here yet?
 
     O: 네, 아직도 안 왔어요.
-    E: No, he’s still not here. 
+    E: Yes, he’s still not here. 
 
     O: 벌써 세 시예요
     E: It’s already three o’clock.
 
     O: 세 시예요, 벌써!
-    E: It’s three o’clock already!
+    E: It’s three o’clock, already!
 
     O: 벌써 왔어요? 
-    E: Oh, you are already here!
+    E: (Oh,) you are already here!
 
     O: 벌써 끝났어요?
     E: Is it already over? Did it already finish?
