@@ -1,0 +1,85 @@
+== TTMIK 2.25 - Something, Someday, Someone, Somewhere / 누군가, 무언가, 어딘가, 언젠가 ==
+* s -> short
+
+    O: 누군가
+    E: someone
+
+    O: 뭔가
+    E: something
+
+    O: 어딘가
+    E: somewhere
+
+    O: 언젠가
+    E: someday
+
+    O: 언젠가 미국에 가고 싶어요.
+    E: I want to go to the United States someday.
+
+    O: 언제 미국에 가고 싶어요?
+    E: When do you want to go to the United States?
+
+    O: 언젠가 일본에 갈 거예요.
+    E: I am going to go to Japan one day.
+
+    O: 언제 일본에 갈 거예요?
+    E: When are you going to go to Japan?
+
+    O: 뭐 찾았어요?
+    E: What did you find?
+
+    O: 뭔가 찾았어요?
+    E: Did you find something?
+
+    O: 뭔가 이상해요.
+    E: Something is strange.
+
+    O: 뭐가 이상해요?
+    E: What is strange?
+
+    O: 누구 만날 거예요?
+    E: Whom will you meet?
+
+    O: 누군가 만날 거예요?
+    E: Will you meet someone?
+
+    O: 누군가 왔어요.
+    E: Someone came.
+
+    O: 어디에 있어요?
+    E: Where is it?
+
+    O: 여기 어딘가에 있어요.
+    E: It is here somewhere.
+
+    # (stress is on 뭐)
+    O: 뭐 샀어요?
+    E: What did you buy?
+
+    # (stress is on 샀어요)
+    O: 뭐 샀어요?
+    E: Did you buy something[s]? 
+
+    # (stress is on 언제)
+    O: 언제 중국에 갈 거예요?
+    E: When[s] are you going to go to China?
+
+    # (stress is on 갈 거예요?)
+    O: 언제 중국에 갈 거예요?
+    E: Are you going to go to China someday[s]/one of these days?
+
+    # (stress is on 어디)
+    O: 어디 가요?
+    E: Where are you going?
+
+    # (stress is on 가요?)
+    O: 어디 가요?
+    E: Are you going somewhere[s]?
+
+    # (stress is on 배웠어요?)
+    O: 오늘 뭐 배웠어요?
+    E: Did you learn something[s] today?
+
+    # (stress is on 뭐)
+    O: 오늘 뭐 배웠어요?
+    E: What did you learn today?
