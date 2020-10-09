@@ -1,0 +1,48 @@
+== TTMIK 2.26 - Imperative / -(으)세요 ==
+    O: 시작하세요
+    E: Please begin.
+
+    O: 오세요
+    E: Please come.
+
+    O: 쉬세요
+    E: Please get some rest.
+
+    O: 고르세요
+    E: Please choose.
+
+    O: 접으세요
+    E: Please fold it.
+
+    O: 파세요
+    E: Please sell it.
+
+    O: 내일 세 시에 오세요.
+    E: Please come here at three o’clock tomorrow.
+
+    O: 공부하세요!
+    E: Study! Do your studies!
+
+    O: 경은 씨, 빨리 일하세요.
+    E: Kyeong-eun, hurry up and get some work done!
+
+    O: 경은 씨, 쉬세요.
+    E: Kyeong-eun, please get some rest.
+
+    O: 이거 저한테 파세요.
+    E: Please sell this to me.
+
+    O: 조심하세요.
+    E: Be careful!
+
+    O: 어서 오세요.
+    E: (lit. Come quickly) Welcome.
+
+    O: 안녕히 가세요.
+    E: (lit. Go peacefully) Good-bye.
+
+    O: 안녕히 계세요. 
+    E: (lit. Stay peacefully) Good-bye.
+
+    O: 안녕히 주무세요.
+    E: (lit. Sleep peacefully) Goodnight.
