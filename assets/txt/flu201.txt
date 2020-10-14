@@ -2,8 +2,9 @@
     O: 지금 갈 거예요.
     E: I am going to go (there) now.
 
+    # I am going to go alone.
     O: 혼자 갈 거예요.
-    E: I am going to go alone.
+    E: I will go alone.
 
     O: 내일 갈 거예요.
     E: I am going to go tomorrow.
