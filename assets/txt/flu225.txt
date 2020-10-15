@@ -14,13 +14,13 @@
     E: someday
 
     O: 언젠가 미국에 가고 싶어요.
-    E: I want to go to the United States someday.
+    E: (I) want to go to the United States someday.
 
     O: 언제 미국에 가고 싶어요?
     E: When do you want to go to the United States?
 
     O: 언젠가 일본에 갈 거예요.
-    E: I am going to go to Japan one day.
+    E: (I) am going to go to Japan one day.
 
     O: 언제 일본에 갈 거예요?
     E: When are you going to go to Japan?
@@ -36,6 +36,7 @@
 
     O: 뭐가 이상해요?
     E: What is strange?
+    F: What _is strange?_
 
     O: 누구 만날 거예요?
     E: Whom will you meet?

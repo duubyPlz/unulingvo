@@ -19,13 +19,13 @@ about it
     E: You don’t know yet?
 
     O: 아직도 몰라요?
-    E: You still don’t know?; How could you still not know?
+    E: You still[l] don’t know?; How could you still not know?
 
     O: 아직 안 왔어요?
     E: He’s not here yet?
 
     O: 네, 아직도 안 왔어요.
-    E: Yes, he’s still not here. 
+    E: Yes, he’s still[l] not here. 
 
     O: 벌써 세 시예요
     E: It’s already three o’clock.
@@ -40,15 +40,15 @@ about it
     E: Is it already over? Did it already finish?
 
     O: 그 사람은 이미 학교를 졸업했어요. 
-    E: That person already graduated from school. (just statement)
-    F: _That person_ already graduated from school. (just statement)
+    E: That person already graduated from school. (only a statement)
+    F: _That person_ already graduated from school. (only a statement)
 
     O: 그 사람은 벌써 학교를 졸업했어요!
     E: That person already graduated from school! (shocked)
     F: _That person_ already graduated from school! (shocked)
 
     O: 벌써 비가 오고 있어요.
-    E: It is already raining.
+    E: It is already raining (continuous).
 
     O: 벌써 추워요.
     E: It is already cold.
