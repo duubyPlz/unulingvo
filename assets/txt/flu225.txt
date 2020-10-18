@@ -71,7 +71,7 @@
 
     # (stress is on 어디)
     O: 어디 가요?
-    E: Where are you going?
+    E: Where[s] are you going?
 
     # (stress is on 가요?)
     O: 어디 가요?
