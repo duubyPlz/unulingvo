@@ -63,7 +63,7 @@
 
     # (stress is on 언제)
     O: 언제 중국에 갈 거예요?
-    E: When[s] are you going to go to China?
+    E: When are you going to go to China?
 
     # (stress is on 갈 거예요?)
     O: 언제 중국에 갈 거예요?
