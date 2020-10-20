@@ -20,7 +20,7 @@
     E: When do you want to go to the United States?
 
     O: 언젠가 일본에 갈 거예요.
-    E: (I) am going to go to Japan one day.
+    E: (I) am going to go to Japan someday.
 
     O: 언제 일본에 갈 거예요?
     E: When are you going to go to Japan?
