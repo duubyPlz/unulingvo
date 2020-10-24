@@ -27,7 +27,7 @@
     E: Kyeong-eun, hurry up and get some work done!
 
     O: 경은 씨, 쉬세요.
-    E: Kyeong-eun, please get some rest.
+    E: Kyeong-eun, please get (some) rest.
 
     O: 이거 저한테 파세요.
     E: Please sell this to me.
