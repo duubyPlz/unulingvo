@@ -24,7 +24,7 @@
     E: Study! Do your studies!
 
     O: 경은 씨, 빨리 일하세요.
-    E: Kyeong-eun, hurry up and get some work done!
+    E: Kyeong-eun, hurry up and do (some) work!
 
     O: 경은 씨, 쉬세요.
     E: Kyeong-eun, please get (some) rest.
