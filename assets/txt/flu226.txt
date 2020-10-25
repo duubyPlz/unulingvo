@@ -45,4 +45,4 @@
     E: (lit. Stay peacefully) Good-bye. @honorific
 
     O: 안녕히 주무세요.
-    E: (lit. Sleep peacefully) Goodnight.
+    E: (lit. Sleep peacefully) Goodnight. @honorific
