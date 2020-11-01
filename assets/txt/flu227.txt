@@ -43,7 +43,7 @@
     E: See it. / Please see it.
 
     O: 봐 주세요.
-    E: Please see it, and I would appreciate it. / Please be kind and see it.
+    E: Please see it, (and I would appreciate it.) / Please be kind and see it.
 
     O: 이거 봐 주세요. 
     E: Please (do me a favor and) look at this.
