@@ -12,7 +12,7 @@
     E: Do it.
 
     O: 해 주세요.
-    E: Please do me a favor and do it for me.
+    E: (Please do me a favor and) do it for me.
 
     # Maybe scenario: selling ice cream
     O: 아이스크림 사세요.
