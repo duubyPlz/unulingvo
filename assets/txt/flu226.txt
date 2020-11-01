@@ -6,7 +6,7 @@
     E: Please come.
 
     O: 쉬세요
-    E: Please get some rest.
+    E: Please get (some) rest.
 
     O: 고르세요
     E: Please choose.
