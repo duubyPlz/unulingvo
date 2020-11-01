@@ -12,7 +12,7 @@
     E: Do it.
 
     O: 해 주세요.
-    E: (Please do me a favor and) do it for me.
+    E: Please (do me a favor and) do it for me.
 
     # Maybe scenario: selling ice cream
     O: 아이스크림 사세요.
@@ -46,7 +46,7 @@
     E: Please see it, and I would appreciate it. / Please be kind and see it.
 
     O: 이거 봐 주세요. 
-    E: Please look at this.
+    E: Please (do me a favor and) look at this.
 
     O: 숙제 봐 주세요.
     E: Please look at my homework.
