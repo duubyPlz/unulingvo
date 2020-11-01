@@ -1,4 +1,6 @@
 == TTMIK 2.27 - Please do it for me. / -아/어/여 주세요 ==
+* l -> long
+
     # There is no need to say “저를 위해서" (written-like).
     # less formally: 줘요 (vs. 주세요).
 
@@ -22,7 +24,7 @@
     E: Please buy ME some ice cream.
 
     O: 저를 도와 주세요!
-    E: Help me!
+    E: Help me[l]!
 
     O: 가르치세요.
     E: Teach. / Please teach. (to whom is unknown)
