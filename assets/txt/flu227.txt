@@ -39,7 +39,7 @@
     E: Please teach Kyeong-eun Spanish.
 
     O: 스페인어 가르쳐 주세요.
-    E: Please teach me Spanish.
+    E: Please teach (me) Spanish.
 
     O: 보세요.
     E: See it. / Please see it.
