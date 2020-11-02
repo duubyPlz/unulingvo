@@ -34,3 +34,6 @@
 
     O: 2번 출구로 나오세요.
     E: Come out through exit number 2.
+
+    O: 저는 TTMIK을로 한국어 공부해요.
+    E: I study Korean through TTMIK.
