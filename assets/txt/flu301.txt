@@ -1,0 +1,74 @@
+== TTMIK 3.1 - Too much, Very / 너무 ==
+* s -> short
+
+    # The dictionary meaning: “too much” or “excessively.”
+    # Colloquial usage: very, quite (sometimes also used in a shortened form as 넘, but only in spoken language.)
+
+    O: 너무 커요.
+    E: It is too big.
+
+    O: 너무 비싸요.
+    E: It is too expensive.
+
+    O: 너무 빨라요.
+    E: It is too fast.
+
+    O: 너무 어려워요.
+    E: It is too difficult.
+
+    O: 너무 시끄러워요.
+    E: It is too noisy.
+
+    O: 소연 씨 너무 커요.
+    E: Soyeon, you are too tall[s].
+
+    O: 이거 너무 비싸요.
+    E: This is too expensive.
+
+    O: 말이 너무 빨라요.
+    E: (Someone) speaks too fast.
+
+    O: 한국어 너무 어려워요. 
+    E: The Korean language is too difficult.
+
+    O: 여기 너무 시끄러워요.
+    E: It is too noisy here.
+
+    O: 너무 맛있어요.
+    E: It is really tasty.
+
+    O: 너무 좋아요.
+    E: It is REALLLYY good / I am really happy about it.
+
+    O: 정말 좋아요.
+    E: It is very good.
+
+    O: 너무 잘했어요. 
+    E: It is really well done. / You did such a good job.
+
+    O: 너무 멋있어요.
+    E: It is really cool. / It looks awesome.
+
+    O: 이 피자 너무 맛있어요. 
+    E: This pizza is really tasty.
+
+    O: 이거 너무 좋아요. 
+    E: I really like this.
+
+    O: 석진 씨, 너무 잘했어요.
+    E: Seokjin, you did a really great job.
+
+    O: 저 모델 너무 멋있어요! 
+    E: That model (over there) is really cool!
+
+    O: 너무 더워요. 
+    E: It is too hot. / It is very hot.
+
+    O: 너무 졸려요.
+    E: I am too sleepy. / I am very sleepy.
+
+    O: 너무 바빠요.
+    E: I am too busy. / I am very busy.
+
+    O: 너무 보고 싶어요.
+    E: I miss you/him/her/them so much.
