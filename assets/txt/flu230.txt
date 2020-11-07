@@ -6,7 +6,7 @@
     E: Do not go yet.
 
     O: 하지 마세요.
-    E: Do not do it. / Drop it. / Stop it. 
+    E: Do not do it. / Stop it. / Drop it. 
 
     O: 사지 마세요.
     E: Do not buy it.
