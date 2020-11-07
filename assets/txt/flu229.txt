@@ -37,14 +37,11 @@
     O: 더 있어요.
     E: There is more.
 
-    O: 더 사고 싶어요.
-    E: I want to buy more.
-
-    O: 옷 더 사고 싶어요.
-    E: I want to buy more clothes.
-
     O: 뭐가 더 좋아요?
     E: Which is better?
+
+    O: 더 사고 싶어요.
+    E: I want to do more shopping.
 
     O: 옷 더 사고 싶어요.
     E: I want to do more clothes-shopping.
