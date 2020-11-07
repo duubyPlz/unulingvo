@@ -1,0 +1,66 @@
+== TTMIK - More, All / 더, 다==
+    # Adverbs
+
+    O: 다 주세요.
+    E: Give me all of it.
+
+    O: 우유 다 주세요.
+    E: Give me all the milk.
+
+    O: 다 했어요.
+    E: I have done all of it.
+
+    O: 다 왔어요?
+    E: Are we there yet? (lit. Did we all come? / Did we come to all of it?)
+
+    O: 다 왔어요?
+    E: Did everyone come?
+
+    O: 다 살 거예요?
+    E: Are you going to buy all of it?
+
+    O: 커피를 다 마시다
+    E: to drink all the coffee
+
+    O: 책을 다 읽다
+    E: to read all of the book; to finish reading the book
+
+    O: 책 전체
+    E: the whole book (body); the entire book; all of the book
+
+    O: 책 전부
+    E: the whole book (section); the entire book; all of the book
+
+    O: 더 주세요.
+    E: Please give me more.
+
+    O: 더 있어요.
+    E: There is more.
+
+    O: 더 사고 싶어요.
+    E: I want to buy more.
+
+    O: 옷 더 사고 싶어요.
+    E: I want to buy more clothes.
+
+    O: 뭐가 더 좋아요?
+    E: Which is better?
+
+    O: 옷 더 사고 싶어요.
+    E: I want to do more clothes-shopping.
+
+    # (do the action of waiting for 10 minutes more)
+    O: 10분 더 기다려 주세요.
+    E: Please wait for 10 more minutes.
+
+    O: 전화 다 했어요?
+    E: Did you finish talking on the phone?; Did everyone make a phone call?; Did you make all the phone calls?
+
+    O: 준비 다 했어요.
+    E: I did all the preparation.; All of us are prepared.; I prepared everything.; I finished the preparation.
+
+    O: 더 보여 주세요.
+    E: Show me more.; Show me more of it.
+
+    O: 더 공부하고 싶으면, TTMIK에 오세요.
+    E: If you want to study more, come to TTMIK.; If you want to do more studying, come to TTMIK.
