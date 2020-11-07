@@ -75,3 +75,7 @@
 
     O: 너무 좋아요. 그런데 너무 비싸요.
     E: It is really good. But it is really expensive.
+
+    O: 소연 씨랑 녹음해서 노무 좋아요. 그런데 소연 씨가 너무 바빠요.
+    E: Recording with Soyeon is really good. But Soyeon is too busy. 🤔
+    F: Recording with Soyeon is really good. _But_ Soyeon _is too busy_. 🤔
