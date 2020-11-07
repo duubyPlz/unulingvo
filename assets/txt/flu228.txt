@@ -1,4 +1,6 @@
 == TTMIK 2.28 - Particles For Method, Way / -(으)로 ==
+* s -> short
+
     O: 나무로 만들다 
     E: to make (something) with wood
 
@@ -35,5 +37,5 @@
     O: 2번 출구로 나오세요.
     E: Come out through exit number 2.
 
-    O: 저는 TTMIK을로 한국어 공부해요.
-    E: I study Korean through TTMIK.
+    O: 저는 TTMIK으로 한국어 공부해요.
+    E: I study Korean[s] through TTMIK.
