@@ -1,0 +1,27 @@
+== TTMIK 2.30 - Don’t do it. / -지 마세요 ==
+    O: 가지 마세요. 
+    E: Do not go.
+
+    O: 아직 가지 마세요.
+    E: Do not go yet.
+
+    O: 하지 마세요.
+    E: Do not do it. / Drop it. / Stop it. 
+
+    O: 사지 마세요.
+    E: Do not buy it.
+
+    O: 만지지 마세요.
+    E: Do not touch it.
+
+    O: 웃지 마세요. 
+    E: Do not laugh.
+
+    O: 걱정하지 마세요.
+    E: Do not worry.
+
+    O: 경은 씨한테 말하지 마세요.
+    E: Please do not tell Kyeong-eun (about it).
+
+    O: 아직 보내지 마세요. 아직 다 안 썼어요.
+    E: Do not send it yet. I have not finished writing it.

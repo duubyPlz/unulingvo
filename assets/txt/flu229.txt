@@ -1,4 +1,4 @@
-== TTMIK - More, All / 더, 다==
+== TTMIK 2.29 - More, All / 더, 다==
     # Adverbs
 
     O: 다 주세요.
