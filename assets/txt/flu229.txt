@@ -25,11 +25,13 @@
     O: 책을 다 읽다
     E: to read all of the book[l]; to finish reading the book
 
+    # the whole book (body); the entire book; all of the book
     O: 책 전체
-    E: the whole book (body); the entire book; all of the book
+    E: the book as a whole; the whole book (body); the entire book; all of the book
 
+    # the whole book (section); the entire book; all of the book
     O: 책 전부
-    E: the whole book (section); the entire book; all of the book
+    E: the entire book; the whole book (body); all of the book
 
     O: 더 주세요.
     E: Please give me more.
