@@ -7,7 +7,7 @@
 
     O: 이 책은 재미있고, 싸고, 좋아요.
     E: This book is interesting, cheap, and good.
-    F: _This book_ is interesting, cheap, and good.
+    F: _This book_ is interesting, cheap and good.
 
     # 어제 친구를 만나고, 영화를 봤어요.
     O: 어제 친구를 만났고, 영화를 봤어요.
@@ -15,16 +15,16 @@
 
     # 내일 영화를 보고, 서점에 갈 거예요.
     O: 내일 영화를 볼 거고, 서점에 갈 거예요.
-    E: Tomorrow, I will[l] watch a movie, and go to a bookstore.
+    E: Tomorrow, I will[l] watch a movie and go to a bookstore.
 
     O: 내일은 친구 만나고, 서점에 갈 거예요.
     E: As for tomorrow, I am going to meet a friend and go to a bookstore.
 
     O: 책 읽고, 공부하고, 운동했어요.
-    E: I read a book, studied, and did some exercise.
+    E: I read a book, studied and exercised.
 
     O: 구월에는 한국에 가고, 시월에는 일본에 갈 거예요.
-    E: I will go to Korea in September, and I will go to Japan in October.
+    E: I will go to Korea in September and I will go to Japan in October.
 
     O: 커피 마시고, 도넛 먹고, 케이크 먹고, 우유 마셨어요. 배불러요.
-    E: I drank some coffee, ate a donut, ate some cake, and drank some milk. I am full.
+    E: I drank some coffee, ate a donut, ate some cake and drank some milk. I am full.
