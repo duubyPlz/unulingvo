@@ -3,9 +3,11 @@
 
     O: 이 책은 재미있고 싸요.
     E: This book is interesting and cheap.
+    F: _This book_ is interesting and cheap.
 
     O: 이 책은 재미있고, 싸고, 좋아요.
     E: This book is interesting, cheap, and good.
+    F: _This book_ is interesting, cheap, and good.
 
     # 어제 친구를 만나고, 영화를 봤어요.
     O: 어제 친구를 만났고, 영화를 봤어요.
