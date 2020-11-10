@@ -13,7 +13,7 @@
 
     # 어제 친구를 만나고, 영화를 봤어요.
     O: 어제 친구를 만났고, 영화를 봤어요.
-    E: I met[l] a friend[l] yesterday and saw a movie.
+    E: I met[l] a friend[l] yesterday and saw a movie[l].
 
     # 내일 영화를 보고, 서점에 갈 거예요.
     O: 내일 영화를 볼 거고, 서점에 갈 거예요.
