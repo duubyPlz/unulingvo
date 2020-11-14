@@ -31,7 +31,7 @@
 
     # the whole book (section); the entire book; all of the book
     O: 책 전부
-    E: the entire book; the whole book (body); all of the book
+    E: the entire book; the whole book (section); all of the book
 
     O: 더 주세요.
     E: Please give me more.
