@@ -1,0 +1,38 @@
+== TTMIK 3.4 - Shall we? / I wonder / -(으)ㄹ까요? ==
+    # * Question to self.
+    # * Show doubt.
+    # * Raise question, attract attention.
+    # * Suggest do together.
+
+    O: 내일 비가 올까요?
+    E: Do you think it will rain tomorrow? / I wonder if it will rain tomorrow. / Will it rain tomorrow? What do you think?
+
+    O: 내일 우리 영화 볼까요?
+    E: Shall we see a movie tomorrow? / Do you want to see a movie together tomorrow?
+
+    O: 이 사람은 누구일까요?
+    E: Who do you think this person is? / Who is this person, I wonder? / I wonder who this person is.
+
+    O: 커피 마실까요? 맥주 마실까요?
+    E: Shall we drink coffee? Shall we drink beer? / Do you want to drink coffee or beer?
+
+    O: 어제 했을까요?
+    E: Do you think she did it yesterday?
+
+    O: 누가 전화했을까요?
+    E: Who do you think called?
+
+    O: 어제 탈리아나가 한국에 왔을까요?
+    E: Do you think Taliana came to Korea yesterday?
+
+    O: 저 가방 안에 뭐가 있을까요?
+    E: (Self-question) I wonder what is in that bag (over there)?
+
+    O: 뭐가 있어요?
+    E: (Asking someone else) What is in the bag?
+
+    # Express curiosity on what your friend wants to do,
+    # + own uncertainty,
+    # inviting your friend to the movies in case want to go.
+    O: 영화 볼까요?
+    E: (Asking someone else) (Curious) Do (you) want to see a movie (together)?
