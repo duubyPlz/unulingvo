@@ -1,5 +1,6 @@
 == TTMIK 3.3 -  In front of, Behind, On top of, Under, Next to / 앞에, 옆에, 위에, 밑에, 뒤에 ==
 * l -> long
+* o -> object
 
     # ~에: more accurate, location-marking particle
     # 어디에 있어요? 
@@ -16,7 +17,7 @@
     E: Where will you be? / Where are you going to be?
 
     O: 친구를 어디에서 만날 거예요?
-    E: Where are you going to meet (your) friends?
+    E: Where are you going to meet (your) friends[o]?
 
     O: 은행 앞에서 만날 거예요.
     E: I’m going to meet (them) in front of the bank.
@@ -34,7 +35,7 @@
     E: I’m sleeping on the sofa.
 
     O: 나무 밑에서 책을 읽고 있어요.
-    E: I’m reading a book under the tree.
+    E: I’m reading a book[o] under the tree.
 
     O: 자동차 앞에 있어요.
     E: It is in front of the car.
