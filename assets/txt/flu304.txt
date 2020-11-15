@@ -1,4 +1,6 @@
 == TTMIK 3.4 - Shall we? / I wonder / -(으)ㄹ까요? ==
+* l ➔ long
+
     # * Question to self.
     # * Show doubt.
     # * Raise question, attract attention.
@@ -8,7 +10,7 @@
     E: Do you think it will rain tomorrow? / I wonder if it will rain tomorrow. / Will it rain tomorrow? What do you think?
 
     O: 내일 우리 영화 볼까요?
-    E: Shall we see a movie tomorrow? / Do you want to see a movie together tomorrow?
+    E: Shall we[l] see a movie tomorrow? / Do you want to see a movie together tomorrow?
 
     O: 이 사람은 누구일까요?
     E: Who do you think this person is? / Who is this person, I wonder? / I wonder who this person is.
@@ -28,8 +30,8 @@
     O: 저 가방 안에 뭐가 있을까요?
     E: (Self-question) I wonder what is in that bag (over there)?
 
-    O: 뭐가 있어요?
-    E: (Asking someone else) What is in the bag?
+    O: 저 가방 안에 뭐가 있어요?
+    E: (Asking someone else) What is in that bag (over there)?
 
     # Express curiosity on what your friend wants to do,
     # + own uncertainty,
