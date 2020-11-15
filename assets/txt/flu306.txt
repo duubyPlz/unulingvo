@@ -1,0 +1,28 @@
+== TTMIK 3.6 - Future Tenses / -(으)ㄹ 거예요 vs -(으)ㄹ게요 ==
+    # -(으)ㄹ게요 - actions or decisions AS A REACTION TO/RESULT OF what other person says/thinks.
+    # 1. Changing plans/deciding to do according to what others said.
+        # Response to something others said. Made you think, “Oh, in that case, ...".
+    # 2. Checking/assuming what others think by seeing their reaction.
+        # Could also say this before others say, but wait for other's reaction to see if they have anything to say.
+
+    O: 방해하지 마세요. 공부할 거예요.
+    E: Do not disturb me. I will study.
+
+    O: 공부할게요.
+    E: So I will study. / (If you say so,) I will study. / (Since the circumstances are like this,) I will study. / (If you do not mind,) I will study.
+
+    O: 저도 갈게요.
+    E: I will come along, too (if you do not mind). / (In that case,) I will go there, too. / (Okay, since you say so,) I will go, too.
+
+    O: 지금 어디예요? 지금 나갈게요.
+    E: Where are you now? I will go out now. (+ if you do not mind / if you want me to / unless you do not want me to / what do you think about that?)
+
+    O: 저 갈게요. 안녕히 계세요.
+    E: I am going to go. Take care. (+ unless you want me to stay longer / unless there is something I have to stay longer to do)
+
+    O: 그래요? 다시 할게요.
+    E: Is that so? I will do it again.
+
+    # If instead you said "내일 4시쯤에 갈 거예요" - don't care about others' opinion.
+    O: 내일 네시쯤에 갈게요. 괜찮아요?
+    E: I will be there at around four o’clock tomorrow. Is that alright?
