@@ -23,6 +23,6 @@
     O: 그래요? 다시 할게요.
     E: Is that so? I will do it again.
 
-    # If instead you said "내일 4시쯤에 갈 거예요" - don't care about others' opinion.
+    # If instead you said "내일 4시쯤에 갈 거예요" - doing it regardless of others' opinion.
     O: 내일 네시쯤에 갈게요. 괜찮아요?
     E: I will be there at around four o’clock tomorrow. Is that alright?
