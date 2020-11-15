@@ -1,0 +1,55 @@
+== TTMIK 3.5 - Approximately, About / 쯤, 약, 정도 ==
+    # -쯤, 정도 - after nouns
+    # 약 - BEFORE nouns
+    # 정도 - has space before it, 쯤 does not
+
+    O: 한 시쯤
+    E: Around one o’clock
+
+    O: 천 원쯤
+    E: About one thousand won
+
+    O: 한 달쯤
+    E: Approximately one month
+
+    O: 4킬로미터쯤 
+    E: About 4 kilometers
+
+    O: 한국에 한 달쯤 있을 거예요.
+    E: I will be in Korea for about one month.
+
+    # A bit more formal
+    # Sometimes people also use 약 and 쯤 together or 약 and 정도 together.
+
+    O: 약 한 달
+    E: Approximately a month
+
+    O: 한 달 정도
+    E: About a month (extent)
+
+    O: 약 한 달 정도
+    E: Approximately a month (extent)
+
+    O: 약 한 달쯤
+    E: Approximately about a month
+
+    O: 백명쯤 왔어요.
+    E: About one hundred people came.
+
+    O: 독일에서 이년쯤 살았어요.
+    E: I lived in Germany for about two years.
+
+    O: 한국에서 삼십년쯤 살았어요.
+    E: I lived in Korea for about thirty years.
+
+    O: 언제쯤 갈 거예요?
+    E: About when are you going to go?
+
+    O: 내일 몇 시쯤 만날까요?
+    E: Around what time shall we meet tomorrow?
+
+    O: 다섯 시쯤 어때요?
+    E: How about around five o’clock?
+
+    O: 하루에 한국어 몇 시간쯤 공부해요?
+    E: In a day, around how many hours do you study Korean?
