@@ -30,7 +30,7 @@
     O: 저 가방 안에 뭐가 있을까요?
     E: (Self-question) I wonder what is in that bag (over there)?
 
-    O: 뭐가 있어요?
+    O: 저 가방 안에 뭐가 있어요?
     E: (Asking someone else) What is in that bag (over there)?
 
     # Express curiosity on what your friend wants to do,
