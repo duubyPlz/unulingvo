@@ -39,7 +39,7 @@
     O: 독일에서 이년쯤 살았어요.
     E: I lived in Germany for about two years.
 
-    O: 한국에서 삼십년쯤 살았어요.
+    O: 한국에서 삼십 년쯤 살았어요.
     E: I lived in Korea for about thirty years.
 
     O: 언제쯤 갈 거예요?
