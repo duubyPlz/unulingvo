@@ -37,6 +37,5 @@
     # Express curiosity on what your friend wants to do,
     # + own uncertainty,
     # inviting your friend to the movies in case want to go.
-    # (Curious) Do (you) want to see a movie (together)?
     O: 영화 볼까요?
-    E: (Asking someone else) (Curious) Do you want to watch a movie?
+    E: (Asking someone else) (Curious) Shall we watch a movie?
