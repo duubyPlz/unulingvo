@@ -14,6 +14,7 @@
 
     O: 이 사람은 누구일까요?
     E: Who do you think this person is? / Who is this person, I wonder? / I wonder who this person is.
+    F: Who do you think _this person_ is? / Who is this person, I wonder? / I wonder who this person is.
 
     O: 커피 마실까요? 맥주 마실까요?
     E: Shall we drink coffee? Shall we drink beer? / Do you want to drink coffee or beer?
@@ -38,4 +39,4 @@
     # inviting your friend to the movies in case want to go.
     # (Curious) Do (you) want to see a movie (together)?
     O: 영화 볼까요?
-    E: (Asking someone else) Wanna watch a movie?
+    E: (Asking someone else) (Curious) Do you want to watch a movie?
