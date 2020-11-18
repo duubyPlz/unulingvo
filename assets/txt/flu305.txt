@@ -10,7 +10,7 @@
     E: About one thousand won
 
     O: 한 달쯤
-    E: Approximately one month
+    E: About one month
 
     O: 4킬로미터쯤 
     E: About 4 kilometers
