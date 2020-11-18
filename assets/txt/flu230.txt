@@ -24,4 +24,4 @@
     E: Please do not tell Kyeong-eun (about it).
 
     O: 아직 보내지 마세요. 아직 다 안 썼어요.
-    E: Do not send it yet. I have not finished writing it.
+    E: Do not send it yet. I have not finished writing it yet.
