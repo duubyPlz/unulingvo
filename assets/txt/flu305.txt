@@ -46,7 +46,7 @@
     E: About when are you going to go?
 
     O: 내일 몇 시쯤 만날까요?
-    E: Around what time shall we meet tomorrow?
+    E: (Shall:) Around what time shall we meet tomorrow?
 
     O: 다섯 시쯤 어때요?
     E: How about around five o’clock?
