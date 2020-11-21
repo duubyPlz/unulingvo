@@ -1,4 +1,4 @@
-== TTMIK 2.28 - Particles For Method, Way / -(으)로 ==
+== TTMIK 2.28 - With / Particles For Method, Way / -(으)로 ==
 * s -> short
 
     O: 나무로 만들다 

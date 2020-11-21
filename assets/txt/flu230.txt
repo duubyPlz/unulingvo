@@ -1,4 +1,4 @@
-== TTMIK 2.30 - Don’t do it. / -지 마세요 ==
+== TTMIK 2.30 - Don’t / Don't do it. / -지 마세요 ==
     O: 가지 마세요. 
     E: Do not go.
 
