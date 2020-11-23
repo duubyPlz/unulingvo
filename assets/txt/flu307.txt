@@ -24,9 +24,9 @@
     O: 공원에 가서 책을 읽을 거예요.
     E: I am going to go to the park and read a book.
 
-    # I met a friend, so (we) ate together
+    # I met a friend, so (we) ate (together).
     O: 친구를 만나서 밥을 먹었어요.
-    E: I met a friend, and (we) ate together.
+    E: I met a friend, and (we) ate (together).
 
     O: 친구를 만나서 밥을 먹을 거예요.
     E: I am going to meet a friend, and (we will) eat together.
