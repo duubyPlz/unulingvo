@@ -68,3 +68,4 @@
 
     O: 한국어가 너무 재미있어서 매일 공부하고 있어요.
     E: Korean is so much fun that I am studying it every day.
+    F: Korean _is so much fun that I am studying it every day_.
