@@ -27,7 +27,7 @@
     E: It is like a robot. / It seems to be a robot. / It looks like a robot.
 
     O: 저 사람은 로봇 같아요.
-    E: That person is like a robot.
+    E: That person (over there) is like a robot.
 
     O: 경은 씨는 천사 같아요.
     E: Kyeong-eun is like an angel.
