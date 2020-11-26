@@ -58,5 +58,6 @@
     O: 이 가방, 여기에서 산 것 같아요.
     E: This bag seems like we bought it here. / I think I bought this bag here.
 
+    # 아마: possibly, probably
     O: 아마 안 할 것 같아요.
     E: I think I probably will not do it. / It looks like we are probably not going to do it.
