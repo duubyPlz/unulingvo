@@ -13,6 +13,22 @@
 * s -> short
 * o -> object
 
+    # Descriptive
+    O: 예쁜 것
+    E: something pretty; being pretty; the thing that is pretty
+
+    # Action present
+    O: 말하는 것
+    E: talking; what one is saying; the act of talking
+
+    # Action past
+    O: 말한 것
+    E: what one said; the fact that one talked
+
+    # Action future
+    O: 말할 것
+    E: what one will say; the fact that one will talk
+
     O: 보는 것
     E: seeing; the act of seeing; the thing that you see; what I watch
 
