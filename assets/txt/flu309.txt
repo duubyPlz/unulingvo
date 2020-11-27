@@ -1,6 +1,5 @@
 == TTMIK 3.9 - To seem like, To look like (with verbs) / -ㄴ 것 같아요 ==
-    # -는 것
-    # [L2 L19]
+    # -는 것 [LOOK @ L2 L19]
     # -ㄴ 것 같아요: descriptive
     # -는 것 같아요: action present
     # -ㄹ 것 같아요: future descriptive/active
@@ -56,7 +55,7 @@
     E: I think this movie will be interesting. / This movie looks like it will be interesting (to watch).
 
     O: 이 가방, 여기에서 산 것 같아요.
-    E: This bag seems like we bought it here. / I think I bought this bag here.
+    E: I think I bought this bag here.
 
     # 아마: possibly, probably
     O: 아마 안 할 것 같아요.
