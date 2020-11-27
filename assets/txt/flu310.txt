@@ -1,0 +1,39 @@
+== TTMIK 3.10 - Before -ing / -기 전에 ==
+    O: 가기 전에
+    E: before going
+
+    O: 사기 전에
+    E: before buying
+
+    O: 먹기 전에
+    E: before eating
+
+    O: 집에 가기 전에
+    E: before going home; before you go home
+
+    O: 공부하기 전에
+    E: before studying; before you study
+
+    O: 돈을 내기 전에
+    E: before paying money; before you pay money
+
+    O: 여기 오기 전에 뭐 했어요?
+    E: What were you doing before you came here?
+
+    O: 집에 가기 전에 술 마실 거예요.
+    E: I am going to drink before I go home.
+
+    O: 들어오기 전에 노크하세요.
+    E: Knock before you come in.
+
+    O: 사기 전에 잘 생각하세요.
+    E: Think well before you buy it.
+
+    O: 도망가기 전에 잡으세요.
+    E: Catch him before he runs away.
+
+    # 쓰러지다: fall down, collapse
+    # 기절하다: faint
+    # ??
+    O: 현우 씨가 먹말라서 쓰러지기 전에 레선을 빨리 끝내야 돼요.
+    E: Because Hyunwoo is thirsty, we should quickly finish the lesson before he faints. 🤔
