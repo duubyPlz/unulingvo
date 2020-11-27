@@ -54,8 +54,9 @@
     O: 이 영화 재미있을 것 같아요.
     E: I think this movie will be interesting. / This movie looks like it will be interesting (to watch).
 
+    # I think I bought this bag here.
     O: 이 가방, 여기에서 산 것 같아요.
-    E: I think I bought this bag here.
+    E: I think I bought this bag from here.
 
     # 아마: possibly, probably
     O: 아마 안 할 것 같아요.
