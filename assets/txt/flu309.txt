@@ -45,7 +45,7 @@
     E: I think they are talking. / They seem to talk to each other.
 
     O: 여기 비싼 것 같아요.
-    E: I think this place is expensive. / This place looks expensive. / This place seems to be expensive.
+    E: I think this place[s] is expensive. / This place looks expensive. / This place seems to be expensive.
 
     # 그렇다 - to be that way
     O: 그런 것 같아요.
