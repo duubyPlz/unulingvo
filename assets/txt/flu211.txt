@@ -73,7 +73,7 @@
     F: _I_ was born in the USA.
 
     O: 처음 뵙겠습니다.
-    E: How do you do? (First time meeting you.)
+    E: How do you do? (First time meeting you.) @formal
 
     O: 반갑습니다.
     E: It is nice to meet you.
