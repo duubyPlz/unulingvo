@@ -52,7 +52,7 @@
     E: I think so. / It seems to be so. / It looks like it.
 
     O: 이 영화 재미있을 것 같아요.
-    E: I think this movie will be interesting. / This movie looks like it will be interesting (to watch).
+    E: I think this movie[s] will be interesting. / This movie looks like it will be interesting (to watch).
 
     # I think I bought this bag here.
     O: 이 가방, 여기에서 산 것 같아요.
