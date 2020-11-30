@@ -21,7 +21,7 @@
     E: What were you doing before you came here?
 
     O: 집에 가기 전에 술 마실 거예요.
-    E: I am going to drink before I go home.
+    E: I am going to drink[s] before I go home.
 
     O: 들어오기 전에 노크하세요.
     E: Knock before you come in.
