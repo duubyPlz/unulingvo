@@ -79,9 +79,10 @@
     O: 이거 너무 귀여워요.
     E: This is so cute.
 
+    # In Seoul, it is really cold in the winter.
     O: 서울은 겨울에 정말 추워요.
-    E: In Seoul, it is really cold in the winter.
-    F: _In Seoul_, it is really cold in the winter.
+    E: For Seoul, it is really cold in the winter.
+    F: _For Seoul_, it is really cold in the winter.
 
     O: TTMIK에서 공부하면, 한국어 공부가 쉬워요.
     E: If you study with TTMIK, studying Korean is easy.
