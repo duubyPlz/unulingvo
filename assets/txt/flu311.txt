@@ -1,0 +1,87 @@
+== TTMIK 3.11 - ㅂ irregular / ㅂ 불규칙 ==
+    # ㅂ verbs = irregular -ONLY WHEN-> the next suffix starts with a VOWEL.
+    # Some ㅂ verbs don't follow this irregularity.
+    # ㅂ verbs = normal -> non-vowel suffixes (e.g. -는 or -고).
+
+    O: 도와요
+    E: 돕다 help
+
+    O: 도왔어요
+    E: 돕다 helped
+
+    O: 도울 거예요
+    E: 돕다 will help
+
+    O: 어려워요
+    E: 어렵다 is difficult
+
+    O: 어려웠어요
+    E: 어렵다 was difficult
+
+    O: 어려울 거예요
+    E: 어렵다 will be difficult
+
+    O: 추워요 
+    E: 춥다 is cold
+
+    O: 추웠어요
+    E: 춥다 was cold
+
+    O: 추울 거예요
+    E: 춥다 will be cold
+
+    O: 누워요
+    E: 눕다 to lie down
+
+    O: 구워요
+    E: 굽다 to bake
+
+    O: 더워요
+    E: 덥다 to be hot (weather)
+
+    O: 쉬워요
+    E: 쉽다 to be easy
+
+    O: 매워요
+    E: 맵다 to be spicy
+
+    O: 귀여워요
+    E: 귀엽다 to be cute 
+
+    O: 미워요
+    E: 밉다 to hate; to be dislikeable
+
+    O: 아름다워요
+    E: 아름답다 to be beautiful
+
+    O: 돕는 것
+    E: (the act of) helping
+
+    O: 입어요
+    E: 입다 wear
+
+    O: 잡아요
+    E: 잡다 catch
+
+    O: 씹어요
+    E: 씹다 bite
+
+    O: 좁아요
+    E: 좁다 is narrow
+
+    O: 넓어요
+    E: 넓다 is wide
+
+    O: 이 문제는 어려워요.
+    E: This problem is difficult.
+    F: _This problem_ is difficult.
+
+    O: 이거 너무 귀여워요.
+    E: This is so cute.
+
+    O: 서울은 겨울에 정말 추워요.
+    E: In Seoul, it is really cold in the winter.
+    F: _In Seoul_, it is really cold in the winter.
+
+    O: TTMIK에서 공부하면, 한국어 공부가 쉬워요.
+    E: If you study with TTMIK, studying Korean is easy.
