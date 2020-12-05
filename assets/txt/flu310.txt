@@ -32,7 +32,7 @@
     E: Think well before you buy it. @honorific
 
     O: 도망가기 전에 잡으세요.
-    E: Catch him before he runs away.
+    E: Catch him before he runs away. @honorific
 
     # 쓰러지다: fall down, collapse
     # 기절하다: faint
