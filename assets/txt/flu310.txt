@@ -1,4 +1,6 @@
 == TTMIK 3.10 - Before -ing / -기 전에 ==
+* s -> short
+
     O: 가기 전에
     E: before going
 
@@ -18,7 +20,7 @@
     E: before paying money; before you pay money
 
     O: 여기 오기 전에 뭐 했어요?
-    E: What were you doing before you came here?
+    E: What were you doing before you came here[s]?
 
     O: 집에 가기 전에 술 마실 거예요.
     E: I am going to drink[s] before I go home.
