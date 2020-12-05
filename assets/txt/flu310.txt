@@ -26,7 +26,7 @@
     E: I am going to drink[s] before I go home.
 
     O: 들어오기 전에 노크하세요.
-    E: Knock before you come in.
+    E: Knock before you come in. @honorific
 
     O: 사기 전에 잘 생각하세요.
     E: Think well before you buy it. @honorific
