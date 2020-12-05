@@ -3,56 +3,56 @@
     # Some ㅂ verbs don't follow this irregularity.
     # ㅂ verbs = normal -> non-vowel suffixes (e.g. -는 or -고).
 
-    O: 도와요
-    E: 돕다 help
+    O: 돕다. 도와요
+    E: To help. Help.
 
-    O: 도왔어요
-    E: 돕다 helped
+    O: 돕다. 도왔어요
+    E: To help. Helped.
 
-    O: 도울 거예요
-    E: 돕다 will help
+    O: 돕다. 도울 거예요.
+    E: To help. Will help.
 
-    O: 어려워요
-    E: 어렵다 is difficult
+    O: 어렵다. 어려워요.
+    E: To be difficult. Is difficult.
 
-    O: 어려웠어요
-    E: 어렵다 was difficult
+    O: 어렵다. 어려웠어요.
+    E: To be difficult. Was difficult.
 
-    O: 어려울 거예요
-    E: 어렵다 will be difficult
+    O: 어렵다. 어려울 거예요.
+    E: To be difficult. Will be difficult.
 
-    O: 추워요 
-    E: 춥다 is cold
+    O: 춥다. 추워요.
+    E: To be cold. Is cold.
 
-    O: 추웠어요
-    E: 춥다 was cold
+    O: 춥다. 추웠어요.
+    E: To be cold. Was cold
 
-    O: 추울 거예요
-    E: 춥다 will be cold
+    O: 춥다. 추울 거예요.
+    E: To be cold. Will be cold.
 
-    O: 누워요
-    E: 눕다 to lie down
+    O: 눕다. 누워요.
+    E: To lie down. Lie down.
 
-    O: 구워요
-    E: 굽다 to bake
+    O: 굽다. 구워요.
+    E: To bake. Bake.
 
-    O: 더워요
-    E: 덥다 to be hot (weather)
+    O: 덥다. 더워요.
+    E: To be hot (weather). Is hot (weather).
 
-    O: 쉬워요
-    E: 쉽다 to be easy
+    O: 쉽다. 쉬워요.
+    E: To be easy. Is easy.
 
-    O: 매워요
-    E: 맵다 to be spicy
+    O: 맵다. 매워요.
+    E: To be spicy. Is spicy.
 
-    O: 귀여워요
-    E: 귀엽다 to be cute 
+    O: 귀엽다. 귀여워요.
+    E: To be cute. Is cute.
 
-    O: 미워요
-    E: 밉다 to hate; to be dislikeable
+    O: 밉다. 미워요.
+    E: To hate. Hate.
 
-    O: 아름다워요
-    E: 아름답다 to be beautiful
+    O: 아름답다. 아름다워요.
+    E: To be beautiful. Is beautiful.
 
     O: 돕는 것
     E: (the act of) helping
