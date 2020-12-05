@@ -29,7 +29,7 @@
     E: Knock before you come in.
 
     O: 사기 전에 잘 생각하세요.
-    E: Think well before you buy it.
+    E: Think well before you buy it. @honorific
 
     O: 도망가기 전에 잡으세요.
     E: Catch him before he runs away.
