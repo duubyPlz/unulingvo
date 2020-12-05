@@ -1,6 +1,6 @@
 == TTMIK 3.12 - But still / But still, Nevertheless / 그래도 ==
     # 그래도 = (1) 그래 + (2) 도
-    # (1) 그래 = 그렇게 해 or 그렇게 하여 (to do it in such a way, to do that)
+    # (1) 그래 = 그렇게 해 (to do it in such a way, to do that)
     # (2) -도 = also, too, even
     # Lit.: even if you do that, even if that happens
 
