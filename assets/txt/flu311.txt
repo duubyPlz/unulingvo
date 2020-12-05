@@ -57,20 +57,20 @@
     O: 돕는 것
     E: (the act of) helping
 
-    O: 입어요
-    E: 입다 wear
+    O: 입다. 입어요.
+    E: To wear. Wear.
 
-    O: 잡아요
-    E: 잡다 catch
+    O: 잡다. 잡아요.
+    E: To catch. Catch.
 
-    O: 씹어요
-    E: 씹다 bite
+    O: 씹다. 씹어요.
+    E: To bite. Bite.
 
-    O: 좁아요
-    E: 좁다 is narrow
+    O: 좁다. 좁아요.
+    E: To be narrow. Is narrow.
 
-    O: 넓어요
-    E: 넓다 is wide
+    O: 넓다. 넓어요.
+    E: To be wide. Is wide.
 
     O: 이 문제는 어려워요.
     E: This problem is difficult.
