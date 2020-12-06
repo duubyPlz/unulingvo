@@ -1,4 +1,6 @@
 == TTMIK - Making adjectives / Making Adjectives / Descriptive Verbs + -ㄴ 명사 / -ㄴ|-은 ==
+* s -> short
+
     # desc_verb + 다 -> to be desc_verb (Not just desc_verb)
     # &there4; the *to be* part = infinitive
     # &there4; to use the actual adjective form = add -ㄴ|-은
@@ -36,7 +38,7 @@
     E: Do you have a smaller bag?
 
     O: 차가운 커피 마시고 싶어요.
-    E: I want to drink some cold coffee.
+    E: I want to drink some cold coffee[s].
 
     O: 나쁜 사람이에요
     E: He is a bad person.
