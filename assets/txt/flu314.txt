@@ -37,9 +37,11 @@
 
     O: 요즘 좋아하는 가수는 누구예요?
     E: Which singer do you like these days?
+    F: Which _singer_ do you _like these days_?
 
     O: 요즘 공부하고 있는 외국어는 일본어예요.
     E: The foreign language I am studying these days is Japanese.
+    F: _The foreign language I am studying these days_ is Japanese.
 
     O: 눈이 오는 날에는 영화 보고 싶어요.
     E: On a day when it snows, I want to see a movie.
