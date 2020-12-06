@@ -1,4 +1,6 @@
 == TTMIK 3.12 - But still / But still, Nevertheless / 그래도 ==
+* s -> short
+
     # 그래도 = (1) 그래 + (2) 도
     # (1) 그래 = 그렇게 해 (to do it in such a way, to do that)
     # (2) -도 = also, too, even
@@ -18,7 +20,7 @@
     E: I do not have money, either. But still, do not worry.
 
     O: 노래방에 가야 돼요. 그래도 노래 안 할 거예요.
-    E: I have to go to a karaoke. However, I am not going to sing.
+    E: I have to go to a karaoke. However, I am not going to sing[s].
 
     O: 요즘 바빠요. 그래도 한국어를 공부하고 있어요.
     E: I am busy these days. But I am still studying Korean.
