@@ -12,6 +12,7 @@
 
     O: 한국어는 어려워요. 그래도 재미있어요.
     E: Korean is difficult. But still, it is interesting.
+    F: _Korean_ is difficult. But still, it is interesting.
 
     O: 어제는 비가 왔어요. 그래도 축구를 했어요.
     E: Yesterday, it rained. Nevertheless, we played soccer.
