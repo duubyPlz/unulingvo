@@ -17,14 +17,14 @@
     O: 비싼 컴퓨터
     E: an expensive computer
 
-    O: 하얀
-    E: 하얗다 white
+    O: 하얗다. 하얀.
+    E: To be white. White (adjective).
 
-    O: 그런
-    E: 그렇다 like-that / such
+    O: 그렇다. 그런.
+    E: To be like-that. Like-that (adjective) / such.
 
-    O: 단
-    E: 달다 sweet
+    O: 달다. 단.
+    E: To be sweet. Sweet (adjective).
 
     O: 좋은 아이디어예요.
     E: It is a good idea.
