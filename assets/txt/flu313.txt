@@ -43,8 +43,9 @@
     O: 나쁜 사람이에요
     E: He is a bad person.
 
+    # Nice person.
     O: 좋은 사람
-    E: Nice person
+    E: Good person
 
     O: 재미있는 게임
     E: Fun game
