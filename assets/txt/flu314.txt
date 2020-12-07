@@ -13,13 +13,13 @@
     E: To go. That's going (adjective)
 
     O: 자다. 자는.
-    E: To sleep. That's sleeping (adjective).
+    E: To sleep. That is sleeping (adjective).
 
     O: 열다. 여는.
-    E: To open. That's opening (adjective).
+    E: To open. That is opening (adjective).
 
     O: 불다. 부는.
-    E: To blow. That's blown (adjective).
+    E: To blow. That is blown (adjective).
 
     O: 민지가 좋아하는 사람
     E: someone who Minji likes
