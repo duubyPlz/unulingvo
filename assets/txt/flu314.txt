@@ -47,6 +47,7 @@
 
     O: 눈이 오는 날에는 영화 보고 싶어요.
     E: On a day when it snows, I want to see a movie[s].
+    F: _On a day when it snows_, I want to see a movie[s].
 
     O: 저기 있는 사람, 아는 사람이에요?
     E: That person who is over there, is it someone that you know?
