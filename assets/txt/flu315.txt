@@ -1,0 +1,20 @@
+== TTMIK 3.15 - Well then, In that case, If so / 그러면, 그럼 ==
+    # 그럼 two forms:
+    # * Adverb, shorter form of 그럼면 - "Then"
+    # * Interjection - "Of course!" (or 그럼요) 
+
+    O: 그러면 이거는 뭐예요?
+    E: Then, what is THIS?
+    F: Then, what is _THIS_?
+
+    O: 지금 바빠요? 그러면 언제 안 바빠요?
+    E: You are busy now? Then WHEN are you not busy?
+
+    O: 한국 음식 좋아해요? 그럼 김밥도 좋아해요?
+    E: Do you like Korean food? Then[s] do you like kimbap, too?
+
+    O: 진짜요? 그럼 이제 어떻게 해요?
+    E: Really? If so[s], what do we do now?
+
+    O: 그럼 이거는 어때요?
+    E: Then[s] how about this one?
