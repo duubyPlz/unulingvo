@@ -10,6 +10,9 @@
     O: 지금 바빠요? 그러면 언제 안 바빠요?
     E: You are busy now? Then WHEN are you not busy?
 
+    O: 지금 바빠요? 그래서 언제 안 바빠요?
+    E: You are busy now? Then WHEN are you not busy (super pissed off)?
+
     O: 한국 음식 좋아해요? 그럼 김밥도 좋아해요?
     E: Do you like Korean food? Then[s] do you like kimbap, too?
 
