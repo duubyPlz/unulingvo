@@ -50,7 +50,7 @@
     F: _On a day when it snows_, I want to see a movie[s].
 
     O: 저기 있는 사람, 아는 사람이에요?
-    E: That person who is over there, is it someone that you know?
+    E: That person who is over there[s], is it someone that you know?
 
     # Anybody (who is) hungry?
     O: 배고픈 사람 (있어요)?
