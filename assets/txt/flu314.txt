@@ -54,5 +54,5 @@
     E: That person who is over there[s], is it someone that you know?
 
     # Anybody (who is) hungry?
-    O: 배고픈 사람 (있어요)?
-    E: (Is there) anyone that's hungry?
+    O: 배고픈 사람 있어요?
+    E: Is there anyone that's hungry?
