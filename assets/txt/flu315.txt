@@ -21,3 +21,4 @@
 
     O: 그럼 이거는 어때요?
     E: Then[s] how about this one?
+    F: Then[s] how about _this one_?
