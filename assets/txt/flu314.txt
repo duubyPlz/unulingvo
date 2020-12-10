@@ -1,5 +1,6 @@
 == TTMIK 3.14 - Adjectives Action / Making Adjectives Action Verbs + -는/(으)ㄴ/(으)ㄹ + 명사 ==
 * s -> short
+* l -> long
 
     # Adjective clause -> modifies noun.
 
@@ -28,8 +29,8 @@
     E: someone who likes Minji
 
     O: 이 노래는 제가 좋아하는 노래예요.
-    E: This song is a song that I like.
-    F: _This song_ is a song that I like.
+    E: This song is a song that I[l] like.
+    F: _This song_ is a song that I[l] like.
 
     O: 자주 먹는 한국 음식 있어요?
     E: Is there a Korean food that you eat often?
