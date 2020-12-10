@@ -43,8 +43,8 @@
     F: Which _singer_ do you _like these days[s]_?
 
     O: 요즘 공부하고 있는 외국어는 일본어예요.
-    E: The foreign language I am studyING these days is Japanese.
-    F: _The foreign language I am studyING these days_ is Japanese.
+    E: The foreign language I am studyING these days[s] is Japanese.
+    F: _The foreign language I am studyING these days[s]_ is Japanese.
 
     O: 눈이 오는 날에는 영화 보고 싶어요.
     E: On a day when it snows, I want to see a movie[s].
