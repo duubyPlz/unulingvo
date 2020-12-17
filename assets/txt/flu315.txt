@@ -20,7 +20,7 @@
     E: Do you like Korean food? Then[s] do you like kimbap, too?
 
     O: 진짜요? 그럼 이제 어떻게 해요?
-    E: Really? If so[s], what do we do now (puzzled)?
+    E: Really? If so[s], what should we do now (puzzled)?
 
     O: 그럼 이거는 어때요?
     E: Then[s] how about this one?
