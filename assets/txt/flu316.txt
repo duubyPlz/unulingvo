@@ -19,10 +19,10 @@
     E: Let’s start. @impolite
 
     O: 시작할래요?
-    E: Shall we start? @polite @casual
+    E: Shall we start? (lit. Do you want to start?) @polite @casual
 
     O: 시작하실래요?
-    E: Shall we start? @polite @honorific
+    E: Shall we start? (lit. Do you want to start?) @polite @honorific
 
     O: 저도 서점에 갈 거예요. 같이 가요!
     E: I am going to the bookstore, too. Let’s go together!
