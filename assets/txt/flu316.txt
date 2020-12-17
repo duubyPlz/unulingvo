@@ -1,5 +1,6 @@
 == TTMIK 3.16 - Let’s / -아/어/여요 (청유형) ==
 * l -> long
+* s -> short
 
     # * -아/어/여요: polite
     #   * -(으)ㄹ래요?: polite + casual
@@ -36,4 +37,4 @@
     E: I will be busy until Friday. Let’s start on Saturday. What do you think?
 
     O: 다른 데 가요. 여기 안 좋은 것 같아요.
-    E: Let’s go somewhere else. I think this place is not so good.
+    E: Let’s go somewhere else. I think this[s] place is not so good.
