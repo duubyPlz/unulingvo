@@ -34,7 +34,7 @@
     E: It is two o’clock now. Let’s meet here at three o’clock.
 
     O: 저 금요일까지 바빠요. 토요일에 시작해요. 어때요?
-    E: I am busy until Friday. Let’s start on Saturday. What do you think?
+    E: I[s] am busy until Friday. Let’s start on Saturday. What do you think?
 
     O: 다른 데 가요. 여기 안 좋은 것 같아요.
     E: Let’s go somewhere else. I think this[s] place is not so good.
