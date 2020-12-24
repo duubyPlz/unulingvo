@@ -21,6 +21,7 @@
 
     O: 저는 한국에 가기 위해서 열심히 공부했어요.
     E: I studied hard in order to go to Korea.
+    F: _I_ studied hard in order to go to Korea.
 
     O: 부모님을 위해서 돈을 모았어요.
     E: I saved up money for my parents.
