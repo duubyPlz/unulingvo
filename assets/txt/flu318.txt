@@ -38,6 +38,9 @@
     O: 이것밖에 없어요?
     E: You only have this? This is it?
 
+    O: 세 명밖에 없어요?
+    E: There are only three people?
+
     O: 우리 고양이는 참치밖에 안 먹어요.
     E: My cat only eats tuna.
 
