@@ -18,6 +18,7 @@
 
     O: 슈퍼맨은 세계 평화를 위해서 일해요.
     E: Superman works for world peace.
+    F: _Superman_ works for world peace.
 
     O: 저는 한국에 가기 위해서 열심히 공부했어요.
     E: I studied hard in order to go to Korea.
