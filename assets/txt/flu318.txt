@@ -15,18 +15,23 @@
     O: 돈밖에 없다
     E: to have nothing but money, to only have money
 
+    O: 저는 현우 씨만 삻어해요.
+    E: I only hate Hyunwoo.
+    F: _I_ only hate Hyunwoo.
+
     O: 저는 닭고기만 싫어해요
     E: I only hate chicken.
     F: _I_ only hate chicken.
 
+    # More awkward version: 한국인 친구가 한 명만 있어요.
     O: 한국인 친구가 한 명밖에 없어요.
     E: (I) only have one Korean friend.
     F: _(I) only have one_ Korean friend.
 
     O: 한국인 친구는 한 명밖에 없어요.
-    E: As for Korean friends, I only have one.
+    E: AS FOR Korean friends, I only have one.
 
-    # This is more natural than: 한국어 조금만 할 수 있어요.
+    # More awkward version: 한국어 조금만 할 수 있어요.
     O: 한국어 조금밖에 못해요.
     E: I can only speak a little bit of Korean.
 
