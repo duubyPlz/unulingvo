@@ -28,7 +28,7 @@
     E: I saved up money for my parents.
 
     O: 건강을 위해서 매일 운동하고 있어요.
-    E: I am exercising everyday for my health.
+    E: I am exercising everyday for my health (continuous).
 
     O: 유창한 한국어를 위해서 레선을 들어요.
     E: For fluent Korean, I listen to the lesson.
