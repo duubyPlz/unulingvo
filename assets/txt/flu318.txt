@@ -17,7 +17,7 @@
     O: 돈밖에 없다
     E: to have nothing but money, to only have money
 
-    O: 저는 현우 씨만 삻어해요.
+    O: 저는 현우 씨만 싫어해요.
     E: I only hate Hyunwoo.
     F: _I_ only hate Hyunwoo.
 
