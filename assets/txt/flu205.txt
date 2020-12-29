@@ -36,6 +36,6 @@
     E: (This) Saturday evening, I am starting a new-language-studying (start studying a new language).
     F: _(This) Saturday evening_, I am starting a new-language-studying (start studying a new language).
 
-    O: 저는 금요일마다 밤새 술을 마셔요. 🤔
+    O: 저는 금요일마다 밤새 술을 마셔요.
     E: I drink all night long every Friday. 🤔
     F: _I_ drink all night long every Friday. 🤔
