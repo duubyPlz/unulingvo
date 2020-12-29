@@ -33,7 +33,8 @@
     O: 약 한 달쯤
     E: Approximately about a month
 
-    O: 백명쯤 왔어요.
+    # 백명쯤 왔어요.
+    O: 백 명쯤 왔어요.
     E: About one hundred people came.
 
     O: 독일에서 이년쯤 살았어요.
