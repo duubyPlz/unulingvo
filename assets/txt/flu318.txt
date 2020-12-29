@@ -45,6 +45,7 @@
 
     O: 우리 고양이는 참치밖에 안 먹어요.
     E: My cat only eats tuna.
+    F: _My cat_ only eats tuna.
 
     O: 왜 공부밖에 안 해요?
     E: Why do you only study? Why do you do nothing but study?
