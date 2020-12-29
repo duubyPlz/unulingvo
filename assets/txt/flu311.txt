@@ -22,13 +22,13 @@
     E: To be difficult. Will be difficult.
 
     O: 춥다. 추워요.
-    E: To be cold. Is cold.
+    E: To be cold. Is cold. (weather)
 
     O: 춥다. 추웠어요.
-    E: To be cold. Was cold
+    E: To be cold. Was cold. (weather)
 
     O: 춥다. 추울 거예요.
-    E: To be cold. Will be cold.
+    E: To be cold. Will be cold. (weather)
 
     O: 눕다. 누워요.
     E: To lie down. Lie down.
@@ -37,7 +37,7 @@
     E: To bake. Bake.
 
     O: 덥다. 더워요.
-    E: To be hot (weather). Is hot (weather).
+    E: To be hot. Is hot. (weather)
 
     O: 쉽다. 쉬워요.
     E: To be easy. Is easy.
