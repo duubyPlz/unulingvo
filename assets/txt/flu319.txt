@@ -28,16 +28,16 @@
     E: after[a] reading a book
 
     O: 영화 본 다음에 우리 커피 마셔요.
-    E: After[n] watching the movie, let us[l] drink coffee.
+    E: After[n] watching the movie[s], let us[l] drink coffee.
 
     O: 점심을 먹은 다음에, 도서관에 갔어요.
     E: After[n] having lunch, I went to the library.
 
     O: 이거 한 다음에 뭐 할 거예요?
-    E: After[n] doing this, what are you going to do?
+    E: After[n] doing this[s], what are you going to do?
 
     O: 그거요? 이거 한 뒤에 할게요.
-    E: That one? I will do it after[b] I do this.
+    E: That one? I will do it after[b] I do this[s].
 
     O: 결정한 후에 연락 주세요.
     E: Contact me after[b] you decide.
