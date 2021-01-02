@@ -1,6 +1,8 @@
 == TTMIK 3.19 - After -ing / 다음에 ==
 * b -> behind
 * a -> after
+* n -> next
+* l -> long
 
     # verb + -ㄴ + 다음에 next
     # -ㄴ + 후에 after
@@ -8,7 +10,7 @@
     # Interchangeable
 
     O: 편지를 받은 다음에
-    E: after receiving a letter
+    E: after[n] receiving a letter
 
     O: 편지를 받은 후에
     E: after[a] receiving a letter
@@ -17,7 +19,7 @@
     E: after[b] receiving a letter
 
     O: 책을 읽은 다음에
-    E: after reading a book
+    E: after[n] reading a book
 
     O: 책을 읽은 뒤에
     E: after[b] reading a book
@@ -26,13 +28,13 @@
     E: after[a] reading a book
 
     O: 영화 본 다음에 우리 커피 마셔요.
-    E: After watching the movie, let us drink coffee.
+    E: After[n] watching the movie, let us[l] drink coffee.
 
     O: 점심을 먹은 다음에, 도서관에 갔어요.
-    E: After having lunch, I went to the library.
+    E: After[n] having lunch, I went to the library.
 
     O: 이거 한 다음에 뭐 할 거예요?
-    E: After doing this, what are you going to do?
+    E: After[n] doing this, what are you going to do?
 
     O: 그거요? 이거 한 뒤에 할게요.
     E: That one? I will do it after[b] I do this.
