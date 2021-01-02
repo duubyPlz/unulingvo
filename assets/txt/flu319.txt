@@ -8,6 +8,7 @@
     # -ㄴ + 후에 after
     # -ㄴ + 뒤에 behind
     # Interchangeable
+    # -ㄴ past tense, adjective clause “after -ing”
 
     O: 편지를 받은 다음에
     E: after[da] receiving a letter
