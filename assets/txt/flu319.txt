@@ -38,7 +38,7 @@
     E: After[da] doing this[s], what are you going to do?
 
     O: 그거요? 이거 한 뒤에 할게요.
-    E: That one? I will do it after[d] I do this[s].
+    E: That one? (Then) I will do it after[d] I do this[s].
 
     O: 결정한 후에 연락 주세요.
     E: Contact me after[h] you decide.
