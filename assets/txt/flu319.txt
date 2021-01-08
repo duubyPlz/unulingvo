@@ -40,6 +40,7 @@
     O: 그거요? 이거 한 뒤에 할게요.
     E: That one? (Then) I will do it after[d] I do this[s].
 
+    # 결정한 후에 연락해 주세요.
     O: 결정한 후에 연락 주세요.
-    E: Contact me after[h] you decide.
+    E: Contact (noun) me after[h] you decide.
 
