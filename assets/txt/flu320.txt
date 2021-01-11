@@ -24,7 +24,8 @@
     E: Even if I call him, Seokjin does not answer.
 
     O: 냄새는 이상해도 맛있어요.
-    E: It is tasty even though the smells weird.
+    E: It is tasty even though the smell's weird.
+    F: It is tasty even though _the smell_'s weird.
 
     O: 바빠도 한국에 갈 거예요.
     E: Even if I am busy, I will go to Korea.
