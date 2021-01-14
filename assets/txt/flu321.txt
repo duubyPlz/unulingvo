@@ -50,7 +50,10 @@
     E: Oh, that is cool!
 
     O: 지금 어디에 있는데요?
-    E: So where are you now?
+    E: So where are you now? (Explain yourself)
+
+    O: 지금 어디에 있는데 늦어요?
+    E: So where are you now, that you're late? (Explain yourself)
 
     O: 지금요? 지금 바쁜데요.
     E: Now? I am busy now, so...
