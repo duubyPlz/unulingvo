@@ -1,0 +1,246 @@
+뜨겁습니다.
+
+Answer.
+is hot.
+
+Next word.
+아프다.
+
+Answer.
+hurts/sick.
+
+Next word.
+아파요.
+
+Answer.
+hurts/sick (polite).
+
+Next word.
+바빠요.
+
+Answer.
+busy.
+
+Next word.
+게으르다.
+
+Answer.
+lazy.
+
+Next word.
+게을러요.
+
+깨끗하다.
+
+Answer.
+clean.
+
+Next word.
+가볍다.
+
+Answer.
+light.
+
+Next word.
+지루하다.
+
+Answer.
+boring.
+
+Next word.
+짧다.
+
+Answer.
+short.
+
+Next word.
+싱거워요.
+
+Answer.
+bland.
+
+Next word.
+굉장히.
+
+Answer.
+immensely.
+
+Next word.
+~번째.
+~nth.
+
+Next word.
+~대.
+~(machine collective noun).
+
+Next word.
+~개.
+~(collective noun).
+
+Next word.
+오렌지.
+
+Answer.
+orange.
+
+Next word.
+죄송하다.
+
+Answer.
+sorry.
+
+Next word.
+미안하다.
+
+Answer.
+sorry.
+
+Next word.
+부엉이.
+
+Answer.
+owl.
+
+Next word.
+꽤.
+
+Answer.
+quite.
+
+Next word.
+왼.
+
+Answer.
+left.
+
+Next word.
+날아요.
+
+Answer.
+fly (polite).
+
+Next word.
+놉니다.
+
+Answer.
+play (formal).
+
+Next word.
+놀아요.
+
+Answer.
+play (polite).
+
+Next word.
+돕다.
+
+Answer.
+help.
+
+Next word.
+늑대.
+
+Answer.
+wolf.
+
+Next word.
+매력.
+
+Answer.
+attraction/charm.
+
+Next word.
+곧.
+
+Answer.
+soon.
+
+Next word.
+터지다.
+
+Answer.
+explode.
+
+Next word.
+색깔.
+
+Answer.
+colour.
+
+Next word.
+회.
+
+Answer.
+grey/sashimi.
+
+Next word.
+할아버지.
+
+Answer.
+grandfather.
+
+Next word.
+내일.
+
+Answer.
+tomorrow.
+
+Next word.
+기억.
+
+Answer.
+memory.
+
+Next word.
+청소.
+
+Answer.
+cleaning.
+
+Next word.
+인정.
+
+Answer.
+acknowledge.
+
+Next word.
+연세.
+
+Answer.
+age (honorific).
+
+Next word.
+출근.
+
+Answer.
+start work.
+
+Next word.
+착하다.
+
+Answer.
+to be nice.
+
+Next word.
+전혀.
+
+Answer.
+not at all.
+
+Next word.
+벌써.
+
+Answer.
+already.
+
+Next word.
+졸업하다.
+
+Answer.
+graduate.
+
+Next word.
+잠깐.
+
+Answer.
+moment.
