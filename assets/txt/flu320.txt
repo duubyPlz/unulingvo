@@ -21,8 +21,9 @@
     O: 택시를 타도, 시간이 오래 걸려요.
     E: It takes a long time even if I take a taxi.
 
+    # Even if I call him, Seokjin does not answer.
     O: 석진 씨는 제가 전화를 해도 안 받아요.
-    E: Even if I call him, Seokjin does not answer.
+    E: Even if I phone him, Seokjin does not answer.
 
     O: 냄새는 이상해도 맛있어요.
     E: It is tasty even though the smell's weird.
