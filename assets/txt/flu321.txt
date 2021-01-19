@@ -86,10 +86,10 @@
     E: Huh? It was here... @impolite
 
     O: 영화 재미있었는데, 무서웠어요.
-    E: The movie was interesting, but it was scary.
+    E: The movie[s] was interesting, but it was scary.
 
     O: 영화 봤는데, 무서웠어요.
-    E: I saw a movie, and it was scary.
+    E: I saw a movie[s], and it was scary.
 
     O: 저 지금 학생인데, 일도 하고 있어요.
     E: I[s] am a student now, but I am working, too (continuous).
