@@ -64,7 +64,7 @@
     O: 지금 어디에 있는데?
     E: So where are you now? @impolite
 
-    O: 멋있는데(요)!
+    O: 멋있는데!
     E: Oh, that is cool! @impolite
 
     O: 준비 많이 했는데...
