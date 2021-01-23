@@ -71,7 +71,7 @@
     E: I prepared a lot, but... (sentence finishes) @impolite
 
     O: 내일 친구 생일인데, 선물을 아직 못 샀어요.
-    E: It is my friend’s birthday tomorrow, but I still haven't bought a present.
+    E: It is (my) friend’s birthday tomorrow, but I still haven't bought a present.
 
     O: 이거 일본에서 샀는데, 선물이에요.
     E: I bought this in Japan, and it is a present for you.
