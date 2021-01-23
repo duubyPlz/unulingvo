@@ -12,8 +12,8 @@
     E: even if you study; even though you study
 
     O: 요즘에 바빠도, 운동은 하고 있어요.
-    E: Even though I am busy these days, I am still doing exercise (continuous).
-    F: Even though I am busy these days, I am still doing _exercise_ (continuous).
+    E: Even though I am busy these days, (out of all activities) I am still doing exercise (continuous).
+    F: Even though I am busy these days, (out of all activities) I am still doing _exercise_ (continuous).
 
     O: 집에 가도, 밥이 없어요.
     E: Even if I go home, there is no food.
@@ -21,8 +21,9 @@
     O: 택시를 타도, 시간이 오래 걸려요.
     E: It takes a long time even if I take a taxi.
 
+    # Even if I call him, Seokjin does not answer.
     O: 석진 씨는 제가 전화를 해도 안 받아요.
-    E: Even if I call him, Seokjin does not answer.
+    E: Even if I phone him, Seokjin does not answer.
 
     O: 냄새는 이상해도 맛있어요.
     E: It is tasty even though the smell's weird.
