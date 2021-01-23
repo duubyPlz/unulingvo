@@ -80,7 +80,7 @@
     E: I saw it in the news today. Is that for real?
 
     O: 이거 좋은데요!
-    E: I like this! / This is good!
+    E: This is good! / I like this!
 
     O: 어? 여기 있었는데.
     E: Huh? It was here... @impolite
