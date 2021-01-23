@@ -44,7 +44,7 @@
     E: It is still 9 o’clock but I am already sleepy.
 
     O: 준비 많이 했는데요...
-    E: I prepared a lot, but... (sentence finishes)
+    E: I prepared a lot, but. (sentence ends)
 
     O: 멋있는데요!
     E: Oh, that is cool!
@@ -68,7 +68,7 @@
     E: Oh, that is cool! @impolite
 
     O: 준비 많이 했는데...
-    E: I prepared a lot, but... (sentence finishes) @impolite
+    E: I prepared a lot, but. (sentence ends) @impolite
 
     O: 내일 친구 생일인데, 선물을 아직 못 샀어요.
     E: It is (my) friend’s[s] birthday tomorrow, but I still haven't bought a present.
