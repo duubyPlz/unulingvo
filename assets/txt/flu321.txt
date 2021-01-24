@@ -92,4 +92,4 @@
     E: I saw a movie[s], and it was scary.
 
     O: 저 지금 학생인데, 일도 하고 있어요.
-    E: I[s] am a student now, but I am working, too (continuous).
+    E: I[s] am a student now, but I am also working (continuous).
