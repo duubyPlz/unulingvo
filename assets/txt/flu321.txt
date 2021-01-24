@@ -65,7 +65,7 @@
     E: So where are you now? @impolite
 
     O: 멋있는데!
-    E: Oh, that is cool! @impolite
+    E: Oh, (that) is cool! @impolite
 
     O: 준비 많이 했는데...
     E: I prepared a lot, but. (sentence ends) @impolite
