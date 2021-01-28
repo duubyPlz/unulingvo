@@ -47,7 +47,7 @@
     E: I prepared a lot, but. (sentence ends)
 
     O: 멋있는데요!
-    E: Oh, that is cool!
+    E: Oh, (that) is cool!
 
     O: 지금 어디에 있는데요?
     E: So where are you now? (Explain yourself)
