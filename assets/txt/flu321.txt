@@ -83,7 +83,7 @@
     E: This is good! / I like this!
 
     O: 어? 여기 있었는데.
-    E: Huh? It was here... @impolite
+    E: Huh? It was here[s]... @impolite
 
     O: 영화 재미있었는데, 무서웠어요.
     E: The movie[s] was interesting, but it was scary.
