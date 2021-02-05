@@ -38,7 +38,7 @@
     E: It is Sunday tomorrow + what are you going to do?
 
     O: 어제 자고 있었는데, 한국에서 전화가 왔어요. 
-    E: I was sleeping (continuous) yesterday + I got a phone call from Korea.
+    E: I was sleeping (continuous) yesterday + I got a phone call from Korea (lit: a call from Korea came).
 
     O: 아직 9시인데 벌써 졸려요.
     E: It is still 9 o’clock but I am already sleepy.
