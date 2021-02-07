@@ -2,7 +2,7 @@
 * s -> short
 
     # Nothing else but...
-    # [#RELATED Level 2 Lesson 15]: noun + -만
+    # {#RELATED Level 2 Lesson 15}: noun + -만
     # -만 vs. -밖에:
     #   * Negation, -밖에 is generally used more than -만
     #   * -만 ONLY - imperatives

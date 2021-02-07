@@ -1,5 +1,5 @@
 == TTMIK 3.20 - Even if, Even though / -아/어/여도 ==
-    # [#RELATED Level 3 Lesson 12]: 그래도
+    # {#RELATED Level 3 Lesson 12}: 그래도
     # Pretty much the same, but joins into one sentence instead of having two.
 
     O: 봐도
