@@ -1,4 +1,6 @@
 == TTMIK 3.22 - Also [be able to|possible] / Maybe I might… / -(으)ㄹ 수도 있어요 ==
+* l -> long
+
     # -ㄹ 수 있다 (be able to) + -도 (also) = -ㄹ 수도 있다 (also be able to)
     # Lit: "This method is also possible"
     # * It could...
@@ -17,13 +19,13 @@
     E: The hat could be small.
 
     O: 저 내일 올 수도 있어요.
-    E: I might come here tomorrow.
+    E: I[l] might come here tomorrow.
 
     O: 저 내일 안 올 수도 있어요.
-    E: I might not come here tomorrow.
+    E: I[l] might not come here tomorrow.
 
     O: 저 내일 못 올 수도 있어요.
-    E: I might not be able to come here tomorrow.
+    E: I[l] might not be able to come here tomorrow.
 
     # 가짜이다 - fake, 가짜 - (noun) something that's fake
     O: 이거 가짜일 수도 있어요.
