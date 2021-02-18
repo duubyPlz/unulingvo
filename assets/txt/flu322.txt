@@ -33,4 +33,4 @@
     E: It might really be so.
 
     O: 끝일 수도 있어요.
-    E: This might be the end.
+    E: It might be the end.
