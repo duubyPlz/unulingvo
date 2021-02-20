@@ -1,0 +1,80 @@
+== TTMIK 3.23 - [Word Builder] 학 ==
+    # 學生
+    O: 학생
+    E: student
+
+    # 學校
+    O: 학교
+    E: school
+
+    # 學院
+    O: 학원
+    E: private academy
+
+    # 數學
+    O: 수학
+    E: mathematics
+
+    # 科學
+    O: 과학
+    E: science
+
+    # 語學
+    O: 어학
+    E: language learning
+
+    # 言語學
+    O: 언어학
+    E: linguistics
+
+    # 經濟學
+    O: 경제학
+    E: economics
+
+    # 學者
+    O: 학자
+    E: scholar
+
+    # 留學生
+    O: 유학생
+    E: student studying abroad
+
+    # 轉學生
+    O: 전학생
+    E: student who moved to another school
+
+    # 學年
+    O: 학년
+    E: school year
+
+    # 學期
+    O: 학기
+    E: semester
+
+    # 放學
+    O: 방학
+    E: school vacation; school holidays
+
+    # 奬學金
+    O: 장학금
+    E: scholarship
+
+    # 奬學生
+    O: 장학생
+    E: student on a scholarship
+
+    # 復學生
+    O: 복학생
+    E: student who has returned to school (usually) after a long break
+
+    # 學習
+    O: 학습
+    E: (formal) learning, studies
+
+    # 韓國語 學習
+    O: 한국어 학습
+    E: (formal) Korean learning
+
+    # 獨學
+    O: 독학
+    E: self-study, studying by oneself
