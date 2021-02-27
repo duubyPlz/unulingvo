@@ -1,0 +1,11 @@
+== TRMIK 3.24 - 르 irregular / 르 불규칙 ==
+    # Only occurs in 3 cases:
+    # * -[아|어]요
+    # * -[아|어]서
+    # * -[아|어]었어요
+    # All other endings 르 stays the same.
+
+    # 르 -> ㄹ + ㄹ[아|어]...
+
+    O: 골라요.
+    E: 고르다 I pick.

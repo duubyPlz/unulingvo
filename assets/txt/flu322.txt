@@ -11,7 +11,7 @@
     E: My friend[l] might know (the person/the thing).
 
     O: 내일 다시 만날 수도 있어요.
-    E: We might meet again tomorrow.
+    E: (We) might meet again tomorrow.
 
     # 모자가 너무 작을 수도 있어요.
     # The hat could be too small (for you).
