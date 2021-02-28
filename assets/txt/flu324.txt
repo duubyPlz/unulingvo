@@ -1,4 +1,6 @@
 == TRMIK 3.24 - 르 irregular / 르 불규칙 ==
+* s -> short
+
     # Only occurs in 3 cases:
     # * -[아|어]요
     # * -[아|어]서
@@ -9,3 +11,63 @@
 
     O: 골라요.
     E: 고르다 I pick.
+
+    O: 골라서
+    E: 고르다 I pick and then; because I pick
+
+    O: 골랐어요.
+    E: 고르다 I picked.
+
+    O: 몰라요.
+    E: 모르다 I do not know.
+
+    O: 몰라서
+    E: 모르다 because I do not know
+
+    O: 몰랐어요.
+    E: 모르다 I did not know.
+
+    O: 빨라요.
+    E: 빠르다 It is fast.
+
+    O: 빨라서
+    E: 빠르다 because it is fast
+
+    O: 빨랐어요.
+    E: 빠르다 It was fast.
+
+    O: 잘라요.
+    E: 자르다 I cut.
+
+    O: 잘라서
+    E: 자르다 I cut and then; because I cut
+
+    O: 잘랐어요.
+    E: 자르다 I cut (past tense).
+
+    O: 길러요.
+    E: 기르다 I raise.
+
+    O: 길러서
+    E: 기르다 I raise and then; because I raise
+
+    O: 길렀어요.
+    E: 기르다 I raised.
+
+    O: 뭐 골랐어요?
+    E: What did you choose?
+
+    O: 저도 몰라요.
+    E: I do not know, either.
+
+    O: 비행기는 빨라서 좋아요.
+    E: Planes are good because they are fast. / I like airplanes because they are fast.
+
+    O: 누가 케이크 잘랐어요?
+    E: Who cut the cake[s]?
+
+    O: 토끼를 5년 동안 길렀어요.
+    E: I had a rabbit as a pet for 5 years. / I raised a rabbit for 5 years.
+
+
+
