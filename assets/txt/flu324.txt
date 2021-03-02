@@ -10,49 +10,49 @@
     # 르 -> ㄹ + ㄹ[아|어]...
 
     O: 골라요.
-    E: 고르다 I pick.
+    E: I pick. 고르다
 
     O: 골라서
-    E: 고르다 I pick and then; because I pick
+    E: I pick and then; because I pick 고르다
 
     O: 골랐어요.
-    E: 고르다 I picked.
+    E: I picked. 고르다
 
     O: 몰라요.
-    E: 모르다 I do not know.
+    E: I do not know. 모르다
 
     O: 몰라서
-    E: 모르다 because I do not know
+    E: because I do not know 모르다
 
     O: 몰랐어요.
-    E: 모르다 I did not know.
+    E: I did not know. 모르다
 
     O: 빨라요.
-    E: 빠르다 It is fast.
+    E: It is fast. 빠르다
 
     O: 빨라서
-    E: 빠르다 because it is fast
+    E: because it is fast 빠르다
 
     O: 빨랐어요.
-    E: 빠르다 It was fast.
+    E: It was fast. 빠르다
 
     O: 잘라요.
-    E: 자르다 I cut.
+    E: I cut. 자르다
 
     O: 잘라서
-    E: 자르다 I cut and then; because I cut
+    E: I cut and then; because I cut 자르다
 
     O: 잘랐어요.
-    E: 자르다 I cut (past tense).
+    E: I cut (past tense). 자르다
 
     O: 길러요.
-    E: 기르다 I raise.
+    E: I raise. 기르다
 
     O: 길러서
-    E: 기르다 I raise and then; because I raise
+    E: I raise and then; because I raise 기르다
 
     O: 길렀어요.
-    E: 기르다 I raised.
+    E: I raised. 기르다
 
     O: 뭐 골랐어요?
     E: What did you choose?
