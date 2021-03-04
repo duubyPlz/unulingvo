@@ -62,6 +62,7 @@
 
     O: 비행기는 빨라서 좋아요.
     E: Planes are good because they are fast. / I like airplanes because they are fast.
+    F: _Planes_ are good because they are fast. / I like airplanes because they are fast.
 
     O: 누가 케이크 잘랐어요?
     E: Who cut the cake[s]?
