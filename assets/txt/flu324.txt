@@ -68,7 +68,7 @@
     E: Who cut the cake[s]?
 
     O: 토끼를 5년 동안 길렀어요.
-    E: I had a rabbit as a pet for 5 years. / I raised a rabbit for 5 years.
+    E: I raised a rabbit for 5 years. / I had a rabbit as a pet for 5 years.
 
 
 
