@@ -8,7 +8,8 @@
     # * It might...
 
     O: 제 친구가 알 수도 있어요
-    E: My friend[l] might know (the person/the thing).
+    E: My friend might know (the person/the thing).
+    F: My friend _might know (the person/the thing)._
 
     O: 내일 다시 만날 수도 있어요.
     E: (We) might meet again tomorrow.
