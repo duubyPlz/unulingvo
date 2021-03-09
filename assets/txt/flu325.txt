@@ -1,0 +1,14 @@
+== TTMIK 3.25 - Verb Ending / -네요 ==
+    # Means:
+    # * Impressed
+    # * Surprised
+    # * Own personal thought
+
+    O: 크네요.
+    E: (I see that) it is big. / (Oh, I did not know it was big, but) it is big. (Expressing surprise)
+
+    # 잘 어울리다
+    O: 잘 어울리네요
+    E: Oh! I find that it looks good on you. (Expressing your impression)
+
+
