@@ -26,7 +26,7 @@
     E: (Impresssed/Surprised) The dish tastes good!
 
     O: 이 드라마 몰랐는데 재미있네요.
-    E: I didn't know (before) but I find this drama fun to watch.
+    E: I didn't know (before) but I find this drama[s] fun to watch.
 
     O: 별로 안 춥네요.
     E: Well, it is not that cold.
