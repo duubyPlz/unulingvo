@@ -23,7 +23,7 @@
     E: I see that it is correct! (Finding out a fact for the first time.)
 
     O: 요리 맛있네요.
-    E: (Impresssed/Surprised) The dish tastes good!
+    E: (Impressed/Surprised) The dish tastes good!
 
     O: 이 드라마 몰랐는데 재미있네요.
     E: I didn't know (before) but I find this drama[s] fun to watch.
