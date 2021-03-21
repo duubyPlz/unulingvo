@@ -28,7 +28,7 @@
     E: I am going to wear (it). / I will wear (it).
 
     O: 청바지 입을 거예요.
-    E: I am going to wear blue jeans.
+    E: I am going to wear (blue) jeans.
 
     O: 뭐 입을 거예요?
     E: What are you going to wear?
