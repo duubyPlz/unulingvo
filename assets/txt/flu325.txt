@@ -32,7 +32,7 @@
     E: (Discover/Well) It is not that cold.
 
     O: 아무도 안 왔네요.
-    E: (Oh, look...) Nobody is here.
+    E: (Oh, look...) Nobody came.
 
     O: 벌써 십일월이네요.
     E: (Discover/Wow) It is already November!
