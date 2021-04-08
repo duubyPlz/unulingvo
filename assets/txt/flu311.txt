@@ -1,7 +1,10 @@
 == TTMIK 3.11 - ㅂ irregular / ㅂ 불규칙 ==
+    # Irregular rule: 
+    #   * If 오+ㅂ ➔ 오
+    #   * If 우+ㅂ ➔ 우
     # ㅂ verbs = irregular -ONLY WHEN-> the next suffix starts with a VOWEL.
     # Some ㅂ verbs don't follow this irregularity.
-    # ㅂ verbs = normal -> non-vowel suffixes (e.g. -는 or -고).
+    # ㅂ verbs = normal ➔ non-vowel suffixes (e.g. -는 or -고).
 
     O: 돕다. 도와요
     E: To help. Help.

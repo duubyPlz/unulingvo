@@ -1,6 +1,7 @@
 == TRMIK 3.24 - 르 irregular / 르 불규칙 ==
 * s -> short
 
+    # Irregular rule: 르 ➔ ㄹㄹ
     # Only occurs in 3 cases:
     # * -[아|어]요
     # * -[아|어]서
@@ -9,50 +10,50 @@
 
     # 르 -> ㄹ + ㄹ[아|어]...
 
-    O: 골라요.
-    E: I pick.
+    O: 고르다. 골라요.
+    E: To pick. I pick.
 
-    O: 골라서
-    E: I pick and then; because I pick
+    O: 고르다. 골라서
+    E: To pick. Because I pick; I pick and then
 
-    O: 골랐어요.
-    E: I picked.
+    O: 고르다. 골랐어요.
+    E: To pick. I picked.
 
-    O: 몰라요.
-    E: I do not know.
+    O: 모르다. 몰라요.
+    E: To not know. I do not know.
 
-    O: 몰라서
-    E: because I do not know
+    O: 모르다. 몰라서
+    E: To not know. Because I do not know
 
-    O: 몰랐어요.
-    E: I did not know.
+    O: 모르다. 몰랐어요.
+    E: To not know. I did not know.
 
-    O: 빨라요.
-    E: It is fast.
+    O: 빠르다. 빨라요.
+    E: To be fast. It is fast.
 
-    O: 빨라서
-    E: because it is fast
+    O: 빠르다. 빨라서
+    E: To be fast. Because it is fast
 
-    O: 빨랐어요.
-    E: It was fast.
+    O: 빠르다. 빨랐어요.
+    E: To be fast. It was fast.
 
-    O: 잘라요.
-    E: I cut.
+    O: 자르다. 잘라요.
+    E: To cut. I cut.
 
-    O: 잘라서
-    E: I cut and then; because I cut
+    O: 자르다. 잘라서
+    E: To cut. Because I cut; I cut and then
 
-    O: 잘랐어요.
-    E: I cut (past tense).
+    O: 자르다. 잘랐어요.
+    E: To cut. I cut (past tense).
 
-    O: 길러요.
-    E: I raise.
+    O: 기르다. 길러요.
+    E: To raise. I raise.
 
-    O: 길러서
-    E: I raise and then; because I raise
+    O: 기르다. 길러서
+    E: To raise. Because I raise; I raise and then
 
-    O: 길렀어요.
-    E: I raised.
+    O: 기르다. 길렀어요.
+    E: To raise. I raised.
 
     O: 뭐 골랐어요?
     E: What did you choose?
