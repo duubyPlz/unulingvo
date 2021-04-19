@@ -16,10 +16,10 @@
     E: To walk. I walk.
 
     O: 걷다. 걷는 것 좋아해요.
-    E: I like walking. 
+    E: To walk. I like walking. 
 
     O: 걷다. 한 시간 걸었어요.
-    E: I walked for an hour.
+    E: To walk. I walked for an hour.
 
     O: 묻다. 물으면
     E: To ask. If I ask
