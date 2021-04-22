@@ -20,7 +20,7 @@
     E: To walk. I like walking. 
 
     # 걷다. 한 시간 걸었어요.
-    O: 걷다. 한 시간 당안 걸었어요.
+    O: 걷다. 한 시간 동안 걸었어요.
     E: To walk. I walked for an hour.
 
     O: 묻다. 물으면
