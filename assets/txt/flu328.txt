@@ -1,0 +1,52 @@
+== TTMIK 3.28 - "Let's" in casual language -자 / 반말 ==
+    # Verb stem + -자
+
+    O: 하다. 하자.
+    E: To do. Let’s do it.
+
+    O: 공부하다. 공부하자.
+    E: To study. Let’s study.
+
+    # 말다/그만두다: stop
+    O: 하지 말다. 하지 말자.
+    E: To stop doing. Let’s not do it. / Let's stop doing it.
+
+    O: 내일 보자.
+    E: Let’s meet tomorrow. / See you tomorrow.
+
+    O: 이거 사자.
+    E: Let’s buy this.
+
+    O: 우리 내일은 쉬자.
+    E: Let’s take a day off tomorrow.
+    F: Let’s take a day off _tomorrow_.
+
+    O: 같이 가자.
+    E: Let’s go together.
+
+    O: 조금만 더 기다리자.
+    E: Let’s wait a little longer.
+
+    O: 안녕
+    E: 안녕하세요 (but in 반말)
+
+    O: 잘 가 / 안녕
+    E: 안녕히 가세요 (but in 반말)
+
+    O: 잘 있어 / 안녕
+    E: 안녕히 계세요 (but in 반말)
+
+    O: 너
+    E: You ~씨 or title (but in 반말)
+
+    O: 나
+    E: 저 (but in 반말)
+
+    O: 응 / 어
+    E: 네 / 예 (but in 반말)
+
+    O: 아니야 / 아니
+    E: 아니요 (but in 반말)
+
+    O: 경은아, 괜찮아?
+    E: Kyeong-eun, are you ok?
