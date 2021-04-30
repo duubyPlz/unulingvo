@@ -25,7 +25,6 @@
     # * 반말:
     #   * -이
 
-
     # May I speak in 반말 with you? @polite
     O: 말 놔도 돼요?
     E: May I lower my language (with you)? @polite
