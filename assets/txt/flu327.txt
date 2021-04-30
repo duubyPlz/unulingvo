@@ -72,3 +72,4 @@
 
     O: 석진이가 했어.
     E: Seokjin (+ third person address) did it. @impolite
+    F: Seokjin (+ third person address) _did it_. @impolite
