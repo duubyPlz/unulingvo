@@ -42,11 +42,11 @@
     O: 나
     E: 저 (but in 반말)
 
-    O: 응 / 어
-    E: 네 / 예 (but in 반말)
+    O: 응 어
+    E: 네 / 예 (but in 반말, two variants)
 
-    O: 아니야 / 아니
-    E: 아니요 (but in 반말)
+    O: 아니야 아니
+    E: 아니요 (but in 반말, two variants)
 
     O: 경은아, 괜찮아?
     E: Kyeong-eun, are you ok?
