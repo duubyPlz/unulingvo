@@ -37,7 +37,7 @@
     E: 안녕히 계세요 (but in 반말)
 
     O: 너
-    E: You ~씨 or title (but in 반말)
+    E: You (in 반말)
 
     O: 나
     E: 저 (but in 반말)
