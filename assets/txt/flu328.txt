@@ -1,4 +1,6 @@
 == TTMIK 3.28 - "Let's" in casual language -자 / 반말 ==
+* l ➔ long
+
     # Verb stem + -자
 
     O: 하다. 하자.
@@ -18,8 +20,8 @@
     E: Let’s buy this.
 
     O: 우리 내일은 쉬자.
-    E: Let’s take a day off tomorrow.
-    F: Let’s take a day off _tomorrow_.
+    E: Let’s[l] take a day off tomorrow.
+    F: Let’s[l] take a day off _tomorrow_.
 
     O: 같이 가자.
     E: Let’s go together.
