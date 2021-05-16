@@ -9,9 +9,9 @@
     O: 공부하다. 공부하자.
     E: To study. Let’s study.
 
-    # 말다/그만두다: stop
-    O: 하지 말다. 하지 말자.
-    E: To stop doing. Let’s not do it. / Let's stop doing it.
+    # 말다/그만두다: stop (quit)
+    O: 하지 말자.
+    E: Let’s not do it. / Let's stop doing it.
 
     O: 내일 보자.
     E: Let’s meet tomorrow. / See you tomorrow.
