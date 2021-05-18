@@ -17,7 +17,7 @@
     E: Let’s meet tomorrow. / See you tomorrow.
 
     O: 이거 사자.
-    E: Let’s buy this.
+    E: Let’s buy this. 
 
     O: 우리 내일은 쉬자.
     E: Let’s[l] take a day off tomorrow.
