@@ -3,7 +3,7 @@
 
     O: 요즘 날씨가 너무 좋네요.
     E: (Wow) The weather is so (lit. too) good these days.
-    F: _(Wow)_ The weather _is so (lit. too) good_ these days.
+    F: (Wow) The weather _is so (lit. too) good these days_.
 
     O: 네, 날씨가 정말 좋은 것 같아요.
     E: Yes, I think the weather is really good.
