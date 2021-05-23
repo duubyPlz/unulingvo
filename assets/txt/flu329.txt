@@ -22,9 +22,9 @@
     O: 잇다. 두 개를 이었어요.
     E: To connect. I connected the two (objects).
 
-    O: 이 집을 누가 지었어요?
+    O: 짓다. 이 집을 누가 지었어요?
     E: To build / to compose. Who built this house?
-    F: To build / to compose. Who _built this house_?
+    F: To build / to compose. Who _built_ this house?
 
     # I will create a good name.
     O: 젓다. 좋은 이름을 지을 거예요.
