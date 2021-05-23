@@ -2,11 +2,13 @@
     # Irregular: ㅅ 받침 + vowel ➔ drop ㅅ (for 아|어)
     # Regular: Leave the ㅅ (for 아|어)
 
+    # Please feel better.
     O: 낫다. 나아요.
-    E: To heal / to recover / to be better. It is better. / Please feel better.
+    E: To heal / to recover / to be better. It is better.
 
+    # Please stir it.
     O: 젓다. 저어요
-    E: To stir (liquid). I stir. / Please stir it.
+    E: To stir (liquid). I stir.
 
     O: 잇다. 이었어요.
     E: To connect / to link. I connected it. / I linked it.
@@ -14,18 +16,19 @@
     O: 짓다. 지었어요.
     E: To build / to compose. I built it. / I composed it.
 
-    O: 잘 저으세요.
-    E: Stir it well.
+    O: 젓다. 잘 저으세요.
+    E: To stir (liquid). Stir it well.
 
-    O: 두 개를 이었어요.
-    E: I connected the two (objects).
+    O: 잇다. 두 개를 이었어요.
+    E: To connect. I connected the two (objects).
 
     O: 이 집을 누가 지었어요?
-    E: Who built this house?
-    F: Who _built this house_?
+    E: To build / to compose. Who built this house?
+    F: To build / to compose. Who _built this house_?
 
-    O: 좋은 이름을 지을 거예요.
-    E: I will create a good name.
+    # I will create a good name.
+    O: 젓다. 좋은 이름을 지을 거예요.
+    E: To compose. I will compose a good name.
 
     O: 감기 다 나았어요?
     E: Did you recover completely from the cold?
