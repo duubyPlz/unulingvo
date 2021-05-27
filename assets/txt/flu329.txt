@@ -1,4 +1,6 @@
 == TTMIK 3.29 - ㅅ irregular / ㅅ 불규칙 ==
+* s -> short
+
     # Irregular: ㅅ 받침 + vowel ➔ drop ㅅ (for 아|어)
     # Regular: Leave the ㅅ (for 아|어)
 
@@ -31,7 +33,7 @@
     E: To compose. I will compose a good name.
 
     O: 감기 다 나았어요?
-    E: Did you recover completely from the cold?
+    E: Did you recover completely from the cold[s]?
 
     O: 웃다. 웃어요.
     E: To smile / to laugh. Smile. / I smile. / He laughs. / They laugh.
