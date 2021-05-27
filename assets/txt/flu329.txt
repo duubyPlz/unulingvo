@@ -29,7 +29,7 @@
     F: To build / to compose. Who _built_ this house?
 
     # I will create a good name.
-    O: 젓다. 좋은 이름을 지을 거예요.
+    O: 짓다. 좋은 이름을 지을 거예요.
     E: To compose. I will compose a good name.
 
     O: 감기 다 나았어요?
