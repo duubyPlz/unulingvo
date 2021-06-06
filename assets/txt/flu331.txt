@@ -10,7 +10,7 @@
     F: Yes, _I think_ the weather _is really good_.
 
     O: 저 내일 지민 씨하고 배드민턴 치는데, 같이 해요.
-    E: (lit. But) I’m[s] playing badminton with Jimin tomorrow. Join us (lit. do it together).
+    E: (lit. But) I’m[s] playing badminton[s] with Jimin tomorrow. Join us (lit. do it together).
 
     O: 내일요? 어디에서요?
     E: Tomorrow? Where?
