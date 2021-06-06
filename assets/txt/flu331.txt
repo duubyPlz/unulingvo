@@ -7,6 +7,7 @@
 
     O: 네, 날씨가 정말 좋은 것 같아요.
     E: Yes, I think the weather is really good.
+    F: Yes, _I think_ the weather _is really good_.
 
     O: 저 내일 지민 씨하고 배드민턴 치는데, 같이 해요.
     E: (lit. But) I’m[s] playing badminton with Jimin tomorrow. Join us (lit. do it together).
