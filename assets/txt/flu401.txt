@@ -51,17 +51,17 @@
     O: 좋으면 좋을수록
     E: the better[em] it is, the more...
 
-    O: The more, the better.
-    E: 많을수록 좋아요.
+    O: 많을수록 좋아요.
+    E: The more, the better.
 
-    O: The more[em], the better.
-    E: 많으면 많을수록 좋아요.
+    O: 많으면 많을수록 좋아요.
+    E: The more[em], the better.
 
-    O: The cheaper it is, the more of it you can buy.
-    E: 쌀수록 많이 살 수 있어요.
+    O: 쌀수록 많이 살 수 있어요.
+    E: The cheaper it is, the more of it you can buy.
 
-    O: The cheaper[em] it is, the more of it you can buy.
-    E: 싸면 쌀수록 많이 살 수 있어요.
+    O: 싸면 쌀수록 많이 살 수 있어요.
+    E: The cheaper[em] it is, the more of it you can buy.
 
     # Lit.: The more you go...
     O: 갈수록
