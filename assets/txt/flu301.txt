@@ -62,7 +62,7 @@
     E: That model (over there) is really cool!
 
     O: 너무 더워요. 
-    E: It is too hot. / It is very hot.
+    E: It is too hot. (weather) / It is very hot.
 
     O: 너무 졸려요.
     E: I am too sleepy. / I am very sleepy.
