@@ -1,0 +1,102 @@
+TTMIK 3.4 - Shall we? / I wonder / -(으)ㄹ까요?.
+
+    Do you think it will rain tomorrow? / I wonder if it will rain tomorrow. / Will it rain tomorrow? What do you think?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일 비가 올까요?
+
+    Next Sentence.
+    Shall we[l] see a movie tomorrow? / Do you want to see a movie together tomorrow?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일 우리 영화 볼까요?
+
+    Next Sentence.
+    Who do you think this person is? / Who is this person, I wonder? / I wonder who this person is.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 사람은 누구일까요?
+
+    Next Sentence.    
+    Shall we drink coffee? Shall we drink beer? / Do you want to drink coffee or beer?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    커피 마실까요? 맥주 마실까요?
+
+    Next Sentence.
+    Do you think she did it yesterday?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어제 했을까요?
+
+    Next Sentence.
+    Who do you think called?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    누가 전화했을까요?
+
+    Next Sentence.
+    Do you think Taliana came to Korea yesterday?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어제 탈리아나가 한국에 왔을까요?
+
+    Next Sentence.
+    (Self-question) I wonder what is in that bag (over there)?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 가방 안에 뭐가 있을까요?
+
+    Next Sentence.
+    (Asking someone else) What is in that bag (over there)?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 가방 안에 뭐가 있어요?
+
+    Next Sentence.
+    (Asking someone else) (Curious) Shall we watch a movie?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    영화 볼까요?
+
+    End of 3.4 - Shall we? / I wonder / -(으)ㄹ까요?.

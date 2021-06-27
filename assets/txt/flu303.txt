@@ -1,4 +1,4 @@
-== TTMIK 3.3 -  In front of, Behind, On top of, Under, Next to / 앞에, 옆에, 위에, 밑에, 뒤에 ==
+== TTMIK 3.3 - In front of, Behind, On top of, Under, Next to / 앞에, 옆에, 위에, 밑에, 뒤에 ==
 * l -> long
 * o -> object
 

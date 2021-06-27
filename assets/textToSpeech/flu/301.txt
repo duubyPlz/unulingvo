@@ -1,0 +1,252 @@
+TTMIK 3.1 - Too much, Very / 너무.
+
+    It is too big.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 커요.
+
+    Next Sentence.
+    It is too expensive.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 비싸요.
+
+    Next Sentence.
+    It is too fast.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 빨라요.
+
+    Next Sentence.
+    It is too difficult.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 어려워요.
+
+    Next Sentence.
+    It is too noisy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 시끄러워요.
+
+    Next Sentence.
+    Soyeon, you are too tall[s].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    소연 씨 너무 커요.
+
+    Next Sentence.
+    This is too expensive.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 너무 비싸요.
+
+    Next Sentence.
+    (Someone) speaks too fast.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    말이 너무 빨라요.
+
+    Next Sentence.
+    The Korean language is too difficult.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한국어 너무 어려워요. 
+
+    Next Sentence.
+    It is too noisy here.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여기 너무 시끄러워요.
+
+    Next Sentence.
+    It is really tasty.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 맛있어요.
+
+    Next Sentence.
+    It is REALLLYY good / I am really happy about it.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 좋아요.
+
+    Next Sentence.
+    It is very (lit. really) good.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    정말 좋아요.
+
+    Next Sentence.
+    It was really well done. / You did such a good job.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 잘했어요. 
+
+    Next Sentence.
+    It is really cool. / It looks awesome.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 멋있어요.
+
+    Next Sentence.
+    This pizza is really tasty.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 피자 너무 맛있어요. 
+
+    Next Sentence.
+    I really like this.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 너무 좋아요. 
+
+    Next Sentence.
+    Seokjin, you did a really great job.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    석진 씨, 너무 잘했어요.
+
+    Next Sentence.
+    That model (over there) is really cool!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 모델 너무 멋있어요! 
+
+    Next Sentence.
+    It is too hot. (weather) / It is very hot.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 더워요. 
+
+    Next Sentence.
+    I am too sleepy. / I am very sleepy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 졸려요.
+
+    Next Sentence.
+    I am too busy. / I am very busy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 바빠요.
+
+    Next Sentence.
+    I miss you/him/her/them so much.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 보고 싶어요.
+
+    Next Sentence.
+    It is really good. But it is really expensive.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너무 좋아요. 그런데 너무 비싸요.
+
+    Next Sentence.
+    Recording with Soyeon is really good. But Soyeon is too busy. 🤔.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    소연 씨랑 녹음해서 너무 좋아요. 그런데 소연 씨가 너무 바빠요.
+
+    End of 3.1 - Too much, Very / 너무.

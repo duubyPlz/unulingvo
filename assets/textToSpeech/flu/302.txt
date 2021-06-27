@@ -1,0 +1,82 @@
+TTMIK 3.2 - And / Linking Verbs with -고.
+    
+    This book is interesting and cheap.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 책은 재미있고 싸요.
+
+    Next Sentence.    
+    This book is interesting, cheap, and good.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 책은 재미있고, 싸고, 좋아요.
+
+    Next Sentence.    
+    I met[l] a friend[l] yesterday and saw a movie[l].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    어제 친구를 만났고, 영화를 봤어요.
+
+    Next Sentence.
+    Tomorrow, I will[l] watch a movie[l] and go to a bookstore.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일 영화를 볼 거고, 서점에 갈 거예요.
+
+    Next Sentence.
+    As for tomorrow, I am going to meet a friend and go to a bookstore.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일은 친구 만나고, 서점에 갈 거예요.
+
+    Next Sentence.
+    I read a book, studied and exercised.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    책 읽고, 공부하고, 운동했어요.
+
+    Next Sentence.
+    I will go to Korea in September and I will go to Japan in October.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    구월에는 한국에 가고, 시월에는 일본에 갈 거예요.
+
+    Next Sentence.
+    I drank some coffee, ate a donut, ate some cake and drank some milk. I am full.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    커피 마시고, 도넛 먹고, 케이크 먹고, 우유 마셨어요. 배불러요.
+
+    End of 3.2 - And / Linking Verbs with -고.

@@ -1,0 +1,163 @@
+TTMIK 3.5 - Approximately, About / 쯤, 약, 정도.
+    
+    Around one o’clock.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한 시쯤
+
+    Next Sentence.
+    About one thousand won.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    천 원쯤
+
+    Next Sentence.
+    About one month.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한 달쯤
+
+    Next Sentence.
+    About 4 kilometers.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    4킬로미터쯤 
+
+    Next Sentence.
+    I will be in Korea for about one month.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한국에 한 달쯤 있을 거예요.
+
+    Next Sentence.
+    
+    Approximately a month.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    약 한 달
+
+    Next Sentence.
+    About a month (extent).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한 달 정도
+
+    Next Sentence.
+    Approximately a month (extent).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    약 한 달 정도
+
+    Next Sentence.
+    Approximately about a month.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    약 한 달쯤
+
+    Next Sentence.
+    About one hundred people came.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    백 명쯤 왔어요.
+
+    Next Sentence.
+    I lived in Germany for about two years.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    독일에서 이년쯤 살았어요.
+
+    Next Sentence.
+    I lived in Korea for about thirty years.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한국에서 삼십 년쯤 살았어요.
+
+    Next Sentence.
+    About when are you going to go?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    언제쯤 갈 거예요?
+
+    Next Sentence.
+    (Shall:) Around what time shall we meet tomorrow?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일 몇 시쯤 만날까요?
+
+    Next Sentence.
+    How about around five o’clock?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    다섯 시쯤 어때요?
+
+    Next Sentence.
+    In a day, around how many hours do you study Korean?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    하루에 한국어 몇 시간쯤 공부해요?
+
+    End of 3.5 - Approximately, About / 쯤, 약, 정도.
