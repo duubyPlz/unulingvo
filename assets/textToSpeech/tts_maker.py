@@ -61,42 +61,61 @@ def replace(content_to_mutate, is_simple=False):
         for line in content_to_mutate.split('\n'):
             if re.search(r"    O: ", line):
                 line = re.sub(r"    O: ", r"", line)
-                mutated += line + ".\n"
+                mutated += line + "\n"
 
         return mutated
 
 
-def overwrite(text, file_path):
+# # TODO Optional flag that allows overwriting of files.
+# def overwrite(text, input):
+#     '''
+#     Writes `text` to `input`, will be overwriting & ignoring previous existing content.
+#     :rtype: void
+#     '''
+#     try:
+#         with open(input, "w") as file_stream:
+#             file_stream.write(text)
+#     except FileNotFoundError:
+#         print('\n🛑 Cannot open file: "{}". Exiting...'.format(input), file=sys.stderr)
+#         exit(1)
+
+
+def write(text, output):
     '''
-    Writes `text` to `file_path`, will be overwriting & ignoring previous existing content.
+    Writes `text` to `output`.
     :rtype: void
     '''
     try:
-        with open(file_path, "w") as file_stream:
+        with open(output, "w") as file_stream:
             file_stream.write(text)
     except FileNotFoundError:
-        print('\n🛑 Cannot open file: "{}". Exiting...'.format(file_path), file=sys.stderr)
+        print('\n🛑 Cannot open file: "{}". Exiting...'.format(output), file=sys.stderr)
         exit(1)
 
 
 # Main
-#   Example Usage: ./replace.py -f flu/200B.txt
+#   Example Usages:
+#     * ./tts_maker.py -i ../txt/flu201.txt -o flu/201.txt
+#     * ./tts_maker.py -s -i ../txt/flu306.txt -o flu/306_simple.txt
+#   Note: For normal version, will need to manually open up the output file and fix the last line.
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("-f", "--file-path", type=str, required=True,
-        help='The directory plus name of which file to perform the mutations')
+    parser.add_argument("-i", "--input", type=str, required=True,
+        help='The path of which file to convert')
+    parser.add_argument("-o", "--output", type=str, required=True,
+        help='The path of which new file to create')
     parser.add_argument("-s", "--simple", default=False, action="store_true",
         help='If this is on, it will be a target language-only version of a text-to-speech file')
     args = parser.parse_args()
 
-    print('Replacing file: {}'.format(args.file_path))
+    print('Reading from: {}'.format(args.input))
+    print('Outputting to: {}'.format(args.output))
 
     if args.simple:
         print('Simple version on.')
 
-    raw_content = open_file(args.file_path)
+    raw_content = open_file(args.input)
     mutated_content = replace(raw_content, args.simple)
-    print(mutated_content)
-    overwrite(mutated_content, args.file_path)
+    write(mutated_content, args.output)
 
     print('\nFinished ✨')
