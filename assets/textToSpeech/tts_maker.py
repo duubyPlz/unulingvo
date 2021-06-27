@@ -86,10 +86,10 @@ def write(text, output):
     :rtype: void
     '''
     try:
-        with open(output, "w") as file_stream:
+        with open(output, "x") as file_stream:
             file_stream.write(text)
-    except FileNotFoundError:
-        print('\n🛑 Cannot open file: "{}". Exiting...'.format(output), file=sys.stderr)
+    except (FileNotFoundError, FileExistsError) as e:
+        print('\n🛑 Error: {}, exiting...'.format(e), file=sys.stderr)
         exit(1)
 
 
