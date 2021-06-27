@@ -1,0 +1,264 @@
+TTMIK 4.1 - The more … the more … / -(으)면 -(으)ㄹ수록.
+
+    
+    
+    the more you live, the more...
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    살수록
+
+    Next Sentence.
+    the more you go, the more...
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    갈수록
+
+    Next Sentence.
+    the prettier it is, the more...
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    예쁠수록
+
+    Next Sentence.
+    the more expensive it is, the more...
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    비쌀수록
+
+    Next Sentence.
+    the stranger it is, the more...
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이상할수록
+
+    Next Sentence.
+    the busier you are, the more...
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    바쁠수록
+
+    Next Sentence.
+    The more delicious it is, the better it sells.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    맛있을수록 잘 팔려요.
+
+    Next Sentence.
+    The busier you are, the more important your health is.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    바쁠수록 건강이 중요해요.
+
+    Next Sentence.
+    The more people, the better.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사람이 많을수록 좋아요.
+
+    Next Sentence.
+    You need to sleep[l] a lot, even more so when you are busy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    바쁠수록 잠을 많이 자야 돼요.
+
+    Next Sentence.
+    You need to read a lot of books, even more so if you are a student.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    학생일수록 책을 많이 읽어야 돼요.
+
+    Next Sentence.
+    the busier[em] you are, the more...
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    바쁘면 바쁠수록
+
+    Next Sentence.
+    the better[em] it is, the more...
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    좋으면 좋을수록
+
+    Next Sentence.
+    The more, the better.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    많을수록 좋아요.
+
+    Next Sentence.
+    The more[em], the better.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    많으면 많을수록 좋아요.
+
+    Next Sentence.
+    The cheaper it is, the more of it you can buy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    쌀수록 많이 살 수 있어요.
+
+    Next Sentence.
+    The cheaper[em] it is, the more of it you can buy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    싸면 쌀수록 많이 살 수 있어요.
+
+    Next Sentence.
+    As time goes by... (Figuratively).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    갈수록
+
+    Next Sentence.
+    It keeps getting colder.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    갈수록 추워요.
+
+    Next Sentence.
+    Sabrin keeps getting better at her Korean.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사브린 씨는 갈수록 한국어를 잘해요.
+
+    Next Sentence.    
+    The more friends you have, the better.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구는 많을수록 좋아요.
+
+    Next Sentence.    
+    The more friends you have, the better.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구는 많으면 많을수록 좋아요.
+
+    Next Sentence.    
+    The more expensive it is, the better it sells.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    비쌀수록 잘 팔려요.
+
+    Next Sentence.
+    The more expensive[em] it is, the better it sells.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    비싸면 비쌀수록 잘 팔려요.
+
+    Next Sentence.
+    The more interesting a person is, the better.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    재미있는 사람일수록 좋아요.
+
+    Next Sentence.
+    The more interesting a person is, the more popular he/she is.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    재미있는 사람일수록 인기가 많아요.
+
+    End of NUMPLACEHOLDER - TITLEPLACEHOLDER

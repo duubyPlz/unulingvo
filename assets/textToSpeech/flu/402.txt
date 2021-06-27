@@ -1,0 +1,252 @@
+TTMIK 4.02 - Do you want to …? / I want to... / -(으)ㄹ래요(?).
+    
+    To eat. I intend to eat. / I will/want to eat.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    먹다. 먹을래요.
+
+    Next Sentence.
+    To sell. I intend to sell. / I will/want to sell.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    팔다. 팔래요.
+
+    Next Sentence.
+    To buy. I intend to buy. / I will/want to buy.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    사다. 살래요.
+
+    Next Sentence.
+    I intend to go home. / I will/want to go home.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집에 갈래요.
+
+    Next Sentence.
+    I intend to do it alone. / I will/want to do it alone.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    혼자 할래요.
+
+    Next Sentence.
+    I will do it alone (if you do not mind).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    혼자 할게요
+
+    Next Sentence.
+    I do not intend to go. / I will not/do not want to go.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 안 갈래요.
+
+    Next Sentence.    
+    I do not want to go. (Room for change: if you really insist though, I might go.).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저는 안 가고 싶어요.
+
+    Next Sentence.    
+    What do you intend to drink? What will you/do you want to drink?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    뭐 마실래요?
+
+    Next Sentence.
+    Do you intend/want to drink coffee or tea?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    커피 마실래요, 차 마실래요?
+
+    Next Sentence.
+    Do you want to see this?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 볼래?
+
+    Next Sentence.
+    When do you want to meet?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    언제 만날래?
+
+    Next Sentence.
+    .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    
+
+    Next Sentence.
+    .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    
+
+    Next Sentence.
+    .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    
+
+    Next Sentence.
+    .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    
+
+    Next Sentence.
+    .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    
+
+    Next Sentence.
+    .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    
+
+    Next Sentence.
+    .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    
+
+    Next Sentence.
+    .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    
+
+    Next Sentence.
+    .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    
+
+    Next Sentence.
+    .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    
+
+    Next Sentence.
+    .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    
+
+    Next Sentence.
+    .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    
+
+    Next Sentence.
+    .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    
+
+    End of NUMPLACEHOLDER - TITLEPLACEHOLDER
