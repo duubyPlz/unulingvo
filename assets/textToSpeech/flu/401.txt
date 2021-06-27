@@ -1,7 +1,5 @@
 TTMIK 4.1 - The more … the more … / -(으)면 -(으)ㄹ수록.
 
-    
-    
     the more you live, the more...
     Answer in
     One.
@@ -261,4 +259,4 @@ TTMIK 4.1 - The more … the more … / -(으)면 -(으)ㄹ수록.
     Five.
     재미있는 사람일수록 인기가 많아요.
 
-    End of NUMPLACEHOLDER - TITLEPLACEHOLDER
+    End of 4.1 - The more … the more … / -(으)면 -(으)ㄹ수록.
