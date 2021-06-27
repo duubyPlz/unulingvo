@@ -51,8 +51,8 @@
     E: Do you intend/want to drink coffee or tea?
 
     O: 이거 볼래?
-    E: Do you want to see this?
+    E: Do you want to see this? @impolite
 
     # 우리 언제 만날래?
     O: 언제 만날래?
-    E: When do you want to meet?
+    E: When do you want to meet? @impolite
