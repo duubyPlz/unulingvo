@@ -7,9 +7,9 @@
     #   * Note: Cannot use in formal settings
 
     # * Variations:
-    #   * consonant + -을래요
-    #      * ㄹ + -래요
     #   * vowel + -ㄹ래요
+    #   * consonant + -을래요
+    #   * ㄹ + -래요
 
     # * Other future endings (vague ➔ direct):
     #   * -고 싶다: Want
