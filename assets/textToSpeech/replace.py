@@ -20,7 +20,7 @@ def open_file(file_path):
         exit(1)
 
 
-def replace(content_to_mutate):
+def replace(content_to_mutate, is_simple=False):
     '''
     Performs the hardcoded string find/replace mutations on `content_to_mutate`.
     :return: mutated content
@@ -51,10 +51,19 @@ def replace(content_to_mutate):
     #     derp = re.findall(old, content_to_mutate)
     #     print(derp)
 
-    for old, new in replacements:
-        content_to_mutate = re.sub(old, new, content_to_mutate)
+    if not is_simple:
+        for old, new in replacements:
+            content_to_mutate = re.sub(old, new, content_to_mutate)
+        
+        return content_to_mutate
+    else:
+        mutated = ""
+        for line in content_to_mutate.split('\n'):
+            if re.search(r"    O: ", line):
+                line = re.sub(r"    O: ", r"", line)
+                mutated += line + ".\n"
 
-    return content_to_mutate
+        return mutated
 
 
 def overwrite(text, file_path):
@@ -66,7 +75,7 @@ def overwrite(text, file_path):
         with open(file_path, "w") as file_stream:
             file_stream.write(text)
     except FileNotFoundError:
-        print('Cannot open file: "{}". Exiting...'.format(file_path), file=sys.stderr)
+        print('\n🛑 Cannot open file: "{}". Exiting...'.format(file_path), file=sys.stderr)
         exit(1)
 
 
@@ -76,8 +85,18 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-f", "--file-path", type=str, required=True,
         help='The directory plus name of which file to perform the mutations')
+    parser.add_argument("-s", "--simple", default=False, action="store_true",
+        help='If this is on, it will be a target language-only version of a text-to-speech file')
     args = parser.parse_args()
 
+    print('Replacing file: {}'.format(args.file_path))
+
+    if args.simple:
+        print('Simple version on.')
+
     raw_content = open_file(args.file_path)
-    mutated_content = replace(raw_content)
+    mutated_content = replace(raw_content, args.simple)
+    print(mutated_content)
     overwrite(mutated_content, args.file_path)
+
+    print('\nFinished ✨')
