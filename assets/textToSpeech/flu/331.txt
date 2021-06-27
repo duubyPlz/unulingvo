@@ -1,0 +1,52 @@
+TTMIK 3.31 - [Review] Level 3.
+
+    (Wow) The weather is so (lit. too) good these days.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    요즘 날씨가 너무 좋네요.
+
+    Next Sentence.    
+    Yes, I think the weather is really good.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    네, 날씨가 정말 좋은 것 같아요.
+
+    Next Sentence.    
+    (lit. But) I’m[s] playing badminton[s] with Jimin tomorrow. Join us (lit. do it together).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저 내일 지민 씨하고 배드민턴 치는데, 같이 해요.
+
+    Next Sentence.
+    Tomorrow? Where?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일요? 어디에서요?
+
+    Next Sentence.
+    There is a park in front of my[s] office.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    제 사무실 앞에 공원이 있어요.
+
+    End of NUMPLACEHOLDER - TITLEPLACEHOLDER
