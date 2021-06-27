@@ -1,5 +1,6 @@
 == TTMIK 4.1 - The more … the more … / -(으)면 -(으)ㄹ수록 ==
 * em -> emphasis
+* l -> long
 
     # The more [A]: (-면) -ㄹ수록
     # The more [B]: another verb
@@ -39,8 +40,9 @@
     E: The more people, the better.
 
     # The busier you are, the more you need to sleep.
+    # ..., especially
     O: 바쁠수록 잠을 많이 자야 돼요.
-    E: You need to sleep more, especially when you are busy.
+    E: You need to sleep[l] a lot, even more so when you are busy.
 
     O: 학생일수록 책을 많이 읽어야 돼요.
     E: You need to read a lot of books, even more so if you are a student.
@@ -72,6 +74,7 @@
 
     O: 사브린 씨는 갈수록 한국어를 잘해요.
     E: Sabrin keeps getting better at her Korean.
+    F: _Sabrin_ keeps getting better at her Korean[l].
 
     O: 친구는 많을수록 좋아요.
     E: The more friends you have, the better.
