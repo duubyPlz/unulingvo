@@ -22,6 +22,7 @@
 
     O: 응, 나는 피곤해.
     E: Yes, I am tired.
+    F: Yes, _I_ am tired.
 
     O: 민지! 가!
     E: Minji[s]! Go!
