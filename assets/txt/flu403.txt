@@ -54,7 +54,8 @@
 
     # Own note: Present tense here
     O: 경은 씨가 노래를 할 리가 없어요.
-    E: There is no way that Kyeong-eun is going to sing. / It is impossible that Kyeong-eun will sing.
+    E: There is no way that Kyeong-eun is going to sing[l]. / It is impossible that Kyeong-eun will sing.
+    F: _There is no way that_ Kyeong-eun _is going to sing[l]_. / It is impossible that Kyeong-eun will sing.
 
     # It is impossible that it is not cold. It is January right now.
     O: 안 추울 리가 없어요. 지금 1월이에요.
