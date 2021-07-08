@@ -306,6 +306,16 @@ button#submit {
   right: 40px;
 }
 
+/* start kor speech level tags */
+span.formal-tag,
+span.polite-tag,
+span.impolite-tag,
+span.honorific-tag,
+span.plain-tag {
+  background-color: red;
+}
+/* end kor speech level tags */
+
 .tooltip-inner {
   border-radius: 0;
   background-color: rgba(0,0,0,0.8);

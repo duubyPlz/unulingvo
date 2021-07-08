@@ -520,16 +520,23 @@ function display(isFlu) {
     var formatted = currentEntry.formatted
     if (formatted != "") {
         formattedHtml = generateFormattedHtml(formatted, english);
+        fancyTagsHtml = generateFancyTagsInHtml(formattedHtml);
+        console.log("BEFORE");
+        console.log(formattedHtml);
+        console.log("AFTER");
+        console.log(fancyTagsHtml);
+        
         if (isFlu) {
-            $('.flu-display-text').html(formattedHtml);
+            $('.flu-display-text').html(fancyTagsHtml);
         } else {
-            $('.display-text').html(formattedHtml);
+            $('.display-text').html(fancyTagsHtml);
         }
     } else {
+        fancyTagsHtml = generateFancyTagsInHtml(english);
         if (isFlu) {
-            $('.flu-display-text').html(english);
+            $('.flu-display-text').html(fancyTagsHtml);
         } else {
-            $('.display-text').html(english);
+            $('.display-text').html(fancyTagsHtml);
         }
     }
 }
@@ -571,6 +578,37 @@ function dimString(string) {
 
 function brightenString(string) {
     return string;
+}
+
+function generateFancyTagsInHtml(formattedHtml) {
+    // Generate map: tag x span
+    // > Exact strings the .replace needs
+    function generateMap(tagNames, prefix) {
+        var map = {};
+        for (var i=0; i<tagNames.length; i++) {
+            var tagName = tagNames[i];
+            var tag = prefix + tagName;
+            var className = tagName + "-tag";
+    
+            map[tag] = `<span class='${className}'>${tagName}</span>`;
+        }
+        return map;
+    }
+
+    var prefix = "@";
+    var tagNames = [ 
+        "formal",
+        "polite",
+        "impolite",
+        "honorific",
+        "plain"
+    ];
+
+    var stringReplaceMap = generateMap(tagNames, prefix);
+    var regex = new RegExp(`${prefix}\\S+\\b`, "gi");
+    var tryReplace = formattedHtml.replace(regex, matched => stringReplaceMap[matched]);
+    
+    return tryReplace ? tryReplace : formattedHtml;
 }
 
 function unboldString(string) {
