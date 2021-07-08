@@ -321,7 +321,7 @@ span.speech-level-tag {
   margin: 0;
   margin-left: 0.25em;
 }
-/* honorific: purple, formal: blue, polite: pink, impolite: green , plain: yellow, i: green */
+
 span.speech-level-tag.formal-tag {
   background-color: rgba(22, 158, 255, 0.1);
   border-left: solid 2px rgba(22, 158, 255, 0.8);

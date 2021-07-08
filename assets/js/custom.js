@@ -577,13 +577,10 @@ function brightenString(string) {
 }
 
 function generateFancyTagsInHtml(formattedHtml) {
-    console.log("IN FUNCTION...");
     var prefix = "@";
     var regex = new RegExp(`${prefix}\\S+\\b`, "gi");
     // var tryReplace = formattedHtml.replace(regex, matched => stringReplaceMap[matched]);
     var allTagsFound = formattedHtml.match(regex);
-    console.log("ALL TAGS");
-    console.log(allTagsFound);
     if (!allTagsFound || allTagsFound.length === 0) {
         return formattedHtml;
     }
@@ -622,14 +619,9 @@ function generateFancyTagsInHtml(formattedHtml) {
             continue;
         }
 
-        console.log("BEFORE");
-        console.log(fancyTagsHtml);
         fancyTagsHtml = fancyTagsHtml.replace(currentTag, stringReplaceMap[currentTag]);
-        console.log("AFTER");
-        console.log(fancyTagsHtml);
     }
-    console.log("FINALLY");
-    console.log(fancyTagsHtml);
+
     return fancyTagsHtml;
 }
 
