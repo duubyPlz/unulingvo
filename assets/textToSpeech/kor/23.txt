@@ -1,0 +1,153 @@
+23 Casual.
+
+Lesson One.
+    Yes, you are pretty.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    응, 너는 예뻐.
+
+    Next Sentence.    
+    Minji wipes the dining-table[l].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    민지가 식탁을 닦아.
+
+    Next Sentence.    
+    Minji! Clean the room[l]!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    민지야! 방을 청소해!
+
+    Next Sentence.
+    Jihun! Go to school!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지훈아! 학교에 가!
+
+    Next Sentence.
+    Give the book[l] to Minji.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    책을 민지에게 줘
+
+    Next Sentence.
+    Yes, I am tired.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    응, 나는 피곤해.
+
+    Next Sentence.    
+    Minji[s]! Go!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    민지! 가!
+
+    Next Sentence.
+    Wipe!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    닦아!
+
+    Next Sentence.
+    I clean.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내가 청소해.
+
+    Next Sentence.    
+    Do not clean!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    청소하지 마!
+
+    Next Sentence.
+    The frog is doing the dishes (continuous).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    개구리가 설거지하고 있어.
+
+    Next Sentence.    
+    Garam, wipe the dining-table[l]!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가람아, 식탁을 닦아!
+
+    Next Sentence.
+    I do the dishes at my friend's house.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    나는 친구의 집에서 설거지해.
+
+    Next Sentence.    
+    Jihun, do the dishes!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지훈아, 설거지해!
+
+    Next Sentence.
+    Jihun! Clean!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지훈아! 청소해!
+
+    End of 23 Casual.
