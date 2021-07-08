@@ -86,8 +86,8 @@
 
 > Three
     O: 나는 친구 마흔 명이 있어요.
-    E: I have forty friends. @polite,i
-    F: _I_ have forty friends. @polite,i
+    E: I have forty friends. @polite @i
+    F: _I_ have forty friends. @polite @i
 
     O: 연필 한 자루는 얼마입니까?
     E: How much is one pencil? @formal

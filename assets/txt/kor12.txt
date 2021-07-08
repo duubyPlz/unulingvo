@@ -247,8 +247,8 @@
     F: The sleeping girl _eats gimbap_. @polite
 
     O: 나는 웃는 친구를 좋아합니다.
-    E: I like friends who laugh. @formal,i
-    F: _I_ like friends who laugh. @formal,i
+    E: I like friends who laugh. @formal @i
+    F: _I_ like friends who laugh. @formal @i
 
     # The road home
     O: 집으로 가는 길
@@ -266,8 +266,8 @@
     F: The road to school _is long_. @polite
 
     O: 책을 읽는 학생이 내 친구입니다.
-    E: The student reading a book is my friend. @formal,i
-    F: The student reading a book _is my friend_. @formal,i
+    E: The student reading a book is my friend. @formal @i
+    F: The student reading a book _is my friend_. @formal @i
 
     O: 달리는 고양이가 안 빠릅니다.
     E: The running cat is not fast. @formal
@@ -297,8 +297,8 @@
     E: Flying dog
 
     O: 나는 우는 아기를 싫어합니다.
-    E: I hate crying babies. @formal,i
-    F: _I_ hate crying babies. @formal,i
+    E: I hate crying babies. @formal @i
+    F: _I_ hate crying babies. @formal @i
 
     O: 춤을 추는 아기
     E: A dancing baby
@@ -328,5 +328,5 @@
 
     # I, who is flying, am a man.
     O: 나는 나는 남자입니다.
-    E: I am a flying man. @formal,i
-    F: _I_ am a flying man. @formal,i
+    E: I am a flying man. @formal @i
+    F: _I_ am a flying man. @formal @i

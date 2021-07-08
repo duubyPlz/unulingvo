@@ -307,12 +307,55 @@ button#submit {
 }
 
 /* start kor speech level tags */
-span.formal-tag,
-span.polite-tag,
-span.impolite-tag,
-span.honorific-tag,
-span.plain-tag {
-  background-color: red;
+span.speech-level-tag {
+  border-radius: 0;
+  min-width: 150px;
+  background-color: rgba(255, 255, 255, 0.025);
+  font-size: 75%;
+  border: 0;
+  border-left: solid 2px rgba(255, 255, 255, 0.2);
+  border-right: solid 2px rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.7);
+  text-transform: uppercase;
+  padding: 0.1em 0.7em;
+  margin: 0;
+  margin-left: 0.25em;
+}
+/* honorific: purple, formal: blue, polite: pink, impolite: green , plain: yellow, i: green */
+span.speech-level-tag.formal-tag {
+  background-color: rgba(22, 158, 255, 0.1);
+  border-left: solid 2px rgba(22, 158, 255, 0.8);
+  border-right: solid 2px rgba(22, 158, 255, 0.8);
+  color: rgba(22, 158, 255, 1);
+}
+
+span.speech-level-tag.polite-tag {
+  background-color: rgba(255, 96, 189, 0.1);
+  border-left: solid 2px rgba(255, 96, 189, 0.8);
+  border-right: solid 2px rgba(255, 96, 189, 0.8);
+  color: rgba(255, 96, 189, 1);
+}
+
+span.speech-level-tag.impolite-tag,
+  span.speech-level-tag.i-tag {
+  background-color: rgba(24, 255, 0, 0.1);
+  border-left: solid 2px rgba(24, 255, 0, 0.8);
+  border-right: solid 2px rgba(24, 255, 0, 0.8);
+  color: rgba(24, 255, 0, 1);
+}
+
+span.speech-level-tag.honorific-tag {
+  background-color: rgba(145, 61, 252, 0.1);
+  border-left: solid 2px rgba(165, 94, 255, 0.8);
+  border-right: solid 2px rgba(165, 94, 255, 0.8);
+  color: rgba(165, 94, 255, 1);
+}
+
+span.speech-level-tag.plain-tag {
+  background-color: rgba(255, 253, 0, 0.1);
+  border-left: solid 2px rgba(255, 253, 0, 0.8);
+  border-right: solid 2px rgba(255, 253, 0, 0.8);
+  color: rgba(255, 253, 0, 1);
 }
 /* end kor speech level tags */
 

@@ -74,7 +74,7 @@
     F: But[s] _that_ is too expensive. @polite
 
     O: 나도 만진다.
-    E: I touch it too. @plain, i
+    E: I touch it too. @plain @i
 
     O: 하지만 저 사람은 남자가 아닙니다.
     E: But[hs] that person over there is not a man. @formal
@@ -116,8 +116,8 @@
     F: _This car_ is small but[s] expensive. @formal
 
     O: 나는 그녀를 사랑해요. 그런데 그녀는 나를 싫어해요.
-    E: I love her. But[s] _she_ hates me. @polite, i
-    F: _I_ love her. But[s] _she_ hates me. @polite, i
+    E: I love her. But[s] _she_ hates me. @polite @i
+    F: _I_ love her. But[s] _she_ hates me. @polite @i
 
     O: 고양이가 음식을 싫어하지만 먹어요.
     E: The cat hates food but[h] it eats it. @polite

@@ -19,7 +19,7 @@
     E: Let’s start. @impolite
 
     O: 시작할래요?
-    E: Shall we start? (lit. Do you want to start?) @polite @casual
+    E: Shall we start? (lit. Do you want to start?) @polite
 
     O: 시작하실래요?
     E: Shall we start? (lit. Do you want to start?) @polite @honorific

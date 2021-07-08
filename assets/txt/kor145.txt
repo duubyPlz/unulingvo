@@ -10,8 +10,8 @@
     E: Take off your belt. @polite
 
     O: 나는 매일 옷을 갈아입어요.
-    E: I change my clothes every day. @polite,i
-    F: _I_ change my clothes every day. @polite,i
+    E: I change my clothes every day. @polite @i
+    F: _I_ change my clothes every day. @polite @i
 
     O: 분홍 선글라스를 쓰세요.
     E: Wear pink sunglasses. @polite

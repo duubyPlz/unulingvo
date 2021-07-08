@@ -78,4 +78,4 @@
 
     # 사탕 = candy
     O: 사탕 몇 개 먹을래?
-    E: How many candies do you want[f] to eat? @informal 🤔
+    E: How many candies do you want[f] to eat? @impolite 🤔
