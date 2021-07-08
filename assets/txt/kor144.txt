@@ -42,8 +42,8 @@
     F: The whale puts on a tie. @polite
 
     O: 나는 장갑을 끼고 학교에 갑니다.
-    E: I go to school wearing gloves. @formal,i
-    F: I go to school wearing gloves. @formal,i
+    E: I go to school wearing gloves. @formal @i
+    F: I go to school wearing gloves. @formal @i
 
     O: 남자가 넥타이를 못 맵니다.
     E: The man cannot tie a tie. @formal

@@ -19,7 +19,7 @@
     E: to me, from me
 
     O: 너한테 할 말이 있어.
-    E: I have something to say to you. @informal 🤔
+    E: I have something to say to you. @impolite 🤔
 
     # 차이다 = to be dumped
     O: 남자친구한테 차였어요.

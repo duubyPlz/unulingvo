@@ -520,16 +520,19 @@ function display(isFlu) {
     var formatted = currentEntry.formatted
     if (formatted != "") {
         formattedHtml = generateFormattedHtml(formatted, english);
+        fancyTagsHtml = generateFancyTagsInHtml(formattedHtml);
+
         if (isFlu) {
-            $('.flu-display-text').html(formattedHtml);
+            $('.flu-display-text').html(fancyTagsHtml);
         } else {
-            $('.display-text').html(formattedHtml);
+            $('.display-text').html(fancyTagsHtml);
         }
     } else {
+        fancyTagsHtml = generateFancyTagsInHtml(english);
         if (isFlu) {
-            $('.flu-display-text').html(english);
+            $('.flu-display-text').html(fancyTagsHtml);
         } else {
-            $('.display-text').html(english);
+            $('.display-text').html(fancyTagsHtml);
         }
     }
 }
@@ -571,6 +574,55 @@ function dimString(string) {
 
 function brightenString(string) {
     return string;
+}
+
+function generateFancyTagsInHtml(formattedHtml) {
+    var prefix = "@";
+    var regex = new RegExp(`${prefix}\\S+\\b`, "gi");
+    // var tryReplace = formattedHtml.replace(regex, matched => stringReplaceMap[matched]);
+    var allTagsFound = formattedHtml.match(regex);
+    if (!allTagsFound || allTagsFound.length === 0) {
+        return formattedHtml;
+    }
+
+    // Generate map: tag x span
+    // > Exact strings the .replace needs
+    function generateMap(tagNames, prefix) {
+        var map = {};
+        for (var i=0; i<tagNames.length; i++) {
+            var tagName = tagNames[i];
+            var tag = prefix + tagName;
+            var className = tagName + "-tag speech-level-tag";
+    
+            map[tag] = `<span class='${className}'>${tagName}</span>`;
+        }
+        return map;
+    }
+
+    var tagNames = [ 
+        "formal",
+        "polite",
+        "impolite",
+        "honorific",
+        "plain",
+        "i"
+    ];
+
+    var stringReplaceMap = generateMap(tagNames, prefix);
+
+    // Replace
+    var fancyTagsHtml = formattedHtml;
+    for (var i=0; i<allTagsFound.length; i++) {
+        var currentTag = allTagsFound[i];
+
+        if (!stringReplaceMap[currentTag]) {
+            continue;
+        }
+
+        fancyTagsHtml = fancyTagsHtml.replace(currentTag, stringReplaceMap[currentTag]);
+    }
+
+    return fancyTagsHtml;
 }
 
 function unboldString(string) {
