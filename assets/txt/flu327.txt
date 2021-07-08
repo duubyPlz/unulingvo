@@ -32,13 +32,13 @@
     O: 말 편하게 해도 돼요?
     E: May I speak comfortably with you? @polite
 
-    # You can speak casually with me. @honorific
-    # You can speak 반말 with me. @honorific
+    # You can speak casually with me. @polite @honorific
+    # You can speak 반말 with me. @polite @honorific
     O: 말 놓으셔도 돼요.
-    E: You can lower your language (with me). @honorific
+    E: You can lower your language (with me). @polite @honorific
 
     O: 말 편하게 하셔도 돼요.
-    E: You can speak comfortably with me. @honorific
+    E: You can speak comfortably with me. @polite @honorific
 
     O: 우리 말 놓을까요?
     E: Shall we lower our language? @polite
