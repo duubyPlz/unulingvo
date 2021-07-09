@@ -1,4 +1,4 @@
-== TTMIK 3.25 - Verb Ending / -네요 ==
+== TTMIK 3.25 - Verb Ending / -네요 / Wow, Oh! ==
 * s -> short
 
     # Means:

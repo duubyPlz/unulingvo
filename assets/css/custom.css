@@ -371,6 +371,7 @@ span.speech-level-tag.plain-tag {
   display: none;
 }
 
+/* start select */
 .ui.selection.dropdown {
   font-size: 16px;
   position: relative;
@@ -436,6 +437,7 @@ span.speech-level-tag.plain-tag {
 .ui.dropdown>.dropdown.icon:before {
   content:"\203A";
 }
+/* end select */
 
 .navbar {
   min-width: 815px;
