@@ -35,7 +35,7 @@
     E: I intend to do it alone. / I will/want to do it alone.
 
     O: 혼자 할게요
-    E: I will do it alone (if you do not mind).
+    E: (So) I will do it alone (if you do not mind).
 
     O: 저는 안 갈래요.
     E: I do not intend to go. / I will not/do not want to go.
