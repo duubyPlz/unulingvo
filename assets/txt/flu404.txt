@@ -24,7 +24,7 @@
     E: The weather is cold today, right[l]? (You know the other person knows the weather is cold.)
 
     O: 맞아요. 피자 정말 맛있죠.
-    E: That is right. Pizza really is delicious, isn't it. (You know the other person also thinks pizza is delicious.)
+    E: That is right. Pizza really is delicious, isn't it? (You know the other person also thinks pizza is delicious.)
 
     O: 재미있지요?
     E: It is fun, right[l]? (You know the other person thinks it's fun, but ask again to make sure.)
