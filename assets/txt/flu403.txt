@@ -50,8 +50,8 @@
     E: Really? That cannot be true!
 
     O: 효진 씨가 안 왔을 리가 없어요.
-    E: It is impossible that Hyojin didn't come. / There is no way that Hyojin is not here.
-    F: _It is impossible that_ Hyojin _didn't come_. / There is no way that Hyojin is not here.
+    E: It is impossible that Hyojin didn't come (past tense). / There is no way that Hyojin is not here.
+    F: _It is impossible that_ Hyojin _didn't come_ (past tense). / There is no way that Hyojin is not here.
 
     # Own note: Present tense here
     O: 경은 씨가 노래를 할 리가 없어요.
