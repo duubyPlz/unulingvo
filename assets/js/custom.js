@@ -576,11 +576,19 @@ function brightenString(string) {
     return string;
 }
 
+/**
+  Function to transform speech level tags
+  E.g.: 
+    @formal becomes
+      <span class='formal-tag speech-level-tag'>formal</span>
+  
+    @doesNotExist becomes
+      <span class='speech-level-tag'>doesNotExist</span>
+*/
 function generateFancyTagsInHtml(formattedHtml) {
     var prefix = "@";
     var regex = new RegExp(`${prefix}\\S+\\b`, "gi");
-    // var tryReplace = formattedHtml.replace(regex, matched => stringReplaceMap[matched]);
-    var allTagsFound = formattedHtml.match(regex);
+    var allTagsFound = formattedHtml.match(regex); // Could've also done a .replace
     if (!allTagsFound || allTagsFound.length === 0) {
         return formattedHtml;
     }
@@ -588,7 +596,6 @@ function generateFancyTagsInHtml(formattedHtml) {
     // Generate map: tag x span
     // > Exact strings the .replace needs
     function generateMap(tagNames, prefix) {
-        var map = {};
         for (var i=0; i<tagNames.length; i++) {
             var tagName = tagNames[i];
             var tag = prefix + tagName;
@@ -623,6 +630,10 @@ function generateFancyTagsInHtml(formattedHtml) {
     }
 
     return fancyTagsHtml;
+}
+
+function generateGenericFancyTags(tagName) {
+    return `<span class='speech-level-tag'>${tagName}</span>`
 }
 
 function unboldString(string) {
