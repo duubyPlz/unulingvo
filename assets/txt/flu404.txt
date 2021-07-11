@@ -33,5 +33,6 @@
     E: What is this (pondering, not a direct question)? @casual
     F: _What is_ this (pondering, not a direct question)? @casual
 
+    # That could be possible (yeah). (Express agreement to what other person said.)
     O: 그럴 수도 있죠.
-    E: That could be possible (yeah). (Express agreement to what other person said.)
+    E: That can be possible (yeah). (Express agreement to what other person said.)
