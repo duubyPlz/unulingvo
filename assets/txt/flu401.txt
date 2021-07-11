@@ -38,6 +38,7 @@
 
     O: 사람이 많을수록 좋아요.
     E: The more people, the better.
+    F: _The more_ people, _the better_.
 
     # The busier you are, the more you need to sleep.
     # ..., especially
