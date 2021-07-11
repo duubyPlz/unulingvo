@@ -91,8 +91,9 @@
     O: 비싸면 비쌀수록 잘 팔려요.
     E: The more expensive[em] it is, the better it sells.
 
+    # The more interesting a person is, the better.
     O: 재미있는 사람일수록 좋아요.
-    E: The more interesting a person is, the better.
+    E: The more of an interesting person you are, the better.
 
     # If you are an interesting person, it is more likely that you are popular.
     O: 재미있는 사람일수록 인기가 많아요.
