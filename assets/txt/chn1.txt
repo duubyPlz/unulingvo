@@ -1,5 +1,4 @@
 == 時 ==
-
     O: 時晴時雨
     E: Sometimes sunny sometimes rainy @four-words
 
