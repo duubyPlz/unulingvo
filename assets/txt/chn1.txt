@@ -1,11 +1,12 @@
-== Greetings One ==
-> One
-    O: 好！
-    E: Good!
+== 時 ==
+    O: 時晴時雨
+    E: Sometimes sunny sometimes rainy
 
-    O: 你好！
-    E: Hello!
+    O: 幾時?
+    E: When?
 
-> Two
-    O: 再見！
-    E: Goodbye!
+    O: 幾時放學呀？
+    E: When is school over?
+
+    O: 我依家冇時間食嘢。
+    E: I don't have time to eat right now.

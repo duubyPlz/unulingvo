@@ -1,15 +1,1 @@
-== Numbers ==
-> One
-    O: 八
-    E: Eight
-
-    O: 七
-    E: Seven
-
-    O: 一
-    E: One
-
-    O: 三
-    E: Three
-
-// continue here...
+== 作 ==
