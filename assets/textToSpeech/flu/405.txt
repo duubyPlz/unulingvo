@@ -1,0 +1,83 @@
+TTMIK 4.5 - "당신" / "you".
+
+    
+    Who do you think you are? / What are you? [impolite ][n].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    당신 뭐야?
+
+    Next Sentence.
+    What is your problem? [impolite ][n].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    당신 뭐가 문제야?
+
+    Next Sentence.
+    Your eyes are so beautiful.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    당신의 눈은 참 아름다워요.
+
+    Next Sentence.
+    I dedicate this song to you.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    당신에게 이 노래를 바칩니다.
+
+    Next Sentence.
+    Darling[o], where are you?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    당신 지금 어디예요?
+
+    Next Sentence.
+    (Talking to 현우) Do you have time now?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    현우 씨 지금 시간 있어요?
+
+    Next Sentence.
+    (Talking to teacher 최경은) Where are you?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    최경은 선생님, 어디예요?
+
+    Next Sentence.
+    (Talking to the taxi driver) Please drop me off here.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    기사님, 여기에서 내려 주세요.
+
+    End of 4.5 - "당신" / "you".

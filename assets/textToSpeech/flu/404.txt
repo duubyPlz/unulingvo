@@ -1,0 +1,72 @@
+TTMIK 4.4 - Verb Ending / -지요/-죠 / Right?.
+
+    Oh, today is Friday!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오늘 금요일이네요!
+
+    Next Sentence.
+    Today is Friday, right[l]?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오늘 금요일이지요?
+
+    Next Sentence.
+    The weather is cold today, right[l]? (You know the other person knows the weather is cold.).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오늘 날씨 춥지요?
+
+    Next Sentence.
+    That is right. Pizza really is delicious. (You know the other person also thinks pizza is delicious.).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    맞아요. 피자 정말 맛있죠.
+
+    Next Sentence.
+    It is fun, right[l]? (You know the other person thinks it's fun, but ask again to make sure.).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    재미있지요?
+
+    Next Sentence.
+    What is this (pondering, not a direct question)? [impolite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이게 뭐지? 
+
+    Next Sentence.    
+    That can be possible (yeah). (Express agreement to what other person said.).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그럴 수도 있죠.
+
+    End of 4.4 - Verb Ending / -지요/-죠 / Right?.

@@ -1,0 +1,142 @@
+TTMIK 4.3 - It can’t be … / -(으)ㄹ 리가 없어요, 할 리가 없어요.
+    
+    That is impossible! / That cannot be! / It cannot be so!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그럴 리가 없어요!
+
+    Next Sentence.
+    It is impossible that it is snowing! / It cannot be snowing!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    눈이 올 리가 없어요!
+
+    Next Sentence.
+    It is impossible that they do not know. / It cannot be that he/she does not know.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    모를 리가 없어요.
+
+    Next Sentence.
+    There is no way that they are going/leaving. / He/She will never go.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    갈 리가 없어요.
+
+    Next Sentence.
+    There is no way that they went.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    갔을 리가 없어요.
+
+    Next Sentence.
+    There can't be something. / No way that it exists.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    있을 리가 없어요.
+
+    Next Sentence.
+    There couldn't have been something. / It is impossible that there was something.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    있었을 리가 없어요.
+
+    Next Sentence.
+    There is no way that tomorrow is Sunday.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일이 일요일일 리가 없어요.
+
+    Next Sentence.    
+    It is impossible that tomorrow will snow.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일 눈이 올 리가 없어요.
+
+    Next Sentence.
+    Really? That cannot be true!.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    정말요? 그럴 리가 없어요!
+
+    Next Sentence.
+    It is impossible that Hyojin didn't come (past tense). / There is no way that Hyojin is not here.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    효진 씨가 안 왔을 리가 없어요.
+
+    Next Sentence.    
+    There is no way that Kyeong-eun is going to sing[l]. / It is impossible that Kyeong-eun will sing.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    경은 씨가 노래를 할 리가 없어요.
+
+    Next Sentence.    
+    There is no way it's not cold. It is January right now.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    안 추울 리가 없어요. 지금 1월이에요.
+
+    Next Sentence.
+    (Wow) It is strange. There is no way it won't work.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이상하네요. 안 될 리가 없어요.
+
+    End of 4.3 - It can’t be … / -(으)ㄹ 리가 없어요, 할 리가 없어요.
