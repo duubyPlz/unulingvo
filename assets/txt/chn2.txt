@@ -5,7 +5,7 @@
     E: He developed a flu. @c
 
     O: 無惡不作
-    E: To commit all kinds of crime (lit: No evil hasn't been done before) @4words
+    E: To commit all kinds of crime (lit: No evil hasn't been done before) @four-words
 
     # 蕾拉好努力咁工作。
     # Layla is working very hard (continuous).

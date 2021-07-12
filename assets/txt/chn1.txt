@@ -1,7 +1,7 @@
 == 時 ==
 
     O: 時晴時雨
-    E: Sometimes sunny sometimes rainy @4words
+    E: Sometimes sunny sometimes rainy @four-words
 
     O: 幾時?
     E: When?
