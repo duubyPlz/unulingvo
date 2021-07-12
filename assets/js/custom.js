@@ -596,6 +596,7 @@ function generateFancyTagsInHtml(formattedHtml) {
     // Generate map: tag x span
     // > Exact strings the .replace needs
     function generateMap(tagNames, prefix) {
+        var map = {};
         for (var i=0; i<tagNames.length; i++) {
             var tagName = tagNames[i];
             var tag = prefix + tagName;
@@ -612,7 +613,9 @@ function generateFancyTagsInHtml(formattedHtml) {
         "impolite",
         "honorific",
         "plain",
-        "i"
+        "i",
+        "neutral",
+        "n"
     ];
 
     var stringReplaceMap = generateMap(tagNames, prefix);

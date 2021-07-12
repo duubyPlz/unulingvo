@@ -330,10 +330,10 @@ span.speech-level-tag.formal-tag {
 }
 
 span.speech-level-tag.polite-tag {
-  background-color: rgba(255, 96, 189, 0.1);
-  border-left: solid 2px rgba(255, 96, 189, 0.8);
-  border-right: solid 2px rgba(255, 96, 189, 0.8);
-  color: rgba(255, 96, 189, 1);
+  background-color: rgba(255, 88, 182, 0.1);
+  border-left: solid 2px rgba(255, 88, 182, 0.8);
+  border-right: solid 2px rgba(255, 88, 182, 0.8);
+  color: rgba(255, 88, 182, 1);
 }
 
 span.speech-level-tag.impolite-tag,
@@ -356,6 +356,14 @@ span.speech-level-tag.plain-tag {
   border-left: solid 2px rgba(255, 253, 0, 0.8);
   border-right: solid 2px rgba(255, 253, 0, 0.8);
   color: rgba(255, 253, 0, 1);
+}
+
+span.speech-level-tag.neutral-tag,
+span.speech-level-tag.n-tag {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-left: solid 2px rgba(255, 255, 255, 0.7);
+  border-right: solid 2px rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 0.9);
 }
 /* end kor speech level tags */
 
