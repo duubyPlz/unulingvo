@@ -337,7 +337,7 @@ span.speech-level-tag.polite-tag {
 }
 
 span.speech-level-tag.impolite-tag,
-  span.speech-level-tag.i-tag {
+span.speech-level-tag.i-tag {
   background-color: rgba(24, 255, 0, 0.1);
   border-left: solid 2px rgba(24, 255, 0, 0.8);
   border-right: solid 2px rgba(24, 255, 0, 0.8);
