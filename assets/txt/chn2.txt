@@ -1,1 +1,23 @@
 == 作 ==
+* l -> long
+
+    O: 佢作感冒。
+    E: He developed a flu. @c
+
+    O: 無惡不作
+    E: To commit all kinds of crime @four-words
+
+    # 蕾拉好努力咁工作。
+    # Layla is working very hard (continuous).
+    O: 佢好努力咁工作。
+    E: She is working very hard. @c
+
+    O: 邊個會同我哋作對？
+    E: Who is against us?
+
+    # 我要成為一名作家
+    O: 我要成為一個作家。
+    E: I need to become[l] a writer.
+
+    O: 嗰幅畫係我嘅作品。
+    E: That (piece of) painting is my product.
