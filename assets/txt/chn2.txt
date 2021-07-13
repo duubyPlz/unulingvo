@@ -13,7 +13,7 @@
     E: She is working very hard. @c
 
     O: 邊個會同我哋作對?
-    E: Who is against us?
+    E: Who will be against us?
 
     # 我要成為一名作家
     O: 我要成為一個作家。
