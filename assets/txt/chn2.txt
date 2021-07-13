@@ -12,8 +12,9 @@
     O: 佢好努力咁工作。
     E: She is working very hard. @c
 
+    # Who will be against us?
     O: 邊個會同我哋作對?
-    E: Who will be against us?
+    E: Who would be against us?
 
     # 我要成為一名作家
     O: 我要成為一個作家。
