@@ -1,0 +1,26 @@
+== 來 ==
+* sp -> spoken
+
+    # 睇: 嚟
+
+    O: 拉丁文係未來嘅語言！
+    E: Latin is the language of the future!
+
+    O: 原來阿Tom喺賊嚟嘅。
+    E: (Oh, so) It turns out Tom is a thief.
+
+    O: 歷來最大
+    E: The largest in history
+
+    # How many times was typhoon signal number 10 hoisted in Hong Kong in the past?
+    O: 香港歷來掛過幾多次十號風球? 
+    E: Historically, how many times has the typhoon signal number 10 been hoisted? 🤔
+
+    O: 嗰次係有史以來第一次上月球。
+    E: That time was the first time throughout history that (lit: the moon was landed on). 🤔
+
+    O: 未來幾日大致天晴。
+    E: The next few days the weather (is) mainly (lit: approximately) fine.
+
+    O: 你幾點嚟啊？
+    E: When will you come[sp]?

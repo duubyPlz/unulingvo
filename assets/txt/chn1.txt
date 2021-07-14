@@ -1,12 +1,27 @@
-== 時 ==
-    O: 時晴時雨
-    E: Sometimes sunny sometimes rainy @four-words
+== 為 ==
+    O: 你以為我傻㗎？
+    E: You think I'm stupid?
 
-    O: 幾時?
-    E: When?
+    O: 因為佢蕩失路。
+    E: It's because he got lost.
 
-    O: 幾時放學呀?
-    E: When is school over??
+    O: 啲人以為好易。
+    E: People think that it's easy.
 
-    O: 我而家冇時間食嘢。
-    E: I don't have time to eat right now.
+    O: 為乜?
+    E: For what?
+
+    O: 為你好
+    E: For the sake of your benefit (lit: For your good)
+
+    O: 做嘢咁搏命為乜啊？
+    E: What's the point of working so hard (lit: you risk your life)?
+
+    O: 施比受更為有福。
+    E: It is more blessed to give than to receive.
+
+    O: 佢以為自己咩都識。
+    E: He thinks he knows everything.
+
+    O: 我頂唔順佢嘅行為。
+    E: I can barely stand his behaviour.
