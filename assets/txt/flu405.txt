@@ -1,6 +1,4 @@
 == TTMIK 4.5 - "당신" / "you" ==
-* o -> older
-
     # * Meaning: You
     #   > Note: Used with caution IRL
     #   > Note: "You" rarely used in speech, especially 존댓말
@@ -34,9 +32,9 @@
     E: I dedicate this song to you. @formal @n
 
     # 3. Spouse
-    # Honey[o], where are you?
+    # Honey[o], where are you? @n * o -> older
     O: 당신 지금 어디예요?
-    E: Darling[o], where are you? @n
+    E: Darling, where are you? @n
 
     O: 현우 씨 지금 시간 있어요?
     E: (Talking to 현우) Do you have time now?
