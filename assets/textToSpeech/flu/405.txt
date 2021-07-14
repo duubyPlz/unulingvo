@@ -19,7 +19,7 @@ TTMIK 4.5 - "당신" / "you".
     당신 뭐가 문제야?
 
     Next Sentence.
-    Your eyes are so beautiful.
+    Your eyes are quite beautiful.
     Answer in
     One.
     Two.
@@ -39,7 +39,7 @@ TTMIK 4.5 - "당신" / "you".
     당신에게 이 노래를 바칩니다.
 
     Next Sentence.
-    Darling[o], where are you?.
+    Darling, where are you?.
     Answer in
     One.
     Two.

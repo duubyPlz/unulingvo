@@ -15,7 +15,7 @@
     #   * Future -ㄹ 거 지요 <- mostly question
 
     O: 오늘 금요일이네요!
-    E: Oh, today is Friday!
+    E: (Oh,) Today is Friday!
 
     O: 오늘 금요일이지요?
     E: Today is Friday, right[l]?

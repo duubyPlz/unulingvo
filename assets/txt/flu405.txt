@@ -25,8 +25,9 @@
 
     # 2. Indirect, generic
     # Don't know name of the other person, without context
+    # Your eyes are so beautiful. @n
     O: 당신의 눈은 참 아름다워요.
-    E: Your eyes are so beautiful. @n
+    E: Your eyes are quite beautiful. @n
 
     O: 당신에게 이 노래를 바칩니다.
     E: I dedicate this song to you. @formal @n
