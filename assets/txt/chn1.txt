@@ -1,9 +1,11 @@
 == 為 ==
+* s -> short
+
     O: 你以為我傻㗎？
     E: You think I'm stupid?
 
     O: 因為佢蕩失路。
-    E: It's because he got lost.
+    E: It's because he got[s] lost.
 
     # People think that it's easy.
     O: 啲人以為好易。
