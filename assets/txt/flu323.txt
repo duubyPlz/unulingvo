@@ -1,4 +1,4 @@
-== TTMIK 3.23 - [Word Builder] 학 ==
+== TTMIK 3.23 - [Word Builder] 학 (學) ==
     # 學生
     O: 학생
     E: student

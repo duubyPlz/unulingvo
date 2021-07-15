@@ -1,0 +1,69 @@
+== TTMIK 4.8 - It is okay to…, You don’t have to… / -아/어/여도 돼요, 해도 돼요 ==
+    # <option value='408'>TTMIK 4.8 -도 돼요</option>
+
+    # * Meaning:
+    #   * It's okay to...
+    #   * You don't need to...
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
