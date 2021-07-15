@@ -32,11 +32,13 @@
     E: There is no way that they went.
 
     # 있다: To be (somewhere)
-    O: 있을 리가 없어요.
     E: There can't be something. / No way that it exists.
+    O: 있을 리가 없어요.
+    E: It's impossible there's something. / No way it exists.
 
+    # There couldn't have been something. / It is impossible that there was something.
     O: 있었을 리가 없어요.
-    E: There couldn't have been something. / It is impossible that there was something.
+    E: It was impossible there was something. / No way it existed.
 
     O: 내일이 일요일일 리가 없어요.
     E: There is no way that tomorrow is Sunday.
