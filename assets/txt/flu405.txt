@@ -21,7 +21,7 @@
     E: Who do you think you are? / What are you? @impolite @n
 
     O: 당신 뭐가 문제야?
-    E: What is your problem? @impolite @n
+    E: What's your problem? (Starting a fight) @impolite @n
 
     # 2. Indirect, generic
     # Don't know name of the other person, without context
@@ -34,9 +34,9 @@
     E: I dedicate this song to you. @formal @n
 
     # 3. Spouse
-    # Honey[o], where are you? @n * o -> older
+    # Honey[o], where are you now? @n * o -> older
     O: 당신 지금 어디예요?
-    E: Darling, where are you? @n
+    E: Darling, where are you now? @n
 
     O: 현우 씨 지금 시간 있어요?
     E: (Talking to 현우) Do you have time now?
