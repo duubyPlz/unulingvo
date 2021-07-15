@@ -5,8 +5,9 @@
     O: 因為佢蕩失路。
     E: It's because he got lost.
 
+    # People think that it's easy.
     O: 啲人以為好易。
-    E: People think that it's easy.
+    E: People thought it's easy.
 
     O: 為乜?
     E: For what?
