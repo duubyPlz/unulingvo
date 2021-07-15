@@ -21,8 +21,9 @@
     E: These people travel in Korea.
     F: These people _travel in Korea_.
 
+    # Let's walk with the dog.
     O: 개랑 걸어서 가자.
-    E: Let's walk with the dog.
+    E: Let's go walk the dog.
 
     O: 파티에 가자!
     E: Let's go to the party!
