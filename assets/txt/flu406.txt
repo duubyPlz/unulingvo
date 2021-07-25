@@ -10,6 +10,7 @@
     # 作動 operation (of a device)
     O: 작동이 안 돼요.
     E: (The device) It does not operate.
+    F: (The device) _It does not_ operate.
 
     # 活動
     O: 온라인 활동
