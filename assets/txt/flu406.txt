@@ -40,7 +40,7 @@
     # 똑바로 upright, straight
     # 行動
     O: 행동 똑바로 하세요!
-    E: Behave yourself! (Lit: Do behaviours properly!)
+    E: Behave yourself! (Lit: Do behaviours properly!) @polite
 
     # 응답 應答
     # 動映像 video
