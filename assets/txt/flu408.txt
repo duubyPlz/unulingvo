@@ -9,7 +9,7 @@
     # Variations:
     #   * -도 되다: -may
     #   * -안 + verb + -도 되다: -don't have to
-    #       > Note: Using -안 is not "you may not".
+    #       > Note: Using -안 is not "you may not". {#RELATED Level 4 Lesson 9}: -면 안 돼요
 
     # -도 Variations:
     #   * Noun + -도: -too
