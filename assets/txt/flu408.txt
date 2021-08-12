@@ -1,69 +1,100 @@
-== TTMIK 4.8 - It is okay to…, You don’t have to… / -아/어/여도 돼요, 해도 돼요 ==
-    # <option value='408'>TTMIK 4.8 -도 돼요</option>
+== TTMIK 4.8 - May I…, Don't have to / It is okay to…, You don’t have to… / -아/어/여도 돼요, 해도 돼요 ==
+* s -> short
+* l -> long
 
     # * Meaning:
     #   * It's okay to...
     #   * You don't need to...
 
-    O: 
-    E: 
+    # Variations:
+    #   * -도 되다: -may
+    #   * -안 + verb + -도 되다: -don't have to
+    #       > Note: Using -안 is not "you may not".
 
-    O: 
-    E: 
+    # -도 Variations:
+    #   * Noun + -도: -too
+    #   * Verb + -도: Even if-
 
-    O: 
-    E: 
+    # 되다: { to function/work, to be possible }
 
-    O: 
-    E: 
+    O: 지금 인터넷 돼요?
+    E: Does the Internet work now?
 
-    O: 
-    E: 
+    O: 지금 배달 돼요?
+    E: Can you deliver the food now? / Is food delivery available now?
 
-    O: 
-    E: 
+    O: 배달 돼요?
+    E: Do you deliver food? / Can food delivery be done?
 
-    O: 
-    E: 
+    # Noun + -도
+    O: 저도요.
+    E: Me, too.
 
-    O: 
-    E: 
+    O: 이것도 주세요.
+    E: Give me this[l] one, too.
 
-    O: 
-    E: 
+    # Verb + -도
+    O: 먹어도
+    E: even if you eat
 
-    O: 
-    E: 
+    O: 몰라도
+    E: even if you do not know
 
-    O: 
-    E: 
+    O: 자도
+    E: even if you sleep
 
-    O: 
-    E: 
+    O: 일어나도
+    E: even when you wake up
 
-    O: 
-    E: 
+    # 켜다 - to turn/switch on
+    O: 켜도 되다
+    E: to be okay to turn … on
 
-    O: 
-    E: 
+    O: 켜도 돼요.
+    E: It is okay to turn on. / It is okay. You can turn it on.
 
-    O: 
-    E: 
+    O: 불 켜도 돼요.
+    E: You can turn the light on.
 
-    O: 
-    E: 
+    O: 컴퓨터 켜도 돼요. 
+    E: You can turn the computer on.
 
-    O: 
-    E: 
+    O: 해도 되다
+    E: to be okay to do …
 
-    O: 
-    E: 
+    O: 내일 해도 돼요.
+    E: It is okay if you do it tomorrow. / You can just do it tomorrow.
 
-    O: 
-    E: 
+    O: 내일 해도 돼요?
+    E: Is it okay if I do it tomorrow?
 
-    O: 
-    E: 
+    O: 시작해도 돼요.
+    E: You can start.
 
-    O: 
-    E: 
+    O: 시작해도 돼요? 
+    E: Can I start? / Can we start?
+
+    O: 이거 나중에 해도 돼요.
+    E: You can do this[s] later.
+
+    O: 이거 나중에 해도 돼요?
+    E: Can I do this[s] later?
+
+    O: 컴퓨터 써도 돼요?
+    E: May I use the computer?
+
+    O: 오늘 쉬어도 돼요.
+    E: You can take a day off today.
+
+    # Don't have to
+    O: 안 해도 돼요.
+    E: You do not have to do it. / It is okay if you do not do it.
+
+    O: 청소 안 해도 돼요.
+    E: You do not have to clean up. / It is okay if you do not clean up.
+
+    O: 오늘 일 안 해도 돼요.
+    E: You do not have to work today. / It is okay if you do not work today.
+
+    O: 안 먹어도 돼요. 
+    E: You do not have to eat it. / It is okay if you do not eat it.
