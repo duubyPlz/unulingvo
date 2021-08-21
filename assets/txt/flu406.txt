@@ -34,8 +34,10 @@
     O: 페이스북 연동
     E: connecting to Facebook through another site
 
+    # (Two web services) are linked/connected together. (Observation)
+    # (Two web services) should be linked/connected together. (Observation)
     O: 연동 되어 있어요.
-    E: (Two web services) are linked/connected together. (Observation)
+    E: (Two web services) are supposed to link/connect together. (Observation)
 
     # 똑바로 upright, straight
     # 行動
