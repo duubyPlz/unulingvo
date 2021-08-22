@@ -21,10 +21,10 @@
     E: Does the Internet work now?
 
     O: 지금 배달 돼요?
-    E: Can you deliver the food now? / Is food delivery available now?
+    E: Can you deliver (the food) now? / Is food delivery available now?
 
     O: 배달 돼요?
-    E: Do you deliver food? / Can food delivery be done?
+    E: Do you deliver (food)? / Can food delivery be done?
 
     # Noun + -도
     O: 저도요.
