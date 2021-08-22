@@ -1,4 +1,4 @@
-== TTMIK 2.20 - Have to, Should, Must / -아/어/여야 되다/하다 ==
+== TTMIK 2.20 - Should / Have to, Should, Must / -아/어/여야 되다/하다 ==
 # -되다 and -하다 are the same but -뒤다 more colloquial
 
 * d -> do

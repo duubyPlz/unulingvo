@@ -1,6 +1,8 @@
-== TTMIK 4.8 - May I…, Don't have to / It is okay to…, You don’t have to… / -아/어/여도 돼요, 해도 돼요 ==
+== TTMIK 4.8 - May I? / May I…, Don't have to / It is okay to…, You don’t have to… / -아/어/여도 돼요, 해도 돼요 ==
 * s -> short
 * l -> long
+
+    # {#RELATED Level 2 Lesson 20}: -아/어/여야 되다/하다
 
     # * Meaning:
     #   * It's okay to...
@@ -9,7 +11,8 @@
     # Variations:
     #   * -도 되다: -may
     #   * -안 + verb + -도 되다: -don't have to
-    #       > Note: Using -안 is not "you may not". {#RELATED Level 4 Lesson 9}: -면 안 돼요
+    #       > Note: Using -안 is not "you may not". 
+    # {#RELATED Level 4 Lesson 9}: -면 안 돼요
 
     # -도 Variations:
     #   * Noun + -도: -too
