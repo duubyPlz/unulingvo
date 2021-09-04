@@ -76,7 +76,7 @@
     E: How do you do? (First time meeting you.) @formal
 
     O: 반갑습니다.
-    E: It is nice to meet you.
+    E: It is nice to meet you. @formal
 
     O: 제 명함이에요.
     E: It is my business card.
