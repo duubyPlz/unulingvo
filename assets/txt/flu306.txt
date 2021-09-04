@@ -11,7 +11,7 @@
     E: Do not disturb me. I will study.
 
     O: 공부할게요.
-    E: So I will study. / (If you say so,) I will study. / (Since the circumstances are like this,) I will study. / (If you do not mind,) I will study.
+    E: (If you say so,) I will study. / So I will study. / (Since the circumstances are like this,) I will study. / (If you do not mind,) I will study.
 
     O: 저도 갈게요.
     E: (In that case) I will go too. / I will come along, too (if you do not mind). / (In that case,) I will go there, too. / (Okay, since you say so,) I will go, too.

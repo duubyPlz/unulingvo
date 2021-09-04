@@ -1,0 +1,81 @@
+== TTMIK 4.10 - Among, Between / 사이에, 사이에서, 중에, 중에서 ==
+* w -> with
+* s -> short
+
+    # Meanings:
+    # * 중에서: Among/between options (not location)
+    # * 종에: Shorter version of 중에서
+    # * 사이에서: Among/with a theoretical group/abstract noun (e.g. popular among...)
+    # * 사이에: 
+
+    O: 
+    E: I cannot choose between this one and that one
+
+    O: 
+    E: She is popular among our friends
+
+    O: 중학교
+    E: Middle school
+
+    O: 중식 
+    E: Lunch @formal
+
+    O: 회의 중
+    E: Meeting in process
+
+    O: 공사 중
+    E: Under construction
+
+    # 사이에
+    O: 
+    E: The house is located between the bank and the park.
+
+    O: A하고 B 중에서
+    E: Between A and B
+
+    O: 이 책하고 저 책 중에서
+    E: Between this book and that book (over there)
+
+    O: Among these three things
+    E: 이 세 개 중에서
+
+    O: Among ten people
+    E: 열 명 중에서
+
+    O: 이 중에서 고르세요.
+    E: Please choose among these.
+
+    O: Please take one of these three.
+    E: 이 세 개 중에서 하나 가져가세요.
+
+    # TODO 중에 examples
+
+    O: 친구들 사이에서
+    E: Among[w] friends
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
