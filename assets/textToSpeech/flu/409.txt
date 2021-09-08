@@ -1,0 +1,192 @@
+TTMIK 4.9 - Should not / You shouldn’t…, You’re not supposed to… / -(으)면 안 돼요, 하면 안 돼요.
+    
+    You should not open it. / You are not supposed to open it.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    열면 안 돼요.
+
+    Next Sentence.
+    Should I not open it? / Am I not supposed to open it?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    열면 안 돼요?
+
+    Next Sentence.
+    [to a child] You should not open it. [impolite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    열면 안 돼.
+
+    Next Sentence.
+    You may open it. / It is okay to open it. / You can go ahead and open it.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    열어도 돼요.
+
+    Next Sentence.
+    May I open it?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    열어도 돼요?
+
+    Next Sentence.
+    You should not touch it. / You cannot touch it.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    만지면 안 돼요.
+
+    Next Sentence.
+    Should I not touch it? / Am I not supposed to touch it?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    만지면 안 돼요?
+
+    Next Sentence.
+    [to a child] You should not touch it. [impolite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    만지면 안 돼.
+
+    Next Sentence.
+    You may touch it. / It is okay to touch it. / You can go ahead and touch it.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    만져도 돼요.
+
+    Next Sentence.
+    Can I touch it?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    만져도 돼요?
+
+    Next Sentence.
+    You should not throw it.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    던지면 안 돼요.
+
+    Next Sentence.
+    You're allowed to throw it. / It is okay to throw it.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    던져도 돼요.
+
+    Next Sentence.
+    You should not sell it.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    팔면 안 돼요.
+
+    Next Sentence.
+    It is okay to sell it.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    팔아도 돼요.
+
+    Next Sentence.
+    You should not tell/talk.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    말하면 안 돼요.
+
+    Next Sentence.
+    It is okay to tell/talk.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    말해도 돼요.
+
+    Next Sentence.
+    Am I not supposed to tell/talk now? / Should I not tell/talk now?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지금 말하면 안 돼요?
+
+    Next Sentence.
+    Am I not supposed to sell it here? / Should I not sell it here?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    여기서 팔면 안 돼요?
+
+    Next Sentence.
+    You should not throw it. It is (made of) glass.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    그거 던지면 안 돼요. 유리예요.
+
+    End of 4.9 - Should not / You shouldn’t…, You’re not supposed to… / -(으)면 안 돼요, 하면 안 돼요.

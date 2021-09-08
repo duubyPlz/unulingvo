@@ -1,0 +1,262 @@
+TTMIK 4.8 - May I? / May I…, Don't have to / It is okay to…, You don’t have to… / -아/어/여도 돼요, 해도 돼요.
+    
+    Does the Internet work now?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지금 인터넷 돼요?
+
+    Next Sentence.
+    Can you deliver (the food) now? / Is food delivery available now?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지금 배달 돼요?
+
+    Next Sentence.
+    Do you deliver (food)? / Can food delivery be done?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    배달 돼요?
+
+    Next Sentence.
+    Me, too.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    저도요.
+
+    Next Sentence.
+    Give me this[l] one, too.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이것도 주세요.
+
+    Next Sentence.
+    even if you eat.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    먹어도
+
+    Next Sentence.
+    even if you do not know.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    몰라도
+
+    Next Sentence.
+    even if you sleep.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    자도
+
+    Next Sentence.
+    even when you wake up.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    일어나도
+
+    Next Sentence.
+    to be okay to turn … on.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    켜도 되다
+
+    Next Sentence.
+    It is okay to turn on. / It is okay. You can turn it on.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    켜도 돼요.
+
+    Next Sentence.
+    You can turn the light on.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    불 켜도 돼요.
+
+    Next Sentence.
+    You can turn the computer on.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    컴퓨터 켜도 돼요. 
+
+    Next Sentence.
+    to be okay to do ….
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    해도 되다
+
+    Next Sentence.
+    It is okay if you do it tomorrow. / You can just do it tomorrow.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일 해도 돼요.
+
+    Next Sentence.
+    Is it okay if I do it tomorrow?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    내일 해도 돼요?
+
+    Next Sentence.
+    You can start.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    시작해도 돼요.
+
+    Next Sentence.
+    Can I start? / Can we start?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    시작해도 돼요? 
+
+    Next Sentence.
+    You can do this[s] later.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 나중에 해도 돼요.
+
+    Next Sentence.
+    Can I do this[s] later?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거 나중에 해도 돼요?
+
+    Next Sentence.
+    May I use the computer?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    컴퓨터 써도 돼요?
+
+    Next Sentence.
+    You can take a day off today.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오늘 쉬어도 돼요.
+
+    Next Sentence.
+    You do not have to do it. / It is okay if you do not do it.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    안 해도 돼요.
+
+    Next Sentence.
+    You do not have to clean up. / It is okay if you do not clean up.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    청소 안 해도 돼요.
+
+    Next Sentence.
+    You do not have to work today. / It is okay if you do not work today.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    오늘 일 안 해도 돼요.
+
+    Next Sentence.
+    You do not have to eat it. / It is okay if you do not eat it.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    안 먹어도 돼요. 
+
+    End of 4.8 - May I? / May I…, Don't have to / It is okay to…, You don’t have to… / -아/어/여도 돼요, 해도 돼요.

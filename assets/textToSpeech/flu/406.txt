@@ -1,0 +1,121 @@
+TTMIK 4.6 - [Word Builder] 동 (動).
+    Lately, I'm diligently exercising (continuous).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    요즘에 운동 열심히 하고 있어요.
+
+    Next Sentence.
+    Please follow this move (movement).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 동작을 따라하세요.
+
+    Next Sentence.
+    (The device) It does not operate.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    작동이 안 돼요.
+
+    Next Sentence.    
+    online activities.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    온라인 활동
+
+    Next Sentence.
+    music/musical activities.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    음악 활동
+
+    Next Sentence.
+    TV activities/appearances.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    TV 활동
+
+    Next Sentence.
+    This word is a verb.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 단어는 동사예요.
+
+    Next Sentence.
+    Do you like animals?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    동물 좋아해요?
+
+    Next Sentence.
+    connecting to Facebook through another site.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    페이스북 연동
+
+    Next Sentence.
+    (Two web services) are supposed to link/connect together. (Observation).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    연동 되어 있어요.
+
+    Next Sentence.
+    Behave yourself! (Lit: Do behaviours properly!) [polite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    행동 똑바로 하세요!
+
+    Next Sentence.
+    video response.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    동영상 응답
+
+    End of 4.6 - [Word Builder] 동 (動).

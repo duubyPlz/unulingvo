@@ -1,4 +1,4 @@
-== TTMIK - 4.7 It’s okay. I’m okay. / 괜찮아요 ==
+== TTMIK 4.7 - It’s okay. I’m okay. / 괜찮아요 ==
     # * Meaning:
     #   * I'm/It's okay.
     #   * It's decent.

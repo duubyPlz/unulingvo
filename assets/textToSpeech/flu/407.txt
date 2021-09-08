@@ -1,0 +1,42 @@
+TTMIK 4.7 - It’s okay. I’m okay. / 괜찮아요.
+    
+    This movie is really decent.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 영화 진짜 괜찮아요.
+
+    Next Sentence.
+    (Polite refusal of drink) No, thanks.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    괜찮아요.
+
+    Next Sentence.
+    (Telling friend not to worry) It's okay.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    괜찮아요.
+
+    Next Sentence.
+    (You slip and fall) I am okay.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    괜찮아요.
+
+    End of 4.7 - It’s okay. I’m okay. / 괜찮아요.
