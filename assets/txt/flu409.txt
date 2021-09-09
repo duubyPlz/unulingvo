@@ -1,4 +1,6 @@
 == TTMIK 4.9 - Should not / You shouldn’t…, You’re not supposed to… / -(으)면 안 돼요, 하면 안 돼요 ==
+* s -> short
+
     # {#RELATED Level 2 Lesson 20}: -아/어/여야 되다/하다
     # {#RELATED Level 2 Lesson 23}: -면
     # {#RELATED Level 4 Lesson 8}: -아/어/여도 돼요
@@ -65,7 +67,7 @@
     E: Am I not supposed to tell/talk now? / Should I not tell/talk now?
 
     O: 여기서 팔면 안 돼요?
-    E: Am I not supposed to sell it here? / Should I not sell it here?
+    E: Am I not supposed to sell it here[s]? / Should I not sell it here?
 
     O: 그거 던지면 안 돼요. 유리예요.
     E: You should not throw it. It is (made of) glass.
