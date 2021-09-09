@@ -27,4 +27,4 @@
     E: He thinks he knows everything.
 
     O: 我頂唔順佢嘅行為。
-    E: I can barely stand his behaviour.
+    E: I cannot stand his behaviour.
