@@ -70,4 +70,4 @@
     E: Am I not supposed to sell it here[s]? / Should I not sell it here?
 
     O: 그거 던지면 안 돼요. 유리예요.
-    E: You should not throw it. It is (made of) glass.
+    E: You should not throw that. It is (made of) glass.
