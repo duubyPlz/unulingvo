@@ -84,7 +84,7 @@
     E: Can I do this[s] later?
 
     O: 컴퓨터 써도 돼요?
-    E: May I use the computer?
+    E: May I use the computer[s]?
 
     O: 오늘 쉬어도 돼요.
     E: You can take a day off today.
