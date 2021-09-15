@@ -1,19 +1,32 @@
 == TTMIK 4.10 - Among, Between / 사이에, 사이에서, 중에, 중에서 ==
 * w -> with
 * s -> short
+* l -> long
 
     # Meanings:
-    # * 중에서: Among/between options (not location)
-    # * 종에: Shorter version of 중에서
-    # * 사이에서: Among/with a theoretical group/abstract noun (e.g. popular among...)
-    # * 사이에: 
+    # * (중):
+        * Adjective for sino nouns
+        * In progress
+        * Short for 중의 or 중에
+    # * 중에서: Among countable options (not location)
+    # * 종에: 
+        * Short for 중에서
+        * 종에[at] + verb
+    # * (종의): 종의['s] + noun
+    # * 사이에서: Among uncountable/abstract noun (e.g. popular among...)
+    # * 사이에: Physical space between two things.
 
     O: 
-    E: I cannot choose between this one and that one
+    E: I cannot choose between this one and that one.
 
-    O: 
-    E: She is popular among our friends
+    O: 그녀는 우리 친구들 사이에서 인기가 많아요.
+    E: She is popular among our friends[l].
+    F: _She_ is popular among our friends[l].
 
+    O: 친구들 사이에서 인기가 많아요.
+    E: He is very popular among his friends[l].
+
+    # 중
     O: 중학교
     E: Middle school
 
@@ -26,10 +39,7 @@
     O: 공사 중
     E: Under construction
 
-    # 사이에
-    O: 
-    E: The house is located between the bank and the park.
-
+    # 중에서
     O: A하고 B 중에서
     E: Between A and B
 
@@ -48,34 +58,51 @@
     O: Please take one of these three.
     E: 이 세 개 중에서 하나 가져가세요.
 
-    # TODO 중에 examples
+    # 중에
+    O: 범인은 너희들 중에 있다.
+    E: The criminal is among you guys. (Lit: exists) @plain,i 🤔
 
+    O: 집에 가는 중에 친구를 우연히 만났다.
+    E: In the middle of going home, I coincidentally met my friend. 🤔
+
+    # 중의
+    O: 너희들 중의 한 명이 범인이다.
+    E: Between you guys, there's one person that's a criminal. @plain,i 🤔
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    # 사이에서
     O: 친구들 사이에서
     E: Among[w] friends
 
     O: 
     E: 
 
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
+    # 사이에
+    O: 집은 은행하고 공원 사이에 있어요.
+    E: The house is located between the bank and the park.
 
     O: 
     E: 
