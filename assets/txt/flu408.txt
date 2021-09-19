@@ -56,7 +56,8 @@
     O: 켜도 돼요.
     E: It is okay to turn on. / It is okay. You can turn it on.
 
-    O: 불 켜도 돼요.
+    # 불 켜도 돼요.
+    O: 불을 켜도 돼요.
     E: You can turn the light on.
 
     O: 컴퓨터 켜도 돼요. 
