@@ -1,4 +1,4 @@
-== TTMIK 4.10 - Among, Between / 사이에, 사이에서, 중에, 중에서 ==
+== TTMIK 4.10 - Among, Between / 중, 중에, 종의, 중에서, 사이에, 사이에서 / 사이에, 사이에서, 중에, 중에서 ==
 * w -> with
 * s -> short
 * l -> long
@@ -8,13 +8,13 @@
         * Adjective for sino nouns
         * In progress
         * Short for 중의 or 중에
-    # * 중에서: Among countable options (not location)
     # * 종에: 
         * Short for 중에서
         * 종에[at] + verb
     # * 종의: 종의['s] + noun
-    # * 사이에서: Among uncountable/abstract noun (e.g. popular among...)
+    # * 중에서: Among countable options (not location)
     # * 사이에: Physical space between two things.
+    # * 사이에서: Among uncountable/abstract noun (e.g. popular among...)
 
     # 중
     O: 중학교
