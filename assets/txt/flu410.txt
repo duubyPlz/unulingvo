@@ -4,7 +4,7 @@
 * l -> long
 
     # Meanings:
-    # * (중):
+    # * 중:
         * Adjective for sino nouns
         * In progress
         * Short for 중의 or 중에
@@ -12,19 +12,9 @@
     # * 종에: 
         * Short for 중에서
         * 종에[at] + verb
-    # * (종의): 종의['s] + noun
+    # * 종의: 종의['s] + noun
     # * 사이에서: Among uncountable/abstract noun (e.g. popular among...)
     # * 사이에: Physical space between two things.
-
-    O: 
-    E: I cannot choose between this one and that one.
-
-    O: 그녀는 우리 친구들 사이에서 인기가 많아요.
-    E: She is popular among our friends[l].
-    F: _She_ is popular among our friends[l].
-
-    O: 친구들 사이에서 인기가 많아요.
-    E: He is very popular among his friends[l].
 
     # 중
     O: 중학교
@@ -46,21 +36,25 @@
     O: 이 책하고 저 책 중에서
     E: Between this book and that book (over there)
 
-    O: Among these three things
-    E: 이 세 개 중에서
+    O: 이 세 개 중에서
+    E: Among these three things
 
-    O: Among ten people
-    E: 열 명 중에서
+    O: 열 명 중에서
+    E: Among ten people
 
     O: 이 중에서 고르세요.
     E: Please choose among these.
 
-    O: Please take one of these three.
-    E: 이 세 개 중에서 하나 가져가세요.
+    O: 이 세 개 중에서 하나 가져가세요.
+    E: Please take one of these three.
+
+    O: 이거하고 그거 중에서 못 골라요.
+    E: I cannot choose between this one[s] and that one[s].
 
     # 중에
     O: 범인은 너희들 중에 있다.
     E: The criminal is among you guys. (Lit: exists) @plain,i 🤔
+    F: _The criminal_ is among you guys. (Lit: exists) @plain,i 🤔
 
     O: 집에 가는 중에 친구를 우연히 만났다.
     E: In the middle of going home, I coincidentally met my friend. 🤔
@@ -69,40 +63,35 @@
     O: 너희들 중의 한 명이 범인이다.
     E: Between you guys, there's one person that's a criminal. @plain,i 🤔
 
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
     # 사이에서
     O: 친구들 사이에서
     E: Among[w] friends
 
-    O: 
-    E: 
+    O: 가족들 사이에서
+    E: Among his/her family members
+
+    O: 친구들 사이에서 인기가 많아요.
+    E: He is popular among friends[l].
+
+    O: 우리 친구들 사이에서 인기가 많아요.
+    E: She is popular among our friends[l].
+
+    O: 이 가수는 한국인들 사이에서 인기가 많아요.
+    E: This singer is popular among Koreans[l].
+    F: _This singer_ is popular among Koreans[l].
+
+    O: 석진 씨는 청취자들 사이에서 인기가 많아요.
+    E: Seokjin is popular among our listeners[l].
+    F: _Seokjin_ is popular among our listeners[l].
 
     # 사이에
     O: 집은 은행하고 공원 사이에 있어요.
     E: The house is located between the bank and the park.
+    F: _The house_ is located between the bank and the park.
 
-    O: 
-    E: 
+    O: 은행하고 공원 사이에 있어요.
+    E: I am between the bank and the park.
+
+    O: 약국은 학교하고 경찰서 사이에 있어요.
+    E: The pharmacy is between the school and the police station.
+    F: _The pharmacy_ is between the school and the police station.
