@@ -31,16 +31,16 @@
 
     # 중에서
     O: A하고 B 중에서
-    E: Between A and B
+    E: (If you were to choose) Between A and B
 
     O: 이 책하고 저 책 중에서
-    E: Between this book and that book (over there)
+    E: (If you were to choose) Between this book and that book (over there)
 
     O: 이 세 개 중에서
-    E: Among these three things
+    E: (If you were to select) Among these three things
 
     O: 열 명 중에서
-    E: Among ten people
+    E: (If you were to select) Among ten people
 
     O: 이 중에서 고르세요.
     E: Please choose among these.
