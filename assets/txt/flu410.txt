@@ -74,7 +74,7 @@
     E: He is popular among friends[l].
 
     O: 우리 친구들 사이에서 인기가 많아요.
-    E: She is popular among our friends[l].
+    E: She is popular among our[l] friends[l].
 
     O: 이 가수는 한국인들 사이에서 인기가 많아요.
     E: This singer is popular among Koreans[l].
