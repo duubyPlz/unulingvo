@@ -16,6 +16,12 @@
     # * 사이에: Physical space between two things.
     # * 사이에서: Among uncountable/abstract noun (e.g. popular among...)
 
+    # To remember:
+    # * 사이에서: All of the group
+    # * 중에(서): Some of the group
+    #   * (서) just depends on grammar (action verb vs e.g. 있|없다 stationary verb at the end)
+    # * 사이에: Distance
+
     # 중
     O: 중학교
     E: Middle school
