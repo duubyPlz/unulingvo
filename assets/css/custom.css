@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Exo:200,300,400,700&subset=latin-ext');
-@import url('https://fonts.googleapis.com/earlyaccess/notosanskr.css');
-@import url('https://fonts.googleapis.com/earlyaccess/notosansjapanese.css');
-@import url('https://fonts.googleapis.com/earlyaccess/notosanstc.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC');
 
 html {
   -webkit-font-smoothing: antialiased;
