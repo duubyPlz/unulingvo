@@ -52,7 +52,7 @@
     E: Please choose among these.
 
     O: 이 세 개 중에서 하나 가져가세요.
-    E: Please take one of these three.
+    E: Please take one[s] of these three.
 
     O: 이거하고 그거 중에서 못 골라요.
     E: I cannot choose between this one[s] and that one[s].
