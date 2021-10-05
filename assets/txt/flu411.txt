@@ -1,0 +1,99 @@
+== TTMIK 4.11 - Anybody, Anything, Anywhere / 아무나, 아무도, 아무거나, 아무것도 ==
+    # Meanings:
+    # * 아무: any- + noun
+    #    * Note: (In negative context) no- + noun
+    # * -나: [positive]
+    # * -도: [negative]
+    # * 아무나: Anyone, just anyone
+    # * 아무거나: Anything, just anything
+    # * 아무데도: Anywhere, just anywhere
+    # * 아무도: Nobody
+    # * 아무것도: Nothing
+    # * 아무 데도: Nowhere
+
+    O: 아무나 올 수 있어요.
+    E: Anyone can come.
+
+    O: 아무거나 주세요.
+    E: Just give me anything.
+
+    O: 아무데나 좋아요.
+    E: Any place is good.
+
+    O: 아무도 없어요?
+    E: Nobody is here?
+
+    O: 아무것도 만지지 마세요.
+    E: Do not touch anything. (Lit: Touch nothing.)
+
+    O: 아무것도 몰라요. 
+    E: I do not know anything. (Lit: I know nothing.)
+
+    O: 아무 데도 안 갈 거예요.
+    E: I will not go anywhere. (Lit: I will go nowhere.)
+
+    O: 아무나 올 수 없어요.
+    E: Not everyone can come.
+
+    O: 아무도 올 수 없어요.
+    E: Nobody can come.
+
+    O: 아무거나 먹으면 안 돼요.
+    E: You should not eat just anything.
+
+    O: 아무것도 먹으면 안 돼요.
+    E: You should not eat anything at all. (Lit: You should eat nothing.)
+
+    O: 아무 데나 가고 싶지 않아요.
+    E: I do not want to go just anywhere.
+
+    O: 아무 데도 가고 싶지 않아요.
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 

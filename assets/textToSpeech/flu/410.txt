@@ -1,0 +1,232 @@
+TTMIK 4.10 - Among, Between / 중, 중에, 종의, 중에서, 사이에, 사이에서 / 사이에, 사이에서, 중에, 중에서.
+
+    Middle school.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    중학교
+
+    Next Sentence.
+    Lunch [formal].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    중식 
+
+    Next Sentence.
+    Meeting in process.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    회의 중
+
+    Next Sentence.
+    Under construction.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    공사 중
+
+    Next Sentence.
+    (If you were to choose) Between A and B.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    A하고 B 중에서
+
+    Next Sentence.
+    (If you were to choose) Between this book and that book (over there).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 책하고 저 책 중에서
+
+    Next Sentence.
+    (If you were to select) Among these three things.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 세 개 중에서
+
+    Next Sentence.
+    (If you were to select) Among ten people.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    열 명 중에서
+
+    Next Sentence.
+    Please choose among these.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 중에서 고르세요.
+
+    Next Sentence.
+    Please take one[s] of these three.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 세 개 중에서 하나 가져가세요.
+
+    Next Sentence.
+    I cannot choose between this one[s] and that one[s].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이거하고 그거 중에서 못 골라요.
+
+    Next Sentence.
+    The criminal is among you guys. (Lit: exists) [plain,i ]🤔.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    범인은 너희들 중에 있다.
+
+    Next Sentence.    
+    In the middle of going home, I coincidentally met my friend. [plain] 🤔.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집에 가는 중에 친구를 우연히 만났다.
+
+    Next Sentence.
+    Between you guys, there's one person that's a criminal. [plain,i ]🤔.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    너희들 중의 한 명이 범인이다.
+
+    Next Sentence.
+    Among[w] friends.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구들 사이에서
+
+    Next Sentence.
+    Among his/her family members.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    가족들 사이에서
+
+    Next Sentence.
+    He is popular among friends[l].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    친구들 사이에서 인기가 많아요.
+
+    Next Sentence.
+    She is popular among our[l] friends[l].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    우리 친구들 사이에서 인기가 많아요.
+
+    Next Sentence.
+    This singer is popular among Koreans[l].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이 가수는 한국인들 사이에서 인기가 많아요.
+
+    Next Sentence.    
+    Seokjin is popular among our listeners[l].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    석진 씨는 청취자들 사이에서 인기가 많아요.
+
+    Next Sentence.    
+    The house is located between the bank and the park.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    집은 은행하고 공원 사이에 있어요.
+
+    Next Sentence.    
+    I am between the bank and the park.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    은행하고 공원 사이에 있어요.
+
+    Next Sentence.
+    The pharmacy is between the school and the police station.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    약국은 학교하고 경찰서 사이에 있어요.
+
+    End of 4.10 - Among, Between / 중, 중에, 종의, 중에서, 사이에, 사이에서 / 사이에, 사이에서, 중에, 중에서.
