@@ -11,6 +11,10 @@
     # * 아무것도: Nothing
     # * 아무 데도: Nowhere
 
+    # Extras (future lessons):
+    # * 아무때나: Anytime
+    # * 아무한테나: To anyone
+
     O: 아무나 올 수 있어요.
     E: Anyone can come.
 
@@ -48,52 +52,4 @@
     E: I do not want to go just anywhere.
 
     O: 아무 데도 가고 싶지 않아요.
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
+    E: I do not want to go anywhere.
