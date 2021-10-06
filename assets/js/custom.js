@@ -26,7 +26,8 @@ $('select#contents-ja').parent().hide();
 $('select#contents-cn').parent().hide();
 $('select#contents-gr').parent().hide();
 
-// XXX @kuc can't get semantic ui <select>.dropdown('set selected', random) to work
+// TODO can't get semantic ui <select>.dropdown('set selected', random) to work
+// Note: button#flu-randomise has the logic wanted, port over
 var fileSizes = {
                     'eo': 30,
                     'ko': 20,
