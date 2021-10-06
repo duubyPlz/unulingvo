@@ -66,8 +66,9 @@
     E: In the middle of going home, I coincidentally met my friend. @plain 🤔
 
     # 중의
+    # Between you guys, there's one person that's a criminal. @plain,i
     O: 너희들 중의 한 명이 범인이다.
-    E: Between you guys, there's one person that's a criminal. @plain,i 🤔
+    E: There's one person between you guys that's a criminal. @plain,i 🤔
 
     # 사이에서
     O: 친구들 사이에서
