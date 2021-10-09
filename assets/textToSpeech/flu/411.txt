@@ -1,0 +1,131 @@
+TTMIK 4.11 - Anybody, Anything, Anywhere / 아무나, 아무도, 아무거나, 아무것도.
+    Anyone can come.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아무나 올 수 있어요.
+
+    Next Sentence.
+    Just give me anything.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아무거나 주세요.
+
+    Next Sentence.
+    Any place is good.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아무데나 좋아요.
+
+    Next Sentence.
+    Nobody is here?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아무도 없어요?
+
+    Next Sentence.
+    Do not touch anything. (Lit: Touch nothing.).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아무것도 만지지 마세요.
+
+    Next Sentence.
+    I do not know anything. (Lit: I know nothing.).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아무것도 몰라요. 
+
+    Next Sentence.
+    I will not go anywhere. (Lit: I will go nowhere.).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아무 데도 안 갈 거예요.
+
+    Next Sentence.
+    Not everyone can come.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아무나 올 수 없어요.
+
+    Next Sentence.
+    Nobody can come.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아무도 올 수 없어요.
+
+    Next Sentence.
+    You should not eat just anything.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아무거나 먹으면 안 돼요.
+
+    Next Sentence.
+    You should not eat anything at all. (Lit: You should eat nothing.).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아무것도 먹으면 안 돼요.
+
+    Next Sentence.
+    I do not want to go just anywhere.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아무 데나 가고 싶지 않아요.
+
+    Next Sentence.
+    I do not want to go anywhere.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    아무 데도 가고 싶지 않아요.
+
+    End of 4.11 - Anybody, Anything, Anywhere / 아무나, 아무도, 아무거나, 아무것도.
