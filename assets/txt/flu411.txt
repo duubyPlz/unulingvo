@@ -36,8 +36,9 @@
     O: 아무 데도 안 갈 거예요.
     E: I will not go anywhere. (Lit: I will go nowhere.)
 
+    # Not everyone can come.
     O: 아무나 올 수 없어요.
-    E: Not everyone can come.
+    E: Not just anyone can come.
 
     O: 아무도 올 수 없어요.
     E: Nobody can come.
