@@ -1,10 +1,10 @@
 == TTMIK 3.4 - Shall we? / I wonder / -(으)ㄹ까요? ==
 * l ➔ long
 
-    # * Question to self.
-    # * Show doubt.
-    # * Raise question, attract attention.
-    # * Suggest do together.
+    # Meaning:
+    # * I wonder (self question), raise possible doubt
+    # * Raise question, attract attention
+    # * Suggestion, shall
 
     O: 내일 비가 올까요?
     E: Do you think it will rain tomorrow? / I wonder if it will rain tomorrow. / Will it rain tomorrow? What do you think?
