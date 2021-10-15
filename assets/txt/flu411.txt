@@ -44,10 +44,10 @@
     E: Nobody can come.
 
     O: 아무거나 먹으면 안 돼요.
-    E: You should not eat just anything.
+    E: You're not allowed to eat just anything. / You should not eat just anything.
 
     O: 아무것도 먹으면 안 돼요.
-    E: You should not eat anything at all. (Lit: You should eat nothing.)
+    E: You're not allowed to eat anything at all. / You should not eat anything at all. (Lit: You should eat nothing.)
 
     O: 아무데나 가고 싶지 않아요.
     E: I do not want to go just anywhere.
