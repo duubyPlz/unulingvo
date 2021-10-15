@@ -18,8 +18,9 @@
     O: 아무나 올 수 있어요.
     E: Anyone can come. (possible)
 
+    # Just give me anything.
     O: 아무거나 주세요.
-    E: Just give me anything.
+    E: Give me anything.
 
     O: 아무데나 좋아요.
     E: Any place is good.
