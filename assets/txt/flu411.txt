@@ -15,6 +15,10 @@
     # * 아무때나: Anytime
     # * 아무한테나: To anyone
 
+    # To remember: Check the end verb
+    # * -나 if verb positive
+    # * -도 if verb negative
+
     O: 아무나 올 수 있어요.
     E: Anyone can come. (possible)
 
