@@ -25,8 +25,9 @@
     O: 아무데나 좋아요.
     E: Any place is good.
 
+    # Nobody is here?
     O: 아무도 없어요?
-    E: Nobody is here?
+    E: Nobody's here?
 
     O: 아무것도 만지지 마세요.
     E: Do not touch anything. (Lit: Touch nothing.)
