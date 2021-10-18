@@ -110,8 +110,8 @@
     F: _Where is_ the monster? @formal
 
     O: 나는 숲 속의 호랑이를 무서워해요.
-    E: I'm afraid of the tiger in the forest. @polite,i
-    F: _I_'m afraid of the tiger in the forest. @polite,i
+    E: I'm afraid of the tiger in the forest. @polite @i
+    F: _I_'m afraid of the tiger in the forest. @polite @i
 
     O: 저는 한국에 가고 싶어요.
     E: I want to go to Korea. @polite
@@ -162,8 +162,8 @@
     # 알다 and 모르다 are often conjugated to 알겠다 or 모르겠다.
     # Although they are conjugated to the future tense, those two words are typically used to express _ in the present tense.
     O: 나는 돌아오겠다.
-    E: I'll be back. @plain,i
-    F: _I_'ll be back. @plain,i
+    E: I'll be back. @plain @i 🤔
+    F: _I_'ll be back. @plain @i 🤔
 
     O: 뱀이 내려와요.
     E: The snake comes down. @polite

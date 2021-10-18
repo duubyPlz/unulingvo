@@ -59,17 +59,17 @@
 
     # 중에
     O: 범인은 너희들 중에 있다.
-    E: The criminal is among you guys. (Lit: exists) @plain,i 🤔
-    F: _The criminal_ is among you guys. (Lit: exists) @plain,i 🤔
+    E: The criminal is among you guys. (Lit: exists) @plain @i 🤔
+    F: _The criminal_ is among you guys. (Lit: exists) @plain @i 🤔
 
     O: 집에 가는 중에 친구를 우연히 만났다.
     E: In the middle of going home, I coincidentally met my friend. @plain 🤔
 
     # 중의
-    # Between you guys, there's one person that's a criminal. @plain,i 🤔
-    # There's one person between you guys that's a criminal. @plain,i 🤔
+    # Between you guys, there's one person that's a criminal. @plain @i 🤔
+    # There's one person between you guys that's a criminal. @plain @i 🤔
     O: 너희들 중의 한 명이 범인이다.
-    E: One person between you guys is the criminal. @plain,i 🤔
+    E: One person between you guys is the criminal. @plain @i 🤔
 
     # 사이에서
     O: 친구들 사이에서
