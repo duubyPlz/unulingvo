@@ -1,0 +1,65 @@
+== TTMIK 4.13 - [Word Builder] 불 (不) ==
+    # Variations:
+    # * 부 - if ㄷ/ㅈ consonants follow
+    # * A totally different 부 - 副 assistant/minor
+
+    # 不安
+    O: 불안
+    E: anxiety; anxious
+
+    O: 불안해하지 마세요.
+    E: Do not be anxious.
+
+    # 不便
+    O: 불편
+    E: inconvenient; uncomfortable
+
+    O: 불편해요.
+    E: It is inconvenient. / It is uncomfortable.
+
+    # 不完全
+    O: 불완전 
+    E: incomplete
+
+    O: 불완전한 정보
+    E: incomplete information
+
+    # 不均衡
+    O: 불균형
+    E: imbalance
+
+    O: 성비 불균형
+    E: gender ratio imbalance
+
+    # 不滿
+    O: 불만
+    E: complaint
+
+    O: 저한테 불만 있어요?
+    E: Do you have any complaints against me?
+
+    # 不正確
+    O: 부정확
+    E: incorrect; inaccurate
+
+    O: 부정확한 발음
+    E: inaccurate pronunciation
+
+    # 不注意
+    O: 부주의
+    E: carelessness
+
+    O: 제 부주의로 사고가 났어요.
+    E: With my[s] carelessness, (I) caused an accident. / I was careless, so it caused an accident.
+    F: _With my[s] carelessness, (I) caused an_ accident. / I was careless, so it caused an accident.
+
+    # 不當
+    O: 부당
+    E: wrong; unfair; unjust
+
+    O: 부당한 일을 당했어요.
+    E: (Someone) did something unfair to me.
+
+    # 不適切
+    O: 부적절
+    E: inappropriate
