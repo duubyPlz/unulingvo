@@ -41,8 +41,9 @@
     E: I will try doing it first. / I will give it a try first.
     F: (So) I _will try doing it first_. / I will give it a try first.
 
+    # Whom shall I ask? (I wonder)
     O: 누구한테 물어볼까요?
-    E: Whom shall I ask? (I wonder)
+    E: To whom should I try asking? (I wonder)
 
     O: 제가 알아볼게요.
     E: I will look into it.
