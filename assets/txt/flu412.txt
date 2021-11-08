@@ -38,7 +38,7 @@
     E: I have not tried going there[s], either. (Lit: I also have not gone there.) / I have not been there, either.
 
     O: 제가 먼저 해 볼게요.
-    E: I will try doing it first. / I will give it a try first.
+    E: (So) I will try doing it first. / I will give it a try first.
     F: (So) I _will try doing it first_. / I will give it a try first.
 
     # Whom shall I ask? (I wonder)
@@ -46,5 +46,5 @@
     E: To whom should I try asking? (I wonder)
 
     O: 제가 알아볼게요.
-    E: I will look into it.
-    F: I _will look into it_.
+    E: (So) I will look into it.
+    F: (So) I _will look into it_.
