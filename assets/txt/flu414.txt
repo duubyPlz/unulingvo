@@ -1,6 +1,7 @@
 == TTMIK 4.14 - Always, Often, Sometimes, Rarely, Almost Never, Never / 항상, 맨날, 자주, 가끔, 별로, 거의, 전혀 ==
 * s -> short
 * sp -> spoken
+* wr -> written
 * l -> long
 
     # 빈도 부사 (頻度 副詞): Frequency adverbs
@@ -32,7 +33,7 @@
     E: I hear that really often. / I get that really often.
 
     O: 항상 물어보고 싶었어요.
-    E: I've always wanted to ask you (that).
+    E: I've always[wr] wanted to ask you (that).
 
     O: 중국어를 맨날 공부하는데, 아직 어려워요.
     E: I study Chinese all the time[sp], but it is still[s] difficult.
