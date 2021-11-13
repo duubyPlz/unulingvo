@@ -1,0 +1,52 @@
+== TTMIK 4.14 - Always, Often, Sometimes, Rarely, Almost Never, Never / 항상, 맨날, 자주, 가끔, 별로, 거의, 전혀 ==
+* s -> short
+* sp -> spoken
+* l -> long
+
+    # 빈도 부사 (頻度 副詞): Frequency adverbs
+
+    # * Meanings:
+    #   * 항상: Always
+    #   * 맨날: Always (lit: every day), spoken
+    #   * 자주: Often
+    #   * 가끔: Sometimes
+    #   * 별로: Rarely
+    #   * 거의: Almost [always|never]
+    #   * 전혀: Never
+
+    O: 가끔 서점에 가요.
+    E: I sometimes go to the bookstore.
+
+    O: 서점에 가끔 가요.
+    E: I go to the bookstore sometimes.
+    F: _I_ sometimes _go to the bookstore_.
+
+    O: 자주 한국 영화 봐요.
+    E: I often watch Korean movies.
+
+    O: 한국 영화 자주 봐요.
+    E: I often watch Korean movies.
+    F: _I_ often _watch Korean movies_.
+
+    O: 그런 말 정말 자주 들어요.
+    E: I hear that really often. / I get that really often.
+
+    O: 항상 물어보고 싶었어요.
+    E: I've always wanted to ask you (that).
+
+    O: 중국어를 맨날 공부하는데, 아직 어려워요.
+    E: I study Chinese all the time[sp], but it is still[s] difficult.
+
+    O: 요즘에는 운동을 별로 안 해요.
+    E: I rarely work out[l] these days.
+    F: I rarely work out[l] _these days_.
+
+    # I never put on makeup[l].
+    O: 화장을 전혀 안 해요.
+    E: I never put makeup[l] on.
+
+    O: 시간이 없어서, 친구들을 거의 못 만나요.
+    E: I do not have time, so I can hardly meet my friends[l].
+
+    O: 라디오를 거의 맨날 들어요.
+    E: I listen to the radio almost every day[sp].
