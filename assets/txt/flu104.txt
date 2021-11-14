@@ -1,5 +1,5 @@
 == TTMIK 1.4 - Sorry. Excuse me. / 죄송합니다. 저기요. ==
-* p -> period
+* in -> interval
 
     O: 죄송합니다.
     E: I apologise.
@@ -11,4 +11,4 @@
     E: Just a moment.
 
     O: 잠깐만요.
-    E: Just a moment[p].
+    E: Just a moment[in].
