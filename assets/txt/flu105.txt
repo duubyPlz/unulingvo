@@ -13,3 +13,6 @@
 
     O: 뭐예요?
     E: What is it?
+
+    O: 저예요.
+    E: It’s me.

@@ -1,4 +1,4 @@
-== TTMIK 1.7 - This, That, It / 이, 그, 저 ==
+== TTMIK 1.7 - This, That, That /(over there) / 이, 그, 저 ==
     O: 이 커피
     E: this coffee
 
