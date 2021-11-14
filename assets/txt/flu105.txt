@@ -10,3 +10,6 @@
 
     O: 학교예요.
     E: It's a school.
+
+    O: 뭐예요?
+    E: What is it?
