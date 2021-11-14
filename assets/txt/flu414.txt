@@ -4,8 +4,9 @@
 * wr -> written
 * l -> long
 
-    # 빈도 부사 (頻度 副詞): Frequency adverbs
+    # {#RELATED Level 2 Lesson 16}: 아주, 정말, 진짜, 조금, 별로, 전혀
 
+    # 빈도 부사 (頻度 副詞): Frequency adverbs
     # * Meanings:
     #   * 항상: Always
     #   * 맨날: Always (lit: every day), spoken

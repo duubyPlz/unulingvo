@@ -1,6 +1,9 @@
-== TTMIK 2.16 - Very, A bit, Really, Not really, Not at all / 아주, 조금, 진짜, 별로, 전혀 ==
+== TTMIK 2.16 - Very, A bit, Really, Not really, Not at all / 아주, 정말, 진짜, 조금, 별로, 전혀 ==
 * sp -> spoken
 
+    # {#RELATED Level 4 Lesson 14}: 항상, 맨날, 자주, 가끔, 별로, 거의, 전혀
+
+    # Degree adverbs
     # 조금 = a little, a bit, a little bit
     # 정말 = really, truly
     # 아주 = very, quite
