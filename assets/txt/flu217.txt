@@ -1,4 +1,4 @@
-== TTMIK 2.17 - Can, Cannot / -ㄹ 수 있다/없다 ==
+== TTMIK 2.17 - Can, Cannot (possible) / -ㄹ 수 있다/없다 ==
 * c -> common
 
     # -(으)ㄹ 수 없다: basic way express “can not”

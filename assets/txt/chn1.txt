@@ -2,7 +2,7 @@
 * s -> short
 
     O: 你以為我傻㗎？
-    E: You think I'm stupid?
+    E: You thought I was stupid?
 
     O: 因為佢蕩失路。
     E: It's because he got[s] lost.
