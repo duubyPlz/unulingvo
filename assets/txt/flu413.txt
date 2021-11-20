@@ -36,7 +36,7 @@
     E: complaint
 
     O: 저한테 불만 있어요?
-    E: Do you have any complaints against me?
+    E: Do you have any complaints[s] against me?
 
     # 不正確
     O: 부정확
