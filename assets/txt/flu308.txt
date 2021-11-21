@@ -1,4 +1,4 @@
-== TTMIK 3.8 - To look like, To seem like / 같아요 ==
+== TTMIK 3.8 - To look/seem like (noun) / 같아요 ==
     # 같다 - to be the same
     # (~랑) 비슷하다 - to be similar (to~)
 

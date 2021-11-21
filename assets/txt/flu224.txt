@@ -1,4 +1,4 @@
-== TTMIK 2.24 - Still, Already / 아직, 벌써 ==
+== TTMIK 2.24 - Still not, Already / 아직, 벌써 ==
     # 이미 - You + speaker know about something already and talk
 about it
     # 벌써 - You're just finding out as you speak

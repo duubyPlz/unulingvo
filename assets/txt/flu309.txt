@@ -1,4 +1,4 @@
-== TTMIK 3.9 - To seem like, To look like (with verbs) / -ㄴ 것 같아요 ==
+== TTMIK 3.9 - To seem/look like (verbs) / -ㄴ 것 같아요 ==
     # {#RELATED Level 2 Lesson 19}: -는 것
     # -ㄴ 것 같아요: descriptive
     # -는 것 같아요: action present
