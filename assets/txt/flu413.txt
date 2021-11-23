@@ -51,7 +51,7 @@
 
     O: 제 부주의로 사고가 났어요.
     E: With my[s] carelessness, (I) caused an accident (lit: an accident occurred). / I was careless, so it caused an accident.
-    F: _With my[s] carelessness, (I) caused an_ accident. / I was careless, so it caused an accident.
+    F: _With my[s] carelessness, (I) caused an_ accident (lit: an accident occurred). / I was careless, so it caused an accident.
 
     # 不當
     O: 부당
