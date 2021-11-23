@@ -48,7 +48,7 @@
     E: I never put makeup[l] on.
 
     O: 시간이 없어서, 친구들을 거의 못 만나요.
-    E: I do not have time, so I can hardly meet my friends[l].
+    E: I do not have time, so I almost never meet my friends[l].
 
     O: 라디오를 거의 맨날 들어요.
     E: I listen to the radio almost every day[sp].
