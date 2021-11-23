@@ -55,7 +55,7 @@
 
     # 不當
     O: 부당
-    E: wrong; unfair; unjust
+    E: unfair / unjust / wrong
 
     # 당당하다 - fair/confident/majestic
     O: 부당한 일을 당했어요.
