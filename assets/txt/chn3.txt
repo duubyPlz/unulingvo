@@ -14,7 +14,8 @@
 
     # How many times was typhoon signal number 10 hoisted in Hong Kong in the past?
     O: 香港歷來掛過幾多次十號風球? 
-    E: Historically, how many times has the typhoon signal number 10 been hoisted? 🤔
+    E: Historically, how many times has Hong Kong hoisted the number 10 typhoon signal? 🤔
+    F: Historically, how many times has _Hong Kong_ hoisted the number 10 typhoon signal? 🤔
 
     O: 嗰次係有史以來第一次上月球。
     E: That time was the first time throughout history that (lit: the moon was landed on). 🤔
