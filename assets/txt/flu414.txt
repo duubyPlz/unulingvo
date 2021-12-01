@@ -42,8 +42,8 @@
     E: I study Chinese all the time[sp], but it is still[s] difficult.
 
     O: 요즘에는 운동을 별로 안 해요.
-    E: I don't really work out[l] these days. / I rarely work out[l] these days.
-    F: I don't really work out[l] _these days_. / I rarely work out[l] _these days_.
+    E: I don't really work out[l] these days. / I rarely work out[l] these days[l].
+    F: I don't really work out[l] _these days_. / I rarely work out[l] _these days[l]_.
 
     # I never put on makeup[l].
     O: 화장을 전혀 안 해요.
