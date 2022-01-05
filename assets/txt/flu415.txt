@@ -2,12 +2,18 @@
     # {#RELATED Level 4 Lesson 11}: 아무나, 아무도, 아무거나, 아무것도
 
     # Meanings:
-    # * 아무렇지 - affected
-    # * 아무 - who, 한테 - to
-    # * 아무, 런 - like (e.g. 그런 like that), [noun], -도 없어요.
+    # 1. 아무 때나: anytime
+    # 2. 아무 (말|이야기)도: no word/mention
+    # 3. 아무렇지도 않다: to be unaffected
+    #   * 아무렇지: affected
+    # 4. 아무한테도: not to anybody
+    #   * 아무: who, 한테: to
+    # 5. 아무렇게나: in any way/however you like
+    # 6. 아무런_[noun]_도: no _[noun]_ of any kind
+    #   * 아무, 런: like (e.g. 그런 like that) + [noun] + -도 없어요.
 
-    O: 
-    E: 
+    O: 아무 때나
+    E: anytime
 
     O: 
     E: 
