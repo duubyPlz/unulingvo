@@ -1,4 +1,4 @@
-== TTMIK 4.11 - Anybody, Anything, Anywhere / 아무나, 아무도, 아무거나, 아무것도 ==
+== TTMIK 4.11 - Anybody, Anything, Anywhere / 아무나, 아무도, 아무거나, 아무것도 (아무 Part 1) ==
     # Meanings:
     # * 아무: any- + noun
     #    * Note: (In negative context) no- + noun

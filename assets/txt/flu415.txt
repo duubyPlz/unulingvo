@@ -1,0 +1,73 @@
+== TTMIK 4.15 -  Any / 아무 (아무 Part 2) ==
+    # {#RELATED Level 4 Lesson 11}: 아무나, 아무도, 아무거나, 아무것도
+
+    # Meanings:
+    # * 아무렇지 - affected
+    # * 아무 - who, 한테 - to
+    # * 아무, 런 - like (e.g. 그런 like that), [noun], -도 없어요.
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    # 두다
+    # 치우다
+    O: 아무렇게나 두지 말고, 좀 치워요.
+    E: Don't put things randomly(?) (lit: in any way), clean up a bit.
+
+    # The following two sentences have the same meaning:
+    O: 아무런 소식도 없어요.
+    E: There's no such news at all
+
+    O: 아무 소식도 없어요.
+    E: There's no news at all
+    
+    O: 아무것도 아니예요. 
+    E: (Wanting to hide something) There's nothing.
+
+    O: 
+    E: 
