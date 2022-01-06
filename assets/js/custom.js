@@ -704,7 +704,7 @@ function logic(language, isFlu) {
     //     http://stackoverflow.com/questions/30069846/how-to-find-out-chinese-or-japanese-character-in-a-string-in-python
     //     http://stackoverflow.com/questions/280712/javascript-unicode-regexes
     // \u3000-\u303F is cjk punctuation, no need to whitelist
-    var cjkWhitelistString = "\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5";
+    var cjkWhitelistString = "_\u3400-\u4DB5\u4E00-\u9FCB\uF900-\uFA6A\u3130-\u318F\u1100-\u11FF\uA960-\uA97F\uD7B0-\uD7FF\uAC00-\uD7AF\u3040-\u309F\u30A0-\u30FF\u2E80-\u2FD5";
     var cjkWhitelistRegex = makeWhitelistRegex(cjkWhitelistString);
     var grWhitelistString = "a-zA-Z0-9_.,?!'\" \-\u1F00-\u1FFF\u0370-\u03FF";
     var grWhitelistRegex = makeWhitelistRegex(grWhitelistString);
