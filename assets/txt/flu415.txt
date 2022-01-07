@@ -58,7 +58,7 @@
     # 두다
     # 치우다
     O: 아무렇게나 두지 말고, 좀 치워요.
-    E: Don't put things randomly(?) (lit: in any way), clean up a bit. 🤔
+    E: Don't put things randomly(?) (lit: in any way), clean up a bit[s]. 🤔
 
     # 6
     # There is no _ of any kind.
