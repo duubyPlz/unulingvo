@@ -1,5 +1,6 @@
 == TTMIK 4.15 - Anytime, No mention, Not affected, Not to anybody, In any way, No such _, It's nothing / 아무 때나, 아무 말도, 아무렇지도 않다, 아무한테도, 아무렇게나, 아무런 -도 없다, 아무것도 아니다 (아무 Part 2) ==
 * g -> give
+* s -> short
 
     # {#RELATED Level 4 Lesson 11}: 아무나, 아무도, 아무거나, 아무것도
 
@@ -20,7 +21,7 @@
     E: anytime
 
     O: 아무 때나 한국어 공부할 수 있어요.
-    E: You can study Korean anytime.
+    E: You can study Korean[s] anytime.
 
     # 2
     O: 아무 말도
