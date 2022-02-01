@@ -1,0 +1,3 @@
+== TTMIK 4.17 - Word Contractions (part 1) / 주격 조사, 축약형 ==
+    # 주격 主格 subject 조사 助詞 postposition = subject marker
+    # 축약형 abbreviation
