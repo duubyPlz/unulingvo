@@ -1,0 +1,67 @@
+== TTMIK 4.16 - Spacing / 띄어쓰기 ==
+* s -> short
+
+    # Rules (_ = space):
+    # 
+    # ## Spaces ##
+    # S1. Adjective _ Noun
+    # S2. Adverb _ Verb
+    # S3. Noun Marker _ Verb
+    # S4. Noun _ Noun
+    # S5. _ Noun (in general)
+    # 
+    # ## No Spaces ##
+    # N1. Noun|Pronoun Marker
+    # N2. Surname Firstname
+
+    # S1. Adjective _ Noun
+    O: 부지런한 여자
+    E: a hardworking woman
+
+    O: 게으른 사람
+    E: a lazy person
+
+    O: 예쁜 강아지
+    E: a pretty puppy
+    
+    O: 재미없는 사람
+    E: a boring person (lit: A no-fun person)
+
+    # S2. Adverb _ Verb
+    O: 조용히 걷다
+    E: to walk quietly
+
+    O: 빨리 말하다
+    E: to speak fast
+
+    # S3. Noun Marker _ Verb
+    O: 이거 샀어요.
+    E: I bought this[s].
+
+    O: 그것을 만들었어요.
+    E: I made it.
+
+    # S4. Noun _ Noun
+    O: 한국 여행
+    E: trip to Korea (lit: Korean trip)
+
+    O: 지갑 가격
+    E: the price of a wallet
+
+    # N1. Noun|Pronoun Marker
+    O: 저는
+    E: I + subject marker
+    F: _I_ + subject marker
+
+    O: 저를
+    E: I + object marker
+
+    # N2. Surname Firstname
+    O: 최경은
+    E: Choi Kyeong-eun
+
+    O: 한국관광공사
+    E: Korea Tourism Organization 🤔
+
+    O: 서울도시철도공사
+    E: Seoul Metropolitan Rapid Transit 🤔
