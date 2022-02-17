@@ -58,10 +58,10 @@
     # N1. Noun|Pronoun Marker
     O: 저는
     E: I + subject marker
-    F: _I_ + subject marker
+    F: _I_ + subject marker @polite
 
     O: 저를
-    E: I + object marker
+    E: I + object marker @polite
 
     # N2. Surname Firstname
     O: 최경은
