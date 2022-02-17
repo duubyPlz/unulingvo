@@ -38,9 +38,9 @@
     O: 항상 물어보고 싶었어요.
     E: I've always[wr] wanted to ask you (that).
 
-    # I study Chinese all the time[sp], but it is still[s] difficult.
+    # I study Chinese[l] all the time[sp], but it is still[s] difficult.
     O: 중국어를 맨날 공부하는데, 아직 어려워요.
-    E: I always[sp] study Chinese, but it is still[s] difficult.
+    E: I always[sp] study Chinese[l], but it is still[s] difficult.
 
     O: 요즘에는 운동을 별로 안 해요.
     E: I don't really work out[l] these days[l]. / I rarely work out these days.
