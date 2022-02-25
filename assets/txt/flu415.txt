@@ -73,5 +73,6 @@
     O: 아무 소식도 없어요.
     E: There's no news at all.
 
+    # There's nothing. / No biggie.
     O: 아무것도 아니에요.
-    E: (Wanting to hide something) There's nothing. / No biggie.
+    E: (Wanting to hide something) That's nothing. / No biggie.
