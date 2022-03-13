@@ -57,8 +57,8 @@
 
     # N1. Noun|Pronoun Marker
     O: 저는
-    E: I + subject marker
-    F: _I_ + subject marker @polite
+    E: I + topic marker
+    F: _I_ + topic marker @polite
 
     O: 저를
     E: I + object marker @polite
