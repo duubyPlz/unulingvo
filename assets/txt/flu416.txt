@@ -1,6 +1,7 @@
 == TTMIK 4.16 - Spacing / 띄어쓰기 Part 1 ==
 * s -> short
 * l -> long
+* e -> eng
 
     # {#RELATED Level 4 Lesson 21}: 띄어쓰기 Part 2
 
@@ -100,6 +101,5 @@
     O: 청소를 하다
     E: to clean up[l]
 
-    # English
     O: 데이트 하다
-    E: to date
+    E: to date[e]
