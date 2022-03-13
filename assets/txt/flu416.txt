@@ -47,7 +47,7 @@
     E: I bought this[s].
 
     O: 그것을 만들었어요.
-    E: I made it.
+    E: I made that[l].
 
     # S4. Noun _ Noun
     O: 한국 여행
