@@ -54,7 +54,7 @@
     E: trip to Korea (lit: Korean trip)
 
     O: 지갑 가격
-    E: the price of a wallet
+    E: the price (of a) wallet
 
     # N1. Noun|Pronoun Marker
     O: 저는
