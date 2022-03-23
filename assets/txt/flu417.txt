@@ -1,3 +1,106 @@
 == TTMIK 4.17 - Word Contractions (part 1) / 주격 조사, 축약형 ==
+* l -> long
+* ll -> vlong
+
     # 주격 主格 subject 조사 助詞 postposition = subject marker
+    # 목적격 目的格 object 조사 助詞 postposition = object marker
     # 축약형 abbreviation
+
+    # * Rules
+    # 1. Topic marker contraction: -는 → -ㄴ
+    # 2. Subject marker contraction: -이 → -ㅔ
+    # > Note: Speak with shortened form, unless in formal situations
+
+    O: 저는 괜찮아요.
+    E: I[l] am alright.
+    F: _I[l]_ am alright.
+
+    O: 전 괜찮아요.
+    E: I am alright.
+    F: _I_ am alright.
+
+    O: 나는 여기 있을게.
+    E: I[l] will stay here.
+    F: _I[l]_ will stay here.
+
+    O: 이것은 뭐예요?
+    E: What is this[ll]?
+    F: What is _this[ll]_?
+
+    O: 이건 뭐예요?
+    E: What is this?
+    F: What is _this_?
+
+    # What brings you to Seoul?
+    O: 서울에는 왜 왔어요?
+    E: Why did you come to[l] Seoul?
+    F: Why did you come _to[l] Seoul_?
+
+    O: 서울엔 왜 왔어요?
+    E: Why did you come to Seoul?
+    F: Why did you come _to Seoul_?
+
+    O: 어제는 왜 안 왔어요?
+    E: Why didn’t you come yesterday[l]?
+    F: Why didn’t you come _yesterday[l]_?
+
+    O: 어젠 왜 안 왔어요?
+    E: Why didn’t you come yesterday?
+    F: Why didn’t you come _yesterday_?
+
+    O: 경은 씬 뭐 했어요?
+    E: Kyeong-eun, what did you do?
+    F: _Kyeong-eun,_ what did you do?
+
+    # 도대체 都大體
+    O: 어제 진짜 바빴는데, 효진 씬 도대체 뭐 했어요?
+    E: Yesterday was really busy, what even did Hyojin do? 🤔
+    E: Yesterday was really busy, what even did _Hyojin_ do? 🤔
+
+    O: 이것이 좋아요.
+    E: This[ll] is good.
+    F: This[ll] _is good_.
+
+    O: 이게 좋아요.
+    E: This is good.
+    F: This _is good_.
+
+    O: 저것이 더 예뻐요.
+    E: That[ll] (over there) is prettier.
+    F: That[ll] (over there) _is prettier_.
+
+    O: 저게 더 예뻐요.
+    E: That (over there) is prettier.
+    F: That (over there) _is prettier_.
+
+    O: 그것이 어디 있어요?
+    E: Where is that[ll]?
+    F: _Where is_ that[ll]?
+
+    O: 그게 어디 있어요?
+    E: Where is that?
+    F: _Where is_ that?
+
+    O: 전 학생이에요.
+    E: I am a student.
+    F: _I_ am a student.
+
+    O: 이건 제 거예요.
+    E: This is mine.
+    F: _This_ is mine.
+
+    O: 서울엔 눈이 오고 있어요.
+    E: (sem: As far as Seoul is concerned) (lit. At) Seoul is snowing (continuous).
+    F: (sem: As far as Seoul is concerned) _(lit. At) Seoul_ is snowing (continuous).
+
+    O: 어젠 뭐 했어요?
+    E: What did you do yesterday?
+    F: What did you do _yesterday_?
+
+    O: 저게 편해요.
+    E: That (over there) is convenient. (sem: There are no other things as convenient as that one.)
+    F: That (over there) _is convenient_. (sem: There are no other things as convenient as that one.)
+
+    O: 저는 그게 없어요.
+    E: I[l] don't have that one.
+    F: _I[l] don't have_ that one.
