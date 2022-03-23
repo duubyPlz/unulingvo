@@ -1,6 +1,7 @@
 == TTMIK 4.16 - Spacing / 띄어쓰기 Part 1 ==
 * s -> short
 * l -> long
+* ll -> vlong
 * e -> eng
 
     # {#RELATED Level 4 Lesson 21}: 띄어쓰기 Part 2
@@ -47,7 +48,7 @@
     E: I bought this[s].
 
     O: 그것을 만들었어요.
-    E: I made that[l].
+    E: I made that[ll].
 
     # S4. Noun _ Noun
     O: 한국 여행
