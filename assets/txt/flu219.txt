@@ -73,11 +73,13 @@
     O: 오늘 만나는 거 알아요?
     E: Do you know that we are meeting today?
 
+    # Are you good at eating spicy foods[l]?
     O: 매운 것 잘 먹어요?
-    E: Are you good at eating spicy foods[l]?
+    E: Are you good at eating spicy things[l]?
 
+    # Are you good at eating spicy foods?
     O: 매운 거 잘 먹어요?
-    E: Are you good at eating spicy foods?
+    E: Are you good at eating spicy things?
 
     O: 제 취미는 영화 보는 거예요.
     E: My hobby is watching movies.
