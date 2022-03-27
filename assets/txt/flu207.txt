@@ -41,7 +41,7 @@
     E: (Trying to explain, the thing is:) That one[s] I received it from my ex-boyfriend. 🤔
     F: (Trying to explain, the thing is:) _That one[s]_ I received it from my ex-boyfriend. 🤔
 
-    # 얻다 = to obtain, to acquire, to get
+    # 얻다 = to gain/obtain
     # 그 남자한테 얻을 건 별로 없을 거예요.
     O: 그 남자한테 얻을 거는 별로 없을 거예요.
-    E: You will not be _getting_ much _out_ of (lit. from[s]) him. 🤔
+    E: You will not be _getting (lit. gaining)_ much _out_ of (lit. from[s]) him. 🤔
