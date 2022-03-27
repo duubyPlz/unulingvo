@@ -21,6 +21,7 @@
     O: 너한테 할 말이 있어.
     E: I have something to say to you. @impolite 🤔
 
+    # 차다 = to dump, to kick
     # 차이다 = to be dumped
     O: 남자친구한테 차였어요.
     E: I was dumped by my boyfriend. 🤔
