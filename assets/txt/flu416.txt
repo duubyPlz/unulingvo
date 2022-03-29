@@ -75,7 +75,7 @@
     O: 서울도시철도공사
     E: Seoul Metropolitan Rapid Transit (lit: Seoul city railway corporation) 🤔
 
-    # E1. Common phrases (common in sino-korean words)
+    # Exception 1. Common phrases (common in sino-korean words)
     O: 이것
     E: This thing[l]
 
@@ -83,24 +83,31 @@
     O: 여자친구
     E: girlfriend
 
-    # E2. Noun 하다
+    # Exception 2. Noun 하다
     O: 공부하다
     E: to study
 
     O: 공부를 하다
     E: to study[l]
 
-    O: 운동 하다
+    O: 운동하다
     E: to exercise
 
     O: 운동을 하다
     E: to exercise[l]
 
-    O: 청소 하다
+    O: 청소하다
     E: to clean up
 
     O: 청소를 하다
     E: to clean up[l]
 
+    O: 화장하다
+    E: to put makeup on
+
+    O: 수영하다
+    E: to swim
+
+    # Has a space = Because it is English
     O: 데이트 하다
     E: to date[e]
