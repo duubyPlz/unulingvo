@@ -20,8 +20,8 @@
     F: _I_ am alright.
 
     O: 나는 여기 있을게.
-    E: I[l] will stay here.
-    F: _I[l]_ will stay here.
+    E: (Then) I[l] will stay here. @impolite
+    F: (Then) _I[l]_ will stay here. @impolite
 
     O: 이것은 뭐예요?
     E: What is this[ll]?
@@ -55,7 +55,7 @@
     # 도대체 都大體
     O: 어제 진짜 바빴는데, 효진 씬 도대체 뭐 했어요?
     E: Yesterday was really busy, what even did Hyojin do? 🤔
-    E: Yesterday was really busy, what even did _Hyojin_ do? 🤔
+    F: Yesterday was really busy, what even did _Hyojin_ do? 🤔
 
     O: 이것이 좋아요.
     E: This[ll] is good.
@@ -74,12 +74,12 @@
     F: That (over there) _is prettier_.
 
     O: 그것이 어디 있어요?
-    E: Where is that[ll]?
-    F: _Where is_ that[ll]?
+    E: Where is that[ll] (thing)?
+    F: _Where is_ that[ll] (thing)?
 
     O: 그게 어디 있어요?
-    E: Where is that?
-    F: _Where is_ that?
+    E: Where is that (thing)?
+    F: _Where is_ that (thing)?
 
     O: 전 학생이에요.
     E: I am a student.
@@ -90,8 +90,8 @@
     F: _This_ is mine.
 
     O: 서울엔 눈이 오고 있어요.
-    E: (sem: As far as Seoul is concerned) (lit. At) Seoul is snowing (continuous).
-    F: (sem: As far as Seoul is concerned) _(lit. At) Seoul_ is snowing (continuous).
+    E: (sem: As far as in Seoul is concerned) (lit. At) Seoul is snowing (continuous).
+    F: (sem: As far as in Seoul is concerned) _(lit. At) Seoul_ is snowing (continuous).
 
     O: 어젠 뭐 했어요?
     E: What did you do yesterday?
