@@ -24,6 +24,7 @@
 
     O: 민지가 좋아하는 사람
     E: someone who Minji likes
+    F: someone who _Minji_ likes
 
     O: 민지를 좋아하는 사람
     E: someone who likes Minji
