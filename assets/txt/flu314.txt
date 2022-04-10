@@ -11,16 +11,16 @@
     E: (the/a) book that I like
 
     O: 가다. 가는.
-    E: To go. That's going (adjective)
+    E: To go. ... that's going (adjective)
 
     O: 자다. 자는.
-    E: To sleep. That is sleeping (adjective).
+    E: To sleep. ... that is sleeping (adjective).
 
     O: 열다. 여는.
-    E: To open. That is opening (adjective).
+    E: To open. ... that is opening (adjective).
 
     O: 불다. 부는.
-    E: To blow. That is blown (adjective).
+    E: To blow. ... that is blown (adjective).
 
     O: 민지가 좋아하는 사람
     E: someone who Minji likes
