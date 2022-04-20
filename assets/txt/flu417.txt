@@ -55,8 +55,8 @@
 
     # 도대체 都大體
     O: 어제 진짜 바빴는데, 효진 씬 도대체 뭐 했어요?
-    E: Yesterday was really[sp] busy, (but) what even did Hyojin do? 🤔
-    F: Yesterday was really[sp] busy, (but) what even did _Hyojin_ do? 🤔
+    E: Yesterday was really[sp] busy, (but) what did Hyojin even do? 🤔
+    F: Yesterday was really[sp] busy, (but) what did _Hyojin_ even do? 🤔
 
     O: 이것이 좋아요.
     E: This[ll] is good.
