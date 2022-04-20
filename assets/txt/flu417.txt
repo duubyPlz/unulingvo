@@ -1,6 +1,7 @@
 == TTMIK 4.17 - Word Contractions (part 1) / 주격 조사, 축약형 ==
 * l -> long
 * ll -> vlong
+* sp -> spoken
 
     # 주격 主格 subject 조사 助詞 postposition = subject marker
     # 목적격 目的格 object 조사 助詞 postposition = object marker
@@ -54,8 +55,8 @@
 
     # 도대체 都大體
     O: 어제 진짜 바빴는데, 효진 씬 도대체 뭐 했어요?
-    E: Yesterday was really busy, what even did Hyojin do? 🤔
-    F: Yesterday was really busy, what even did _Hyojin_ do? 🤔
+    E: Yesterday was really[sp] busy, (but) what even did Hyojin do? 🤔
+    F: Yesterday was really[sp] busy, (but) what even did _Hyojin_ do? 🤔
 
     O: 이것이 좋아요.
     E: This[ll] is good.
