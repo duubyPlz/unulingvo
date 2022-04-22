@@ -1,9 +1,7 @@
 == TTMIK 4.19 - Less, Not completely / 덜 ==
 
-    # 
-
-    O: 
-    E: 
+    O: 덜 먹다
+    E: to eat (something) less
 
     O: 
     E: 

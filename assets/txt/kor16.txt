@@ -1,6 +1,14 @@
 == Numbers ==
 * s -> spoken
 
+    # 십구 번 [noun]: [noun] number nineteen
+    # [noun] 열 아홉 [collective noun]: the nineteenth [noun]
+    O: 십구 번 레슨
+    E: Lesson number nineteen
+
+    O: 레슨 열 아홉 개
+    E: The nineteenth lesson
+
 > One
     # ~채 is the counter for buildings
     # 아파트 두 채
