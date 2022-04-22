@@ -1,78 +1,54 @@
 == TTMIK 4.18 - Most, Best (superlative) / 최상급, 최고 ==
+* f -> formal
+
     # Meanings:
-    # * 제일 sino
-    # * 가장 native
+    # * 제일 sino, spoken
+    # * 가장 native, more formal
     # Most or best + adjective/adverb
 
-    O: 
-    E: 
+    # More:
+    O: 조금 더
+    E: A little more
 
-    O: 
-    E: 
+    O: 더 많이
+    E: More (amount, adjective not just adverb)
 
-    O: 
-    E: 
+    O: 돈 더 주세요.
+    E: Give me more money.
 
-    O: 
-    E: 
+    O: 더 마시고 싶어요.
+    E: I want to drink more.
 
-    O: 
-    E: 
+    # Most:
+    O: 제일 좋아요
+    E: (It) is the best.
 
-    O: 
-    E: 
+    O: 제일 재미 있어요
+    E: (It) is the most fun. / (It) is the most interesting.
 
-    O: 
-    E: 
+    O: 제일 좋은 것
+    E: the best thing
 
-    O: 
-    E: 
+    O: 이게 제일 좋아요.
+    E: This is the best.
+    F: _This_ is the best.
 
-    O: 
-    E: 
+    O: 제일 가까운 역이 어디에요?
+    E: Where is the closest station?
+    F: _Where is the_ closest station?
 
-    O: 
-    E: 
+    O: 어떤 색깔이 가장 좋아요?
+    E: Which color is the best[f]? / Which color is your favorite?
+    F: Which color _is the best[f]_? / Which color is your favorite?
 
-    O: 
-    E: 
+    # 村스럽다
+    O: 촌스럽다
+    E: not stylish / countrified
 
-    O: 
-    E: 
+    O: 제일 먼저 온 사람이 누구예요?
+    E: Who is the person that came here first?
+    F: _Who is the_ person that came here first?
 
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
+    O: 요즘 가장 인기 있는 가수는 누구예요?
+    E: These days[s], who is the most[f] popular singer?
+    F: These days[s], who is the _most[f] popular singer_?
