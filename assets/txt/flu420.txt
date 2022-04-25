@@ -1,0 +1,75 @@
+== TTMIK 4.20 - [Sentence Building Drill] #1 ==
+
+    # 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 
+
+    O: 
+    E: 

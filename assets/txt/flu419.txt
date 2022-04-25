@@ -39,10 +39,16 @@
     E: Are we there yet?
 
     O: 덜 왔어요.
-    E: We are not completely there yet.
+    E: (We are) not completely there yet.
+
+    O: 더 안 왔어요.
+    E: We are NOT FULLY[l] there yet.
 
     O: 제 책 돌려주세요.
     E: Give me my[s] book back.
 
     O: 아직 덜 봤어요.
-    E: I haven't finished it yet.
+    E: I haven't finished reading it yet.
+
+    O: 아직 더 봐야 돼요.
+    E: There's still more to read.
