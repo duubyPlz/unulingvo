@@ -31,9 +31,10 @@
 
     O: 이게 제일 좋아요.
     E: This is the best.
-    F: _This_ is the best.
+    F: This _is the best_.
 
-    O: 제일 가까운 역이 어디에요?
+    # 제일 가까운 역이 어디에요? To where is the closest station?
+    O: 제일 가까운 역이 어디예요?
     E: Where is the closest station?
     F: _Where is the_ closest station?
 

@@ -18,6 +18,7 @@
     # The hat could be too small (for you).
     O: 모자가 작을 수도 있어요.
     E: The hat could be small.
+    F: The hat _could be small_.
 
     O: 저 내일 올 수도 있어요.
     E: I[l] might come (here) tomorrow.

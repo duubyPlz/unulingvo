@@ -24,6 +24,7 @@
 
     O: 누가 전화했을까요?
     E: Who do you think called?
+    F: Who _do you think called_?
 
     O: 어제 탈리아나가 한국에 왔을까요?
     E: Do you think Taliana came to Korea yesterday?

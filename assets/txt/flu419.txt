@@ -1,26 +1,35 @@
 == TTMIK 4.19 - Less, Not completely / 덜 ==
 
+    # Less vs. More
+    # 
+    # 
+    # Not completely vs. Completely:
+    #
+
+    # Less
     O: 덜 먹다
     E: to eat (something) less
 
-    O: 
-    E: 
+    O: 덜 쓰다
+    E: to use (something) less
 
-    O: 
-    E: 
+    O: 덜 춥다 
+    E: to be less cold
 
-    O: 
-    E: 
+    O: 덜 비싸다
+    E: to be less expensive
 
-    O: 
-    E: 
+    O: 어제보다 덜 추워요.
+    E: It is less cold than yesterday.
 
-    O: 
-    E: 
+    O: 덜 비싼 것 없어요?
+    E: Don’t you have a less expensive one?
 
-    O: 
-    E: 
+    O: 물은 더 마시고, 술은 덜 마셔야 돼요.
+    E: You should drink more water and less alcohol.
+    F: You should drink more _water_ and less _alcohol_.
 
+    # Not completely
     O: 
     E: 
 
