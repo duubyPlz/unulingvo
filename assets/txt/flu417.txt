@@ -12,38 +12,42 @@
     # 2. Subject marker contraction: -이 → -ㅔ
     # > Note: Speak with shortened form, unless in formal situations
 
-    O: 저는 괜찮아요.
-    E: I[l] am alright.
-    F: _I[l]_ am alright.
+    # O: 저는 괜찮아요.
+    # E: I[l] am alright.
+    # F: _I[l]_ am alright.
 
     O: 전 괜찮아요.
     E: I am alright.
     F: _I_ am alright.
 
-    O: 나는 여기 있을게.
-    E: (Then) I[l] will stay here. @impolite
-    F: (Then) _I[l]_ will stay here. @impolite
+    # O: 나는 여기 있을게.
+    # E: (Then) I[l] will stay here. @impolite
+    # F: (Then) _I[l]_ will stay here. @impolite
 
-    O: 이것은 뭐예요?
-    E: What is this[ll]?
-    F: What is _this[ll]_?
+    O: 난 여기 있을게.
+    E: (Then) I will stay here. @impolite
+    F: (Then) _I_ will stay here. @impolite
+
+    # O: 이것은 뭐예요?
+    # E: What is this[ll]?
+    # F: What is _this[ll]_?
 
     O: 이건 뭐예요?
     E: What is this?
     F: What is _this_?
 
-    # What brings you to Seoul?
-    O: 서울에는 왜 왔어요?
-    E: Why did you come to[l] Seoul?
-    F: Why did you come _to[l] Seoul_?
+    # O: 서울에는 왜 왔어요?
+    # E: Why did you come to[l] Seoul?
+    # F: Why did you come _to[l] Seoul_?
 
+    # What brings you to Seoul?
     O: 서울엔 왜 왔어요?
     E: Why did you come to Seoul?
     F: Why did you come _to Seoul_?
 
-    O: 어제는 왜 안 왔어요?
-    E: Why didn’t you come yesterday[l]?
-    F: Why didn’t you come _yesterday[l]_?
+    # O: 어제는 왜 안 왔어요?
+    # E: Why didn’t you come yesterday[l]?
+    # F: Why didn’t you come _yesterday[l]_?
 
     O: 어젠 왜 안 왔어요?
     E: Why didn’t you come yesterday?
@@ -58,25 +62,25 @@
     E: Yesterday was really[sp] busy, (but) what did Hyojin even do? 🤔
     F: Yesterday was really[sp] busy, (but) what did _Hyojin_ even do? 🤔
 
-    O: 이것이 좋아요.
-    E: This[ll] is good.
-    F: This[ll] _is good_.
+    # O: 이것이 좋아요.
+    # E: This[ll] is good.
+    # F: This[ll] _is good_.
 
     O: 이게 좋아요.
     E: This is good.
     F: This _is good_.
 
-    O: 저것이 더 예뻐요.
-    E: That[ll] (over there) is prettier.
-    F: That[ll] (over there) _is prettier_.
+    # O: 저것이 더 예뻐요.
+    # E: That[ll] (over there) is prettier.
+    # F: That[ll] (over there) _is prettier_.
 
     O: 저게 더 예뻐요.
     E: That (over there) is prettier.
     F: That (over there) _is prettier_.
 
-    O: 그것이 어디 있어요?
-    E: Where is that[ll] (thing)?
-    F: _Where is_ that[ll] (thing)?
+    # O: 그것이 어디 있어요?
+    # E: Where is that[ll] (thing)?
+    # F: _Where is_ that[ll] (thing)?
 
     O: 그게 어디 있어요?
     E: Where is that (thing)?
@@ -102,6 +106,10 @@
     E: That (over there) is convenient. (sem: There are no other things as convenient as that one.)
     F: That (over there) _is convenient_. (sem: There are no other things as convenient as that one.)
 
-    O: 저는 그게 없어요.
-    E: I[l] don't have that one. (Lit: As for me, that one doesn't exist.)
-    F: _I[l] don't have_ that one. (Lit: As for me, that one doesn't exist.)
+    # O: 저는 그게 없어요.
+    # E: I[l] don't have that one. (Lit: As for me, that one doesn't exist.)
+    # F: _I[l] don't have_ that one. (Lit: As for me, that one doesn't exist.)
+
+    O: 전 그게 없어요.
+    E: I don't have that one. (Lit: As for me, that one doesn't exist.)
+    F: _I don't have_ that one. (Lit: As for me, that one doesn't exist.)
