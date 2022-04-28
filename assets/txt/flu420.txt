@@ -16,7 +16,8 @@
     # > 내일 시간이 있으면, 같이 커피 마실래요?
     # > If you have time tomorrow, will you drink coffee together (with me)?
     
-    # 1
+    # # 1
+    # ### Variants
     # 오늘부터 = from today
     # 내일부터 = from tomorrow
     # 지금부터 = from now on
@@ -37,6 +38,7 @@
     # 더 열심히 공부하다. = to study harder.
     # 덜 열심히 공부하다. = to study less hard.
 
+    # ### Dictionaries
     # segment_a = {}
     # segment_a["오늘부터"]="Starting from today, I am going to"
     # segment_a["내일부터"]="Starting from tomorrow, I am going to"
@@ -315,7 +317,8 @@
     O: 언제부터 한국어를 덜 열심히 준비할 거예요.
     E: Starting from when, am I going to prepare Korean[l] less hard?
 
-    # 2
+    # # 2
+    # ### Variants
     # 내일부터 일요일까지 = from tomorrow until Sunday
     # 내일부터 모레까지 = from tomorrow until the day after tomorrow
     # 어제부터 오늘까지 = from yesterday until today
@@ -335,6 +338,7 @@
     # 어쩌면 비가 내릴지도 몰라요. = Maybe it might rain.
     # 어쩌면 비가 내릴 수도 있어요. = Maybe it could rain.
 
+    # ### Dictionaries
     # segment_a = {}
     # segment_a["아마"]="It will probably"
     # segment_a["분명히"]="It will certainly"
@@ -693,7 +697,8 @@
     O: 어쩌면 지난주부터 다음 주까지 비가 많이 내릴 수도 있어요.
     E: It could rain[l] a lot from last week until next week.
 
-    # 3
+    # # 3
+    # ### Variants
     # 시간이 있으면 = if you have time
     # 시간이 없으면 = if you do not have time
     # 시간이 많이 있으면 = if you have a lot[av] of time
@@ -717,6 +722,7 @@
     # 저랑 같이 커피 마실래요? = Do you want to drink coffee together with me?
     # 다 같이 커피 마실래요? = Do you want to drink coffee with everyone?
 
+    # ### Dictionaries
     # segment_a = {}
     # segment_a["내일"]="tomorrow,"
     # segment_a["오늘"]="today,"
