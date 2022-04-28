@@ -1,5 +1,7 @@
 == TTMIK 4.20 - [Sentence Building Drill] #1 ==
+* s -> short
 * l -> long 
+
     # # Sentences
     # ### 1
     # > 오늘부터 한국어를 더 열심히 공부할 거예요.
@@ -56,6 +58,9 @@
     # segment_d["일할 거예요."]="work on"
     # segment_d["준비할 거예요."]="prepare"
     
+    O: 제가 항상 하는 말이에요.
+    E: It's something (lit. some words) I say[s] all the time.
+
     O: 오늘부터 한국어를 열심히 공부할 거예요.
     E: Starting from today, I am going to study Korean[l] hard.
 
