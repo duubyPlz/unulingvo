@@ -1,6 +1,318 @@
+%cson
+
 == TTMIK 4.20 - [Sentence Building Drill] #1 ==
-
+* l -> long 
+    # # Sentences
+    # ### 1
+    # > 오늘부터 한국어를 더 열심히 공부할 거예요.
+    # > Starting from today, I am going to study Korean[l] harder.
+    # ### 2
+    # > 아마 내일부터 일요일까지 비가 내릴 거예요.
+    # > It will probably rain from tomorrow until Sunday.
+    #
+    # ### 3
+    # > 내일 시간이 있으면, 같이 커피 마실래요?
+    # > If you have time tomorrow, will you drink coffee together (with me)
+    
+    # 1
+    # 오늘부터 = from today
+    # 내일부터 = from tomorrow
+    # 지금부터 = from now on
+    # 언제부터? = since when?
     # 
+    # 한국어를 공부할 거예요. = I am going to study Korean.
+    # 한국어를 연습할 거예요. = I am going to practice Korean.
+    # 한국어를 쓸 거예요. = I am going to use Korean.
+    # 한국어로 말할 거예요. = I am going to talk in Korean.
+    # 한국어를 배울 거예요. = I am going to learn Korean.
+    # 
+    # 열심히 공부할 거예요. = I am going to study hard.
+    # 열심히 일할 거예요. = I am going to work hard.
+    # 열심히 준비할 거예요. = I am going to prepare hard.
+    # 열심히 연습할 거예요. = I am going to practice hard.
+    # 
+    # 열심히 공부하다. = to study hard.
+    # 더 열심히 공부하다. = to study harder.
+    # 덜 열심히 공부하다. = to study less hard.
+
+    # segment_a = {}
+    # segment_a["오늘부터"]="Starting from today, I am going to"
+    # segment_a["내일부터"]="Starting from tomorrow, I am going to"
+    # segment_a["지금부터"]="From now on, I am going to"
+    # segment_a["언제부터"]="Starting from when, am I going to"
+    # 
+    # segment_b = {}
+    # segment_b["한국어를"]="Korean[l]"
+    # 
+    # segment_c = {}
+    # segment_c["열심히"]="hard."
+    # segment_c["더 열심히"]="harder."
+    # segment_c["덜 열심히"]="less hard."
+    # 
+    # segment_d = {}
+    # segment_d["공부할 거예요."]="study"
+    # segment_d["연습할 거예요."]="practice"
+    # segment_d["쓸 거예요."]="use"
+    # segment_d["말할 거예요."]="speak"
+    # segment_d["배울 거예요."]="learn"
+    # segment_d["일할 거예요."]="work on"
+    # segment_d["준비할 거예요."]="prepare"
+    
+    O: 오늘부터 한국어를 열심히 공부할 거예요.
+    E: Starting from today, I am going to study Korean[l] hard.
+
+    O: 오늘부터 한국어를 열심히 연습할 거예요.
+    E: Starting from today, I am going to practice Korean[l] hard.
+
+    O: 오늘부터 한국어를 열심히 쓸 거예요.
+    E: Starting from today, I am going to use Korean[l] hard.
+
+    O: 오늘부터 한국어를 열심히 말할 거예요.
+    E: Starting from today, I am going to speak Korean[l] hard.
+
+    O: 오늘부터 한국어를 열심히 배울 거예요.
+    E: Starting from today, I am going to learn Korean[l] hard.
+
+    O: 오늘부터 한국어를 열심히 일할 거예요.
+    E: Starting from today, I am going to work on Korean[l] hard.
+
+    O: 오늘부터 한국어를 열심히 준비할 거예요.
+    E: Starting from today, I am going to prepare Korean[l] hard.
+
+    O: 오늘부터 한국어를 더 열심히 공부할 거예요.
+    E: Starting from today, I am going to study Korean[l] harder.
+
+    O: 오늘부터 한국어를 더 열심히 연습할 거예요.
+    E: Starting from today, I am going to practice Korean[l] harder.
+
+    O: 오늘부터 한국어를 더 열심히 쓸 거예요.
+    E: Starting from today, I am going to use Korean[l] harder.
+
+    O: 오늘부터 한국어를 더 열심히 말할 거예요.
+    E: Starting from today, I am going to speak Korean[l] harder.
+
+    O: 오늘부터 한국어를 더 열심히 배울 거예요.
+    E: Starting from today, I am going to learn Korean[l] harder.
+
+    O: 오늘부터 한국어를 더 열심히 일할 거예요.
+    E: Starting from today, I am going to work on Korean[l] harder.
+
+    O: 오늘부터 한국어를 더 열심히 준비할 거예요.
+    E: Starting from today, I am going to prepare Korean[l] harder.
+
+    O: 오늘부터 한국어를 덜 열심히 공부할 거예요.
+    E: Starting from today, I am going to study Korean[l] less hard.
+
+    O: 오늘부터 한국어를 덜 열심히 연습할 거예요.
+    E: Starting from today, I am going to practice Korean[l] less hard.
+
+    O: 오늘부터 한국어를 덜 열심히 쓸 거예요.
+    E: Starting from today, I am going to use Korean[l] less hard.
+
+    O: 오늘부터 한국어를 덜 열심히 말할 거예요.
+    E: Starting from today, I am going to speak Korean[l] less hard.
+
+    O: 오늘부터 한국어를 덜 열심히 배울 거예요.
+    E: Starting from today, I am going to learn Korean[l] less hard.
+
+    O: 오늘부터 한국어를 덜 열심히 일할 거예요.
+    E: Starting from today, I am going to work on Korean[l] less hard.
+
+    O: 오늘부터 한국어를 덜 열심히 준비할 거예요.
+    E: Starting from today, I am going to prepare Korean[l] less hard.
+
+    O: 내일부터 한국어를 열심히 공부할 거예요.
+    E: Starting from tomorrow, I am going to study Korean[l] hard.
+
+    O: 내일부터 한국어를 열심히 연습할 거예요.
+    E: Starting from tomorrow, I am going to practice Korean[l] hard.
+
+    O: 내일부터 한국어를 열심히 쓸 거예요.
+    E: Starting from tomorrow, I am going to use Korean[l] hard.
+
+    O: 내일부터 한국어를 열심히 말할 거예요.
+    E: Starting from tomorrow, I am going to speak Korean[l] hard.
+
+    O: 내일부터 한국어를 열심히 배울 거예요.
+    E: Starting from tomorrow, I am going to learn Korean[l] hard.
+
+    O: 내일부터 한국어를 열심히 일할 거예요.
+    E: Starting from tomorrow, I am going to work on Korean[l] hard.
+
+    O: 내일부터 한국어를 열심히 준비할 거예요.
+    E: Starting from tomorrow, I am going to prepare Korean[l] hard.
+
+    O: 내일부터 한국어를 더 열심히 공부할 거예요.
+    E: Starting from tomorrow, I am going to study Korean[l] harder.
+
+    O: 내일부터 한국어를 더 열심히 연습할 거예요.
+    E: Starting from tomorrow, I am going to practice Korean[l] harder.
+
+    O: 내일부터 한국어를 더 열심히 쓸 거예요.
+    E: Starting from tomorrow, I am going to use Korean[l] harder.
+
+    O: 내일부터 한국어를 더 열심히 말할 거예요.
+    E: Starting from tomorrow, I am going to speak Korean[l] harder.
+
+    O: 내일부터 한국어를 더 열심히 배울 거예요.
+    E: Starting from tomorrow, I am going to learn Korean[l] harder.
+
+    O: 내일부터 한국어를 더 열심히 일할 거예요.
+    E: Starting from tomorrow, I am going to work on Korean[l] harder.
+
+    O: 내일부터 한국어를 더 열심히 준비할 거예요.
+    E: Starting from tomorrow, I am going to prepare Korean[l] harder.
+
+    O: 내일부터 한국어를 덜 열심히 공부할 거예요.
+    E: Starting from tomorrow, I am going to study Korean[l] less hard.
+
+    O: 내일부터 한국어를 덜 열심히 연습할 거예요.
+    E: Starting from tomorrow, I am going to practice Korean[l] less hard.
+
+    O: 내일부터 한국어를 덜 열심히 쓸 거예요.
+    E: Starting from tomorrow, I am going to use Korean[l] less hard.
+
+    O: 내일부터 한국어를 덜 열심히 말할 거예요.
+    E: Starting from tomorrow, I am going to speak Korean[l] less hard.
+
+    O: 내일부터 한국어를 덜 열심히 배울 거예요.
+    E: Starting from tomorrow, I am going to learn Korean[l] less hard.
+
+    O: 내일부터 한국어를 덜 열심히 일할 거예요.
+    E: Starting from tomorrow, I am going to work on Korean[l] less hard.
+
+    O: 내일부터 한국어를 덜 열심히 준비할 거예요.
+    E: Starting from tomorrow, I am going to prepare Korean[l] less hard.
+
+    O: 지금부터 한국어를 열심히 공부할 거예요.
+    E: From now on, I am going to study Korean[l] hard.
+
+    O: 지금부터 한국어를 열심히 연습할 거예요.
+    E: From now on, I am going to practice Korean[l] hard.
+
+    O: 지금부터 한국어를 열심히 쓸 거예요.
+    E: From now on, I am going to use Korean[l] hard.
+
+    O: 지금부터 한국어를 열심히 말할 거예요.
+    E: From now on, I am going to speak Korean[l] hard.
+
+    O: 지금부터 한국어를 열심히 배울 거예요.
+    E: From now on, I am going to learn Korean[l] hard.
+
+    O: 지금부터 한국어를 열심히 일할 거예요.
+    E: From now on, I am going to work on Korean[l] hard.
+
+    O: 지금부터 한국어를 열심히 준비할 거예요.
+    E: From now on, I am going to prepare Korean[l] hard.
+
+    O: 지금부터 한국어를 더 열심히 공부할 거예요.
+    E: From now on, I am going to study Korean[l] harder.
+
+    O: 지금부터 한국어를 더 열심히 연습할 거예요.
+    E: From now on, I am going to practice Korean[l] harder.
+
+    O: 지금부터 한국어를 더 열심히 쓸 거예요.
+    E: From now on, I am going to use Korean[l] harder.
+
+    O: 지금부터 한국어를 더 열심히 말할 거예요.
+    E: From now on, I am going to speak Korean[l] harder.
+
+    O: 지금부터 한국어를 더 열심히 배울 거예요.
+    E: From now on, I am going to learn Korean[l] harder.
+
+    O: 지금부터 한국어를 더 열심히 일할 거예요.
+    E: From now on, I am going to work on Korean[l] harder.
+
+    O: 지금부터 한국어를 더 열심히 준비할 거예요.
+    E: From now on, I am going to prepare Korean[l] harder.
+
+    O: 지금부터 한국어를 덜 열심히 공부할 거예요.
+    E: From now on, I am going to study Korean[l] less hard.
+
+    O: 지금부터 한국어를 덜 열심히 연습할 거예요.
+    E: From now on, I am going to practice Korean[l] less hard.
+
+    O: 지금부터 한국어를 덜 열심히 쓸 거예요.
+    E: From now on, I am going to use Korean[l] less hard.
+
+    O: 지금부터 한국어를 덜 열심히 말할 거예요.
+    E: From now on, I am going to speak Korean[l] less hard.
+
+    O: 지금부터 한국어를 덜 열심히 배울 거예요.
+    E: From now on, I am going to learn Korean[l] less hard.
+
+    O: 지금부터 한국어를 덜 열심히 일할 거예요.
+    E: From now on, I am going to work on Korean[l] less hard.
+
+    O: 지금부터 한국어를 덜 열심히 준비할 거예요.
+    E: From now on, I am going to prepare Korean[l] less hard.
+
+    O: 언제부터 한국어를 열심히 공부할 거예요.
+    E: Starting from when, am I going to study Korean[l] hard?
+
+    O: 언제부터 한국어를 열심히 연습할 거예요.
+    E: Starting from when, am I going to practice Korean[l] hard?
+
+    O: 언제부터 한국어를 열심히 쓸 거예요.
+    E: Starting from when, am I going to use Korean[l] hard?
+
+    O: 언제부터 한국어를 열심히 말할 거예요.
+    E: Starting from when, am I going to speak Korean[l] hard?
+
+    O: 언제부터 한국어를 열심히 배울 거예요.
+    E: Starting from when, am I going to learn Korean[l] hard?
+
+    O: 언제부터 한국어를 열심히 일할 거예요.
+    E: Starting from when, am I going to work on Korean[l] hard?
+
+    O: 언제부터 한국어를 열심히 준비할 거예요.
+    E: Starting from when, am I going to prepare Korean[l] hard?
+
+    O: 언제부터 한국어를 더 열심히 공부할 거예요.
+    E: Starting from when, am I going to study Korean[l] harder?
+
+    O: 언제부터 한국어를 더 열심히 연습할 거예요.
+    E: Starting from when, am I going to practice Korean[l] harder?
+
+    O: 언제부터 한국어를 더 열심히 쓸 거예요.
+    E: Starting from when, am I going to use Korean[l] harder?
+
+    O: 언제부터 한국어를 더 열심히 말할 거예요.
+    E: Starting from when, am I going to speak Korean[l] harder?
+
+    O: 언제부터 한국어를 더 열심히 배울 거예요.
+    E: Starting from when, am I going to learn Korean[l] harder?
+
+    O: 언제부터 한국어를 더 열심히 일할 거예요.
+    E: Starting from when, am I going to work on Korean[l] harder?
+
+    O: 언제부터 한국어를 더 열심히 준비할 거예요.
+    E: Starting from when, am I going to prepare Korean[l] harder?
+
+    O: 언제부터 한국어를 덜 열심히 공부할 거예요.
+    E: Starting from when, am I going to study Korean[l] less hard?
+
+    O: 언제부터 한국어를 덜 열심히 연습할 거예요.
+    E: Starting from when, am I going to practice Korean[l] less hard?
+
+    O: 언제부터 한국어를 덜 열심히 쓸 거예요.
+    E: Starting from when, am I going to use Korean[l] less hard?
+
+    O: 언제부터 한국어를 덜 열심히 말할 거예요.
+    E: Starting from when, am I going to speak Korean[l] less hard?
+
+    O: 언제부터 한국어를 덜 열심히 배울 거예요.
+    E: Starting from when, am I going to learn Korean[l] less hard?
+
+    O: 언제부터 한국어를 덜 열심히 일할 거예요.
+    E: Starting from when, am I going to work on Korean[l] less hard?
+
+    O: 언제부터 한국어를 덜 열심히 준비할 거예요.
+    E: Starting from when, am I going to prepare Korean[l] less hard?
+
+    # 2
+    O: 아마 내일부터 일요일까지 비가 내릴 거예요.
+    E: It will probably rain from tomorrow until Sunday.
 
     O: 
     E: 
@@ -23,32 +335,9 @@
     O: 
     E: 
 
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
+    # 3
+    O: 내일 시간이 있으면, 같이 커피 마실래요?
+    E: If you have time tomorrow, will you drink coffee together?
 
     O: 
     E: 
