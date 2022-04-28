@@ -9,26 +9,31 @@ Output will be in the format of O: and E: (no F:).
 
 
 segment_a = {}
-segment_a["아마"]="It will probably"
-segment_a["분명히"]="It will certainly"
-segment_a["어쩌면"]="It might" # manual o -지도 몰라요.
-segment_a["어쩌면2"]="It could" # manual o -ㄹ 수도 있어요.
+segment_a["내일"]="tomorrow,"
+segment_a["오늘"]="today,"
+segment_a["주말에"]="this weekend,"
+segment_a["다음 주에"]="next week,"
+segment_a["이번 달에"]="this month,"
 
 segment_b = {}
-segment_b["내일부터 일요일까지"]="from tomorrow until Sunday."
-segment_b["내일부터 모레까지"]="from tomorrow until the day after tomorrow."
-segment_b["어제부터 오늘까지"]="from yesterday until today."
-segment_b["지난주부터 다음 주까지"]="from last week until next week."
+segment_b["시간이 있으면"]="If you have time"
+segment_b["시간이 없으면"]="If you don't have time"
+segment_b["시간이 많이 있으면"]="If you have a lot[av] of time"
+segment_b["시간이 많으면"]="If you have a lot[v] of time"
+segment_b["시간이 조금 밖에 없으면"]="If you have only a little bit of time"
+segment_b["시간이 전혀 없으면"]="If you have no time at all"
 
 segment_c = {}
-segment_c["비가 내릴 거예요."]="rain[l]"
-segment_c["비가 올 거예요."]="rain"
-segment_c["눈이 내릴 거예요."]="snow[l]"
-segment_c["눈이 올 거예요."]="snow"
-segment_c["비가 그칠 거예요."]="stop raining"
-segment_c["눈이 그칠 거예요."]="stop snowing"
-segment_c["비가 많이 내릴 거예요."]="rain[l] a lot"
-segment_c["눈이 내릴 거예요."]="snow[l] a lot"
+segment_c["같이"]="together?"
+segment_c["저랑"]="with me?"
+segment_c["저랑 같이"]="together with me?"
+segment_c["다 같이"]="with everyone?"
+
+segment_d = {}
+segment_d["커피 마실래요?"]="do you want to drink coffee"
+segment_d["뭐 마실래요?"]="what do you want to drink"
+segment_d["어떤 거 마실래요?"]="what kind of drink do you want"
+segment_d["어디에서 마실래요?"]="where do you want to drink (something)"
 
 
 class AutoDict(dict):
@@ -47,12 +52,17 @@ def generate_permutations():
   Generates all possible permutations of the given sentence phrases, based on multiple segment possibilities.
   '''
   all_sentences = AutoDict()
-  for entry_a in segment_a:
-    for entry_b in segment_b:
-      for entry_c in segment_c:
-        o_sentence = f"{entry_a} {entry_b} {entry_c}"
-        e_sentence = f"{segment_a[entry_a]} {segment_c[entry_c]} {segment_b[entry_b]}"
-        all_sentences[o_sentence] = e_sentence
+  for key_a in segment_a:
+    for key_b in segment_b:
+      for key_c in segment_c:
+        for key_d in segment_d:
+          value_a = segment_a[key_a]
+          value_b = segment_b[key_b]
+          value_c = segment_c[key_c]
+          value_d = segment_d[key_d]
+          o_sentence = f"{key_a} {key_b} {key_c} {key_d}"
+          e_sentence = f"{value_b} {value_a} {value_d} {value_c}"
+          all_sentences[o_sentence] = e_sentence
 
   print_sentences(all_sentences)
         
