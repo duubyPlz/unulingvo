@@ -1,5 +1,3 @@
-%cson
-
 == TTMIK 4.20 - [Sentence Building Drill] #1 ==
 * l -> long 
     # # Sentences
