@@ -689,27 +689,3 @@
     # 3
     O: 내일 시간이 있으면, 같이 커피 마실래요?
     E: If you have time tomorrow, will you drink coffee together?
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
