@@ -42,7 +42,7 @@
     # segment_b = {}
     # segment_b["한국어를"]="Korean[l]"
     # 
-    # segment_c = {}
+    # segment_c = {} # manual e ?
     # segment_c["열심히"]="hard."
     # segment_c["더 열심히"]="harder."
     # segment_c["덜 열심히"]="less hard."
@@ -309,29 +309,382 @@
     E: Starting from when, am I going to prepare Korean[l] less hard?
 
     # 2
+    # 내일부터 일요일까지 = from tomorrow until Sunday
+    # 내일부터 모레까지 = from tomorrow until the day after tomorrow
+    # 어제부터 오늘까지 = from yesterday until today
+    # 지난주부터 다음 주까지 = from last week until next week
+    # 
+    # 비가 내릴 거예요. = It is going to rain.
+    # 비가 올 거예요. = It is going to rain.
+    # 눈이 내릴 거예요. = It is going to snow.
+    # 눈이 올 거예요. = It is going to snow.
+    # 비가 그칠 거예요. = It is going to stop raining. # 그치다 = to stop
+    # 눈이 그칠 거예요. = It is going to stop snowing.
+    # 비가 많이 내릴 거예요. = It is going to rain a lot.
+    # 눈이 많이 내릴 거예요. = It is going to snow a lot.
+    # 
+    # 아마 비가 내릴 거예요. = It will probably rain.
+    # 분명히 비가 내릴 거예요. = It will certainly rain.
+    # 어쩌면 비가 내릴지도 몰라요. = Maybe it might rain.
+    # 어쩌면 비가 내릴 수도 있어요. = Maybe it could rain.
+
+    # segment_a = {}
+    # segment_a["아마"]="It will probably"
+    # segment_a["분명히"]="It will certainly"
+    # segment_a["어쩌면"]="It might" # manual o -지도 몰라요.
+    # segment_a["어쩌면"]="It could" # manual o -ㄹ 수도 있어요.
+    # 
+    # segment_b = {}
+    # segment_b["내일부터 일요일까지"]="from tomorrow until Sunday."
+    # segment_b["내일부터 모레까지"]="from tomorrow until the day after tomorrow."
+    # segment_b["어제부터 오늘까지"]="from yesterday until today."
+    # segment_b["지난주부터 다음 주까지"]="from last week until next week."
+    # 
+    # segment_c = {}
+    # segment_c["비가 내릴 거예요."]="rain[l]"
+    # segment_c["비가 올 거예요."]="rain"
+    # segment_c["눈이 내릴 거예요."]="snow[l]"
+    # segment_c["눈이 올 거예요."]="snow"
+    # segment_c["비가 그칠 거예요."]="stop raining"
+    # segment_c["눈이 그칠 거예요."]="stop snowing"
+    # segment_c["비가 많이 내릴 거예요."]="rain[l] a lot"
+    # segment_c["눈이 내릴 거예요."]="snow[l] a lot"
+
     O: 아마 내일부터 일요일까지 비가 내릴 거예요.
+    E: It will probably rain[l] from tomorrow until Sunday.
+
+    O: 아마 내일부터 일요일까지 비가 올 거예요.
     E: It will probably rain from tomorrow until Sunday.
 
-    O: 
-    E: 
+    O: 아마 내일부터 일요일까지 눈이 내릴 거예요.
+    E: It will probably snow[l] a lot from tomorrow until Sunday.
 
-    O: 
-    E: 
+    O: 아마 내일부터 일요일까지 눈이 올 거예요.
+    E: It will probably snow from tomorrow until Sunday.
 
-    O: 
-    E: 
+    O: 아마 내일부터 일요일까지 비가 그칠 거예요.
+    E: It will probably stop raining from tomorrow until Sunday.
 
-    O: 
-    E: 
+    O: 아마 내일부터 일요일까지 눈이 그칠 거예요.
+    E: It will probably stop snowing from tomorrow until Sunday.
 
-    O: 
-    E: 
+    O: 아마 내일부터 일요일까지 비가 많이 내릴 거예요.
+    E: It will probably rain[l] a lot from tomorrow until Sunday.
 
-    O: 
-    E: 
+    O: 아마 내일부터 모레까지 비가 내릴 거예요.
+    E: It will probably rain[l] from tomorrow until the day after tomorrow.
 
-    O: 
-    E: 
+    O: 아마 내일부터 모레까지 비가 올 거예요.
+    E: It will probably rain from tomorrow until the day after tomorrow.
+
+    O: 아마 내일부터 모레까지 눈이 내릴 거예요.
+    E: It will probably snow[l] a lot from tomorrow until the day after tomorrow.
+
+    O: 아마 내일부터 모레까지 눈이 올 거예요.
+    E: It will probably snow from tomorrow until the day after tomorrow.
+
+    O: 아마 내일부터 모레까지 비가 그칠 거예요.
+    E: It will probably stop raining from tomorrow until the day after tomorrow.
+
+    O: 아마 내일부터 모레까지 눈이 그칠 거예요.
+    E: It will probably stop snowing from tomorrow until the day after tomorrow.
+
+    O: 아마 내일부터 모레까지 비가 많이 내릴 거예요.
+    E: It will probably rain[l] a lot from tomorrow until the day after tomorrow.
+
+    O: 아마 어제부터 오늘까지 비가 내릴 거예요.
+    E: It will probably rain[l] from yesterday until today.
+
+    O: 아마 어제부터 오늘까지 비가 올 거예요.
+    E: It will probably rain from yesterday until today.
+
+    O: 아마 어제부터 오늘까지 눈이 내릴 거예요.
+    E: It will probably snow[l] a lot from yesterday until today.
+
+    O: 아마 어제부터 오늘까지 눈이 올 거예요.
+    E: It will probably snow from yesterday until today.
+
+    O: 아마 어제부터 오늘까지 비가 그칠 거예요.
+    E: It will probably stop raining from yesterday until today.
+
+    O: 아마 어제부터 오늘까지 눈이 그칠 거예요.
+    E: It will probably stop snowing from yesterday until today.
+
+    O: 아마 어제부터 오늘까지 비가 많이 내릴 거예요.
+    E: It will probably rain[l] a lot from yesterday until today.
+
+    O: 아마 지난주부터 다음 주까지 비가 내릴 거예요.
+    E: It will probably rain[l] from last week until next week.
+
+    O: 아마 지난주부터 다음 주까지 비가 올 거예요.
+    E: It will probably rain from last week until next week.
+
+    O: 아마 지난주부터 다음 주까지 눈이 내릴 거예요.
+    E: It will probably snow[l] a lot from last week until next week.
+
+    O: 아마 지난주부터 다음 주까지 눈이 올 거예요.
+    E: It will probably snow from last week until next week.
+
+    O: 아마 지난주부터 다음 주까지 비가 그칠 거예요.
+    E: It will probably stop raining from last week until next week.
+
+    O: 아마 지난주부터 다음 주까지 눈이 그칠 거예요.
+    E: It will probably stop snowing from last week until next week.
+
+    O: 아마 지난주부터 다음 주까지 비가 많이 내릴 거예요.
+    E: It will probably rain[l] a lot from last week until next week.
+
+    O: 분명히 내일부터 일요일까지 비가 내릴 거예요.
+    E: It will certainly rain[l] from tomorrow until Sunday.
+
+    O: 분명히 내일부터 일요일까지 비가 올 거예요.
+    E: It will certainly rain from tomorrow until Sunday.
+
+    O: 분명히 내일부터 일요일까지 눈이 내릴 거예요.
+    E: It will certainly snow[l] a lot from tomorrow until Sunday.
+
+    O: 분명히 내일부터 일요일까지 눈이 올 거예요.
+    E: It will certainly snow from tomorrow until Sunday.
+
+    O: 분명히 내일부터 일요일까지 비가 그칠 거예요.
+    E: It will certainly stop raining from tomorrow until Sunday.
+
+    O: 분명히 내일부터 일요일까지 눈이 그칠 거예요.
+    E: It will certainly stop snowing from tomorrow until Sunday.
+
+    O: 분명히 내일부터 일요일까지 비가 많이 내릴 거예요.
+    E: It will certainly rain[l] a lot from tomorrow until Sunday.
+
+    O: 분명히 내일부터 모레까지 비가 내릴 거예요.
+    E: It will certainly rain[l] from tomorrow until the day after tomorrow.
+
+    O: 분명히 내일부터 모레까지 비가 올 거예요.
+    E: It will certainly rain from tomorrow until the day after tomorrow.
+
+    O: 분명히 내일부터 모레까지 눈이 내릴 거예요.
+    E: It will certainly snow[l] a lot from tomorrow until the day after tomorrow.
+
+    O: 분명히 내일부터 모레까지 눈이 올 거예요.
+    E: It will certainly snow from tomorrow until the day after tomorrow.
+
+    O: 분명히 내일부터 모레까지 비가 그칠 거예요.
+    E: It will certainly stop raining from tomorrow until the day after tomorrow.
+
+    O: 분명히 내일부터 모레까지 눈이 그칠 거예요.
+    E: It will certainly stop snowing from tomorrow until the day after tomorrow.
+
+    O: 분명히 내일부터 모레까지 비가 많이 내릴 거예요.
+    E: It will certainly rain[l] a lot from tomorrow until the day after tomorrow.
+
+    O: 분명히 어제부터 오늘까지 비가 내릴 거예요.
+    E: It will certainly rain[l] from yesterday until today.
+
+    O: 분명히 어제부터 오늘까지 비가 올 거예요.
+    E: It will certainly rain from yesterday until today.
+
+    O: 분명히 어제부터 오늘까지 눈이 내릴 거예요.
+    E: It will certainly snow[l] a lot from yesterday until today.
+
+    O: 분명히 어제부터 오늘까지 눈이 올 거예요.
+    E: It will certainly snow from yesterday until today.
+
+    O: 분명히 어제부터 오늘까지 비가 그칠 거예요.
+    E: It will certainly stop raining from yesterday until today.
+
+    O: 분명히 어제부터 오늘까지 눈이 그칠 거예요.
+    E: It will certainly stop snowing from yesterday until today.
+
+    O: 분명히 어제부터 오늘까지 비가 많이 내릴 거예요.
+    E: It will certainly rain[l] a lot from yesterday until today.
+
+    O: 분명히 지난주부터 다음 주까지 비가 내릴 거예요.
+    E: It will certainly rain[l] from last week until next week.
+
+    O: 분명히 지난주부터 다음 주까지 비가 올 거예요.
+    E: It will certainly rain from last week until next week.
+
+    O: 분명히 지난주부터 다음 주까지 눈이 내릴 거예요.
+    E: It will certainly snow[l] a lot from last week until next week.
+
+    O: 분명히 지난주부터 다음 주까지 눈이 올 거예요.
+    E: It will certainly snow from last week until next week.
+
+    O: 분명히 지난주부터 다음 주까지 비가 그칠 거예요.
+    E: It will certainly stop raining from last week until next week.
+
+    O: 분명히 지난주부터 다음 주까지 눈이 그칠 거예요.
+    E: It will certainly stop snowing from last week until next week.
+
+    O: 분명히 지난주부터 다음 주까지 비가 많이 내릴 거예요.
+    E: It will certainly rain[l] a lot from last week until next week.
+
+    O: 어쩌면 내일부터 일요일까지 비가 내릴지도 몰라요.
+    E: It might rain[l] from tomorrow until Sunday.
+
+    O: 어쩌면 내일부터 일요일까지 비가 올지도 몰라요.
+    E: It might rain from tomorrow until Sunday.
+
+    O: 어쩌면 내일부터 일요일까지 눈이 내릴지도 몰라요.
+    E: It might snow[l] a lot from tomorrow until Sunday.
+
+    O: 어쩌면 내일부터 일요일까지 눈이 올지도 몰라요.
+    E: It might snow from tomorrow until Sunday.
+
+    O: 어쩌면 내일부터 일요일까지 비가 그칠지도 몰라요.
+    E: It might stop raining from tomorrow until Sunday.
+
+    O: 어쩌면 내일부터 일요일까지 눈이 그칠지도 몰라요.
+    E: It might stop snowing from tomorrow until Sunday.
+
+    O: 어쩌면 내일부터 일요일까지 비가 많이 내릴지도 몰라요.
+    E: It might rain[l] a lot from tomorrow until Sunday.
+
+    O: 어쩌면 내일부터 모레까지 비가 내릴지도 몰라요.
+    E: It might rain[l] from tomorrow until the day after tomorrow.
+
+    O: 어쩌면 내일부터 모레까지 비가 올지도 몰라요.
+    E: It might rain from tomorrow until the day after tomorrow.
+
+    O: 어쩌면 내일부터 모레까지 눈이 내릴지도 몰라요.
+    E: It might snow[l] a lot from tomorrow until the day after tomorrow.
+
+    O: 어쩌면 내일부터 모레까지 눈이 올지도 몰라요.
+    E: It might snow from tomorrow until the day after tomorrow.
+
+    O: 어쩌면 내일부터 모레까지 비가 그칠지도 몰라요.
+    E: It might stop raining from tomorrow until the day after tomorrow.
+
+    O: 어쩌면 내일부터 모레까지 눈이 그칠지도 몰라요.
+    E: It might stop snowing from tomorrow until the day after tomorrow.
+
+    O: 어쩌면 내일부터 모레까지 비가 많이 내릴지도 몰라요.
+    E: It might rain[l] a lot from tomorrow until the day after tomorrow.
+
+    O: 어쩌면 어제부터 오늘까지 비가 내릴지도 몰라요.
+    E: It might rain[l] from yesterday until today.
+
+    O: 어쩌면 어제부터 오늘까지 비가 올지도 몰라요.
+    E: It might rain from yesterday until today.
+
+    O: 어쩌면 어제부터 오늘까지 눈이 내릴지도 몰라요.
+    E: It might snow[l] a lot from yesterday until today.
+
+    O: 어쩌면 어제부터 오늘까지 눈이 올지도 몰라요.
+    E: It might snow from yesterday until today.
+
+    O: 어쩌면 어제부터 오늘까지 비가 그칠지도 몰라요.
+    E: It might stop raining from yesterday until today.
+
+    O: 어쩌면 어제부터 오늘까지 눈이 그칠지도 몰라요.
+    E: It might stop snowing from yesterday until today.
+
+    O: 어쩌면 어제부터 오늘까지 비가 많이 내릴지도 몰라요.
+    E: It might rain[l] a lot from yesterday until today.
+
+    O: 어쩌면 지난주부터 다음 주까지 비가 내릴지도 몰라요.
+    E: It might rain[l] from last week until next week.
+
+    O: 어쩌면 지난주부터 다음 주까지 비가 올지도 몰라요.
+    E: It might rain from last week until next week.
+
+    O: 어쩌면 지난주부터 다음 주까지 눈이 내릴지도 몰라요.
+    E: It might snow[l] a lot from last week until next week.
+
+    O: 어쩌면 지난주부터 다음 주까지 눈이 올지도 몰라요.
+    E: It might snow from last week until next week.
+
+    O: 어쩌면 지난주부터 다음 주까지 비가 그칠지도 몰라요.
+    E: It might stop raining from last week until next week.
+
+    O: 어쩌면 지난주부터 다음 주까지 눈이 그칠지도 몰라요.
+    E: It might stop snowing from last week until next week.
+
+    O: 어쩌면 지난주부터 다음 주까지 비가 많이 내릴지도 몰라요.
+    E: It might rain[l] a lot from last week until next week.
+
+    O: 어쩌면 내일부터 일요일까지 비가 내릴 수도 있어요.
+    E: It could rain[l] from tomorrow until Sunday.
+
+    O: 어쩌면 내일부터 일요일까지 비가 올 수도 있어요.
+    E: It could rain from tomorrow until Sunday.
+
+    O: 어쩌면 내일부터 일요일까지 눈이 내릴 수도 있어요.
+    E: It could snow[l] a lot from tomorrow until Sunday.
+
+    O: 어쩌면 내일부터 일요일까지 눈이 올 수도 있어요.
+    E: It could snow from tomorrow until Sunday.
+
+    O: 어쩌면 내일부터 일요일까지 비가 그칠 수도 있어요.
+    E: It could stop raining from tomorrow until Sunday.
+
+    O: 어쩌면 내일부터 일요일까지 눈이 그칠 수도 있어요.
+    E: It could stop snowing from tomorrow until Sunday.
+
+    O: 어쩌면 내일부터 일요일까지 비가 많이 내릴 수도 있어요.
+    E: It could rain[l] a lot from tomorrow until Sunday.
+
+    O: 어쩌면 내일부터 모레까지 비가 내릴 수도 있어요.
+    E: It could rain[l] from tomorrow until the day after tomorrow.
+
+    O: 어쩌면 내일부터 모레까지 비가 올 수도 있어요.
+    E: It could rain from tomorrow until the day after tomorrow.
+
+    O: 어쩌면 내일부터 모레까지 눈이 내릴 수도 있어요.
+    E: It could snow[l] a lot from tomorrow until the day after tomorrow.
+
+    O: 어쩌면 내일부터 모레까지 눈이 올 수도 있어요.
+    E: It could snow from tomorrow until the day after tomorrow.
+
+    O: 어쩌면 내일부터 모레까지 비가 그칠 수도 있어요.
+    E: It could stop raining from tomorrow until the day after tomorrow.
+
+    O: 어쩌면 내일부터 모레까지 눈이 그칠 수도 있어요.
+    E: It could stop snowing from tomorrow until the day after tomorrow.
+
+    O: 어쩌면 내일부터 모레까지 비가 많이 내릴 수도 있어요.
+    E: It could rain[l] a lot from tomorrow until the day after tomorrow.
+
+    O: 어쩌면 어제부터 오늘까지 비가 내릴 수도 있어요.
+    E: It could rain[l] from yesterday until today.
+
+    O: 어쩌면 어제부터 오늘까지 비가 올 수도 있어요.
+    E: It could rain from yesterday until today.
+
+    O: 어쩌면 어제부터 오늘까지 눈이 내릴 수도 있어요.
+    E: It could snow[l] a lot from yesterday until today.
+
+    O: 어쩌면 어제부터 오늘까지 눈이 올 수도 있어요.
+    E: It could snow from yesterday until today.
+
+    O: 어쩌면 어제부터 오늘까지 비가 그칠 수도 있어요.
+    E: It could stop raining from yesterday until today.
+
+    O: 어쩌면 어제부터 오늘까지 눈이 그칠 수도 있어요.
+    E: It could stop snowing from yesterday until today.
+
+    O: 어쩌면 어제부터 오늘까지 비가 많이 내릴 수도 있어요.
+    E: It could rain[l] a lot from yesterday until today.
+
+    O: 어쩌면 지난주부터 다음 주까지 비가 내릴 수도 있어요.
+    E: It could rain[l] from last week until next week.
+
+    O: 어쩌면 지난주부터 다음 주까지 비가 올 수도 있어요.
+    E: It could rain from last week until next week.
+
+    O: 어쩌면 지난주부터 다음 주까지 눈이 내릴 수도 있어요.
+    E: It could snow[l] a lot from last week until next week.
+
+    O: 어쩌면 지난주부터 다음 주까지 눈이 올 수도 있어요.
+    E: It could snow from last week until next week.
+
+    O: 어쩌면 지난주부터 다음 주까지 비가 그칠 수도 있어요.
+    E: It could stop raining from last week until next week.
+
+    O: 어쩌면 지난주부터 다음 주까지 눈이 그칠 수도 있어요.
+    E: It could stop snowing from last week until next week.
+
+    O: 어쩌면 지난주부터 다음 주까지 비가 많이 내릴 수도 있어요.
+    E: It could rain[l] a lot from last week until next week.
 
     # 3
     O: 내일 시간이 있으면, 같이 커피 마실래요?
