@@ -7,7 +7,7 @@ for Sentence Building Drill lessons.
 Output will be in the format of O: and E: (no F:).
 '''
 
-
+# VARIABLE: Segment dictionaries
 segment_a = {}
 segment_a["내일"]="tomorrow,"
 segment_a["오늘"]="today,"
@@ -61,6 +61,7 @@ def generate_permutations():
           value_c = segment_c[key_c]
           value_d = segment_d[key_d]
           o_sentence = f"{key_a} {key_b} {key_c} {key_d}"
+          # VARIABLE: The english sentence may need rearrangement of segments (may not be: a -> b -> c -> d)
           e_sentence = f"{value_b} {value_a} {value_d} {value_c}"
           all_sentences[o_sentence] = e_sentence
 
