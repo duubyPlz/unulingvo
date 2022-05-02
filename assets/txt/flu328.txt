@@ -48,7 +48,7 @@
     E: 네 / 예 (but in 반말, two variants)
 
     O: 아니야 아니
-    E: 아니요 (but in 반말, two variants)
+    E: 아니요 (but in 반말, two variants long short)
 
     O: 경은아, 괜찮아?
     E: Kyeong-eun, are you ok?
