@@ -10,7 +10,7 @@
 
     # 보이다: to be seen, to be visible
     O: 보여요
-    E: I see it. / It is visible.
+    E: It is visible. / (I) see it. 
 
     O: 해요
     E: I do. / You do. / He does. / etc.

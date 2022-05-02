@@ -244,17 +244,13 @@
     E: There is no time. / I do not have time. / We do not have time.
 
     O: 시간은 있어요
-    E: (I) have (nothing but) time.
-
-    O: 시간은 없어요.
-    E: (I have other things, but) TIME is not what I have.
+    E: (I) have time. (Lit: As for time, I have it.)
 
     O: 시간이 없어요. 
-    E: (What is it that you don’t have?) TIME is what I don’t have.
-    F: (What is it that you don’t have?) TIME _is what I don’t have_.
+    E: (What is it that you don’t have?) I don't have time. (Lit: What is the thing I don't have? Time.)
 
-    O: ㅇ 재미있어요!
-    E: ㅇ is fun!
+    O: _ 재미있어요!
+    E: _ is fun!
 
 > 1.11
     O: 사과 없어요?
@@ -447,7 +443,7 @@
 
     # 보이다: to be seen, to be visible
     O: 보여요
-    E: I see it. / It is visible.
+    E: It is visible. / (I) see it. 
 
     O: 해요
     E: I do. / You do. / He does. / etc.
