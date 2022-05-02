@@ -36,7 +36,7 @@
     # 제일 가까운 역이 어디에요? To where is the closest station?
     O: 제일 가까운 역이 어디예요?
     E: Where is the closest station?
-    F: _Where is the_ closest station?
+    F: _Where is_ the closest station?
 
     O: 어떤 색깔이 가장 좋아요?
     E: Which color is the best[f]? / Which color is your favorite?
