@@ -48,7 +48,7 @@
     E: Give me my[s] book back.
 
     O: 아직 덜 봤어요.
-    E: I haven't finished reading it yet.
+    E: I still haven't finished reading (lit: looking at) it yet.
 
     O: 아직 더 봐야 돼요.
     E: There's still more to read.
