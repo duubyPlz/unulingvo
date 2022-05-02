@@ -44,6 +44,7 @@
     O: 더 안 왔어요.
     E: We are NOT FULLY[l] there yet.
 
+    # 돌다 intransitive, 돌리다 to turn around
     O: 제 책 돌려주세요.
     E: Give me my[s] book back.
 
