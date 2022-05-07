@@ -52,4 +52,4 @@
     E: I still haven't finished reading (lit: looking at) it yet.
 
     O: 아직 더 봐야 돼요.
-    E: There's still more to read.
+    E: There's still more to read. (sem: should)
