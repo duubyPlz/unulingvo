@@ -1,10 +1,10 @@
-== TTMIK 4.16 - Spacing / 띄어쓰기 Part 1 ==
+== TTMIK 4.16 - Spacing / 띄어쓰기 #1 ==
 * s -> short
 * l -> long
 * ll -> vlong
 * e -> eng
 
-    # {#RELATED Level 4 Lesson 21}: 띄어쓰기 Part 2
+    # {#RELATED Level 4 Lesson 21}: 띄어쓰기 #2
 
     # Rules (_ = space):
     # 
