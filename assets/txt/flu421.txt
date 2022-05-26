@@ -66,7 +66,7 @@
     E: to come outside
 
     O: 나가다
-    E: to go outside
+    E: to go outside / to get out
 
     O: 들다
     E: (Not commonly used on its own) to go in; to be in; to get into 
@@ -75,7 +75,7 @@
     E: to come inside
 
     O: 들어가다
-    E: to go inside
+    E: to go inside / to go in
 
     O: 마음에 들다
     E: to like (after observing) (lit: to enter your heart)

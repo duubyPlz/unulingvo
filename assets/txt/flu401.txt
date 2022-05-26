@@ -46,7 +46,7 @@
     E: You need to sleep[l] a lot, even more so when you are busy.
 
     O: 학생일수록 책을 많이 읽어야 돼요.
-    E: You need to read a lot of books, even more so if you are a student.
+    E: You need to read a lot of books[l], even more so if you are a student.
 
     O: 바쁘면 바쁠수록
     E: the busier[em] you are, the more...
