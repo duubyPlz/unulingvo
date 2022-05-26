@@ -1,4 +1,6 @@
 == TTMIK 4.21 - 띄어쓰기 #2 ==
+* l -> long
+
     # {#RELATED Level 4 Lesson 16}: 띄어쓰기 #1
 
     # Originally: Two words -> space
@@ -14,13 +16,13 @@
     E: Last week
 
     O: 열쇠를 돌려주세요
-    E: Please return the key.
+    E: Please return the key[l].
 
     # 틀다 twist
     # 돌다 turn (yourself)
     # 돌리다 made to turn (around, full turn)
     O: 열쇠를 돌려 주세요.
-    E: Please turn the key for me.
+    E: Please turn the key[l] for me.
 
     O: 돌리다
     E: to turn (made to, around)
