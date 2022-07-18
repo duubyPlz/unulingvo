@@ -421,7 +421,7 @@ function parse(module, language) {
             // Break result into line by line
             var lines = data.split("\n");
             
-            console.log(lines);
+            // console.log(lines);
             // console.log(lines.length);
             
             const originalTag = "O:"
@@ -727,8 +727,6 @@ function logic(language, isFlu) {
         var eoAndCjkWhitelistString = eoWhitelistString + cjkWhitelistString;
         var eoAndCjkWhitelistRegex = makeWhitelistRegex(eoAndCjkWhitelistString);
         sanitisedInput = inputString.replace(eoAndCjkWhitelistRegex, "");
-        console.log(inputString);
-        console.log(sanitisedInput);
 
         var simplifiedString = sanitisedInput.replace(eoBlacklistRegex, "").toLowerCase().trim();
 
