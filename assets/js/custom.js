@@ -421,7 +421,7 @@ function parse(module, language) {
             // Break result into line by line
             var lines = data.split("\n");
             
-            // console.log(lines);
+            console.log(lines);
             // console.log(lines.length);
             
             const originalTag = "O:"
