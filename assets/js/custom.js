@@ -676,8 +676,8 @@ function logic(language, isFlu) {
     var correct = false;
     var inputString = 
         isFlu
-        ? $('.textarea#flu-answer').html().replace("&nbsp;", " ").trim()
-        : $('.textarea#answer').html().replace("&nbsp;", " ").trim();
+        ? $('.textarea#flu-answer').val().replace("&nbsp;", " ").trim()
+        : $('.textarea#answer').val().replace("&nbsp;", " ").trim();
 
     var hyphenRegex = new RegExp("\-", "g");
     var eoWhitelistString = "a-zA-Z0-9_.,?!'\" ĉĝĥĵŝŭĈĜĤĴŜŬ\-";
@@ -727,6 +727,7 @@ function logic(language, isFlu) {
         var eoAndCjkWhitelistString = eoWhitelistString + cjkWhitelistString;
         var eoAndCjkWhitelistRegex = makeWhitelistRegex(eoAndCjkWhitelistString);
         sanitisedInput = inputString.replace(eoAndCjkWhitelistRegex, "");
+        console.log(inputString);
         console.log(sanitisedInput);
 
         var simplifiedString = sanitisedInput.replace(eoBlacklistRegex, "").toLowerCase().trim();
