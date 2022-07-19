@@ -1,4 +1,6 @@
 == TTMIK 2.23 - If, In case / 만약, -(으)면 ==
+    # {#RELATED Level 4 Lesson 23}: Word Contractions (part 2)
+
     # 만약 - to make sentence clearer that it's conditional
     # (since Korean is heavily affected by verb endings)
 
