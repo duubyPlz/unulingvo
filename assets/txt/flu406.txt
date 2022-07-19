@@ -26,6 +26,7 @@
     # 動詞
     O: 이 단어는 동사예요.
     E: This word is a verb.
+    F: _This word_ is a verb.
 
     # 動物
     O: 동물 좋아해요?
