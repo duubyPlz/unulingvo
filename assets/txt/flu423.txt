@@ -1,0 +1,44 @@
+== TTMIK 4.23 - Word Contractions (part 2) / 주격 조사, 축약형 ==
+* l -> long
+* s -> short
+
+    # {#RELATED Level 4 Lesson 17}: Word Contractions (part 1) / 주격 조사, 축약형
+    # {#RELATED Level 2 Lesson 23}: If, In case / 만약, -(으)면
+    # {#RELATED Level 3 Lesson 15}: Well then, In that case, If so / 그러면, 그럼
+    # {#RELATED Level 4 Lesson 1}: The more … the more … / -(으)면 -(으)ㄹ수록
+
+    O: 이렇게 하면
+    E: if you do it like this[l]
+
+    O: 이러면
+    E: if you do it like this
+
+    O: 저러면
+    E: if you do it like that (over there)
+
+    O: 어떻게 해요?
+    E: What[l] are we supposed to do? (lit: How should we do it?)
+
+    O: 어떡해요?
+    E: What are we supposed to do?
+
+    O: 어떻게 할 거예요?
+    E: What[l] are you going to do? (lit: How are (you) going to do it?)
+
+    O: 어떡할 거예요?
+    E: What are you going to do?
+
+    O: 어쩔 거예요?
+    E: What[s] are you going to do?
+
+    O: 이거 어떡할 거예요?
+    E: What are you going to do about this?
+
+    O: 이거 어쩔 거예요?
+    E: What[s] are you going to do about this?
+
+    O: 이제 어떡할 거예요?
+    E: How are you going to take care of it now? / Now what?
+
+    O: 이제 어쩔 거예요?
+    E: How[s] are you going to take care of it now? / Now what?
