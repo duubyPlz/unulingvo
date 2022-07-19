@@ -1,8 +1,9 @@
 == TTMIK 4.6 - [Word Builder] 동 (動) ==
     # 運動
+    # Lately[l], I'm diligently exercising (continuous).
     O: 요즘에 운동 열심히 하고 있어요.
-    E: Lately, I'm diligently exercising (continuous).
-
+    E: Lately[l], I'm doing exercise diligently (continuous).
+    
     # 動作
     O: 이 동작을 따라하세요.
     E: Please follow this move (movement).
