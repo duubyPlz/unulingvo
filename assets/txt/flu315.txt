@@ -2,6 +2,8 @@
 * s ➔ short
 * so ➔ so
 
+    # {#RELATED Level 4 Lesson 23}: Word Contractions (part 2)
+
     # 그럼 two forms:
     # * Adverb, shorter form of 그럼면 - "Then"
     # * Interjection - "Of course!" (or 그럼요) 
