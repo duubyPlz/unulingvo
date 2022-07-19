@@ -1,4 +1,6 @@
 == TTMIK 1.24 - Why? How? / 왜? 어떻게? ==
+    {#RELATED Level 4 Lesson 23}: Word Contractions (part 2) / 주격 조사, 축약형
+
     O: 어떻게
     E: how
 
