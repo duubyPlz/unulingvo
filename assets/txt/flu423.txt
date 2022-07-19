@@ -2,7 +2,13 @@
 * l -> long
 * s -> short
 
+    # Continuation:
     # {#RELATED Level 4 Lesson 17}: Word Contractions (part 1) / 주격 조사, 축약형
+    
+    # 어떻게 revision:
+    # {#RELATED Level 1 Lesson 24}: Why? How? / 왜? 어떻게?
+    
+    # 면 revision:
     # {#RELATED Level 2 Lesson 23}: If, In case / 만약, -(으)면
     # {#RELATED Level 3 Lesson 15}: Well then, In that case, If so / 그러면, 그럼
     # {#RELATED Level 4 Lesson 1}: The more … the more … / -(으)면 -(으)ㄹ수록
