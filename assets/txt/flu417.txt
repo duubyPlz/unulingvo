@@ -3,6 +3,8 @@
 * ll -> vlong
 * sp -> spoken
 
+    # {#RELATED Level 4 Lesson 23}: Word Contractions (part 2)
+
     # 주격 主格 subject 조사 助詞 postposition = subject marker
     # 목적격 目的格 object 조사 助詞 postposition = object marker
     # 축약형 abbreviation
