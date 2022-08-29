@@ -24,4 +24,4 @@
     E: The next few days the weather (is) mainly (lit: approximately) fine.
 
     O: 你幾點嚟啊？
-    E: When will you come[sp]?
+    E: What time will you come[sp]?
