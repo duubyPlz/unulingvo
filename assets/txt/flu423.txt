@@ -1,6 +1,7 @@
 == TTMIK 4.23 - Word Contractions (part 2) / 주격 조사, 축약형 ==
 * l -> long
 * s -> short
+* ss -> vshort
 
     # Continuation:
     # {#RELATED Level 4 Lesson 17}: Word Contractions (part 1) / 주격 조사, 축약형
@@ -17,34 +18,34 @@
     E: if you do it like this[l]
 
     O: 이러면
-    E: if you do it like this
+    E: if you do it like this[s]
 
     O: 저러면
-    E: if you do it like that (over there)
+    E: if you do it like that[s] (over there)
 
     O: 어떻게 해요?
     E: What[l] are we supposed to do? (lit: How should we do it?)
 
     O: 어떡해요?
-    E: What are we supposed to do?
+    E: What[s] are we supposed to do?
 
     O: 어떻게 할 거예요?
-    E: What[l] are you going to do? (lit: How are (you) going to do it?)
+    E: What[l] will you do? (lit: How are (you) going to do it?) / What are you going to do?
 
     O: 어떡할 거예요?
-    E: What are you going to do?
+    E: What[s] will you do? / What are you going to do?
 
     O: 어쩔 거예요?
-    E: What[s] are you going to do?
+    E: What[ss] will you do? / What are you going to do?
 
     O: 이거 어떡할 거예요?
-    E: What are you going to do about this?
+    E: What[s] will you do about this? / What are you going to do about this?
 
     O: 이거 어쩔 거예요?
-    E: What[s] are you going to do about this?
+    E: What[ss] will you do about this? / What are you going to do about this?
 
     O: 이제 어떡할 거예요?
-    E: How are you going to take care of it now? / Now what?
+    E: How[s] will you take care of it now? / Now what?
 
     O: 이제 어쩔 거예요?
-    E: How[s] are you going to take care of it now? / Now what?
+    E: How[ss] will you take care of it now? / Now what?
