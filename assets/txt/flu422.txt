@@ -36,6 +36,7 @@
 
     O: 이 영화에서 제일 좋아하는 장면이 뭐예요?
     E: What is your favorite scene from this movie?
+    F: _What is_ your favorite scene from this movie?
 
     # 市場
     O: 시장
