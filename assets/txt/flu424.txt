@@ -27,10 +27,12 @@
 
     O: 서울에서 도쿄까지보다, 서울에서 뉴욕까지가 훨씬 더 멀어요.
     E: Compared to from Seoul to Tokyo, Seoul to New York is much farther away.
+    F: Compared to from Seoul to Tokyo, Seoul to New York _is much farther away_.
 
     # 한국어가 일본어보다 훨씬 더 쉬워요.
     O: 일본어보다 한국어가 훨씬 더 쉬워요.
-    E: Compared to Japanese, Korean _is much easier_.
+    E: Compared to Japanese, Korean is much easier.
+    F: Compared to Japanese, Korean _is much easier_.
 
     O: 훨씬 재미있어요.
     E: Much more[s] fun.
