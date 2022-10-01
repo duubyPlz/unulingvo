@@ -24,8 +24,11 @@
   O: 보낼 편지 
   E: A letter (I) will send / A letter to send
 
-  O: 집에서 읽을 책 많아요.
+  O: 집에 읽을 책 많아요.
   E: At home, there are a lot of books that need to be read.
+  
+  O: 집에 읽을 책 많이 있으면 가지고 오세요.
+  E: If there are a lot of books that need to be read at home, bring them. 🤔
 
   O: 초대할 사람이 없어요.
   E: There's nobody I can invite.
