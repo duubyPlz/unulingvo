@@ -1,6 +1,7 @@
 == TTMIK 2.14 - Too, Also / -도 (Verbs), -기 ==
 * l -> long
 
+    # {#RELATED Level 4 Lesson 25}: -ㄹ + noun
     # Change the verb into its noun form, it is absolutely possible to use -도 with verbs.
     # Few different ways
     # * adding -기 - “to do [verb]” and “[verb]ing” format.
