@@ -1,0 +1,66 @@
+== TTMIK 4.25 - -(으)ㄹ + noun (future tense noun group) / -(으)ㄹ + 명사, 할 것 ==
+  # {#RELATED Level 2 Lesson 1}: -ㄹ 거예요
+  # * Future derived from: -(으)ㄹ 것 + 이에요 = -(으)ㄹ 것이에요 → -(으)ㄹ 거예요
+  # {#RELATED Level 2 Lesson 14}: -기
+  # {#RELATED Level 2 Lesson 19}: -는 것
+
+  # Same thing as -기 and -는 것, but for future tense
+
+  # Meanings:
+  # * verb + -ㄹ + noun
+  #   * "Noun group" means: ~~verb~~→adjective + noun
+  #   * When noun = 것
+  #     * Lit.: A thing to [verb] / Something to [verb]
+  #     * Over time, it becomes -aĵ, evolved meanings.
+
+  # 1. + noun
+  # Note: 읽을 is an adjective, 읽을 책 is a noun
+  O: 읽을 책
+  E: A book (I) will read / A book to read
+
+  O: 초대할 사람
+  E: A person (I) will invite / A person to invite
+
+  O: 보낼 편지 
+  E: A letter (I) will send / A letter to send
+
+  O: 집에서 읽을 책 많아요.
+  E: At home, there are a lot of books that need to be read.
+
+  O: 초대할 사람이 없어요.
+  E: There's nobody I can invite.
+  F: There's nobody _I can invite_.
+  
+  # 2. + 것 (A thing to -)
+  O: 먹을 것
+  E: Food (Lit. A thing to eat) @impolite
+
+  O: 탈 것 
+  E: Vehicle (Lit. A thing to ride) @impolite
+
+  O: 마실 것
+  E: Beverage (Lit. A thing to drink) @impolite
+
+  O: 멀을 거 있어요?
+  E: Is there any food[s]? @impolite
+
+  O: 입을 것
+  E: Clothes (Lit. A thing to wear) @impolite
+
+  O: 입을 거 주세요.
+  E: Give me clothes[s]. @impolite
+
+  O: 살 것
+  E: Product (Lit. A thing to buy) @impolite
+
+  O: 내일 할 일이 많아요.
+  E: Tomorrow, there's a lot of work I will have to do.
+  F: Tomorrow, _there's a lot of_ work I will have to do.
+
+  O: 지금은 할 이야기가 없어요.
+  E: For now, there is nothing I will say.
+  F: _For now_, _there is nothing_ I will say.
+
+  O: 냉장고에 먹을 것이 전혀 없어요.
+  E: In the refrigerator, there is no food[l] at all.
+  F: In the refrigerator, _there is no_ food[l] _at all_.
