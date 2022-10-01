@@ -1,4 +1,6 @@
 == TTMIK 2.1 - Future Tense / -ㄹ/을 거예요, 할 거예요 ==
+    # {#RELATED Level 4 Lesson 25}: -ㄹ + noun
+
     O: 지금 갈 거예요.
     E: I am going to go (there) now.
 
