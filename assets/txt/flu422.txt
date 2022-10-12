@@ -16,8 +16,9 @@
     O: 놀이터
     E: playground
 
+    # As a child, I extremely hated going out to the schoolyard.
     O: 어렸을 때 운동장에 나가는 거 굉장히 싫어했어요.
-    E: As a child, I extremely hated going out to the schoolyard.
+    E: When I was young, I extremely hated going out to the schoolyard.
 
     # 駐車場
     O: 주차장
