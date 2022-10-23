@@ -46,7 +46,7 @@
     O: 마실 것
     E: Beverage (Lit. A thing to drink) @impolite
 
-    O: 멀을 거 있어요?
+    O: 먹을 거 있어요?
     E: Is there any food[s]? @impolite
 
     O: 입을 것
