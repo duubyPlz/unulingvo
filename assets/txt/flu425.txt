@@ -1,4 +1,6 @@
 == TTMIK 4.25 - -(으)ㄹ + noun (future tense noun group) / -(으)ㄹ + 명사, 할 것 ==
+* l -> long
+
     # {#RELATED Level 2 Lesson 1}: -ㄹ 거예요
     # * Future derived from: -(으)ㄹ 것 + 이에요 = -(으)ㄹ 것이에요 → -(으)ㄹ 거예요
     # {#RELATED Level 2 Lesson 14}: -기
@@ -61,8 +63,8 @@
     F: Tomorrow, _there's a lot of_ work I will have to do.
 
     O: 지금은 할 이야기가 없어요.
-    E: For now, there is nothing I will say.
-    F: _For now_, _there is nothing_ I will say.
+    E: For now, there is nothing I will say[l].
+    F: _For now_, _there is nothing_ I will say[l].
 
     O: 냉장고에 먹을 것이 전혀 없어요.
     E: In the refrigerator, there is no food[l] at all.
