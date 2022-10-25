@@ -5,6 +5,7 @@
     # * Future derived from: -(으)ㄹ 것 + 이에요 = -(으)ㄹ 것이에요 → -(으)ㄹ 거예요
     # {#RELATED Level 2 Lesson 14}: -기
     # {#RELATED Level 2 Lesson 19}: -는 것
+    # {#RELATED Level 4 Lesson 26}: -ㄴ + 명사, 한 것
 
     # Same thing as -기 and -는 것, but for future tense
 
