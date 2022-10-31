@@ -1,4 +1,6 @@
 == TTMIK 1.17 - Past Tense / -았/었/였어요 (했어요) ==
+    # {#RELATED Level 4 Lesson 26}: -ㄴ + 명사, 한 것
+    
     O: 샀어요
     E: I bought / you bought / s/he bought / they bought / etc.
 
