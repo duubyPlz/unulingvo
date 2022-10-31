@@ -368,7 +368,7 @@
     E: It will probably rain from tomorrow until Sunday.
 
     O: 아마 내일부터 일요일까지 눈이 내릴 거예요.
-    E: It will probably snow[l] a lot from tomorrow until Sunday.
+    E: It will probably snow[l] from tomorrow until Sunday.
 
     O: 아마 내일부터 일요일까지 눈이 올 거예요.
     E: It will probably snow from tomorrow until Sunday.
@@ -389,7 +389,7 @@
     E: It will probably rain from tomorrow until the day after tomorrow.
 
     O: 아마 내일부터 모레까지 눈이 내릴 거예요.
-    E: It will probably snow[l] a lot from tomorrow until the day after tomorrow.
+    E: It will probably snow[l] from tomorrow until the day after tomorrow.
 
     O: 아마 내일부터 모레까지 눈이 올 거예요.
     E: It will probably snow from tomorrow until the day after tomorrow.
@@ -410,7 +410,7 @@
     E: It will probably rain from yesterday until today.
 
     O: 아마 어제부터 오늘까지 눈이 내릴 거예요.
-    E: It will probably snow[l] a lot from yesterday until today.
+    E: It will probably snow[l] from yesterday until today.
 
     O: 아마 어제부터 오늘까지 눈이 올 거예요.
     E: It will probably snow from yesterday until today.
