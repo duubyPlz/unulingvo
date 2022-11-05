@@ -54,7 +54,7 @@
     E: I think (there's) almost none.
     
     O: 끝난 것 같아요.
-    E: I think it's over.
+    E: I think it's (already) over.
     
     O: 다 한 것 같아요.
-    E: I think everything is done.
+    E: I think everything is (already) done.
