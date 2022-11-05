@@ -47,8 +47,8 @@
     E: I think I will arrive soon.
 
     O: 한국 사람들은 종말 자주 사용하는 것 같아요.
-    E: I think Koreans use it (the word) really often. 🤔
-    F: I think _Koreans_ use it (the word) really often. 🤔
+    E: I think Korean people use it (the word) really often. 🤔
+    F: I think _Korean people_ use it (the word) really often. 🤔
 
     O: 거의 없는 것 같아요.
     E: I think (there's) almost none.
