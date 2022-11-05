@@ -17,6 +17,7 @@
 
     O: 친구가 말한 카페
     E: the cafe that a friend talked about
+    F: _the cafe that_ a friend _talked about_
 
     O: 어제 본 영화 어땠어요?
     E: How was the movie that you saw yesterday?
