@@ -34,7 +34,7 @@
     # 있다: To be (somewhere)
     E: There can't be something. / No way that it exists.
     O: 있을 리가 없어요.
-    E: It's impossible there's something. / No way it exists.
+    E: No way it exists. / It's impossible there's something.
 
     # There couldn't have been something. / It is impossible that there was something.
     O: 있었을 리가 없어요.
