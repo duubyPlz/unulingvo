@@ -47,13 +47,13 @@
     E: To cut. I cut (past tense).
 
     O: 기르다. 길러요.
-    E: To raise. I raise.
+    E: To raise (rear). I raise.
 
     O: 기르다. 길러서
-    E: To raise. Because I raise; I raise and then
+    E: To raise (rear). Because I raise; I raise and then
 
     O: 기르다. 길렀어요.
-    E: To raise. I raised.
+    E: To raise (rear). I raised.
 
     O: 뭐 골랐어요?
     E: What did you choose?
