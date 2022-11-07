@@ -6,7 +6,7 @@
     E: Do you have an apple? / Do you have apples?
 
     O: 시간 있어요?
-    E: Do you have some time?
+    E: Do you have time?
 
     O: 시간 없어요?
     E: You do not have time?
@@ -60,7 +60,7 @@
     E: Please give me kimchi.
 
     O: 불고기 주세요.
-    E: Please give me some bulgogi.
+    E: Please give me bulgogi.
 
     O: 밥 주세요.
     E: Please give me rice. / Please give me food.
