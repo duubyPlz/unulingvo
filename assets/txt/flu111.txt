@@ -24,7 +24,7 @@
     E: You do not have money?
 
     O: 돈 주세요.
-    E: Please give me some money.
+    E: Please give me money.
 
     O: 맥주 주세요.
     E: Please give me a beer.
