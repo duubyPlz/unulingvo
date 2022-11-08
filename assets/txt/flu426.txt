@@ -33,7 +33,7 @@
     E: It's a book that I am reading.
 
     O: 제가 본 책이에요.
-    E: It's a book that I have read.
+    E: It's a book that I've read.
 
     O: 제가 볼 책이에요.
     E: It's a book that I will read.
