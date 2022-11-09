@@ -43,6 +43,7 @@
 
     O: 누가 한 것 같아요?
     E: Who do you think did it?
+    F: Who _do you think did it_?
 
     O: 곧 도착할 것 같아요.
     E: I think I will arrive soon.
