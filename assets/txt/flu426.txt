@@ -1,4 +1,5 @@
 == TTMIK 4.26 - -(으)ㄴ + noun (past tense noun group) / -(으)ㄴ + 명사, 한 것 ==
+* s -> short
     # {#RELATED Level 4 Lesson 25}: -ㄹ + 명사, 할 것
 
     # * Meanings:
@@ -27,7 +28,7 @@
     F: How is _your new house that you moved to_?
 
     O: 오늘 배운 내용 복습하세요.
-    E: Please review the content you've learnt today.
+    E: Please review the content[s] you've learnt today.
 
     O: 제가 보는 책이에요.
     E: It's a book that I am reading.
