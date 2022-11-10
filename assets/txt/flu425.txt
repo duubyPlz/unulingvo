@@ -65,9 +65,10 @@
     E: Tomorrow, there's a lot of work I will have to do.
     F: Tomorrow, _there's a lot of_ work I will have to do.
 
+    # For now, there is nothing I will say[st].
     O: 지금은 할 이야기가 없어요.
-    E: For now, there is nothing I will say[st].
-    F: _For now_, _there is nothing_ I will say[st].
+    E: Now, there is nothing I will say[st].
+    F: _Now_, _there is nothing_ I will say[st].
 
     O: 냉장고에 먹을 것이 전혀 없어요.
     E: In the refrigerator, there is no food[l] at all.
