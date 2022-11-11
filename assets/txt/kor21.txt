@@ -6,6 +6,7 @@
 * c -> sino
 * sp -> spoken
 * v -> variation
+* ve -> verb
 
 > One
     O: 노란 책 몇 권이 있습니까?
@@ -177,70 +178,70 @@
 
 > Four
     O: 곰은 검어요.
-    E: The bear is{st} black. @polite
-    F: _The bear_ is{st} black. @polite
+    E: The bear is{ve} black. @polite
+    F: _The bear_ is{ve} black. @polite
 
     O: 단 바나나는 완전히 노랗습니다.
-    E: The sweet banana is{st} perfectly yellow. @formal
-    F: _The sweet banana_ is{st} perfectly yellow. @formal
+    E: The sweet banana is{ve} perfectly yellow. @formal
+    F: _The sweet banana_ is{ve} perfectly yellow. @formal
 
     O: 저 쓴 불고기는 매우 검어요.
-    E: That bitter bulgogi (over there) is{st} very{v} black. @polite
-    F: _That bitter bulgogi (over there)_ is{st} very{v} black. @polite
+    E: That bitter bulgogi (over there) is{ve} very{v} black. @polite
+    F: _That bitter bulgogi (over there)_ is{ve} very{v} black. @polite
 
     O: 비싼 집은 노래요.
-    E: The expensive house is{st} yellow. @polite
-    F: _The expensive house_ is{st} yellow. @polite
+    E: The expensive house is{ve} yellow. @polite
+    F: _The expensive house_ is{ve} yellow. @polite
 
     O: 바다가 파래요.
-    E: The ocean is{st} blue. @polite
-    F: The ocean _is{st} blue_. @polite
+    E: The ocean is{ve} blue. @polite
+    F: The ocean _is{ve} blue_. @polite
 
     # 푸르다
     # 풀(grass)
     # something green (for example a green field, green eyes etc.), can also use it to describe something blue-ish
     # (not 푸러요) 러-irregular: contains four words only: 푸르다, 누르다 (when meaning “yellow”), 노르다, 이르다 (when meaning “arrive” or “reach”).
     O: 물이 푸르러요.
-    E: The water is{st} blue{g}. @polite
-    F: The water _is{st} blue{g}_. @polite
+    E: The water is{ve} blue{g}. @polite
+    F: The water _is{ve} blue{g}_. @polite
 
     O: 가장 좋은 우유는 완전히 하얗습니다.
-    E: The best milk is{st} completely white. @formal
-    F: _The best milk_ is{st} completely white. @formal
+    E: The best milk is{ve} completely white. @formal
+    F: _The best milk_ is{ve} completely white. @formal
 
     # tasteless is 싱겁다
     O: 맛없는 치즈는 하얘요.
-    E: The bad-tasting cheese is{st} white. @polite
-    F: _The bad-tasting cheese_ is{st} white. @polite
+    E: The bad-tasting cheese is{ve} white. @polite
+    F: _The bad-tasting cheese_ is{ve} white. @polite
 
     O: 생선이 빨갛습니까?
-    E: Is{st} the fish (to eat) red? @formal
-    F: _Is{st}_ the fish (to eat) _red_? @formal
+    E: Is{ve} the fish (to eat) red? @formal
+    F: _Is{ve}_ the fish (to eat) _red_? @formal
 
     O: 나쁜 개가 검습니다.
-    E: The bad dog is{st} black. @formal
-    F: The bad dog _is{st} black_. @formal
+    E: The bad dog is{ve} black. @formal
+    F: The bad dog _is{ve} black_. @formal
 
     O: 매운 음식은 빨개요.
-    E: Spicy foods are{st} red. @polite
-    F: _Spicy foods_ are{st} red. @polite
+    E: Spicy foods are{ve} red. @polite
+    F: _Spicy foods_ are{ve} red. @polite
 
     O: 무슨 야채가 노래요?
-    E: Which vegetable is{st} yellow? @polite
-    F: _Which_ vegetable _is{st} yellow_? @polite
+    E: Which vegetable is{ve} yellow? @polite
+    F: _Which_ vegetable _is{ve} yellow_? @polite
 
     O: 연필은 하얗습니다.
-    E: A pencil is{st} white. @formal
-    F: _A pencil_ is{st} white. @formal
+    E: A pencil is{ve} white. @formal
+    F: _A pencil_ is{ve} white. @formal
 
     O: 이 바나나는 조금 파래요.
-    E: This banana is{st} a little bit blue. @polite
-    F: _This banana_ is{st} a little bit blue. @polite
+    E: This banana is{ve} a little bit blue. @polite
+    F: _This banana_ is{ve} a little bit blue. @polite
 
     O: 무슨 야채가 노래요?
-    E: Which vegetable is{st} yellow? @polite
-    F: _Which_ vegetable _is{st} yellow_? @polite
+    E: Which vegetable is{ve} yellow? @polite
+    F: _Which_ vegetable _is{ve} yellow_? @polite
 
     O: 딸기는 빨개요.
-    E: Strawberries are{st} red. @polite
-    F: _Strawberries_ are{st} red. @polite
+    E: Strawberries are{ve} red. @polite
+    F: _Strawberries_ are{ve} red. @polite
