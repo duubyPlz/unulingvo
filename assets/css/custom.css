@@ -208,9 +208,9 @@ a.link-blue:focus {
 /* .badged-word {
   display: inline-block;
   position: relative;
-}
+} */
 
-.badged-word:after {
+/* .badged-word:after {
   position: absolute;
   top: 1em;
   right: 2em;
