@@ -200,22 +200,22 @@ a.link-blue:focus {
   font-variant: small-caps;
   position: relative;
   top: 5px;
-  letter-spacing: 0.2em;
-  font-size: 81%;
+  letter-spacing: 0.1em;
+  font-size: 75%;
   padding-left: 2px;
 }
 
-/* .badged-word {
+.badged-word {
   display: inline-block;
   position: relative;
-} */
+}
 
-/* .badged-word:after {
+.badged-word:after {
   position: absolute;
   top: 1em;
   right: 2em;
   content: "subtitle";
-} */
+}
 
 img.logo {
   opacity: 0.8;
