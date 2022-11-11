@@ -23,16 +23,16 @@
     E: can catch
 
     O: 못 가다
-    E: can not[c] go
+    E: can not{c} go
 
     O: 못 보다
-    E: can not[c] see
+    E: can not{c} see
 
     O: 못 먹다
-    E: can not[c] eat
+    E: can not{c} eat
 
     O: 못 하다
-    E: can not[c] do
+    E: can not{c} do
 
     O: 운전 할 수 있어요? 
     E: Can you drive?
@@ -44,7 +44,7 @@
     E: Can you read this?
 
     O: 못 읽어요.
-    E: I can’t[c] read it
+    E: I can’t{c} read it
 
     O: 지금 못 만나요. 
-    E: I can’t[c] meet you now.
+    E: I can’t{c} meet you now.

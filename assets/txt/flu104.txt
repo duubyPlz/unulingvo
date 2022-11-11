@@ -11,4 +11,4 @@
     E: Just a moment. @polite
 
     O: 잠깐만요.
-    E: Just a moment[in]. @polite
+    E: Just a moment{in}. @polite

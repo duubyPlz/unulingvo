@@ -28,6 +28,8 @@ $('select#contents-gr').parent().hide();
 
 // Global hash representation of current file
 var fileHash = new Object();
+// Current file's top badge (short-form to full name) hash
+var badgeHash = new Object();
 
 // 1. Parse & display text of selected module
 var selectedModule = $('select#contents-' + language).val();
@@ -372,6 +374,7 @@ $('.textarea#flu-answer').keydown(function (e) {
 // Subroutines
 function parse(module, language) {
     fileHash = new Object();
+    badgeHash = new Object();
     var fileName = 'lernu1.txt'; // random default file
     var languageToFilePrefix = {
         "eo": "duo",
@@ -403,6 +406,7 @@ function parse(module, language) {
             const englishTag = "E:"
             const formattedTag = "F:"
             
+            var badgeDictEntryRegex =  new RegExp('^\\* ([a-zA-Z0-9]+) -> ([a-zA-Z0-9,]+)');
             var originalRegexMatch = new RegExp("^\ {4}" + originalTag + ".*");
             var originalRegexReplace = new RegExp("\ {4}" + originalTag + "\ ");
             var englishRegexMatch = new RegExp("^\ {4}" + englishTag + ".*");
@@ -419,7 +423,9 @@ function parse(module, language) {
             for (var i=0; i<lines.length; i++) {
                 line = lines[i];
 
-                if (matchesTarget = line.match(originalRegexMatch)) {
+                if (matchesTarget = line.match(badgeDictEntryRegex)) {
+                    badgeHash[matchesTarget[1]] = matchesTarget[2];
+                } else if (matchesTarget = line.match(originalRegexMatch)) {
                     // > Original [O:]
                     var original = matchesTarget[0].replace(originalRegexReplace, "");
                     currentEntry.original = original;
@@ -493,23 +499,36 @@ function display(isFlu) {
     var currentEntry = fileHash[english]; // Get
     currentCorrectOriginal = currentEntry.original
 
-    var formatted = currentEntry.formatted
-    if (formatted != "") {
-        formattedHtml = generateFormattedHtml(formatted, english);
-        fancyTagsHtml = generateFancyTagsInHtml(formattedHtml);
-
-        if (isFlu) {
-            $('.flu-display-text').html(fancyTagsHtml);
-        } else {
-            $('.display-text').html(fancyTagsHtml);
-        }
+    var fancyTagsHtml;
+    if (currentEntry.formatted != "") {
+        fancyTagsHtml = generateFancyTagsInHtml(
+            generateFormattedHtml(currentEntry.formatted, english)
+        );
     } else {
         fancyTagsHtml = generateFancyTagsInHtml(english);
-        if (isFlu) {
-            $('.flu-display-text').html(fancyTagsHtml);
-        } else {
-            $('.display-text').html(fancyTagsHtml);
+    }
+
+    var fancyTagsBadgelessHtml = "";
+    var badgedWords = fancyTagsHtml.split(/([a-zA-Z0-9]+{[^}]+})/);
+    if (badgedWords.length >= 3) {
+        var badgeRegex = new RegExp("([a-zA-Z0-9]+){([^}]+)}");
+        for (var word of badgedWords) {
+            if (matchesTarget = word.match(badgeRegex)) {
+                fancyTagsBadgelessHtml += `<span class='badged-word'>${matchesTarget[1]}`;
+                fancyTagsBadgelessHtml += `<div class='badge-tag'>${badgeHash[matchesTarget[2]] ?? matchesTarget[2]}</div>`;
+                fancyTagsBadgelessHtml += '</span>';
+            } else {
+                fancyTagsBadgelessHtml += word;
+            }
         }
+    } else {
+        fancyTagsBadgelessHtml = fancyTagsHtml;
+    }
+
+    if (isFlu) {
+        $('.flu-display-text').html(fancyTagsBadgelessHtml);
+    } else {
+        $('.display-text').html(fancyTagsBadgelessHtml);
     }
 }
 

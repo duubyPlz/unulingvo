@@ -17,7 +17,7 @@
     E: (Oh!) I find that it looks good on you. (Expressing your impression)
 
     O: 현우 씨 머리 스타일 바꿨네요.
-    E: (Oh) Hyunwoo you changed your hairstyle[s]!
+    E: (Oh) Hyunwoo you changed your hairstyle{s}!
 
     O: 맞네요.
     E: I see that it is correct! (Finding out a fact for the first time.)
@@ -26,7 +26,7 @@
     E: (Impressed/Surprised) The dish tastes good!
 
     O: 이 드라마 몰랐는데 재미있네요.
-    E: I didn't know (before) but I find this drama[s] fun to watch.
+    E: I didn't know (before) but I find this drama{s} fun to watch.
 
     O: 별로 안 춥네요.
     E: (Discover/Well) It is not that cold.

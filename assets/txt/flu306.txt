@@ -20,7 +20,7 @@
     E: Where are you now? (I) will go out now. (+ if you do not mind / if you want me to / unless you do not want me to / what do you think about that?)
 
     O: 저 갈게요. 안녕히 계세요.
-    E: I[s] am going to go. Goodbye. (+ unless you want me to stay longer / unless there is something I have to stay longer to do)
+    E: I{s} am going to go. Goodbye. (+ unless you want me to stay longer / unless there is something I have to stay longer to do)
 
     O: 그래요? 다시 할게요.
     E: Is that so? I will do it again.

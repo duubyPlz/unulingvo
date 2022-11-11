@@ -36,7 +36,7 @@
     E: complaint
 
     O: 저한테 불만 있어요?
-    E: Do you have any complaints[s] against me?
+    E: Do you have any complaints{s} against me?
 
     # 不正確
     O: 부정확
@@ -50,8 +50,8 @@
     E: carelessness
 
     O: 제 부주의로 사고가 났어요.
-    E: With my[s] carelessness, (I) caused an accident (lit: an accident occurred). / I was careless, so it caused an accident.
-    F: _With my[s] carelessness, (I) caused an_ accident (lit: an accident occurred). / I was careless, so it caused an accident.
+    E: With my{s} carelessness, (I) caused an accident (lit: an accident occurred). / I was careless, so it caused an accident.
+    F: _With my{s} carelessness, (I) caused an_ accident (lit: an accident occurred). / I was careless, so it caused an accident.
 
     # 不當
     O: 부당

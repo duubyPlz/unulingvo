@@ -19,13 +19,13 @@ about it
     E: You don’t know yet?
 
     O: 아직도 몰라요?
-    E: You still[l] don’t know?; How could you still not know?
+    E: You still{l} don’t know?; How could you still not know?
 
     O: 아직 안 왔어요?
     E: He’s not here yet?
 
     O: 네, 아직도 안 왔어요.
-    E: Yes, he’s still[l] not here. 
+    E: Yes, he’s still{l} not here. 
 
     O: 벌써 세 시예요
     E: It’s already three o’clock.

@@ -104,8 +104,8 @@
     F: That pizza _is spicy_. @polite
 
     O: 설탕하고 꿀은 시지 않아요.
-    E: Sugar and[s] honey are not[l] sour. @polite
-    F: _Sugar and[s] honey_ are not[l] sour. @polite
+    E: Sugar and{s} honey are not{l} sour. @polite
+    F: _Sugar and{s} honey_ are not{l} sour. @polite
 
     O: 긴 바나나와 작은 사과
     E: A long banana and a small apple
@@ -143,8 +143,8 @@
     F: That language _is pretty_. @polite
 
     O: 영어는 쉽지 않습니다.
-    E: English is not[l] easy. @formal
-    F: _English_ is not[l] easy. @formal
+    E: English is not{l} easy. @formal
+    F: _English_ is not{l} easy. @formal
 
     O: 이 책은 어려워요.
     E: This book is difficult. @polite
@@ -204,8 +204,8 @@
     E: Thoughtless person
 
     O: 개가 맛없는 소고기를 먹지 않아요.
-    E: The dog does not[l] eat the tasteless beef. @polite
-    F: The dog _does not[l] eat the tasteless beef_. @polite
+    E: The dog does not{l} eat the tasteless beef. @polite
+    F: The dog _does not{l} eat the tasteless beef_. @polite
 
     O: 책이 없는 도서관
     E: A library without books

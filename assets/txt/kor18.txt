@@ -26,36 +26,36 @@
     F: The baby _cries noisily_. @polite
 
     O: 게가 물에서 편하게 잡니다.
-    E: The crab sleeps[ss] comfortably[l] in the water. @formal
-    F: The crab _sleeps[ss] comfortably[l] in the water_. @formal
+    E: The crab sleeps{ss} comfortably{l} in the water. @formal
+    F: The crab _sleeps{ss} comfortably{l} in the water_. @formal
 
     # 조용하게 하세요 - [Lit. Do something 'quietly' (by not making noise/in a discreet manner)] Keep the noise down (Active)
     # 조용히 하세요 - [Lit. Do something 'staidly' (in a calm/boring way)] - Stay/Be quiet (Passive- Stative)
     # In daily usage, the 2 expressions have become interchangeable
     O: 조용하게 하세요.
-    E: Do it quietly[l]. @polite
+    E: Do it quietly{l}. @polite
 
     O: 여자아이가 학교에 늦게 가요.
     E: The girl goes to school late. @polite
     F: The girl _goes to school late_. @polite
 
     O: 남자가 라디오를 들으면서 조용하게 노래해요.
-    E: The man sings quietly[l] while listening to the radio. @polite
-    F: The man _sings quietly[l] while listening to the radio_. @polite
+    E: The man sings quietly{l} while listening to the radio. @polite
+    F: The man _sings quietly{l} while listening to the radio_. @polite
 
     O: 아이들이 시끄럽게 놀아요.
     E: The children play noisily. @polite
     F: The children _play noisily_. @polite
 
     O: 늦게 자지 마세요.
-    E: Do not go to sleep[ss] late. @polite
+    E: Do not go to sleep{ss} late. @polite
 
     O: 웃는 아이는 즐겁게 놀아요.
     E: The smiling child plays joyfully. @polite
     F: _The smiling child_ plays joyfully. @polite
 
     O: 편하게 앉으세요.
-    E: Sit comfortably[l]. @polite
+    E: Sit comfortably{l}. @polite
 
 > Two
     O: 저는 가방 없이 학교에 가요.
@@ -69,8 +69,8 @@
     # According to National Institute of Korean Language, 우리 and 우리들 are all okay. The same meaning, and both words are plural. I mean, as you might know already, the plural form is not really considered in Korean.
     # In my opinion, however, 우리들 is redundancy. 우리 is better.
     O: 우리들은 따로 가요.
-    E: We[a] go separately. @polite
-    F: _We[a]_ go separately. @polite
+    E: We{a} go separately. @polite
+    F: _We{a}_ go separately. @polite
 
     O: 말이 열심히 일해요.
     E: The horse works hard. @polite

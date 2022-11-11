@@ -12,8 +12,8 @@
     # 4. 아무한테도: not to anybody
     #   * 아무: who, 한테: to
     # 5. 아무렇게나: in any way/however you like
-    # 6. 아무런_[noun]_도 없다: no such _[noun]_
-    #   * 아무, 런: like (e.g. 그런 like that) + [noun] + -도 없어요.
+    # 6. 아무런_{noun}_도 없다: no such _{noun}_
+    #   * 아무, 런: like (e.g. 그런 like that) + {noun} + -도 없어요.
     # 7. 아무것도 아니에요.: It's nothing (big at all). / No biggie.
 
     # 1
@@ -21,7 +21,7 @@
     E: anytime
 
     O: 아무 때나 한국어 공부할 수 있어요.
-    E: You can study[s] Korean[s] anytime.
+    E: You can study{s} Korean{s} anytime.
 
     # 2
     O: 아무 말도
@@ -46,7 +46,7 @@
     E: not to anybody / to nobody
 
     O: 아무한테도 주지 말고 혼자 먹어요.
-    E: Don't share[g] this with anyone, and eat it alone.
+    E: Don't share{g} this with anyone, and eat it alone.
 
     # 5
     O: 아무렇게나
@@ -59,7 +59,7 @@
     # 두다
     # 치우다
     O: 아무렇게나 두지 말고, 좀 치워요.
-    E: Don't put things randomly(?) (lit: in any way), clean up a bit[s]. 🤔
+    E: Don't put things randomly(?) (lit: in any way), clean up a bit{s}. 🤔
 
     # 6
     # There is no _ of any kind.

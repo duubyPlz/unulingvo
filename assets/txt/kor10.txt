@@ -34,8 +34,8 @@
     F: _We_ love the sea. @formal
 
     O: 나는 개를 싫어하지 않아요.
-    E: I do not[l] hate dogs. @polite @i
-    F: _I_ do not[l] hate dogs. @polite @i
+    E: I do not{l} hate dogs. @polite @i
+    F: _I_ do not{l} hate dogs. @polite @i
 
     O: 저는 이 가방을 더 좋아합니다.
     E: I like this bag better. @formal
@@ -85,12 +85,12 @@
     E: Please don't tease me. @formal @i
 
     O: 내 친구는 나를 너무 많이 속입니다.
-    E: My[s] friend deceives me too much. @formal @i
-    F: _My[s] friend_ deceives me too much. @formal @i
+    E: My{s} friend deceives me too much. @formal @i
+    F: _My{s} friend_ deceives me too much. @formal @i
 
     # It means "you guys" (너희). It like makes a plural "you".
     O: 너희와 나
-    E: You[p] and me @i
+    E: You{p} and me @i
 
     O: 나를 믿으십시오.
     E: Please believe me. @formal @i
@@ -111,7 +111,7 @@
     E: Your name is @i
 
     O: 너희와 우리
-    E: You[p] and us @i
+    E: You{p} and us @i
 
     O: 너
     E: You @i
@@ -121,15 +121,15 @@
     F: _We_ deceive the boy. @formal
 
     O: 너희의 빵
-    E: Your[p] bread. @i
+    E: Your{p} bread. @i
 
 > Three
     # 내 자신을 means "my oneself/ myself"
     # 나 자신을 means "I oneself/myself"
     # I don't think the meaning changes much.
     O: 나는 내 자신을 압니다.
-    E: I know myself[m]. @formal @i
-    F: _I_ know myself[m]. @formal @i
+    E: I know myself{m}. @formal @i
+    F: _I_ know myself{m}. @formal @i
 
     O: 나는 혼자 요리합니다.
     E: I cook by myself. @formal @i

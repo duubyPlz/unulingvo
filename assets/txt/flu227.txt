@@ -24,7 +24,7 @@
     E: Please buy ME some ice cream.
 
     O: 저를 도와 주세요!
-    E: Help me[l]!
+    E: Help me{l}!
 
     O: 가르치세요.
     E: Teach. / Please teach. (to whom is unknown)

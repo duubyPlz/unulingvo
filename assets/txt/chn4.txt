@@ -18,7 +18,7 @@
 
     # 我要成為一名作家
     O: 我要成為一個作家。
-    E: I need to become[l] a writer.
+    E: I need to become{l} a writer.
 
     O: 嗰幅畫係我嘅作品。
     E: That (piece of) painting is my product.

@@ -12,19 +12,19 @@
     E: Germany and the Philippines
 
     O: 친구를 만났어요. 그리고 밥을 먹었어요.
-    E: (I) met my friend and[l] (I) ate rice.
+    E: (I) met my friend and{l} (I) ate rice.
 
     O: 오늘은 비가 왔어요. 그래서 집에 있었어요.
     E: It rained today. So I stayed at home.
     F: It rained _today_. So I stayed at home.
 
     O: 김치는 맛있어요. 그리고 한국 음식이에요.
-    E: Kimchi is delicious and[l] it is Korean food.
-    F: _Kimchi_ is delicious and[l] it is Korean food.
+    E: Kimchi is delicious and{l} it is Korean food.
+    F: _Kimchi_ is delicious and{l} it is Korean food.
 
     O: 저는 학생이에요. 그리고 프랑스어를 공부해요.
-    E: I am a student and[l] I am studying French.
-    F: _I_ am a student and[l] I am studying French.
+    E: I am a student and{l} I am studying French.
+    F: _I_ am a student and{l} I am studying French.
 
     O: 저는 학생이에요. 그래서 돈이 없어요.
     E: I am a student. So I do not have money.

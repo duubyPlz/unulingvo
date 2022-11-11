@@ -35,7 +35,7 @@
 
     # More awkward version: 한국어 조금만 할 수 있어요.
     O: 한국어 조금밖에 못해요.
-    E: (I) can only speak a little bit of Korean[s].
+    E: (I) can only speak a little bit of Korean{s}.
 
     O: 이것밖에 없어요?
     E: You only have this? This is it?

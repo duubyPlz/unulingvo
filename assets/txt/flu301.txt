@@ -20,7 +20,7 @@
     E: It is too noisy.
 
     O: 소연 씨 너무 커요.
-    E: Soyeon, you are too tall[s].
+    E: Soyeon, you are too tall{s}.
 
     O: 이거 너무 비싸요.
     E: This is too expensive.

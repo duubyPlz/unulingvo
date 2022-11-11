@@ -38,4 +38,4 @@
     E: Come out through exit number 2.
 
     O: 저는 TTMIK으로 한국어 공부해요.
-    E: I study Korean[s] through TTMIK.
+    E: I study Korean{s} through TTMIK.

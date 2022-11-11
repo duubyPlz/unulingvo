@@ -39,8 +39,8 @@
     F: _Where is_ the closest station?
 
     O: 어떤 색깔이 가장 좋아요?
-    E: Which color is the best[f]? / Which color is your favorite?
-    F: Which color _is the best[f]_? / Which color is your favorite?
+    E: Which color is the best{f}? / Which color is your favorite?
+    F: Which color _is the best{f}_? / Which color is your favorite?
 
     # 村스럽다
     O: 촌스럽다
@@ -51,5 +51,5 @@
     F: _Who is the_ person that came here first?
 
     O: 요즘 가장 인기 있는 가수는 누구예요?
-    E: These days[s], who is the most[f] popular singer?
-    F: These days[s], who is the _most[f] popular singer_?
+    E: These days{s}, who is the most{f} popular singer?
+    F: These days{s}, who is the _most{f} popular singer_?

@@ -33,25 +33,25 @@
     F: _I watch Korean movies_ often.
 
     O: 그런 말 정말 자주 들어요.
-    E: I hear that[s] really (lit: seriously) often. / I get that really often.
+    E: I hear that{s} really (lit: seriously) often. / I get that really often.
 
     O: 항상 물어보고 싶었어요.
-    E: I've always[wr] wanted to ask you (that).
+    E: I've always{wr} wanted to ask you (that).
 
-    # I study Chinese[l] all the time[sp], but it is still[s] difficult.
+    # I study Chinese{l} all the time{sp}, but it is still{s} difficult.
     O: 중국어를 맨날 공부하는데, 아직 어려워요.
-    E: I always[sp] study Chinese[l], but it is still[s] difficult.
+    E: I always{sp} study Chinese{l}, but it is still{s} difficult.
 
     O: 요즘에는 운동을 별로 안 해요.
-    E: I don't really work out[l] these days[l]. / I rarely work out these days.
-    F: I don't really work out[l] _these days[l]_. / I rarely work out these days.
+    E: I don't really work out{l} these days{l}. / I rarely work out these days.
+    F: I don't really work out{l} _these days{l}_. / I rarely work out these days.
 
-    # I never put on makeup[l].
+    # I never put on makeup{l}.
     O: 화장을 전혀 안 해요.
-    E: I never put makeup[l] on.
+    E: I never put makeup{l} on.
 
     O: 시간이 없어서, 친구들을 거의 못 만나요.
-    E: I do not have time[l], so I almost can never meet my friends[l].
+    E: I do not have time{l}, so I almost can never meet my friends{l}.
 
     O: 라디오를 거의 맨날 들어요.
-    E: I almost always[sp] listen to the radio.
+    E: I almost always{sp} listen to the radio.

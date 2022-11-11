@@ -13,16 +13,16 @@
     F: That car _disappears_.
 
     O: 제가 차에서 내려요.
-    E: I get off the car[s].
-    F: I _get off the car[s]_.
+    E: I get off the car{s}.
+    F: I _get off the car{s}_.
 
     O: 이 편지는 맞지 않아요.
-    E: This letter is not[l] correct.
-    F: _This letter_ is not[l] correct.
+    E: This letter is not{l} correct.
+    F: _This letter_ is not{l} correct.
 
     O: 여자가 울지 않아요.
-    E: The woman does not[l] cry.
-    F: The woman _does not[l] cry_.
+    E: The woman does not{l} cry.
+    F: The woman _does not{l} cry_.
 
     O: 학생이 가방을 잠가요.
     E: The student locks a bag.
@@ -82,8 +82,8 @@
     F: It is dark _here_.
 
     O: 여기는 어둡지 않아요.
-    E: It is not[l] dark here.
-    F: It is not[l] dark _here_.
+    E: It is not{l} dark here.
+    F: It is not{l} dark _here_.
 
     O: 저는 누워요.
     E: I lie down.
@@ -160,8 +160,8 @@
     F: _Keys_ are like that over there.
 
     O: 제 음악은 이래요.
-    E: My[s] music is like this.
-    F: _My[s] music_ is like this.
+    E: My{s} music is like this.
+    F: _My{s} music_ is like this.
 
     O: 날씨가 그래요. 
     E: The weather is like that.
@@ -180,20 +180,20 @@
     F: The people _are similar_.
 
     O: 이 학생은 저렇지 않아요.
-    E: This student is not[l] like that over there.
-    F: _This student_ is not[l] like that over there.
+    E: This student is not{l} like that over there.
+    F: _This student_ is not{l} like that over there.
 
     O: 이것과 저것은 비슷하지 않아요.
-    E: This and that over there are not[l] similar.
-    F: _This and that over there_ are not[l] similar.
+    E: This and that over there are not{l} similar.
+    F: _This and that over there_ are not{l} similar.
 
     O: 저의 집은 그렇지 않아요.
-    E: My house is not[l] like that.
-    F: _My house_ is not[l] like that.
+    E: My house is not{l} like that.
+    F: _My house_ is not{l} like that.
 
     O: 저는 이렇지 않아요.
-    E: I am not[l] like this.
-    F: _I_ am not[l] like this.
+    E: I am not{l} like this.
+    F: _I_ am not{l} like this.
 
     O: 날씨가 추워요.
     E: The weather is cold.

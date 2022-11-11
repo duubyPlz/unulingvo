@@ -1,8 +1,8 @@
 == Numbers ==
 * s -> spoken
 
-    # 십구 번 [noun]: [noun] number nineteen
-    # [noun] 열 아홉 [collective noun]: the nineteenth [noun]
+    # 십구 번 {noun}: {noun} number nineteen
+    # {noun} 열 아홉 [collective noun]: the nineteenth {noun}
     O: 십구 번 레슨
     E: Lesson number nineteen
 
@@ -72,8 +72,8 @@
     F: Eight little girls _jump_. @polite
 
     O: 여섯 명이 그 책을 같이 읽어요.
-    E: Six (people) read that book together[s]. @polite
-    F: Six (people) _read that book together[s]_. @polite
+    E: Six (people) read that book together{s}. @polite
+    F: Six (people) _read that book together{s}_. @polite
 
     # 몇살 이세요
     # 나이가 어떻게 되세요
@@ -89,8 +89,8 @@
     F: _I_ give a gift to ten friends. @polite
 
     O: 사람 여섯 명이 그 책을 같이 읽어요.
-    E: Six people read that book together[s]. @polite
-    F: Six people _read that book together[s]_. @polite
+    E: Six people read that book together{s}. @polite
+    F: Six people _read that book together{s}_. @polite
 
 > Three
     O: 나는 친구 마흔 명이 있어요.

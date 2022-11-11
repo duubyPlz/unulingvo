@@ -1,8 +1,8 @@
 == Regular Verbs ==
 > One
     O: 여자하고 남자아이가 함께 생각합니다.
-    E: The woman and[s] the boy think together.
-    F: The woman and[s] the boy _think together_.
+    E: The woman and{s} the boy think together.
+    F: The woman and{s} the boy _think together_.
 
     O: 저는 방에서 웃습니다.
     E: I laugh in the room.
@@ -22,8 +22,8 @@
     F: The man _falls_.  
 
     O: 남자들이 같이 생각합니다.
-    E: The men think together[s].
-    F: The men _think together[s]_.
+    E: The men think together{s}.
+    F: The men _think together{s}_.
 
     O: 저는 앉습니다.
     E: I sit.
@@ -96,19 +96,19 @@
     F: The dog _goes towards a house_.
 
     O: 섬하고 바다.
-    E: Island and[s] sea.
+    E: Island and{s} sea.
 
     O: 고양이가 집에서 옵니다.
     E: The cat comes from the house.
     F: The cat _comes from the house_.
 
     O: 여자하고 남자가 도서관에서 걷습니다.
-    E: The woman and[s] the man walk, inside the library.
-    F: The woman and[s] the man _walk, inside the library_.
+    E: The woman and{s} the man walk, inside the library.
+    F: The woman and{s} the man _walk, inside the library_.
 
     O: 남자가 공원에서 뜁니다.
-    E: The man runs[j] at the park.
-    F: The man _runs[j] at the park_.
+    E: The man runs{j} at the park.
+    F: The man _runs{j} at the park_.
 
     O: 학생이 도서관까지 달립니다.
     E: The student runs to the library.
@@ -373,12 +373,12 @@
     F: The woman and the man _sing_.
 
     O: 아이는 잠잡니다.
-    E: A child sleeps[s].
-    F: _A child_ sleeps[s].
+    E: A child sleeps{s}.
+    F: _A child_ sleeps{s}.
 
     O: 고양이들이 잡니다.
-    E: The cats sleep[ss].
-    F: The cats _sleep[ss]_.
+    E: The cats sleep{ss}.
+    F: The cats _sleep{ss}_.
     
     O: 남자가 잠을 잡니다.
     E: The man sleeps.
@@ -389,8 +389,8 @@
     F: The student _dreams at the library_.
 
     O: 저는 도서관에서 노래를 합니다.
-    E: I sing[l] at the library.
-    F: _I_ sing[l] at the library.
+    E: I sing{l} at the library.
+    F: _I_ sing{l} at the library.
 
     O: 가수가 공원에서 노래합니다.
     E: The singer sings at the park.
@@ -417,25 +417,25 @@
     F: The woman _dreams_.
 
     O: 저는 노래를 합니다.
-    E: I sing[l].
-    F: _I_ sing[l].
+    E: I sing{l}.
+    F: _I_ sing{l}.
 
     O: 학생들이 학교에서 공부합니다.
     E: The students study at school.
     F: The students _study at school_.
 
     O: 저는 공부를 합니다.
-    E: I study[l].
-    F: _I_ study[l].
+    E: I study{l}.
+    F: _I_ study{l}.
 
     O: 저는 동물을 먹지 않습니다.
-    E: I do not[l] eat animals.
-    F: _I_ do not[l] eat animals.
+    E: I do not{l} eat animals.
+    F: _I_ do not{l} eat animals.
 
 > Seven
     O: 저는 친구를 던지지 않습니다.
-    E: I do not[l] throw my friend.
-    F: _I_ do not[l] throw my friend.
+    E: I do not{l} throw my friend.
+    F: _I_ do not{l} throw my friend.
 
     O: 여자는 한국어를 안 배웁니다.
     E: A woman does not learn Korean.
@@ -457,20 +457,20 @@
     F: The boy _does not catch the ball_.
 
     O: 개가 공을 잡지 않습니다.
-    E: The dog does not[l] catch the ball.
-    F: The dog _does not[l] catch the ball_.
+    E: The dog does not{l} catch the ball.
+    F: The dog _does not{l} catch the ball_.
 
     O: 아이가 공을 던집니다.
     E: The child throws the ball.
     F: The child _throws the ball_.
 
     O: 저는 공부하지 않습니다.
-    E: I do not[l] study.
-    F: _I_ do not[l] study.
+    E: I do not{l} study.
+    F: _I_ do not{l} study.
 
     O: 저는 영어를 배우지 않습니다.
-    E: I do not[l] learn English.
-    F: _I_ do not[l] learn English.
+    E: I do not{l} learn English.
+    F: _I_ do not{l} learn English.
 
     O: 남자가 공원에서 운동합니다.
     E: The man exercises at the park.

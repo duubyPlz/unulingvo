@@ -22,7 +22,7 @@
     E: It is less cold than yesterday.
 
     O: 덜 비싼 것 없어요?
-    E: Don’t you have a less expensive one[l]?
+    E: Don’t you have a less expensive one{l}?
 
     O: 물은 더 마시고, 술은 덜 마셔야 돼요.
     E: You should drink more water and less alcohol.
@@ -42,11 +42,11 @@
     E: (We are) not completely there yet.
 
     O: 다 안 왔어요.
-    E: We are NOT FULLY[l] there yet.
+    E: We are NOT FULLY{l} there yet.
 
     # 돌다 intransitive, 돌리다 to turn around
     O: 제 책 돌려주세요.
-    E: Give me my[s] book back.
+    E: Give me my{s} book back.
 
     O: 아직 덜 봤어요.
     E: I still haven't finished reading (lit: looking at) it yet.

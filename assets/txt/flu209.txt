@@ -41,7 +41,7 @@
     # The word for “people” or “person”, 사람 [sa-ram], is also used when generally referring to a small number of people without specifying who they are.
     # Can't go: 열 사람 있어요. (This is unnatural.)
     O: 두 사람 있어요.
-    E: There are 2 people[w].
+    E: There are 2 people{w}.
 
     O: 몇 병
     E: how many bottles
@@ -78,4 +78,4 @@
 
     # 사탕 = candy
     O: 사탕 몇 개 먹을래?
-    E: How many candies do you want[f] to eat? @impolite 🤔
+    E: How many candies do you want{f} to eat? @impolite 🤔

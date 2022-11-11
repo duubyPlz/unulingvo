@@ -34,7 +34,7 @@
     E: A book and a pencil.
 
     O: 여자하고 연필
-    E: A woman and[s] a pencil.
+    E: A woman and{s} a pencil.
 
     O: 사과
     E: Apple
@@ -43,7 +43,7 @@
     E: Bread
 
     O: 남자하고 여자
-    E: Man and[s] woman.
+    E: Man and{s} woman.
 
     O: 남자와 집
     E: A man and a house.
@@ -52,7 +52,7 @@
     E: A woman or a book.
 
     O: 책하고 남자
-    E: A book and[s] a man.
+    E: A book and{s} a man.
 
     O: 빵과 사과들
     E: Bread and apples.
