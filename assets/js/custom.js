@@ -26,16 +26,6 @@ $('select#contents-ja').parent().hide();
 $('select#contents-cn').parent().hide();
 $('select#contents-gr').parent().hide();
 
-// TODO can't get semantic ui <select>.dropdown('set selected', random) to work
-// Note: button#flu-randomise has the logic wanted, port over
-var fileSizes = {
-                    'eo': 30,
-                    'ko': 20,
-                    'ja': 2,
-                    'cn': 12,
-                    'gr': 11,
-                };
-
 // Global hash representation of current file
 var fileHash = new Object();
 
@@ -260,34 +250,19 @@ $('select#flu').change(function() {
 
 // 5. Randomise modules
 $('button#randomise').click(function() {
-    // var size = 0;
-    // if (language == 'eo') {
-    //     size = $('#contents-eo').siblings().find('.item').size();
-    // } else if (language == 'ja')  {
-    //     size = $('#contents-ja').siblings().find('.item').size();
-    // }
+    const options = [ ...document.getElementById('contents-' + language).children ];
+    const optionValues = options.map((option) => {
+        return option.value;
+    });
 
-    var size = fileSizes[language];
-    var random = Math.floor(Math.random() * size) + 1;
-
-    // TODO probably also need to fix mapping of random to actual value
-    // [LOOK @ same section in flu]
-
+    const size = optionValues.length;
+    const randomIndex = Math.floor(Math.random() * size) + 1;
+    const randomValue = optionValues[randomIndex];
+    
     // http://semantic-ui.com/modules/dropdown.html#behavior
-    if (language == 'eo') {
-        $('#contents-eo').dropdown('set selected', random);
-    } else if (language == 'ko') {
-        $('#contents-ko').dropdown('set selected', random);
-    } else if (language == 'ja') {
-        $('#contents-ja').dropdown('set selected', random);
-    }  else if (language == 'cn') {
-        $('#contents-cn').dropdown('set selected', random);
-    } else if (language == 'gr') {
-        $('#contents-gr').dropdown('set selected', random);
-    }
-    // $('#contents-' + language).dropdown('set selected', random);
+    $('#contents-' + language).dropdown('set selected', randomValue);
 
-    selectedModule = random;
+    selectedModule = randomValue;
 
     reparse(selectedModule.toString(), false);
     // display_loader(false);
