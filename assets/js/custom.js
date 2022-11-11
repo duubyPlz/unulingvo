@@ -522,7 +522,7 @@ function display(isFlu) {
             if (matchesTarget = word.match(badgeRegex)) {
                 // matchesTarget: Array(3) [ "clothes{sp}", "clothes", "sp" ]
                 fancyTagsBadgelessHtml += `<span class='badged-word'>${matchesTarget[1]}`;
-                fancyTagsBadgelessHtml += `<span class='badge-tag'>${badgeHash[matchesTarget[2]] ?? matchesTarget[2]}</span>`;
+                fancyTagsBadgelessHtml += `<div class='badge-tag'>${badgeHash[matchesTarget[2]] ?? matchesTarget[2]}</div>`;
                 fancyTagsBadgelessHtml += '</span>';
             } else {
                 fancyTagsBadgelessHtml += word;
