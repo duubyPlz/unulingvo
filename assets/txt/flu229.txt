@@ -20,10 +20,10 @@
     E: Are you going to buy all of it?
 
     O: 커피를 다 마시다
-    E: to drink all the coffee[l]
+    E: to drink all the coffee{l}
 
     O: 책을 다 읽다
-    E: to read all of the book[l]; to finish reading the book
+    E: to read all of the book{l}; to finish reading the book
 
     # the whole book (body); the entire book; all of the book
     O: 책 전체

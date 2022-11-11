@@ -75,7 +75,7 @@
 
     # 여기서 = 여기에서 = here; in this place; at this place
     O: 너 여기서 뭐 하고 있어요? 
-    E: What are you doing here[s]? @i 🤔
+    E: What are you doing here{s}? @i 🤔
 
     # 노숙하다 = to sleep on the street
     O: 노숙하고 있어요.

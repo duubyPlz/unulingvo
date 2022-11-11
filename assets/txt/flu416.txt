@@ -45,10 +45,10 @@
 
     # S3. Noun Marker _ Verb
     O: 이거 샀어요.
-    E: I bought this[s].
+    E: I bought this{s}.
 
     O: 그것을 만들었어요.
-    E: I made that[ll].
+    E: I made that{ll}.
 
     # S4. Noun _ Noun
     O: 한국 여행
@@ -77,7 +77,7 @@
 
     # Exception 1. Common phrases (common in sino-korean words)
     O: 이것
-    E: This thing[l]
+    E: This thing{l}
 
     # Technically, 여자 친구 is correct
     O: 여자친구
@@ -88,19 +88,19 @@
     E: to study
 
     O: 공부를 하다
-    E: to study[l]
+    E: to study{l}
 
     O: 운동하다
     E: to exercise
 
     O: 운동을 하다
-    E: to exercise[l]
+    E: to exercise{l}
 
     O: 청소하다
     E: to clean up
 
     O: 청소를 하다
-    E: to clean up[l]
+    E: to clean up{l}
 
     O: 화장하다
     E: to put makeup on
@@ -110,4 +110,4 @@
 
     # Has a space = Because it is English
     O: 데이트 하다
-    E: to date[e]
+    E: to date{e}

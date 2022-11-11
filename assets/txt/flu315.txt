@@ -16,14 +16,14 @@
     E: You are busy now? Then WHEN are you not busy?
 
     O: 지금 바빠요? 그래서 언제 안 바빠요?
-    E: You are busy now? Then[so] WHEN are you not busy (super pissed off)?
+    E: You are busy now? Then{so} WHEN are you not busy (super pissed off)?
 
     O: 한국 음식 좋아해요? 그럼 김밥도 좋아해요?
-    E: Do you like Korean food? Then[s] do you like kimbap, too?
+    E: Do you like Korean food? Then{s} do you like kimbap, too?
 
     O: 진짜요? 그럼 이제 어떻게 해요?
-    E: Really? If so[s], what should we do now (puzzled)?
+    E: Really? If so{s}, what should we do now (puzzled)?
 
     O: 그럼 이거는 어때요?
-    E: Then[s] how about this one?
-    F: Then[s] how about _this one_?
+    E: Then{s} how about this one?
+    F: Then{s} how about _this one_?

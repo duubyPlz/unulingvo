@@ -2,7 +2,7 @@
 * l -> long
 
     O: 창문을 닦자.
-    E: Let's wipe the window[l].
+    E: Let's wipe the window{l}.
 
     O: 서연이랑 여행하자!
     E: Let's go on vacation with Seoyeon!
@@ -12,7 +12,7 @@
     F: _Seojun_ goes to a party with Seoyeon.
 
     O: 창문을 열자.
-    E: Let's open the window[l].
+    E: Let's open the window{l}.
 
     O: 선생님과 이야기하자.
     E: Let's talk with the teacher.
@@ -28,8 +28,8 @@
     E: Let's go to the party!
 
     O: 아기가 창문을 열어.
-    E: The baby opens the window[l].
-    F: The baby _opens the window[l]_.
+    E: The baby opens the window{l}.
+    F: The baby _opens the window{l}_.
 
     O: 서준! 뛰어!
     E: Seojun! Run!
@@ -51,7 +51,7 @@
     # 잔치 means celebration
     # 잔치를 베풀자.
     O: 파티를 열자!
-    E: Let's throw a party[l]!
+    E: Let's throw a party{l}!
 
     O: 지훈아! 파티를 하자!
-    E: Jihun! Let's party[l]!
+    E: Jihun! Let's party{l}!

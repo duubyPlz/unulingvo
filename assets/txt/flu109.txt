@@ -2,8 +2,8 @@
 * l -> long
 
     O: 저는 학생이에요.
-    E: I[l] am a student.
-    F: _I[l]_ am a student.
+    E: I{l} am a student.
+    F: _I{l}_ am a student.
 
     O: 이거 사과예요. 
     E: This is an apple.

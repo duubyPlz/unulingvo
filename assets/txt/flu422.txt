@@ -44,7 +44,7 @@
     E: marketplace
 
     O: 지금 시장 갈 거예요.
-    E: I will go to the marketplace[s] now. / I am going to the marketplace now.
+    E: I will go to the marketplace{s} now. / I am going to the marketplace now.
 
     # 牧場
     O: 목장
@@ -65,7 +65,7 @@
     E: swimming pool
 
     O: 풀장
-    E: swimming pool[e]
+    E: swimming pool{e}
 
     O: 수영장에 일주일에 세 번 가요.
     E: I go to the swimming pool three times a week.

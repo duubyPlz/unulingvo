@@ -23,4 +23,4 @@
     E: Please give water to me, too. (Not just other people)
 
     O: 저 물도 주세요.
-    E: Please give me[s] water as well. (Not only other things e.g. food)
+    E: Please give me{s} water as well. (Not only other things e.g. food)

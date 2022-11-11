@@ -7,13 +7,13 @@
     E: Should sleep
 
     O: 자야 하다
-    E: Should sleep[d]
+    E: Should sleep{d}
 
     O: 써야 되다
     E: Should write
 
     O: 써야 하다
-    E: Should write[d]
+    E: Should write{d}
 
     O: 되다
     E: to be possible

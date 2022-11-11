@@ -26,8 +26,8 @@
     F: _The dog_ sits next to the child. @polite
     
     O: 바쁜 학생이 학교 안에서 잡니다.
-    E: The busy student sleeps[ss] inside the school. @formal
-    F: The busy student _sleeps[ss] inside the school_. @formal
+    E: The busy student sleeps{ss} inside the school. @formal
+    F: The busy student _sleeps{ss} inside the school_. @formal
 
     # There is a pencil inside the box
     O: 상자 안에는 연필이 있습니다.
@@ -50,8 +50,8 @@
     F: Let's meet in front of the hotel. @formal
 
     O: 제 배낭이 나무 옆에 있습니다.
-    E: My[s] backpack is next to the tree. @formal
-    F: My[s] backpack _is next to the tree_. @formal
+    E: My{s} backpack is next to the tree. @formal
+    F: My{s} backpack _is next to the tree_. @formal
 
     O: 배낭이 책상 앞에 있어요.
     E: The backpack is in front of the desk. @polite
@@ -116,8 +116,8 @@
     F: The gimbap _is on the dining table_. @formal
 
     O: 침대 아래에 거미 세 마리가 숨어요.
-    E: Three spiders hide under[f] the bed. @polite
-    F: Three spiders _hide_ under[f] the bed. @polite
+    E: Three spiders hide under{f} the bed. @polite
+    F: Three spiders _hide_ under{f} the bed. @polite
 
     O: 케이크 위에
     E: Atop a cake
@@ -128,8 +128,8 @@
     F: The duck _is in the water_. @formal
 
     O: 아이가 남자와 여자의 사이에서 먹어요.
-    E: The child eats between[l] the man and the woman. @polite
-    F: The child _eats between[l] the man and the woman_. @polite
+    E: The child eats between{l} the man and the woman. @polite
+    F: The child _eats between{l} the man and the woman_. @polite
 
     O: 의자가 방 가운데에 있습니다.
     E: The chair is in the center of the room. @formal
@@ -147,23 +147,23 @@
     F: _I_ stand between the actors. @polite
 
     O: 장난감이 두 아이의 사이에 있습니다.
-    E: The toy is between[l] the two children. @formal
-    F: The toy _is between[l] the two children_. @formal
+    E: The toy is between{l} the two children. @formal
+    F: The toy _is between{l} the two children_. @formal
 
     O: 고양이들 사이의 쥐
     E: A mouse between cats
 
     O: 남자아이가 장난감 속에서 잡니다.
-    E: The boy sleeps[ss] among the toys. @formal
-    F: The boy _sleeps[ss] among the toys_. @formal
+    E: The boy sleeps{ss} among the toys. @formal
+    F: The boy _sleeps{ss} among the toys_. @formal
 
     O: 식탁은 가운데에 있습니다.
     E: The dining table is in the center. @formal
     F: _The dining table_ is in the center. @formal
 
     O: 남자아이가 장난감 속에서 잡니다.
-    E: The boy sleeps[ss] among the toys. @formal
-    F: The boy _sleeps[ss] among the toys_. @formal
+    E: The boy sleeps{ss} among the toys. @formal
+    F: The boy _sleeps{ss} among the toys_. @formal
 
     O: 그는 가운데에 앉아요.
     E: He sits in the center. @polite
@@ -174,8 +174,8 @@
     F: _The dining table_ is in the center. @formal
 
     O: 장난감이 의자하고 책상 사이에 있어요.
-    E: The toy is between the chair and[sp] the desk. @polite
-    F: The toy _is between the chair and[sp] the desk_. @polite
+    E: The toy is between the chair and{sp} the desk. @polite
+    F: The toy _is between the chair and{sp} the desk_. @polite
 
     O: 꿈속의 꿈
     E: Dream within a dream
@@ -186,8 +186,8 @@
     F: _He_ goes far away. @formal
 
     O: 양이 건너편에서 자요.
-    E: The sheep sleeps[ss] on the opposite side. @polite
-    F: The sheep _sleeps[ss] on the opposite side_. @polite
+    E: The sheep sleeps{ss} on the opposite side. @polite
+    F: The sheep _sleeps{ss} on the opposite side_. @polite
 
     # 재미있다 is shorthand for 재미가 있다.
     # 책은 재미있어요 is shorthand for 책은 재미가 있어요 which reads something like "as for the book (or books in general), there is fun", noting 있다 is intransitive
@@ -212,10 +212,10 @@
     E: The restaurant is near the park. @formal
     F: The restaurant _is near the park_. @formal
 
-    # My[s] house is near the bank.
+    # My{s} house is near the bank.
     O: 제 집은 은행 가까이에 있습니다.
-    E: My[s] house is close to the bank. @formal
-    F: _My[s] house_ is close to the bank. @formal
+    E: My{s} house is close to the bank. @formal
+    F: _My{s} house_ is close to the bank. @formal
 
     O: 남자가 왼쪽에 있고 여자아이가 오른쪽에 있어요.
     E: The man is on the left and the girl is on the right. @polite

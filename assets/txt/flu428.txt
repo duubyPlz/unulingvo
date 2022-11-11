@@ -2,8 +2,8 @@
     # {#RELATED Level 3 Lesson 24}: 르 irregular / 르 불규칙
 
     # * Rules:
-    #   * to become [adjective]: [adjective]+(ㅏ/ㅓ)지다
-    #   * to become more [adjective]: 더 [adjective]+(ㅏ/ㅓ)지다
+    #   * to become {adjective}: {adjective}+(ㅏ/ㅓ)지다
+    #   * to become more {adjective}: 더 {adjective}+(ㅏ/ㅓ)지다
 
     O: 예뻐지다
     E: to become pretty

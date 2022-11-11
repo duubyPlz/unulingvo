@@ -30,8 +30,8 @@
     F: _I_ get to work by 9 am every day.
 
     O: 내일 수업이 네시 반에 끝나요.
-    E: Tomorrow, (my) classes finish at 4:30[h].
-    F: Tomorrow, (my) classes _finish at 4:30[h]_.
+    E: Tomorrow, (my) classes finish at 4:30{h}.
+    F: Tomorrow, (my) classes _finish at 4:30{h}_.
 
     O: 오늘 몇 시에 친구를 만나요?
     E: What time do you meet your friend today?

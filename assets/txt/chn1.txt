@@ -5,7 +5,7 @@
     E: You thought I was stupid?
 
     O: 因為佢蕩失路。
-    E: It's because he got[s] lost.
+    E: It's because he got{s} lost.
 
     # People think that it's easy.
     O: 啲人以為好易。

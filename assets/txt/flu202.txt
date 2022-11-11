@@ -22,34 +22,34 @@
     F: The apple _fell_.
 
     O: 사과 사요?
-    E: Are you buying an apple[s]?
+    E: Are you buying an apple{s}?
 
     O: 이 사과 맛있어요.
-    E: This apple[s] is delicious.
+    E: This apple{s} is delicious.
 
     O: 만났어요.
     E: I met.
 
     O: 누구 만났어요?
-    E: Who[s] did you meet?
+    E: Who{s} did you meet?
 
     O: 어제 여기에서 누구 만났어요?
-    E: Yesterday, who[s] did you meet here?
+    E: Yesterday, who{s} did you meet here?
 
     O: 어제 누구를 여기에서 만났어요?
     E: Yesterday, WHO did you meet here?
 
     O: 텔레비전 봐요.
-    E: I watch TV[s].
+    E: I watch TV{s}.
 
     O: 텔레비전 봐요?
-    E: Do you watch TV[s]?
+    E: Do you watch TV{s}?
 
     O: 텔레비전 자주 봐요?
-    E: Do you watch TV[s] often?
+    E: Do you watch TV{s} often?
 
     O: 일주일에 몇 번 텔레비전 봐요?
-    E: How many times per week do you watch TV[s]?
+    E: How many times per week do you watch TV{s}?
 
     O: 텔레비전을 일주일에 몇 번 봐요?
     E: How many times a week do you watch TV?

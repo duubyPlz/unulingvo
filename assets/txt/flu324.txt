@@ -66,7 +66,7 @@
     F: _Planes_ are good because they are fast. / I like airplanes because they are fast.
 
     O: 누가 케이크 잘랐어요?
-    E: Who cut the cake[s]?
+    E: Who cut the cake{s}?
 
     O: 토끼를 5년 동안 길렀어요.
     E: I raised a rabbit for 5 years. / I had a rabbit as a pet for 5 years.

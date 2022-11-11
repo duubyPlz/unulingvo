@@ -493,23 +493,43 @@ function display(isFlu) {
     var currentEntry = fileHash[english]; // Get
     currentCorrectOriginal = currentEntry.original
 
-    var formatted = currentEntry.formatted
-    if (formatted != "") {
-        formattedHtml = generateFormattedHtml(formatted, english);
-        fancyTagsHtml = generateFancyTagsInHtml(formattedHtml);
-
-        if (isFlu) {
-            $('.flu-display-text').html(fancyTagsHtml);
-        } else {
-            $('.display-text').html(fancyTagsHtml);
-        }
+    var fancyTagsHtml;
+    if (currentEntry.formatted != "") {
+        fancyTagsHtml = generateFancyTagsInHtml(
+            generateFormattedHtml(currentEntry.formatted, english)
+        );
     } else {
         fancyTagsHtml = generateFancyTagsInHtml(english);
-        if (isFlu) {
-            $('.flu-display-text').html(fancyTagsHtml);
-        } else {
-            $('.display-text').html(fancyTagsHtml);
+    }
+
+    var fancyTagsBadgelessHtml = "";
+    var badgedWords = fancyTagsHtml.split(/([a-zA-Z0-9]+{[^}]+})/);
+    if (badgedWords.length >= 3) {
+        // var wordAndBadge = badgedWords[1].match(new RegExp("([a-z]+){([a-z]+)}"));
+        // var word = wordAndBadge[1];
+        // var badge = wordAndBadge[2];
+
+        // fancyTagsBadgelessHtml = badgedWords[0] + word + badgedWords[2];
+        var badgeRegex = new RegExp("([a-zA-Z0-9]+){([^}]+)}");
+        for (var word of badgedWords) {
+            if (matchesTarget = word.match(badgeRegex)) {
+                // Array(3) [ "clothes{sp}", "clothes", "sp" ]
+                fancyTagsBadgelessHtml += `<span class='badged-word'>${matchesTarget[1]}`;
+                fancyTagsBadgelessHtml += `<span class='badge-tag'>${matchesTarget[2]}</span>`;
+                fancyTagsBadgelessHtml += '</span>';
+            } else {
+                fancyTagsBadgelessHtml += word;
+            }
         }
+    } else {
+        fancyTagsBadgelessHtml = fancyTagsHtml;
+    }
+    console.log(fancyTagsBadgelessHtml);
+
+    if (isFlu) {
+        $('.flu-display-text').html(fancyTagsBadgelessHtml);
+    } else {
+        $('.display-text').html(fancyTagsBadgelessHtml);
     }
 }
 

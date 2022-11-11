@@ -39,7 +39,7 @@
     F: _That pasta_ tastes really bad. @polite
 
     O: 매우 재미있어요!
-    E: Very[v] interesting! @polite
+    E: Very{v} interesting! @polite
 
     O: 이 영화는 정말 나쁜 영화예요.
     E: This movie is a really bad one. @polite
@@ -85,7 +85,7 @@
     F: _This_ is a very good thing! @polite
 
     O: 매우 나쁜 신문입니다.
-    E: It is a very[v] bad newspaper. @formal
+    E: It is a very{v} bad newspaper. @formal
 
     O: 이 파스타는 특히 맛없어요.
     E: This pasta tastes especially bad. @polite
@@ -105,8 +105,8 @@
     F: _She_ is considerably attractive. @formal
 
     O: 그 학생은 참 착해요!
-    E: That student is really[v] nice! @polite
-    F: _That student_ is really[v] nice! @polite
+    E: That student is really{v} nice! @polite
+    F: _That student_ is really{v} nice! @polite
 
     O: 이 오리가 훨씬 더 느려요.
     E: This duck is much slower. @polite
@@ -117,8 +117,8 @@
     F: The expensive chicken _is quite cute_. @formal
 
     O: 그녀는 참 예뻐요!
-    E: She is really[v] pretty! @polite
-    F: _She_ is really[v] pretty! @polite
+    E: She is really{v} pretty! @polite
+    F: _She_ is really{v} pretty! @polite
 
     O: 저의 집은 훨씬 더 커요.
     E: My house is bigger by far. @polite
@@ -164,8 +164,8 @@
     F: The mountain _is quite high_. @polite
 
     O: 친구의 집이 참 깨끗합니다!
-    E: The friend's house is really[v] clean! @formal
-    F: The friend's house _is really[v] clean_! @formal
+    E: The friend's house is really{v} clean! @formal
+    F: The friend's house _is really{v} clean_! @formal
 
     O: 그것은 상당히 비쌉니다.
     E: That is considerably expensive. @formal

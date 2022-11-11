@@ -20,8 +20,8 @@
     E: Let’s buy this. 
 
     O: 우리 내일은 쉬자.
-    E: Let’s[l] take a day off tomorrow.
-    F: Let’s[l] take a day off _tomorrow_.
+    E: Let’s{l} take a day off tomorrow.
+    F: Let’s{l} take a day off _tomorrow_.
 
     O: 같이 가자.
     E: Let’s go together.

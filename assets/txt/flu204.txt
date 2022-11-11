@@ -5,35 +5,35 @@
     E: Give me this and this.
 
     O: 우유랑 빵
-    E: milk and[i] bread
+    E: milk and{i} bread
 
     O: 빵이랑 우유
-    E: bread and[i] milk
+    E: bread and{i} milk
 
     O: 우유하고 빵
     E: milk and bread
 
     O: 우유랑 빵 샀어요.
-    E: I bought milk and[i] bread.
+    E: I bought milk and{i} bread.
 
     O: 우유하고 빵 샀어요.
     E: I bought milk and bread.
 
     O: 빵이랑 우유 샀어요.
-    E: I bought bread and[i] milk.
+    E: I bought bread and{i} milk.
 
     # It is very unlikely that this sentence means “I watched a friend and a movie."
     O: 친구하고 영화 봤어요.
     E: I saw a movie with a friend.
 
     O: 누구랑 갔어요?
-    E: Who did you go with[i]?
+    E: Who did you go with{i}?
 
     O: 친구하고 같이 영화 봤어요.
     E: (I) saw a movie together with a friend.
 
     O: 누구랑 같이 갔어요?
-    E: Who did you go with[i] together?
+    E: Who did you go with{i} together?
 
     O: 동생하고 공부할 거예요.
     E: I am going to study with my younger brother/sister.

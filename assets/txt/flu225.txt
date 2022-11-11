@@ -59,7 +59,7 @@
 
     # (stress is on 샀어요)
     O: 뭐 샀어요?
-    E: Did you buy something[s]? 
+    E: Did you buy something{s}? 
 
     # (stress is on 언제)
     O: 언제 중국에 갈 거예요?
@@ -67,19 +67,19 @@
 
     # (stress is on 갈 거예요?)
     O: 언제 중국에 갈 거예요?
-    E: Are you going to go to China someday[s]/one of these days?
+    E: Are you going to go to China someday{s}/one of these days?
 
     # (stress is on 어디)
     O: 어디 가요?
-    E: Where[s] are you going?
+    E: Where{s} are you going?
 
     # (stress is on 가요?)
     O: 어디 가요?
-    E: Are you going somewhere[s]?
+    E: Are you going somewhere{s}?
 
     # (stress is on 배웠어요?)
     O: 오늘 뭐 배웠어요?
-    E: Did you learn something[s] today?
+    E: Did you learn something{s} today?
 
     # (stress is on 뭐)
     O: 오늘 뭐 배웠어요?

@@ -32,7 +32,7 @@
     E: I think (someone) will do it tomorrow.
 
     O: 내일 비 올 것 같아요.
-    E: I think it will rain[s] tomorrow.
+    E: I think it will rain{s} tomorrow.
 
     O: 이게 더 좋은 것 같아요.
     E: I think this is better.

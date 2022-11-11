@@ -61,7 +61,7 @@
     E: It rained, so I stayed at home.
 
     O: 요즘에 바빠서 친구들을 못 만나요.
-    E: These days I am busy, so I cannot meet my friends[l].
+    E: These days I am busy, so I cannot meet my friends{l}.
 
     O: 열심히 공부해서 장학금을 받을 거예요.
     E: I am going to study hard so I can get (and I will get) a scholarship.

@@ -33,7 +33,7 @@
     E: To compose. I will compose a good name.
 
     O: 감기 다 나았어요?
-    E: Did you recover completely from the cold[s]?
+    E: Did you recover completely from the cold{s}?
 
     O: 웃다. 웃어요.
     E: To smile / to laugh. Smile. / I smile. / He laughs. / They laugh.

@@ -5,7 +5,7 @@
     # * Try/tried
     # * Command less demanding
     #
-    # > Lit: To do [verb] and see
+    # > Lit: To do {verb} and see
 
     # Variations:
     # * Attach -보다 without the space, since already part of verb (used so much).
@@ -35,7 +35,7 @@
     E: Try eating this. / Try some of this.
 
     O: 저도 거기 안 가 봤어요.
-    E: I have not tried going there[s], either. (Lit: I also have not gone there.) / I have not been there, either.
+    E: I have not tried going there{s}, either. (Lit: I also have not gone there.) / I have not been there, either.
 
     O: 제가 먼저 해 볼게요.
     E: (So) I will try doing it first. / I will give it a try first.
