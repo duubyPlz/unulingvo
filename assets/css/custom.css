@@ -211,13 +211,6 @@ a.link-blue:focus {
   text-align: center;
 }
 
-/* .badged-word:after {
-  position: absolute;
-  top: 1em;
-  right: 2em;
-  content: "subtitle";
-} */
-
 img.logo {
   opacity: 0.8;
   height: 70px;

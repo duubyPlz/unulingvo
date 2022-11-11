@@ -424,7 +424,6 @@ function parse(module, language) {
                 line = lines[i];
 
                 if (matchesTarget = line.match(badgeDictEntryRegex)) {
-                    // matchesTarget: Array(3) [ "* l -> long", "l", "long" ]
                     badgeHash[matchesTarget[1]] = matchesTarget[2];
                 } else if (matchesTarget = line.match(originalRegexMatch)) {
                     // > Original [O:]
@@ -512,15 +511,9 @@ function display(isFlu) {
     var fancyTagsBadgelessHtml = "";
     var badgedWords = fancyTagsHtml.split(/([a-zA-Z0-9]+{[^}]+})/);
     if (badgedWords.length >= 3) {
-        // var wordAndBadge = badgedWords[1].match(new RegExp("([a-z]+){([a-z]+)}"));
-        // var word = wordAndBadge[1];
-        // var badge = wordAndBadge[2];
-
-        // fancyTagsBadgelessHtml = badgedWords[0] + word + badgedWords[2];
         var badgeRegex = new RegExp("([a-zA-Z0-9]+){([^}]+)}");
         for (var word of badgedWords) {
             if (matchesTarget = word.match(badgeRegex)) {
-                // matchesTarget: Array(3) [ "clothes{sp}", "clothes", "sp" ]
                 fancyTagsBadgelessHtml += `<span class='badged-word'>${matchesTarget[1]}`;
                 fancyTagsBadgelessHtml += `<div class='badge-tag'>${badgeHash[matchesTarget[2]] ?? matchesTarget[2]}</div>`;
                 fancyTagsBadgelessHtml += '</span>';
