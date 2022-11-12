@@ -27,6 +27,7 @@
 
     O: 구월에는 한국에 가고, 시월에는 일본에 갈 거예요.
     E: I will go to Korea in September and I will go to Japan in October.
+    F: I will go to Korea _in September_ and I will go to Japan _in October_.
 
     O: 커피 마시고, 도넛 먹고, 케이크 먹고, 우유 마셨어요. 배불러요.
     E: I drank coffee, ate a donut, ate cake and drank milk. I am full.
