@@ -1,6 +1,7 @@
 == TTMIK 2.6 - But, However / 그렇지만, 그런데 ==
 * v -> vs
 * l -> long
+# vs. for verses
 
     # 그렇지만 Contrast. Writing & specific.
     # 그런데 "but" or "and/then", background info & continuing on. Wider variety of meaning.
