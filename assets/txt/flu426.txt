@@ -1,5 +1,6 @@
 == TTMIK 4.26 - -(으)ㄴ + noun (past tense noun group) / -(으)ㄴ + 명사, 한 것 ==
 * s -> short
+* s -> see
 
     # {#RELATED Level 4 Lesson 25}: -ㄹ + 명사, 할 것
 
@@ -32,16 +33,16 @@
     E: Please review the content{s} you've learnt today.
 
     O: 제가 보는 책이에요.
-    E: It's a book that I am reading.
-    F: _It's a book that _I_ am reading_.
+    E: It's a book that I am reading[se].
+    F: _It's a book that _I_ am reading[se]_.
 
     O: 제가 본 책이에요.
-    E: It's a book that I've read.
-    F: _It's a book that _I_'ve read_.
+    E: It's a book that I've read[se].
+    F: _It's a book that _I_'ve read[se]_.
 
     O: 제가 볼 책이에요.
-    E: It's a book that I will read.
-    F: _It's a book that _I_ will read.
+    E: It's a book that I will read[se].
+    F: _It's a book that _I_ will read[se].
 
     O: 요즘 공부하는 외국어예요.
     E: It's a foreign language that I am studying these days.
