@@ -1,6 +1,6 @@
 == TTMIK 4.26 - -(으)ㄴ + noun (past tense noun group) / -(으)ㄴ + 명사, 한 것 ==
 * s -> short
-* s -> see
+* se -> see
 
     # {#RELATED Level 4 Lesson 25}: -ㄹ + 명사, 할 것
     # {#RELATED Level 8 Lesson 4}: N + that (someone) used to + V / -던
