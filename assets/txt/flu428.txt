@@ -34,15 +34,19 @@
 
     O: 날씨가 따뜻해졌어요.
     E: The weather has become warm.
+    F: The weather _has become warm_.
 
     O: 컴퓨터가 빨라졌어요.
     E: The computer has become fast.
+    F: The computer _has become fast_.
 
     O: 한국어 공부가 재미있어졌어요.
     E: Studying Korean has become fun.
+    F: Studying Korean _has become fun_.
 
     O: 줄이 길어졌어요.
     E: The line has become long.
+    F: The line _has become long_.
 
     O: 내일 다시 추워질 거예요.
     E: It will become cold again tomorrow.
@@ -50,4 +54,3 @@
     O: TTMIK이랑 공부하면 한국어 공부가 시워질 거예요.
     E: If you study with TTMIK, Korean study will become easy. 🤔
     F: If you study with TTMIK, Korean study _will become easy_. 🤔
-
