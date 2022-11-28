@@ -36,7 +36,7 @@
 
     O: 이게 더 좋은 것 같아요.
     E: I think this is better.
-    F: I think _this_ is better.
+    F: _I think_ this _is better_.
 
     O: 이거 뭐인 것 같아요?
     E: What do you think this is?
