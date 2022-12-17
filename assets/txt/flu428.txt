@@ -51,6 +51,6 @@
     O: 내일 다시 추워질 거예요.
     E: It will become cold again tomorrow.
     
-    O: TTMIK이랑 공부하면 한국어 공부가 시워질 거예요.
+    O: TTMIK이랑 공부하면 한국어 공부가 쉬워질 거예요.
     E: If you study with TTMIK, Korean study will become easy. 🤔
     F: If you study with TTMIK, Korean study _will become easy_. 🤔
