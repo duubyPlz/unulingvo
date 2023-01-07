@@ -72,3 +72,6 @@
 
     O: 연습하게 될 거예요.
     E: You will end up practicing. 🤔
+
+    O: 다시 듣게 될 거예요.
+    E: You will eventually listen to us again. 🤔
