@@ -28,8 +28,9 @@
     O: 지난주에 영화를 봤어요.
     E: I saw a movie last week.
 
+    # (I was not planning to in the first place, but) I got to see a movie last week.
     O: 지난주에 영화를 보게 됐어요.
-    E: (I was not planning to in the first place, but) I got to see a movie last week.
+    E: I ended up seeing a movie last week.
 
     O: 그렇게 하게 될 거예요.
     E: You will eventually end up doing it that way.
@@ -38,13 +39,14 @@
     E: He will eventually come here.
 
     O: 내일 알게 될 거예요.
-    E: You will find out tomorrow.
+    E: You will eventually find out tomorrow.
 
     O: 다 사게 됐어요.
     E: I ended up buying everything.
 
+    # (Things happened so that) I can go[p] back to school again.
     O: 다시 학교에 다니게 됐어요.
-    E: (Things happened so that) I can go[p] back to school again.
+    E: I ended up going back to school again.
 
     O: 어떻게 여기에 오게 됐어요?
     E: How did you get to come here?
