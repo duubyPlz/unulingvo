@@ -14,17 +14,17 @@ Steps:
 '''
 
 # VARIABLE: Segment dictionaries
-# segment_a = {}
-# segment_a["열 명"]="ten people[s],"
-# segment_a["한 명"]="one people[s],"
-# segment_a["두 명"]="two people[s],"
-# segment_a["세 명"]="three people[s],"
+segment_a = {}
+segment_a["열 명"]="ten people{s},"
+segment_a["한 명"]="one people{s},"
+segment_a["두 명"]="two people{s},"
+segment_a["세 명"]="three people{s},"
 
 segment_b = {}
-# segment_b["초대했는데,"]="I have invited"
-# segment_b["말했는데,"]="I have told"
-segment_b["조심했는데,"]="I was careful"
-segment_b["열심히 공부했는데,"]="I studied hard"
+segment_b["초대했는데,"]="I have invited"
+segment_b["말했는데,"]="I have told"
+# segment_b["조심했는데,"]="I was careful"
+# segment_b["열심히 공부했는데,"]="I studied hard"
 
 segment_c = {}
 segment_c["아무도 안 올 수도 있어요."]="but it's possible that no one will come."
@@ -32,6 +32,10 @@ segment_c["아무도 안 올 거예요."]="but no one will come."
 segment_c["아무도 모를 거예요."]="but no one will know."
 segment_c["아무도 안 할 거예요."]="but no one will do it."
 segment_c["아무도 초대 안 할 거예요."]="but no one will be invited."
+segment_c["안 올 수도 있어요."]="but (someone) might not come."
+segment_c["안 줄 수도 있어요."]="but (someone) might not give it."
+segment_c["안 그럴 수도 있어요."]="but it might not be so (the case)."
+segment_c["안 웃길 수도 있어요."]="but it might not be funny."
 
 class AutoDict(dict):
   def __missing__(self, key):
