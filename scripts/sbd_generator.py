@@ -13,29 +13,28 @@ Steps:
   3. Paste into the new assets/txt/_.txt file.
 '''
 
+# 오늘은 어제보다 훨씬 따뜻한 것 같아요.
+# = I think today is much warmer than yesterday.
+
 # VARIABLE: Segment dictionaries
 segment_a = {}
-segment_a["열 명"]="ten people{s},"
-segment_a["한 명"]="one people{s},"
-segment_a["두 명"]="two people{s},"
-segment_a["세 명"]="three people{s},"
+segment_a["오늘은"]="today"
 
 segment_b = {}
-segment_b["초대했는데,"]="I have invited"
-segment_b["말했는데,"]="I have told"
-# segment_b["조심했는데,"]="I was careful"
-# segment_b["열심히 공부했는데,"]="I studied hard"
+segment_b["어제보다"]="compared to yesterday."
+segment_b["지난주보다"]="compared to last week."
+segment_b["지난달보다"]="compared to last month."
+segment_b["작년보다"]="compared to last year."
+segment_b["이거보다"]="compared to this one."
+segment_b["한국어보다"]="compared to Korean."
 
 segment_c = {}
-segment_c["아무도 안 올 수도 있어요."]="but it's possible that no one will come."
-segment_c["아무도 안 올 거예요."]="but no one will come."
-segment_c["아무도 모를 거예요."]="but no one will know."
-segment_c["아무도 안 할 거예요."]="but no one will do it."
-segment_c["아무도 초대 안 할 거예요."]="but no one will be invited."
-segment_c["안 올 수도 있어요."]="but (someone) might not come."
-segment_c["안 줄 수도 있어요."]="but (someone) might not give it."
-segment_c["안 그럴 수도 있어요."]="but it might not be so (the case)."
-segment_c["안 웃길 수도 있어요."]="but it might not be funny."
+segment_c["훨씬 따뜻한 것 같아요."]="I think it is much warmer{s}"
+segment_c["훨씬 좋은 것 같아요."]="I think it is much better{s}"
+segment_c["훨씬 재미있는 것 같아요."]="I think it is much more interesting"
+segment_c["훨씬 따뜻해요."]="It's much warmer{s}"
+segment_c["훨씬 좋아요."]="It's much warmer{s}"
+segment_c["훨씬 어려워요."]="It's much (more) difficult"
 
 class AutoDict(dict):
   def __missing__(self, key):
@@ -63,7 +62,7 @@ def generate_permutations():
           # value_d = segment_d[key_d]
           o_sentence = f"{key_a} {key_b} {key_c}"
           # VARIABLE: The english sentence may need rearrangement of segments (may not be: a -> b -> c -> d)
-          e_sentence = f"{value_b} {value_a} {value_c}"
+          e_sentence = f"{value_c} {value_a} {value_b}"
           all_sentences[o_sentence] = e_sentence
 
   print_sentences(all_sentences)
