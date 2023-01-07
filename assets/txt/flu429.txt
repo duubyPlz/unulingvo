@@ -25,8 +25,11 @@
     O: 안 먹고 싶어요. 그런데 먹게 돼요.
     E: I do not want to eat it. But I end up eating it.
 
+    O: 지난주에 영화를 봤어요.
+    E: I saw a movie last week.
+
     O: 지난주에 영화를 보게 됐어요.
-    E: I was not planning to in the first place, but I got to see a movie last week.
+    E: (I was not planning to in the first place, but) I got to see a movie last week.
 
     O: 그렇게 하게 될 거예요.
     E: You will eventually end up doing it that way.
