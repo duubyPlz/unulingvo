@@ -1,5 +1,7 @@
 == TTMIK 4.29 - To gradually get to do / -게 되다, 하게 되다 ==
 * p -> past
+* d -> do
+* s -> short
 
     # {#RELATED Level 4 Lesson 28}: To become + adjective / To gradually get to be / -(아/어/여)지다
     
@@ -37,20 +39,33 @@
 
     O: 오게 될 거예요.
     E: He will eventually come here.
+    
+    # 도와 달라다 - call for help
+    O: 도와 달라고 하게 될 거예요.
+    E: He will eventually go[d] and ask for my help. 🤔
+    
+    # 예문 - examples
+    O: 예문 보게 될 거예요.
+    E: You will eventually look at examples. 🤔
 
     O: 내일 알게 될 거예요.
     E: You will eventually find out tomorrow.
 
     O: 다 사게 됐어요.
     E: I ended up buying everything.
+    
+    O: 다 사게 됐어요.
+    E: I ended up being able to buy everything.
 
     # (Things happened so that) I can go[p] back to school again.
     O: 다시 학교에 다니게 됐어요.
-    E: I ended up going back to school again.
+    E: I ended up attending school again.
 
     O: 어떻게 여기에 오게 됐어요?
-    E: How did you get to come here?
+    E: How did you get to come here? / How did you end up here?
 
     O: 만나게 되면 말해 주세요.
     E: If you get to meet him, tell me.
 
+    O: TTMIK 어떻게 알게 됬어요?
+    E: How did you get to know (about) TTMIK[s]? 🤔
