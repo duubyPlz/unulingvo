@@ -1,4 +1,6 @@
 == TTMIK 4.29 - To gradually get to do / -게 되다, 하게 되다 ==
+* p -> past
+
     # {#RELATED Level 4 Lesson 28}: To become + adjective / To gradually get to be / -(아/어/여)지다
     
     * 4.28 - To gradually get to be
@@ -10,6 +12,9 @@
       * -게 되다 - to gradually/eventually get to do
         * 1. Transition from state A ➔ B, via the verb
         * 2. Unexpectedly doing something
+       
+    * Variations:
+      * -게 될 거예요 Future, confidence what will happen in future
   
     O: 하게 되다
     E: to eventually do
@@ -23,59 +28,24 @@
     O: 지난주에 영화를 보게 됐어요.
     E: I was not planning to in the first place, but I got to see a movie last week.
 
-    O: 
-    E: 
+    O: 그렇게 하게 될 거예요.
+    E: You will eventually end up doing it that way.
 
-    O: 
-    E: 
+    O: 오게 될 거예요.
+    E: He will eventually come here.
 
-    O: 
-    E: 
+    O: 내일 알게 될 거예요.
+    E: You will find out tomorrow.
 
-    O: 
-    E: 
+    O: 다 사게 됐어요.
+    E: I ended up buying everything.
 
-    O: 
-    E: 
+    O: 다시 학교에 다니게 됐어요.
+    E: (Things happened so that) I can go[p] back to school again.
 
-    O: 
-    E: 
+    O: 어떻게 여기에 오게 됐어요?
+    E: How did you get to come here?
 
-    O: 
-    E: 
+    O: 만나게 되면 말해 주세요.
+    E: If you get to meet him, tell me.
 
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
