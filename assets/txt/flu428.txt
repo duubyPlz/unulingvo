@@ -1,5 +1,6 @@
-== TTMIK 4.28 - To become + adjective / -(아/어/여)지다 ==
+== TTMIK 4.28 - To become + adjective / To gradually get to be / -(아/어/여)지다 ==
     # {#RELATED Level 3 Lesson 24}: 르 irregular / 르 불규칙
+    # {#RELATED Level 4 Lesson 29}: To gradually get to do / -게 되다, 하게 되다
 
     # * Rules:
     #   * to become {adjective}: {adjective}+(ㅏ/ㅓ)지다
