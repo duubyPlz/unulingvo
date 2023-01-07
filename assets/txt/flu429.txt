@@ -69,3 +69,6 @@
 
     O: TTMIK 어떻게 알게 됬어요?
     E: How did you get to know (about) TTMIK[s]? 🤔
+
+    O: 연습하게 될 거예요.
+    E: You will end up practicing. 🤔
