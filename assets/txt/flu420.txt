@@ -1,4 +1,4 @@
-/(this) weekend/(this) weekend== TTMIK 4.20 - [Sentence Building Drill] #1 ==
+== TTMIK 4.20 - [Sentence Building Drill] #1 ==
 * s -> short
 * l -> long 
 * av -> adverb

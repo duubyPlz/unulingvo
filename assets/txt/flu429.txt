@@ -42,7 +42,7 @@
     
     # 도와 달라다 - call for help
     O: 도와 달라고 하게 될 거예요.
-    E: He will eventually go[d] and ask for my help. 🤔
+    E: He will eventually go{d} and ask for my help. 🤔
     
     # 예문 - examples
     O: 예문 보게 될 거예요.
@@ -57,7 +57,7 @@
     O: 다 사게 됐어요.
     E: I ended up being able to buy everything.
 
-    # (Things happened so that) I can go[p] back to school again.
+    # (Things happened so that) I can go{p} back to school again.
     O: 다시 학교에 다니게 됐어요.
     E: I ended up attending school again.
 
@@ -68,7 +68,7 @@
     E: If you get to meet him, tell me.
 
     O: TTMIK 어떻게 알게 됬어요?
-    E: How did you get to know (about) TTMIK[s]? 🤔
+    E: How did you get to know (about) TTMIK{s}? 🤔
 
     O: 연습하게 될 거예요.
     E: You will end up practicing. 🤔
