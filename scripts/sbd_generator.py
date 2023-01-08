@@ -13,28 +13,27 @@ Steps:
   3. Paste into the new assets/txt/_.txt file.
 '''
 
-# 오늘은 어제보다 훨씬 따뜻한 것 같아요.
-# = I think today is much warmer than yesterday.
+# 지금 카페에서 어제 산 책을 읽고 있어요.
+# = Right now I am in a cafe, reading a book that I bought yesterday.
 
 # VARIABLE: Segment dictionaries
 segment_a = {}
-segment_a["오늘은"]="today"
+segment_a["지금"]="Right now"
 
 segment_b = {}
-segment_b["어제보다"]="compared to yesterday."
-segment_b["지난주보다"]="compared to last week."
-segment_b["지난달보다"]="compared to last month."
-segment_b["작년보다"]="compared to last year."
-segment_b["이거보다"]="compared to this one."
-segment_b["한국어보다"]="compared to Korean."
+segment_b["카페에서"]="in a cafe,"
+segment_b["한국에서"]="in Korea,"
+segment_b["여기에서"]="here,"
 
 segment_c = {}
-segment_c["훨씬 따뜻한 것 같아요."]="I think it is much warmer{s}"
-segment_c["훨씬 좋은 것 같아요."]="I think it is much better{s}"
-segment_c["훨씬 재미있는 것 같아요."]="I think it is much more interesting"
-segment_c["훨씬 따뜻해요."]="It's much warmer{s}"
-segment_c["훨씬 좋아요."]="It's much warmer{s}"
-segment_c["훨씬 어려워요."]="It's much (more) difficult"
+segment_c["어제 산 책을 읽고 있어요."]="I am reading the book{l} I bought yesterday."
+segment_c["그제 산 책을 읽고 있어요."]="I am reading the book{l} I bought the day before yesterday."
+segment_c["이번 주에 만난 친구을 대화하고 있어요."]="I am conversing with the friend{l} I met up with this week."
+segment_c["작년에 찍은 사진를 보고 있어요."]="I am looking at the picture{l} I took last year."
+segment_c["책을 읽고 있어요."]="I am reading a book{l}."
+segment_c["음악을 듣고 있어요."]="I am listening to music{l}."
+segment_c["운동을 하고 있어요."]="I am exercising{l}."
+segment_c["뭐 하고 있어요?"]="what are you doing?"
 
 class AutoDict(dict):
   def __missing__(self, key):
@@ -62,7 +61,7 @@ def generate_permutations():
           # value_d = segment_d[key_d]
           o_sentence = f"{key_a} {key_b} {key_c}"
           # VARIABLE: The english sentence may need rearrangement of segments (may not be: a -> b -> c -> d)
-          e_sentence = f"{value_c} {value_a} {value_b}"
+          e_sentence = f"{value_a} {value_b} {value_c}"
           all_sentences[o_sentence] = e_sentence
 
   print_sentences(all_sentences)
