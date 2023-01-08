@@ -32,8 +32,9 @@
     O: 바쁠수록
     E: the busier you are, the more...
 
+    # The more delicious it is, the better it sells.
     O: 맛있을수록 잘 팔려요.
-    E: The more delicious it is, the better it sells.
+    E: The more delicious it is, the better it gets sold.
 
     O: 바쁠수록 건강이 중요해요.
     E: The busier you are, the more important your health is.
