@@ -1,0 +1,291 @@
+TTMIK 4.21 - 띄어쓰기 #2
+    This week.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    이번 주
+
+    Next Sentence.
+    Next week.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    다음 주
+
+    Next Sentence.
+    Last week.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    지난주
+
+    Next Sentence.
+    Please return the key{l}.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    열쇠를 돌려주세요
+
+    Next Sentence.
+    Please turn the key{l} for me.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    열쇠를 돌려 주세요.
+
+    Next Sentence.
+    to turn (made to, around).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    돌리다
+
+    Next Sentence.
+    to turn (something) for someone.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    돌려 주다
+
+    Next Sentence.
+    to return something / to give something back.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    돌려주다
+
+    Next Sentence.
+    to turn (yourself, around).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    돌다
+
+    Next Sentence.
+    to detour (lit: to turn and go).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    돌아 가다
+
+    Next Sentence.
+    to return / to go back to some place.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    돌아가다
+
+    Next Sentence.
+    to borrow.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빌리다
+
+    Next Sentence.
+    to provide lending to someone (sem: you are performing the act of borrowing from Alice, to give to Bob).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빌려 주다
+
+    Next Sentence.
+    to lend.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    빌려주다
+
+    Next Sentence.
+    to recognize something/someone; to look into something.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    알아보다
+
+    Next Sentence.
+    (Not commonly used on its own) to be born / to get out / to be out of .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    나다
+
+    Next Sentence.
+    to be born.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    태어나다
+
+    Next Sentence.
+    to come out / to come outside.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    나오다
+
+    Next Sentence.
+    to go out / to get out / to go outside.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    나가다
+
+    Next Sentence.
+    (Not commonly used on its own) to go in; to be in; to get into .
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    들다
+
+    Next Sentence.
+    to come in / to come inside.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    들어오다
+
+    Next Sentence.
+    to go in / to go inside.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    들어가다
+
+    Next Sentence.
+    to like (after observing) (lit: to enter your heart).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    마음에 들다
+
+    Next Sentence.
+    to be ranked among the top (lit: to enter the ranking).
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    순위에 들다
+
+    Next Sentence.
+    When will you go back?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    언제 돌아갈 거예요?
+
+    Next Sentence.
+    Can you lend me some money?.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    돈 좀 빌려줄 수 있어요?
+
+    Next Sentence.
+    I recognized it at once.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    한눈에 알아봤어요.
+
+    Next Sentence.
+    Get out of here! [impolite].
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    나가!
+
+    Next Sentence.
+    Please come in.
+    Answer in
+    One.
+    Two.
+    Three.
+    Four.
+    Five.
+    들어오세요.
+
+    End of 4.21 - 띄어쓰기 #2

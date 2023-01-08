@@ -94,10 +94,13 @@ def write(text, output):
 
 
 # Main
-#   Example Usages:
-#     * ./tts_maker.py -i ../txt/flu201.txt -o flu/201.txt
-#     * ./tts_maker.py -s -i ../txt/flu306.txt -o flu/306_simple.txt
-#   Note: For normal version, will need to manually open up the output file and fix the last line.
+# * Usages:
+#   * ./tts_maker.py -i flu201.txt -o 201.txt
+#   * ./tts_maker.py -s -i flu306.txt -o 306_simple.txt
+# * File locations:
+#   * Input: `assets/txt/`
+#   * Output: `assets/textToSpeech/flu/`
+# * Note: For normal version, will need to manually open up the output file and fix the last line.
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-i", "--input", type=str, required=True,
@@ -108,14 +111,16 @@ if __name__ == "__main__":
         help='If this is on, it will be a target language-only version of a text-to-speech file')
     args = parser.parse_args()
 
-    print('Reading from: {}'.format(args.input))
-    print('Outputting to: {}'.format(args.output))
-
     if args.simple:
         print('Simple version on.')
 
-    raw_content = open_file(args.input)
+    input_path = "../assets/txt/" + args.input
+    output_path = "../assets/textToSpeech/flu/" + args.output
+    print('Reading from: {}'.format(input_path))
+    print('Outputting to: {}'.format(output_path))
+
+    raw_content = open_file(input_path)
     mutated_content = replace(raw_content, args.simple)
-    write(mutated_content, args.output)
+    write(mutated_content, output_path)
 
     print('\nFinished ✨')
