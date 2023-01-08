@@ -16,8 +16,8 @@
     F: _I_ receive a plate from that man. @polite
 
     O: 저는 그릇을 던지지 않습니다.
-    E: I do not[l] throw a bowl. @formal
-    F: _I_ do not[l] throw a bowl. @formal
+    E: I do not{l} throw a bowl. @formal
+    F: _I_ do not{l} throw a bowl. @formal
 
     O: 학생이 빨리 저녁을 요리해요.
     E: The student quickly cooks dinner. @polite
@@ -96,8 +96,8 @@
     F: The tomato _is big_. @polite
 
     O: 저는 고추로 요리하지 않습니다.
-    E: I do not[l] cook with chili peppers. @formal
-    F: _I_ do not[l] cook with chili peppers. @formal
+    E: I do not{l} cook with chili peppers. @formal
+    F: _I_ do not{l} cook with chili peppers. @formal
 
 > Four
     O: 왜 돼지고기는 맛있습니까?
@@ -207,8 +207,8 @@
     # "배가 고픕니다" literally means "the tummy is empty"
     # 저는 배가 고파요. 
     O: 저는 배고파요!
-    E: I am hungry[s]! @polite
-    F: _I_ am hungry[s]! @polite
+    E: I am hungry{s}! @polite
+    F: _I_ am hungry{s}! @polite
 
     O: 배가 고픕니까?
     E: Are you hungry? @formal

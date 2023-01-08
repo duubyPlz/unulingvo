@@ -1,0 +1,522 @@
+== TTMIK 4.30 - [Sentence Building Drill] #2 ==
+* s -> short
+* l -> long
+
+    # # Sentences
+    # ### 1
+    # > 열 명 초대했는데, 아무도 안 올 수도 있어요.
+    # > I have invited ten people{s}, but it's possible that no one will come.
+    # ### 2
+    # > 오늘은 어제보다 훨씬 따뜻한 것 같아요.
+    # > I think today is much warmer than yesterday.
+    #
+    # ### 3
+    # > 지금 카페에서 어제 산 책을 읽고 있어요.
+    # > Right now I am in a cafe, reading a book that I bought yesterday.
+    
+    # # 1
+    # ### Variants
+    # 열 명 = ten people{s},
+    # 한 명 = one people{s},
+    # 두 명 = two people{s},
+    # 세 명 = three people{s},
+    # 
+    # 초대했는데, = I have invited
+    # 말했는데, = I have told
+    # 조심했는데, = I was careful
+    # 열심히 공부했는데, = I studied hard
+    # 
+    # 아무도 안 올 수도 있어요 = but it's possible that no one will come.
+    # 아무도 안 올 거예요 = but no one will come.
+    # 아무도 모를 거예요 = but no one will know.
+    # 아무도 안 할 거예요 = but no one will do it.
+    # 아무도 초대 안 할 거예요 = but no one will be invited.
+    # but (someone) might not come.
+    # but (someone) might not give it.
+    # but it might not be so (the case).
+    # but it might not be funny.
+
+    O: 열 명 초대했는데, 아무도 안 올 수도 있어요.
+    E: I have invited ten people{s}, but it's possible that no one will come.
+
+    O: 열 명 초대했는데, 아무도 안 올 거예요.
+    E: I have invited ten people{s}, but no one will come.
+
+    O: 열 명 초대했는데, 아무도 모를 거예요.
+    E: I have invited ten people{s}, but no one will know.
+
+    O: 열 명 초대했는데, 아무도 안 할 거예요.
+    E: I have invited ten people{s}, but no one will do it.
+
+    O: 열 명 초대했는데, 아무도 초대 안 할 거예요.
+    E: I have invited ten people{s}, but no one will be invited.
+
+    O: 열 명 초대했는데, 안 올 수도 있어요.
+    E: I have invited ten people{s}, but (someone) might not come.
+
+    O: 열 명 초대했는데, 안 줄 수도 있어요.
+    E: I have invited ten people{s}, but (someone) might not give it.
+
+    O: 열 명 초대했는데, 안 그럴 수도 있어요.
+    E: I have invited ten people{s}, but it might not be so (the case).
+
+    O: 열 명 초대했는데, 안 웃길 수도 있어요.
+    E: I have invited ten people{s}, but it might not be funny.
+
+    O: 열 명 말했는데, 아무도 안 올 수도 있어요.
+    E: I have told ten people{s}, but it's possible that no one will come.
+
+    O: 열 명 말했는데, 아무도 안 올 거예요.
+    E: I have told ten people{s}, but no one will come.
+
+    O: 열 명 말했는데, 아무도 모를 거예요.
+    E: I have told ten people{s}, but no one will know.
+
+    O: 열 명 말했는데, 아무도 안 할 거예요.
+    E: I have told ten people{s}, but no one will do it.
+
+    O: 열 명 말했는데, 아무도 초대 안 할 거예요.
+    E: I have told ten people{s}, but no one will be invited.
+
+    O: 열 명 말했는데, 안 올 수도 있어요.
+    E: I have told ten people{s}, but (someone) might not come.
+
+    O: 열 명 말했는데, 안 줄 수도 있어요.
+    E: I have told ten people{s}, but (someone) might not give it.
+
+    O: 열 명 말했는데, 안 그럴 수도 있어요.
+    E: I have told ten people{s}, but it might not be so (the case).
+
+    O: 열 명 말했는데, 안 웃길 수도 있어요.
+    E: I have told ten people{s}, but it might not be funny.
+
+    O: 한 명 초대했는데, 아무도 안 올 수도 있어요.
+    E: I have invited one people{s}, but it's possible that no one will come.
+
+    O: 한 명 초대했는데, 아무도 안 올 거예요.
+    E: I have invited one people{s}, but no one will come.
+
+    O: 한 명 초대했는데, 아무도 모를 거예요.
+    E: I have invited one people{s}, but no one will know.
+
+    O: 한 명 초대했는데, 아무도 안 할 거예요.
+    E: I have invited one people{s}, but no one will do it.
+
+    O: 한 명 초대했는데, 아무도 초대 안 할 거예요.
+    E: I have invited one people{s}, but no one will be invited.
+
+    O: 한 명 초대했는데, 안 올 수도 있어요.
+    E: I have invited one people{s}, but (someone) might not come.
+
+    O: 한 명 초대했는데, 안 줄 수도 있어요.
+    E: I have invited one people{s}, but (someone) might not give it.
+
+    O: 한 명 초대했는데, 안 그럴 수도 있어요.
+    E: I have invited one people{s}, but it might not be so (the case).
+
+    O: 한 명 초대했는데, 안 웃길 수도 있어요.
+    E: I have invited one people{s}, but it might not be funny.
+
+    O: 한 명 말했는데, 아무도 안 올 수도 있어요.
+    E: I have told one people{s}, but it's possible that no one will come.
+
+    O: 한 명 말했는데, 아무도 안 올 거예요.
+    E: I have told one people{s}, but no one will come.
+
+    O: 한 명 말했는데, 아무도 모를 거예요.
+    E: I have told one people{s}, but no one will know.
+
+    O: 한 명 말했는데, 아무도 안 할 거예요.
+    E: I have told one people{s}, but no one will do it.
+
+    O: 한 명 말했는데, 아무도 초대 안 할 거예요.
+    E: I have told one people{s}, but no one will be invited.
+
+    O: 한 명 말했는데, 안 올 수도 있어요.
+    E: I have told one people{s}, but (someone) might not come.
+
+    O: 한 명 말했는데, 안 줄 수도 있어요.
+    E: I have told one people{s}, but (someone) might not give it.
+
+    O: 한 명 말했는데, 안 그럴 수도 있어요.
+    E: I have told one people{s}, but it might not be so (the case).
+
+    O: 한 명 말했는데, 안 웃길 수도 있어요.
+    E: I have told one people{s}, but it might not be funny.
+
+    O: 두 명 초대했는데, 아무도 안 올 수도 있어요.
+    E: I have invited two people{s}, but it's possible that no one will come.
+
+    O: 두 명 초대했는데, 아무도 안 올 거예요.
+    E: I have invited two people{s}, but no one will come.
+
+    O: 두 명 초대했는데, 아무도 모를 거예요.
+    E: I have invited two people{s}, but no one will know.
+
+    O: 두 명 초대했는데, 아무도 안 할 거예요.
+    E: I have invited two people{s}, but no one will do it.
+
+    O: 두 명 초대했는데, 아무도 초대 안 할 거예요.
+    E: I have invited two people{s}, but no one will be invited.
+
+    O: 두 명 초대했는데, 안 올 수도 있어요.
+    E: I have invited two people{s}, but (someone) might not come.
+
+    O: 두 명 초대했는데, 안 줄 수도 있어요.
+    E: I have invited two people{s}, but (someone) might not give it.
+
+    O: 두 명 초대했는데, 안 그럴 수도 있어요.
+    E: I have invited two people{s}, but it might not be so (the case).
+
+    O: 두 명 초대했는데, 안 웃길 수도 있어요.
+    E: I have invited two people{s}, but it might not be funny.
+
+    O: 두 명 말했는데, 아무도 안 올 수도 있어요.
+    E: I have told two people{s}, but it's possible that no one will come.
+
+    O: 두 명 말했는데, 아무도 안 올 거예요.
+    E: I have told two people{s}, but no one will come.
+
+    O: 두 명 말했는데, 아무도 모를 거예요.
+    E: I have told two people{s}, but no one will know.
+
+    O: 두 명 말했는데, 아무도 안 할 거예요.
+    E: I have told two people{s}, but no one will do it.
+
+    O: 두 명 말했는데, 아무도 초대 안 할 거예요.
+    E: I have told two people{s}, but no one will be invited.
+
+    O: 두 명 말했는데, 안 올 수도 있어요.
+    E: I have told two people{s}, but (someone) might not come.
+
+    O: 두 명 말했는데, 안 줄 수도 있어요.
+    E: I have told two people{s}, but (someone) might not give it.
+
+    O: 두 명 말했는데, 안 그럴 수도 있어요.
+    E: I have told two people{s}, but it might not be so (the case).
+
+    O: 두 명 말했는데, 안 웃길 수도 있어요.
+    E: I have told two people{s}, but it might not be funny.
+
+    O: 세 명 초대했는데, 아무도 안 올 수도 있어요.
+    E: I have invited three people{s}, but it's possible that no one will come.
+
+    O: 세 명 초대했는데, 아무도 안 올 거예요.
+    E: I have invited three people{s}, but no one will come.
+
+    O: 세 명 초대했는데, 아무도 모를 거예요.
+    E: I have invited three people{s}, but no one will know.
+
+    O: 세 명 초대했는데, 아무도 안 할 거예요.
+    E: I have invited three people{s}, but no one will do it.
+
+    O: 세 명 초대했는데, 아무도 초대 안 할 거예요.
+    E: I have invited three people{s}, but no one will be invited.
+
+    O: 세 명 초대했는데, 안 올 수도 있어요.
+    E: I have invited three people{s}, but (someone) might not come.
+
+    O: 세 명 초대했는데, 안 줄 수도 있어요.
+    E: I have invited three people{s}, but (someone) might not give it.
+
+    O: 세 명 초대했는데, 안 그럴 수도 있어요.
+    E: I have invited three people{s}, but it might not be so (the case).
+
+    O: 세 명 초대했는데, 안 웃길 수도 있어요.
+    E: I have invited three people{s}, but it might not be funny.
+
+    O: 세 명 말했는데, 아무도 안 올 수도 있어요.
+    E: I have told three people{s}, but it's possible that no one will come.
+
+    O: 세 명 말했는데, 아무도 안 올 거예요.
+    E: I have told three people{s}, but no one will come.
+
+    O: 세 명 말했는데, 아무도 모를 거예요.
+    E: I have told three people{s}, but no one will know.
+
+    O: 세 명 말했는데, 아무도 안 할 거예요.
+    E: I have told three people{s}, but no one will do it.
+
+    O: 세 명 말했는데, 아무도 초대 안 할 거예요.
+    E: I have told three people{s}, but no one will be invited.
+
+    O: 세 명 말했는데, 안 올 수도 있어요.
+    E: I have told three people{s}, but (someone) might not come.
+
+    O: 세 명 말했는데, 안 줄 수도 있어요.
+    E: I have told three people{s}, but (someone) might not give it.
+
+    O: 세 명 말했는데, 안 그럴 수도 있어요.
+    E: I have told three people{s}, but it might not be so (the case).
+
+    O: 세 명 말했는데, 안 웃길 수도 있어요.
+    E: I have told three people{s}, but it might not be funny.
+
+    O: 조심했는데, 아무도 안 올 수도 있어요.
+    E: I was careful, but it's possible that no one will come.
+
+    O: 조심했는데, 아무도 안 올 거예요.
+    E: I was careful, but no one will come.
+
+    O: 조심했는데, 아무도 모를 거예요.
+    E: I was careful, but no one will know.
+
+    O: 조심했는데, 아무도 안 할 거예요.
+    E: I was careful, but no one will do it.
+
+    O: 조심했는데, 아무도 초대 안 할 거예요.
+    E: I was careful, but no one will be invited.
+
+    O: 조심했는데, 안 올 수도 있어요.
+    E: I was careful, but (someone) might not come.
+
+    O: 조심했는데, 안 줄 수도 있어요.
+    E: I was careful, but (someone) might not give it.
+
+    O: 조심했는데, 안 그럴 수도 있어요.
+    E: I was careful, but it might not be so (the case).
+
+    O: 조심했는데, 안 웃길 수도 있어요.
+    E: I was careful, but it might not be funny.
+
+    O: 열심히 공부했는데, 아무도 안 올 수도 있어요.
+    E: I studied hard, but it's possible that no one will come.
+
+    O: 열심히 공부했는데, 아무도 안 올 거예요.
+    E: I studied hard, but no one will come.
+
+    O: 열심히 공부했는데, 아무도 모를 거예요.
+    E: I studied hard, but no one will know.
+
+    O: 열심히 공부했는데, 아무도 안 할 거예요.
+    E: I studied hard, but no one will do it.
+
+    O: 열심히 공부했는데, 아무도 초대 안 할 거예요.
+    E: I studied hard, but no one will be invited.
+
+    O: 열심히 공부했는데, 안 올 수도 있어요.
+    E: I studied hard, but (someone) might not come.
+
+    O: 열심히 공부했는데, 안 줄 수도 있어요.
+    E: I studied hard, but (someone) might not give it.
+
+    O: 열심히 공부했는데, 안 그럴 수도 있어요.
+    E: I studied hard, but it might not be so (the case).
+
+    O: 열심히 공부했는데, 안 웃길 수도 있어요.
+    E: I studied hard, but it might not be funny.
+
+    # # 2
+    # ### Variants
+    # 오늘은 = today
+    #
+    # 어제보다 = compared to yesterday.
+    # 지난주보다 = compared to last week.
+    # 지난달보다 = compared to last month.
+    # 작년보다 = compared to last year.
+    # 이거보다 = compared to this one.
+    # 한국어보다 = compared to Korean.
+    # 
+    # 훨씬 따뜻한 것 같아요. = I think it is much warmer{s}
+    # 훨씬 좋은 것 같아요. = I think it is much better{s}
+    # 훨씬 재미있는 것 같아요. = I think it is much more interesting
+    # 훨씬 따뜻해요. = It's much warmer{s}
+    # 훨씬 좋아요. = It's much warmer{s}
+    # 훨씬 어려워요. = It's much (more) difficult
+
+    O: 오늘은 어제보다 훨씬 따뜻한 것 같아요.
+    E: I think it is much warmer{s} today compared to yesterday.
+
+    O: 오늘은 어제보다 훨씬 좋은 것 같아요.
+    E: I think it is much better{s} today compared to yesterday.
+
+    O: 오늘은 어제보다 훨씬 재미있는 것 같아요.
+    E: I think it is much more interesting today compared to yesterday.
+
+    O: 오늘은 어제보다 훨씬 따뜻해요.
+    E: It's much warmer{s} today compared to yesterday.
+
+    O: 오늘은 어제보다 훨씬 좋아요.
+    E: It's much warmer{s} today compared to yesterday.
+
+    O: 오늘은 어제보다 훨씬 어려워요.
+    E: It's much (more) difficult today compared to yesterday.
+
+    O: 오늘은 지난주보다 훨씬 따뜻한 것 같아요.
+    E: I think it is much warmer{s} today compared to last week.
+
+    O: 오늘은 지난주보다 훨씬 좋은 것 같아요.
+    E: I think it is much better{s} today compared to last week.
+
+    O: 오늘은 지난주보다 훨씬 재미있는 것 같아요.
+    E: I think it is much more interesting today compared to last week.
+
+    O: 오늘은 지난주보다 훨씬 따뜻해요.
+    E: It's much warmer{s} today compared to last week.
+
+    O: 오늘은 지난주보다 훨씬 좋아요.
+    E: It's much warmer{s} today compared to last week.
+
+    O: 오늘은 지난주보다 훨씬 어려워요.
+    E: It's much (more) difficult today compared to last week.
+
+    O: 오늘은 지난달보다 훨씬 따뜻한 것 같아요.
+    E: I think it is much warmer{s} today compared to last month.
+
+    O: 오늘은 지난달보다 훨씬 좋은 것 같아요.
+    E: I think it is much better{s} today compared to last month.
+
+    O: 오늘은 지난달보다 훨씬 재미있는 것 같아요.
+    E: I think it is much more interesting today compared to last month.
+
+    O: 오늘은 지난달보다 훨씬 따뜻해요.
+    E: It's much warmer{s} today compared to last month.
+
+    O: 오늘은 지난달보다 훨씬 좋아요.
+    E: It's much warmer{s} today compared to last month.
+
+    O: 오늘은 지난달보다 훨씬 어려워요.
+    E: It's much (more) difficult today compared to last month.
+
+    O: 오늘은 작년보다 훨씬 따뜻한 것 같아요.
+    E: I think it is much warmer{s} today compared to last year.
+
+    O: 오늘은 작년보다 훨씬 좋은 것 같아요.
+    E: I think it is much better{s} today compared to last year.
+
+    O: 오늘은 작년보다 훨씬 재미있는 것 같아요.
+    E: I think it is much more interesting today compared to last year.
+
+    O: 오늘은 작년보다 훨씬 따뜻해요.
+    E: It's much warmer{s} today compared to last year.
+
+    O: 오늘은 작년보다 훨씬 좋아요.
+    E: It's much warmer{s} today compared to last year.
+
+    O: 오늘은 작년보다 훨씬 어려워요.
+    E: It's much (more) difficult today compared to last year.
+
+    O: 오늘은 이거보다 훨씬 따뜻한 것 같아요.
+    E: I think it is much warmer{s} today compared to this one.
+
+    O: 오늘은 이거보다 훨씬 좋은 것 같아요.
+    E: I think it is much better{s} today compared to this one.
+
+    O: 오늘은 이거보다 훨씬 재미있는 것 같아요.
+    E: I think it is much more interesting today compared to this one.
+
+    O: 오늘은 이거보다 훨씬 따뜻해요.
+    E: It's much warmer{s} today compared to this one.
+
+    O: 오늘은 이거보다 훨씬 좋아요.
+    E: It's much warmer{s} today compared to this one.
+
+    O: 오늘은 이거보다 훨씬 어려워요.
+    E: It's much (more) difficult today compared to this one.
+
+    O: 오늘은 한국어보다 훨씬 따뜻한 것 같아요.
+    E: I think it is much warmer{s} today compared to Korean.
+
+    O: 오늘은 한국어보다 훨씬 좋은 것 같아요.
+    E: I think it is much better{s} today compared to Korean.
+
+    O: 오늘은 한국어보다 훨씬 재미있는 것 같아요.
+    E: I think it is much more interesting today compared to Korean.
+
+    O: 오늘은 한국어보다 훨씬 따뜻해요.
+    E: It's much warmer{s} today compared to Korean.
+
+    O: 오늘은 한국어보다 훨씬 좋아요.
+    E: It's much warmer{s} today compared to Korean.
+
+    O: 오늘은 한국어보다 훨씬 어려워요.
+    E: It's much (more) difficult today compared to Korean.
+
+    # # 3
+    # ### Variants
+    # 지금 = Right now
+    # 
+    # 카페에서 = in a cafe,
+    # 한국에서 = in Korea,
+    # 여기에서 = here,
+    # 
+    # 어제 산 책을 읽고 있어요. = I am reading the book{l} I bought yesterday.
+    # 그제 산 책을 읽고 있어요. = I am reading the book{l} I bought the day before yesterday.
+    # 이번 주에 만난 친구을 대화하고 있어요. = I am conversing with the friend{l} I met up with this week.
+    # 작년에 찍은 사진를 보고 있어요. = I am looking at the picture{l} I took last year.
+    # 책을 읽고 있어요. = I am reading a book{l}.
+    # 음악을 듣고 있어요. = I am listening to music{l}.
+    # 운동을 하고 있어요. = I am exercising{l}.
+    # 뭐 하고 있어요? = what are you doing?
+
+    O: 지금 카페에서 어제 산 책을 읽고 있어요.
+    E: Right now in a cafe, I am reading the book{l} I bought yesterday.
+
+    O: 지금 카페에서 그제 산 책을 읽고 있어요.
+    E: Right now in a cafe, I am reading the book{l} I bought the day before yesterday.
+
+    O: 지금 카페에서 이번 주에 만난 친구을 대화하고 있어요.
+    E: Right now in a cafe, I am conversing with the friend{l} I met up with this week.
+
+    O: 지금 카페에서 작년에 찍은 사진를 보고 있어요.
+    E: Right now in a cafe, I am looking at the picture{l} I took last year.
+
+    O: 지금 카페에서 책을 읽고 있어요.
+    E: Right now in a cafe, I am reading a book{l}.
+
+    O: 지금 카페에서 음악을 듣고 있어요.
+    E: Right now in a cafe, I am listening to music{l}.
+
+    O: 지금 카페에서 운동을 하고 있어요.
+    E: Right now in a cafe, I am exercising{l}.
+
+    O: 지금 카페에서 뭐 하고 있어요?
+    E: Right now in a cafe, what are you doing?
+
+    O: 지금 한국에서 어제 산 책을 읽고 있어요.
+    E: Right now in Korea, I am reading the book{l} I bought yesterday.
+
+    O: 지금 한국에서 그제 산 책을 읽고 있어요.
+    E: Right now in Korea, I am reading the book{l} I bought the day before yesterday.
+
+    O: 지금 한국에서 이번 주에 만난 친구을 대화하고 있어요.
+    E: Right now in Korea, I am conversing with the friend{l} I met up with this week.
+
+    O: 지금 한국에서 작년에 찍은 사진를 보고 있어요.
+    E: Right now in Korea, I am looking at the picture{l} I took last year.
+
+    O: 지금 한국에서 책을 읽고 있어요.
+    E: Right now in Korea, I am reading a book{l}.
+
+    O: 지금 한국에서 음악을 듣고 있어요.
+    E: Right now in Korea, I am listening to music{l}.
+
+    O: 지금 한국에서 운동을 하고 있어요.
+    E: Right now in Korea, I am exercising{l}.
+
+    O: 지금 한국에서 뭐 하고 있어요?
+    E: Right now in Korea, what are you doing?
+
+    O: 지금 여기에서 어제 산 책을 읽고 있어요.
+    E: Right now here, I am reading the book{l} I bought yesterday.
+
+    O: 지금 여기에서 그제 산 책을 읽고 있어요.
+    E: Right now here, I am reading the book{l} I bought the day before yesterday.
+
+    O: 지금 여기에서 이번 주에 만난 친구을 대화하고 있어요.
+    E: Right now here, I am conversing with the friend{l} I met up with this week.
+
+    O: 지금 여기에서 작년에 찍은 사진를 보고 있어요.
+    E: Right now here, I am looking at the picture{l} I took last year.
+
+    O: 지금 여기에서 책을 읽고 있어요.
+    E: Right now here, I am reading a book{l}.
+
+    O: 지금 여기에서 음악을 듣고 있어요.
+    E: Right now here, I am listening to music{l}.
+
+    O: 지금 여기에서 운동을 하고 있어요.
+    E: Right now here, I am exercising{l}.
+
+    O: 지금 여기에서 뭐 하고 있어요?
+    E: Right now here, what are you doing?

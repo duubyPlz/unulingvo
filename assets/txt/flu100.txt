@@ -53,7 +53,7 @@
     E: Just a moment.
 
     O: 잠깐만요.
-    E: Just a moment[p].
+    E: Just a moment{p}.
 
 > 1.5
     O: 물이에요.
@@ -181,8 +181,8 @@
 
 > 1.9
     O: 저는 학생이에요.
-    E: I[l] am a student.
-    F: _I[l]_ am a student.
+    E: I{l} am a student.
+    F: _I{l}_ am a student.
 
     O: 이거 사과예요. 
     E: This is an apple.
@@ -579,16 +579,16 @@
     E: I DID NOT throw that away yet.
 
     O: 가지 않았어요.
-    E: I DID NOT[l] go.
+    E: I DID NOT{l} go.
 
     O: 가지 않아요.
-    E: I DO NOT[l] go. / I am NOT[l] going.
+    E: I DO NOT{l} go. / I am NOT{l} going.
 
     O: 버리지 않아요.
-    E: I DO NOT[l] throw it away.
+    E: I DO NOT{l} throw it away.
 
     O: 버리지 않았어요
-    E: I DID NOT[l] throw it away.
+    E: I DID NOT{l} throw it away.
 
     O: 아파요?
     E: Does it hurt?
@@ -615,7 +615,7 @@
     E: No. It is not spicy.
 
     O: 진짜 안 매워요?
-    E: It is really[i] not spicy?
+    E: It is really{i} not spicy?
 
 > 1.22
     O: 공부해요

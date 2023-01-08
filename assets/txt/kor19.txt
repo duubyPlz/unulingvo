@@ -73,8 +73,8 @@
     F: _I_ want to rent a house. @polite
 
     O: 늑대하고 곰은 무서워요.
-    E: Wolves and[sp] bears are scary. @polite
-    F: _Wolves and[sp] bears_ are scary. @polite
+    E: Wolves and{sp} bears are scary. @polite
+    F: _Wolves and{sp} bears_ are scary. @polite
 
     O: 작은 괴물이 아주 무서워요.
     E: The small monster is very scary. @polite
@@ -102,8 +102,8 @@
     F: The big owl _is sad_. @formal
 
     O: 저는 제 자신을 무서워해요.
-    E: I am afraid of myself[m]. @polite
-    F: _I_ am afraid of myself[m]. @polite
+    E: I am afraid of myself{m}. @polite
+    F: _I_ am afraid of myself{m}. @polite
 
     O: 괴물이 어디에 있습니까?
     E: Where is the monster? @formal
@@ -186,8 +186,8 @@
     F: _A man_ climbs a mountain. @formal
 
     O: 비싼 차들이 건물에 들어가요.
-    E: The expensive cars[s] enter the building. @polite
-    F: The expensive cars[s] _enter the building_. @polite
+    E: The expensive cars{s} enter the building. @polite
+    F: The expensive cars{s} _enter the building_. @polite
 
     O: 여우가 공원으로 돌아와요.
     E: The fox returns to(wards) the park. @polite

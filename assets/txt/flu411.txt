@@ -4,8 +4,8 @@
     # Meanings:
     # * 아무: any- + noun
     #    * Note: (In negative context) no- + noun
-    # * -나: [positive]
-    # * -도: [negative]
+    # * -나: {positive}
+    # * -도: {negative}
     # * 아무나: Anyone, just anyone
     # * 아무거나: Anything, just anything
     # * 아무데나 Anywhere, just anywhere

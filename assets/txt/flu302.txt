@@ -13,11 +13,11 @@
 
     # 어제 친구를 만나고, 영화를 봤어요.
     O: 어제 친구를 만났고, 영화를 봤어요.
-    E: I met[l] a friend[l] yesterday and saw a movie[l].
+    E: I met{l} a friend{l} yesterday and saw a movie{l}.
 
     # 내일 영화를 보고, 서점에 갈 거예요.
     O: 내일 영화를 볼 거고, 서점에 갈 거예요.
-    E: Tomorrow, I will[l] watch a movie[l] and go to a bookstore.
+    E: Tomorrow, I will{l} watch a movie{l} and go to a bookstore.
 
     O: 내일은 친구 만나고, 서점에 갈 거예요.
     E: As for tomorrow, I am going to meet a friend and go to a bookstore.
@@ -27,6 +27,7 @@
 
     O: 구월에는 한국에 가고, 시월에는 일본에 갈 거예요.
     E: I will go to Korea in September and I will go to Japan in October.
+    F: I will go to Korea _in September_ and I will go to Japan _in October_.
 
     O: 커피 마시고, 도넛 먹고, 케이크 먹고, 우유 마셨어요. 배불러요.
-    E: I drank some coffee, ate a donut, ate some cake and drank some milk. I am full.
+    E: I drank coffee, ate a donut, ate cake and drank milk. I am full.

@@ -1,4 +1,7 @@
 == TTMIK 3.9 - To seem/look like (verbs) / -ㄴ 것 같아요 ==
+* s -> short
+* st -> story
+
     # {#RELATED Level 2 Lesson 19}: -는 것
     # -ㄴ 것 같아요: descriptive
     # -는 것 같아요: action present
@@ -8,7 +11,7 @@
     E: It looks like coffee. / I think it is coffee.
 
     O: 저 사람 소연 씨 같아요.
-    E: That person[s] (over there) looks like So-yeon. / I think that person is So-yeon.
+    E: That person{s} (over there) looks like So-yeon. / I think that person is So-yeon.
 
     # Descriptive
     O: 예쁜 것
@@ -36,23 +39,23 @@
     E: I think it will snow. / It seems like it will snow.
 
     O: 이야기한 것 같아요.
-    E: I think they told them. / It looks like they talked.
+    E: I think they told{st} them. / It looks like they talked.
 
     O: 이야기할 것 같아요.
-    E: I think they will talk. / It seems like they will talk.
+    E: I think they will talk{st}. / It seems like they will talk.
 
     O: 이야기하는 것 같아요.
-    E: I think they are talking. / They seem to talk to each other.
+    E: I think they are talking{st}. / They seem to talk to each other.
 
     O: 여기 비싼 것 같아요.
-    E: I think this place[s] is expensive. / This place looks expensive. / This place seems to be expensive.
+    E: I think it's expensive here. / This (place) seems to be expensive.
 
     # 그렇다 - to be that way
     O: 그런 것 같아요.
     E: I think so. / It seems to be so. / It looks like it.
 
     O: 이 영화 재미있을 것 같아요.
-    E: I think this movie[s] will be interesting. / This movie looks like it will be interesting (to watch).
+    E: I think this movie{s} will be interesting. / This movie looks like it will be interesting (to watch).
 
     # I think I bought this bag here.
     O: 이 가방, 여기에서 산 것 같아요.

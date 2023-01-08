@@ -58,7 +58,7 @@
     F: _Kyeong-eun_ likes Song Joong-ki.
 
     O: 한국 영화 좋아하세요?
-    E: Do you like Korean movies[s]? @honorific
+    E: Do you like Korean movies{s}? @honorific
 
     O: 저 좋아하세요?
-    E: Do you like me[s]? / Are you in love with me? @honorific
+    E: Do you like me{s}? / Are you in love with me? @honorific

@@ -62,21 +62,21 @@
 
     O: 지금 듣는 것은 노래예요
     E: What I am listening to now is a song.
-    F: _What[l] I am listening to now_ is a song.
+    F: _What{l} I am listening to now_ is a song.
 
     O: 지금 듣는 거는 노래예요.
     E: What I am listening to now is a song.
     F: _What I am listening to now_ is a song.
 
     O: 오늘 만나는 것 알아요?
-    E: Do you know that we are meeting[l] today?
+    E: Do you know that we are meeting{l} today?
 
     O: 오늘 만나는 거 알아요?
     E: Do you know that we are meeting today?
 
-    # Are you good at eating spicy foods[l]?
+    # Are you good at eating spicy foods{l}?
     O: 매운 것 잘 먹어요?
-    E: Are you good at eating spicy things[l]?
+    E: Are you good at eating spicy things{l}?
 
     # Are you good at eating spicy foods?
     O: 매운 거 잘 먹어요?
@@ -87,16 +87,16 @@
     F: _My hobby_ is watching movies.
 
     O: 요즘 공부하는 거는 뭐예요?
-    E: Recently[s], what is it that you are studying?
-    F: Recently[s], what is it that _you are studying_?
+    E: Recently{s}, what is it that you are studying?
+    F: Recently{s}, what is it that _you are studying_?
 
     O: 요즘 뭐 공부해요?
-    E: Recently[s], what are you studying?
+    E: Recently{s}, what are you studying?
 
     # 수다 떨다: to chitchat
     O: 저는 친구랑 수다떠는 거를 좋아해요.
-    E: I like chitchatting[o] with my friends.
-    F: _I_ like chitchatting[o] with my friends.
+    E: I like chitchatting{o} with my friends.
+    F: _I_ like chitchatting{o} with my friends.
 
     O: 경은 씨랑 일하는 거 좋아해요.
     E: I like working with Kyeong-eun.

@@ -82,11 +82,11 @@
     E: Let's meet at the hotel.
 
     O: 미안해요. 우리 곧 다시 만나요.
-    E: I am sorry. Let's[u] meet again soon.
+    E: I am sorry. Let's{u} meet again soon.
 
-    # Let’s[u] hide there!
+    # Let’s{u} hide there!
     O: 우리 저기에 숨어요!
-    E: Let's[u] hide over there!
+    E: Let's{u} hide over there!
 
     # 다니다 is almost of like "attend" but you will find it in a lot of compound verbs like 단녀오다 and 단녀가다 to visit and then come/go, and others like:
     #    * 찾아다니다 to go searching around
@@ -94,10 +94,10 @@
     #    * 떠돌아다니다 to wander around etc
     # The Korean answer here implies that it's occurring frequently, whereas the English is inferring a one-off journey.
     O: 개하고 도서관에 다녀요.
-    E: Let's go[r] to the library with the dog.
+    E: Let's go{r} to the library with the dog.
 
     O: 내일 제 친구의 집에서 놀아요!
-    E: Let's hang out at my[s] friend's house tomorrow!
+    E: Let's hang out at my{s} friend's house tomorrow!
 
 > Three
     O: 누가 한국어를 공부해요?

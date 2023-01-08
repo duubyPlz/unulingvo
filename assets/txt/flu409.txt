@@ -67,7 +67,7 @@
     E: Am I not allowed to tell/talk now? / Should I not tell/talk now? / Am I not supposed to tell/talk now?
 
     O: 여기서 팔면 안 돼요?
-    E: Am I not allowed to sell it here[s]? / Should I not sell it here? / Am I not supposed to sell it here[s]?
+    E: Am I not allowed to sell it here{s}? / Should I not sell it here? / Am I not supposed to sell it here{s}?
 
     O: 그거 던지면 안 돼요. 유리예요.
     E: You shouldn't throw that. It's (made of) glass.

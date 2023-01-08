@@ -42,8 +42,8 @@
     F: _I_ do not intend to go. / I will not/do not want to go.
 
     O: 저는 안 가고 싶어요.
-    E: I do not want[s] to go. (Room for change: if you really insist though, I might go.)
-    F: _I_ do not want[s] to go. (Room for change: if you really insist though, I might go.)
+    E: I do not want{s} to go. (Room for change: if you really insist though, I might go.)
+    F: _I_ do not want{s} to go. (Room for change: if you really insist though, I might go.)
 
     # 뭐 마시고 싶어요? Makes sense, but is {#TEXTBOOK-LIKE} unnatural.
     O: 뭐 마실래요?

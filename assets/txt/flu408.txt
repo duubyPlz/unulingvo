@@ -34,7 +34,7 @@
     E: Me, too.
 
     O: 이것도 주세요.
-    E: Give me this[l] one, too.
+    E: Give me this{l} one, too.
 
     # Verb + -도
     O: 먹어도
@@ -79,13 +79,13 @@
     E: Can I start? / Can we start?
 
     O: 이거 나중에 해도 돼요.
-    E: You can do this[s] later.
+    E: You can do this{s} later.
 
     O: 이거 나중에 해도 돼요?
-    E: Can I do this[s] later?
+    E: Can I do this{s} later?
 
     O: 컴퓨터 써도 돼요?
-    E: May I use the computer[s]?
+    E: May I use the computer{s}?
 
     O: 오늘 쉬어도 돼요.
     E: You can take a day off today.

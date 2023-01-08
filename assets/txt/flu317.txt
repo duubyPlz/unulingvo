@@ -2,7 +2,7 @@
     # Please note that using 위해/위해서 in a sentence makes it sound very formal.
     # You will hear/see this a lot in song lyrics, books, and new articles, but not in casual, spoken conversations.
 
-    # [noun] + (-을/를) 위해(서)
+    # {noun} + (-을/를) 위해(서)
 
     O: 건강을 위해서
     E: for health; for the sake of health; in order to be healthy

@@ -19,8 +19,8 @@
     F: _The teacher_ is looking at a map. @formal
 
     O: 게으른 회사원은 자고 있습니다.
-    E: The lazy employee is sleeping[ss]. @formal
-    F: _The lazy employee_ is sleeping[ss]. @formal
+    E: The lazy employee is sleeping{ss}. @formal
+    F: _The lazy employee_ is sleeping{ss}. @formal
 
     O: 회사원은 라디오를 가져요.
     E: The employee takes a radio. @polite
@@ -58,8 +58,8 @@
     F: _Pretty babies_ don't cry much. @polite
 
     O: 제 친구가 피자를 들고 있습니다.
-    E: My[s] friend is carrying a pizza. @formal
-    F: My[s] friend _is carrying a pizza_. @formal
+    E: My{s} friend is carrying a pizza. @formal
+    F: My{s} friend _is carrying a pizza_. @formal
 
     O: 이 가벼운 상자 안에 무엇이 있습니까?
     E: What's in this light box? @formal

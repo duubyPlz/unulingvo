@@ -51,10 +51,10 @@
     E: Where did you hear it?
 
     O: 많이 걸었는데, 안 피곤해요.
-    E: (I) walked a lot, but (I) am not[s] tired.
+    E: (I) walked a lot, but (I) am not{s} tired.
 
     O: 그 이야기를 믿어요?
     E: Do you believe that story?
 
     O: 물어도 대답이 없어요.
-    E: Even if (I) ask, there is no answer[l].
+    E: Even if (I) ask, there is no answer{l}.

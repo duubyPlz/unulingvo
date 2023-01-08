@@ -1,4 +1,5 @@
 == TTMIK 4.25 - -(으)ㄹ + noun (future tense noun group) / -(으)ㄹ + 명사, 할 것 ==
+* s -> short
 * l -> long
 * st -> story
 * sp -> spoken
@@ -15,7 +16,7 @@
     # * verb + -ㄹ + noun
     #   * "Noun group" means: ~~verb~~→adjective + noun
     #   * When noun = 것
-    #     * Lit.: A thing to [verb] / Something to [verb]
+    #     * Lit.: A thing to {verb} / Something to {verb}
     #     * Over time, it becomes -aĵ, evolved meanings.
 
     # 1. + noun
@@ -41,35 +42,35 @@
 
     # 2. + 것 (A thing to -)
     O: 먹을 것
-    E: Food[sp] (Lit. A thing to eat)
+    E: Food{sp} (Lit. A thing to eat)
 
     O: 탈 것 
-    E: Vehicle[sp] (Lit. A thing to ride)
+    E: Vehicle{sp} (Lit. A thing to ride)
 
     O: 마실 것
-    E: Beverage[sp] (Lit. A thing to drink)
+    E: Beverage{sp} (Lit. A thing to drink)
 
     O: 먹을 거 있어요?
-    E: Is there any food[s][sp]?
+    E: Is there any food{sp}?
 
     O: 입을 것
-    E: Clothes[sp] (Lit. A thing to wear)
+    E: Clothes{sp} (Lit. A thing to wear)
 
     O: 입을 거 주세요.
-    E: Give me clothes[s][sp].
+    E: Give me clothes{sp}.
 
     O: 살 것
-    E: Product[sp] (Lit. A thing to buy)
+    E: Product{sp} (Lit. A thing to buy)
 
     O: 내일 할 일이 많아요.
     E: Tomorrow, there's a lot of work I will have to do.
     F: Tomorrow, _there's a lot of_ work I will have to do.
 
-    # For now, there is nothing I will say[st].
+    # For now, there is nothing I will say{st}.
     O: 지금은 할 이야기가 없어요.
-    E: Now, there is nothing I will say[st].
-    F: _Now_, _there is nothing_ I will say[st].
+    E: Now, there is nothing I will say{st}.
+    F: _Now_, _there is nothing_ I will say{st}.
 
     O: 냉장고에 먹을 것이 전혀 없어요.
-    E: In the refrigerator, there is no food[l] at all.
-    F: In the refrigerator, _there is no_ food[l] _at all_.
+    E: In the refrigerator, there is no food{l} at all.
+    F: In the refrigerator, _there is no_ food{l} _at all_.

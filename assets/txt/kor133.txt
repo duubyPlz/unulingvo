@@ -8,8 +8,8 @@
     E: Who _fights now_?
 
     O: 나는 재미있는 게 있어.
-    E: I[l] have something interesting.
-    F: _I[l]_ have something interesting.
+    E: I{l} have something interesting.
+    F: _I{l}_ have something interesting.
 
     O: 아이가 책을 시작해.
     E: The child starts the book.
@@ -55,5 +55,5 @@
     F: This _is fun_.
 
     O: 나는 재미있는 게 있어.
-    E: I[l] have something interesting.
-    F: _I[l]_ have something interesting.
+    E: I{l} have something interesting.
+    F: _I{l}_ have something interesting.

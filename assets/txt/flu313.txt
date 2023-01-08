@@ -38,7 +38,7 @@
     E: Do you have a smaller bag?
 
     O: 차가운 커피 마시고 싶어요.
-    E: I want to drink some cold coffee[s].
+    E: I want to drink some cold coffee{s}.
 
     O: 나쁜 사람이에요
     E: He is a bad person.

@@ -34,7 +34,7 @@
     E: I dedicate this song to you. @formal @n
 
     # 3. Spouse
-    # Honey[o], where are you now? @n * o -> older
+    # Honey{o}, where are you now? @n * o -> older
     O: 당신 지금 어디예요?
     E: Darling, where are you now? @n
 

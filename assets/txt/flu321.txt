@@ -44,7 +44,7 @@
     E: It is still 9 o’clock but I am already sleepy.
 
     O: 준비 많이 했는데요...
-    E: I prepared[s] a lot, but. (sentence ends)
+    E: I prepared{s} a lot, but. (sentence ends)
 
     O: 멋있는데요!
     E: Oh, (that) is cool!
@@ -68,10 +68,10 @@
     E: Oh, (that) is cool! @impolite
 
     O: 준비 많이 했는데...
-    E: I prepared[s] a lot, but. (sentence ends) @impolite
+    E: I prepared{s} a lot, but. (sentence ends) @impolite
 
     O: 내일 친구 생일인데, 선물을 아직 못 샀어요.
-    E: It is (my) friend’s[s] birthday tomorrow, but I still haven't bought a present.
+    E: It is (my) friend’s{s} birthday tomorrow, but I still haven't bought a present.
 
     O: 이거 일본에서 샀는데, 선물이에요.
     E: I bought this in Japan, and it is a present for you.
@@ -83,13 +83,13 @@
     E: This is good! / I like this!
 
     O: 어? 여기 있었는데.
-    E: Huh? It was here[s]... @impolite
+    E: Huh? It was here{s}... @impolite
 
     O: 영화 재미있었는데, 무서웠어요.
-    E: The movie[s] was interesting, but it was scary.
+    E: The movie{s} was interesting, but it was scary.
 
     O: 영화 봤는데, 무서웠어요.
-    E: I saw a movie[s], and it was scary.
+    E: I saw a movie{s}, and it was scary.
 
     O: 저 지금 학생인데, 일도 하고 있어요.
-    E: I[s] am a student now, but I am also working (continuous).
+    E: I{s} am a student now, but I am also working (continuous).

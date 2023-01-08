@@ -1,5 +1,6 @@
 == TTMIK 4.27 - I think … (+ future tense) / -(으)ㄴ/(으)ㄹ/ㄴ 것 같다, 한 것 같다, 할 것 같다 ==
 * s -> short
+* u -> utilise
 
     # * Meanings:
     #   * 생각하다 to think
@@ -32,11 +33,11 @@
     E: I think (someone) will do it tomorrow.
 
     O: 내일 비 올 것 같아요.
-    E: I think it will rain[s] tomorrow.
+    E: I think it will rain{s} tomorrow.
 
     O: 이게 더 좋은 것 같아요.
     E: I think this is better.
-    F: I think _this_ is better.
+    F: _I think_ this _is better_.
 
     O: 이거 뭐인 것 같아요?
     E: What do you think this is?
@@ -49,8 +50,8 @@
     E: I think I will arrive soon.
 
     O: 한국 사람들은 종말 자주 사용하는 것 같아요.
-    E: I think Korean people use it (the word) really often. 🤔
-    F: I think _Korean people_ use it (the word) really often. 🤔
+    E: I think Korean people use{u} it (the word) really often. 🤔
+    F: I think _Korean people_ use{u} it (the word) really often. 🤔
 
     O: 거의 없는 것 같아요.
     E: I think (there's) almost none.

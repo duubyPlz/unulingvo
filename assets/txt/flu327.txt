@@ -47,10 +47,10 @@
     E: I can speak comfortably (with you), right? @polite
 
     O: 이거 뭐예요?
-    E: What is this[s]? @polite
+    E: What is this{s}? @polite
 
     O: 이거 뭐야?
-    E: What is this[s]? @impolite
+    E: What is this{s}? @impolite
 
     O: 내일 일할 거예요.
     E: I am going to work tomorrow. @polite
@@ -59,10 +59,10 @@
     E: I am going to work tomorrow. @impolite
 
     O: 어제 친구 만났어요.
-    E: I met a friend[s] yesterday. @polite
+    E: I met a friend{s} yesterday. @polite
 
     O: 어제 친구 만났어.
-    E: I met a friend[s] yesterday. @impolite
+    E: I met a friend{s} yesterday. @impolite
 
     O: 경은아
     E: 경은 + addressing suffix @impolite

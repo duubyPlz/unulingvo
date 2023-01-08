@@ -40,10 +40,10 @@
     F: I _cleaned up my room_!
 
     O: 아... 진짜?
-    E: Oh... really[sp]?
+    E: Oh... really{sp}?
 
     O: 예, 진짜! 보고 싶어요?
-    E: Yeah, really[sp]! Do you want to see it?
+    E: Yeah, really{sp}! Do you want to see it?
 
     O: 아주 맛있어요.
     E: It is very delicious.
@@ -67,4 +67,4 @@
     E: It is not hot at all.
 
     O: 하나도 안 더워요.
-    E: It is not hot at all[sp].
+    E: It is not hot at all{sp}.

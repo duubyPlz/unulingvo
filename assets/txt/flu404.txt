@@ -18,17 +18,17 @@
     E: (Wow,) Today is Friday!
 
     O: 오늘 금요일이지요?
-    E: Today is Friday, right[l]?
+    E: Today is Friday, right{l}?
 
-    # The weather is cold today, right[l]? (You know the other person knows the weather is cold.)
+    # The weather is cold today, right{l}? (You know the other person knows the weather is cold.)
     O: 오늘 날씨 춥지요?
-    E: The weather is cold today, isn't it[l]? (You know the other person knows the weather is cold.)
+    E: The weather is cold today, isn't it{l}? (You know the other person knows the weather is cold.)
 
     O: 맞아요. 피자 정말 맛있죠.
     E: That's right. Pizza really is delicious, isn't it? (You know the other person also thinks pizza is delicious.)
 
     O: 재미있지요?
-    E: It is fun, right[l]? (You know the other person thinks it's fun, but ask again to make sure.)
+    E: It is fun, right{l}? (You know the other person thinks it's fun, but ask again to make sure.)
 
     O: 이게 뭐지? 
     E: What is this? (pondering, not a direct question) @impolite

@@ -136,8 +136,8 @@
     F: The woman's car _is slow_.
 
     O: 차가 차갑습니다.
-    E: The car[s] is cold to touch.
-    F: The car[s] _is cold to touch_.
+    E: The car{s} is cold to touch.
+    F: The car{s} _is cold to touch_.
 
     O: 음식이 비쌉니다.
     E: The food is expensive.

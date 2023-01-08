@@ -1,9 +1,10 @@
-== TTMIK 4.28 - To become + adjective / -(아/어/여)지다 ==
+== TTMIK 4.28 - To become + adjective / To gradually get to be / -(아/어/여)지다 ==
     # {#RELATED Level 3 Lesson 24}: 르 irregular / 르 불규칙
+    # {#RELATED Level 4 Lesson 29}: To gradually get to do / -게 되다, 하게 되다
 
     # * Rules:
-    #   * to become [adjective]: [adjective]+(ㅏ/ㅓ)지다
-    #   * to become more [adjective]: 더 [adjective]+(ㅏ/ㅓ)지다
+    #   * to become {adjective}: {adjective}+(ㅏ/ㅓ)지다
+    #   * to become more {adjective}: 더 {adjective}+(ㅏ/ㅓ)지다
 
     O: 예뻐지다
     E: to become pretty
@@ -34,20 +35,23 @@
 
     O: 날씨가 따뜻해졌어요.
     E: The weather has become warm.
+    F: The weather _has become warm_.
 
     O: 컴퓨터가 빨라졌어요.
     E: The computer has become fast.
+    F: The computer _has become fast_.
 
     O: 한국어 공부가 재미있어졌어요.
     E: Studying Korean has become fun.
+    F: Studying Korean _has become fun_.
 
     O: 줄이 길어졌어요.
     E: The line has become long.
+    F: The line _has become long_.
 
     O: 내일 다시 추워질 거예요.
     E: It will become cold again tomorrow.
     
-    O: TTMIK이랑 공부하면 한국어 공부가 시워질 거예요.
+    O: TTMIK이랑 공부하면 한국어 공부가 쉬워질 거예요.
     E: If you study with TTMIK, Korean study will become easy. 🤔
     F: If you study with TTMIK, Korean study _will become easy_. 🤔
-

@@ -10,7 +10,7 @@
         * Short for 중의 or 중에
     # * 종에: 
         * Short for 중에서
-        * 종에[at] + verb
+        * 종에{at} + verb
     # * 종의: 종의['s] + noun
     # * 중에서: Among countable options (not location)
     # * 사이에: Physical space between two things.
@@ -52,10 +52,10 @@
     E: Please choose among these.
 
     O: 이 세 개 중에서 하나 가져가세요.
-    E: Please take one[s] of these three.
+    E: Please take one{s} of these three.
 
     O: 이거하고 그거 중에서 못 골라요.
-    E: I cannot choose between this one[s] and that one[s].
+    E: I cannot choose between this one{s} and that one{s}.
 
     # 중에
     O: 범인은 너희들 중에 있다.
@@ -73,24 +73,24 @@
 
     # 사이에서
     O: 친구들 사이에서
-    E: Among[w] (all) friends
+    E: Among{w} (all) friends
 
     O: 가족들 사이에서
     E: Among (all) his/her family members
 
     O: 친구들 사이에서 인기가 많아요.
-    E: He is popular among (all) friends[l].
+    E: He is popular among (all) friends{l}.
 
     O: 우리 친구들 사이에서 인기가 많아요.
-    E: She is popular among (all) our[l] friends[l].
+    E: She is popular among (all) our{l} friends{l}.
 
     O: 이 가수는 한국인들 사이에서 인기가 많아요.
-    E: This singer is popular among (all) Koreans[l].
-    F: _This singer_ is popular among Koreans[l].
+    E: This singer is popular among (all) Koreans{l}.
+    F: _This singer_ is popular among Koreans{l}.
 
     O: 석진 씨는 청취자들 사이에서 인기가 많아요.
-    E: Seokjin is popular among our (all) listeners[l].
-    F: _Seokjin_ is popular among our listeners[l].
+    E: Seokjin is popular among our (all) listeners{l}.
+    F: _Seokjin_ is popular among our listeners{l}.
 
     # 사이에
     O: 집은 은행하고 공원 사이에 있어요.
