@@ -67,7 +67,7 @@
     O: 만나게 되면 말해 주세요.
     E: If you get to meet him, tell me.
 
-    O: TTMIK 어떻게 알게 됬어요?
+    O: TTMIK 어떻게 알게 됐어요?
     E: How did you get to know (about) TTMIK{s}? 🤔
 
     O: 연습하게 될 거예요.
