@@ -46,7 +46,7 @@
     
     # 예문 - examples
     O: 예문 보게 될 거예요.
-    E: You will eventually look at examples. 🤔
+    E: You will eventually look at examples{s}. 🤔
 
     O: 내일 알게 될 거예요.
     E: You will eventually find out tomorrow.
