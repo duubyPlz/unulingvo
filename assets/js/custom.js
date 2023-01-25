@@ -38,13 +38,14 @@ $('.search-bar').on('click', function() {
     focusSearch();
 });
 $('.thing').on('click', function(e) {
-    // TODO continue here - list all paths of ctrl + click
-    // if (e.metaKey || e.ctrlKey) {
-    //     $(this).addClass('selected-thing');
-    // } else {
-    //     $(this).toggleClass('selected-thing');
-    // }
-    $(this).toggleClass('selected-thing');
+    if (e.metaKey || e.ctrlKey) {
+        $(this).toggleClass('selected-thing');
+    } else {
+        $('.thing').each(function() {
+            $(this).removeClass('selected-thing');
+        });
+        $(this).addClass('selected-thing');
+    }
 })
 
 // 2. Parse & display text of selected file(s)

@@ -176,6 +176,12 @@ svg.flag-img {
   text-align: center;
 }
 
+button.btn.thing {
+  width: 600px;
+  height: 50px;
+  font-size: 100%;
+}
+
 .thing.selected-thing {
   background: none;
   border-left: solid 2px rgba(200, 110, 0, 0.6);
