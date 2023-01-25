@@ -6,7 +6,6 @@ var badgeHash = new Object();
 
 // 1. Rich menu listeners
 function focusSearch() {
-    console.log('FOCUS SEARCH');
     $('.search-bar').val('');
     $('.search-bar').focus();
 }
