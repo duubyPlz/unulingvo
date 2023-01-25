@@ -38,10 +38,22 @@ $('body').keydown(function(e) {
 $('.search-bar').on('click', function() {
     focusSearch();
 });
+$('.thing').on('click', function(e) {
+    // TODO continue here - list all paths of ctrl + click
+    // if (e.metaKey || e.ctrlKey) {
+    //     $(this).addClass('selected-thing');
+    // } else {
+    //     $(this).toggleClass('selected-thing');
+    // }
+})
+// document.addEventListener('click', logKey);
+
+// function logKey(e) {
+//   log.textContent = `The ctrl key is pressed: ${e.ctrlKey}`;
+// }
 
 // 2. Parse & display text of selected file(s)
 // a) Establish selected files
-showMenu(); // TODO DELETE ME!!
 var selectedModule = null;
 
 // b) Parse

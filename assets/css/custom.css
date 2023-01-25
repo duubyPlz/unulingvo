@@ -176,6 +176,13 @@ svg.flag-img {
   text-align: center;
 }
 
+.thing.selected-thing {
+  font-weight: bold;
+}
+.thing:focus {
+  font-weight: bold;
+}
+
 .display-text,
 .flu-display-text {
   font-weight: 400;
