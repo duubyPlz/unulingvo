@@ -135,10 +135,13 @@ svg.flag-img {
 
 #close-menu {
   position: absolute;
-  right: 1em;
+  right: 3em;
+  top: 2em;
+  text-transform: uppercase;
 }
 
 .rich-menu .search-bar-wrapper {
+  margin: 2em;
   display: block;
   position: relative;
   width: 45%;
@@ -167,6 +170,10 @@ svg.flag-img {
   content: url('/assets/img/search.svg');
   right: 10px;
   bottom: -2px;
+}
+
+#rich-menu-contents {
+  text-align: center;
 }
 
 .display-text,

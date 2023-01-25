@@ -5,13 +5,21 @@ var fileHash = new Object();
 var badgeHash = new Object();
 
 // 1. Rich menu listeners
+function focusSearch() {
+    console.log('FOCUS SEARCH');
+    $('.search-bar').val('');
+    $('.search-bar').focus();
+}
 function showMenu() {
     $('.rich-menu').show();
     $('#app').hide();
+    $('.logo').hide();
+    focusSearch();
 }
 function hideMenu() {
     $('.rich-menu').hide();
     $('#app').show();
+    $('.logo').show();
 }
 $('.top-panel').on('click', function() {
     showMenu();
@@ -28,11 +36,12 @@ $('body').keydown(function(e) {
     }
 });
 $('.search-bar').on('click', function() {
-    $('.search-bar').val('');
+    focusSearch();
 });
 
 // 2. Parse & display text of selected file(s)
 // a) Establish selected files
+showMenu(); // TODO DELETE ME!!
 var selectedModule = null;
 
 // b) Parse
