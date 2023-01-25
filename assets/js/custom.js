@@ -46,11 +46,6 @@ $('.thing').on('click', function(e) {
     //     $(this).toggleClass('selected-thing');
     // }
 })
-// document.addEventListener('click', logKey);
-
-// function logKey(e) {
-//   log.textContent = `The ctrl key is pressed: ${e.ctrlKey}`;
-// }
 
 // 2. Parse & display text of selected file(s)
 // a) Establish selected files
