@@ -44,6 +44,7 @@ $('.thing').on('click', function(e) {
     // } else {
     //     $(this).toggleClass('selected-thing');
     // }
+    $(this).toggleClass('selected-thing');
 })
 
 // 2. Parse & display text of selected file(s)

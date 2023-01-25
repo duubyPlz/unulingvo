@@ -177,10 +177,21 @@ svg.flag-img {
 }
 
 .thing.selected-thing {
-  font-weight: bold;
+  background: none;
+  border-left: solid 2px rgba(200, 110, 0, 0.6);
+  border-right: solid 2px rgba(200, 110, 0, 0.6);
+  color: rgba(255, 165, 0, 0.8);
+  background-color: rgba(255, 165, 0, 0.1);
+  box-shadow: none;
 }
-.thing:focus {
-  font-weight: bold;
+
+.thing.selected-thing:hover,
+.thing.selected-thing:focus {
+  border-left: solid 2px rgba(255, 165, 0, 1);
+  border-right: solid 2px rgba(255, 165, 0, 1);
+  background-color: rgba(255, 165, 0, 0.2);
+  color: rgba(255, 165, 0, 1);
+  box-shadow: none;
 }
 
 .display-text,
@@ -328,6 +339,10 @@ img.logo {
   border-right: solid 2px rgba(255, 255, 255, 0.4);
 }
 
+.btn-check:focus + .btn, .btn:focus {
+  box-shadow: 0 0 0 .25rem rgba(255, 255, 255, 0.4);
+}
+
 button.btn-green {
   background-color: rgba(0, 208, 0, 0.1);
   border-left: solid 2px rgba(0, 208, 0, 0.4);
@@ -341,6 +356,10 @@ button.btn-green:focus {
   border-left: solid 2px rgba(0, 208, 0, 0.7);
   border-right: solid 2px rgba(0, 208, 0, 0.7);
   color: rgba(0, 208, 0, 1);
+}
+
+.btn-check:focus + .btn-green, .btn-green:focus {
+  box-shadow: 0 0 0 .25rem rgba(0, 208, 0, 0.4);
 }
 
 button.btn-nav {
@@ -362,6 +381,9 @@ button.btn-nav:focus {
   background-color: rgba(255, 165, 0, 0.2);
   color: rgba(255, 165, 0, 1);
   box-shadow: none;
+}
+.btn-check:focus + .btn-nav, .btn-nav:focus {
+  box-shadow: 0 0 0 .25rem rgba(200, 110, 0, 0.6);
 }
 
 button.btn-green:focus {
