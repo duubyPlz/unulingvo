@@ -23,16 +23,6 @@ body {
   background: rgba(255, 165, 0, 0.2);
 }
 
-.operation-btn-group {
-  display: flex;
-  flex-direction: row-reverse;
-  padding: 0.5em;
-  padding-top: 0;
-}
-.operation-btn {
-  margin: 0.5em;
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Exo', sans-serif;
   font-weight: 300;
@@ -324,6 +314,17 @@ button.btn-nav:focus {
 
 button.btn-green:focus {
   outline: 0;
+}
+
+.operation-btn-group {
+  display: flex;
+  flex-direction: row-reverse;
+  padding: 0.5em;
+  padding-top: 0;
+}
+
+button.operation-btn {
+  margin: 0.5em;
 }
 
 button#skip,
