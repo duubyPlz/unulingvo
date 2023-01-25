@@ -63,45 +63,62 @@ a.link-blue:focus {
   background-color: rgba(255, 255, 255, 0.08);
 }
 
-.acc-main-panel {
-  /*background-color: rgba(255,255,255,0);*/
-  /*border: transparent;*/
-  /*box-shadow: none;*/
-  /*background-color: rgba(255,255,255,0.3);*/
+.top-panel {
   position: relative;
-  top: 180px;
-  width: 650px;
-  margin: auto;
-  margin-bottom: 130px;
+  top: 120px;
+  width: 50%;
+  height: 40px;
+  line-height: 40px;
   text-align: center;
-  padding-top: 20px;
-  padding-bottom: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 0;
+  border-left: solid 3px rgba(255, 255, 255, 0.2);
+  border-right: solid 3px rgba(255, 255, 255, 0.2);
+  border-top: none;
+  border-bottom: none;
+  background-color: rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.6);
+  cursor: pointer;
 }
 
-/*
-.panel {
-  -webkit-box-shadow: 0 0 30px rgba(0,0,0,0.08);
-  -moz-box-shadow: 0 0 30px rgba(0,0,0,0.08);
-  box-shadow: 0 0 30px rgba(0,0,0,0.08);
-  background-color: rgba(255,255,255,0.97);
- }
-*/
+.top-panel::after {
+  position: absolute;
+  content: url('/assets/img/search.svg');
+  right: 10px;
+  bottom: -2px;
+}
 
-.panel.acc-keyword {
-  /*background-color: #5cb85c;*/
-  border-radius: 0px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-  background-color: rgba(255,255,255,0.97);
-  /*color: white;*/
-  padding: 5px;
-  margin-right: 2px;
+.lesson-tag {
+  position: absolute;
+  left: 0;
+  background-color: rgba(255, 255, 255, 0.025);
+  padding: 0.35em 0.6em;
+  margin: 0.3em 0.4em;
+  background-color: rgba(0, 0, 0, 0.15);
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 100%;
+  text-align: center;
+}
+img.lesson-tag-img {
+  width: 1em;
+  opacity: 70%;
+  position: relative;
+  top: -3px;
+  left: 1px;
+  margin-right: 1px;
+}
+svg.flag-img {
+  height: 1.1em;
+  padding-top: 3px;
+  opacity: 70%;
+  position: relative;
+  right: 1px;
 }
 
 .display-text,
 .flu-display-text {
-  /*font-weight: 300;*/
   font-weight: 400;
-  /*letter-spacing: 0.7px;*/
   cursor: default;
   display: inline-block;
   line-height: 26px;
@@ -112,6 +129,7 @@ a.link-blue:focus {
   height: 100px;
   width: 300px;
   margin: 30px;
+  margin-bottom: 10px;
   vertical-align: top;
 }
 
@@ -128,6 +146,7 @@ a.link-blue:focus {
   display: inline-block;
   /*letter-spacing: 0.8px;*/
   margin: 30px;
+  margin-bottom: 10px;
   overflow: hidden;
   word-wrap: break-word;
   resize: none;
@@ -534,8 +553,8 @@ select#flu {
   color: orange;
   vertical-align: center;
   position: absolute;
-  top: 120px;
-  left: 395px;
+  top: 58px;
+  left: 391px;
 }
 
 div.popup {
@@ -554,7 +573,7 @@ footer.footer {
   /*color: #777;*/
   font-size: 75%;
   position: relative;
-  top: 280px;
+  top: 240px;
   bottom: 100px;
 }
 
@@ -693,7 +712,7 @@ footer.footer {
   .main-panel {
     background-color: rgba(255, 255, 255, 0.17);
     top: 0;
-    width: 100%
+    width: 100%;
   }
 
   .container {

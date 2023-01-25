@@ -7,9 +7,6 @@
   <!-- Bootstrap -->
   <link href="bootstrap3/css/bootstrap.css" rel="stylesheet">
 
-  <!-- Semantic UI -->
-  <link rel="stylesheet" href="assets/css/semantic.min.css">
-
   <!-- Custom CSS -->
   <link href="assets/css/custom.css" rel="stylesheet">
 
@@ -20,10 +17,6 @@
   <!-- JS -->
   <script src="bootstrap3/js/bootstrap.js" type="text/javascript"></script>
 
-  <!-- Fonts -->
-  <!-- <link href='https://fonts.googleapis.com/css?family=Dosis:400,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'> --> <!-- Varela Round -->
-  <!-- <link href='assets/fonts/dosis.css' rel='stylesheet' type='text/css'> -->
-
   <!-- Titles -->
   <link rel="icon" href="assets/img/favicon.ico">
   <title>unulingvo</title>
@@ -31,141 +24,24 @@
 <body>
   <img class='logo' src='assets/img/logo.png'>
 
-  <span class='modules-bar pull-right'>
-    <button id='duoButton' class='btn btn-nav' style='outline:none'>DUO</button>
-    <button id='fluButton' class='btn btn-nav' style='outline:none'>FLU</button>
-  </span>
-
-  <!-- + 1. DUO -->
+  <!-- + app -->
   <div id='duo-module'>
     <!-- Start Content -->
     <!-- + top bar -->
-    <div class='container' id='top-bar'>
-      <!-- + pills -->
-      <ul class="nav nav-pills" style='position:absolute'>
-        <li role="presentation" id='eo' class="active">
-          <a data-toggle='tooltip' data-placement='top' title='shortcut "@"'>
-            <!-- https://i.stack.imgur.com/ypvC9.png -->
-            <span class='media'>EO</span>
-            <span class='full'>Esperanto</span>
-          </a>
-        </li>
-        <li role="presentation" id='ko'>
-          <a data-toggle='tooltip' data-placement='top' title='shortcut "#"'>
-            <!-- https://d30y9cdsu7xlg0.cloudfront.net/png/49809-200.png -->
-            <span class='media'>KO</span>
-            <span class='full'>Korean</span>
-          </a>
-        </li>
-        <li role="presentation" id='ja'>
-          <a data-toggle='tooltip' data-placement='top' title='shortcut "$"'>
-            <!-- https://upload.wikimedia.org/wikipedia/commons/c/c8/Flag_of_Japan_%28monocrome%29.svg -->
-            <span class='media'>JA</span>
-            <span class='full'>Japanese</span>
-          </a>
-        </li>
-        <li role="presentation" id='cn'>
-          <a data-toggle='tooltip' data-placement='bottom' title='shortcut "%"'>
-            <span class='media'>CN</span>
-            <span class='full'>Chinese</span>
-          </a>
-          <label id='toggle-label-cn' class="switch-toggle inner rect" style='position: absolute; top: -25px; display: none'>
-            <input type="checkbox" id='toggle-cn' />
-            <div></div>
-          </label>
-        </li>
-      </ul>
-      <!-- - pills -->
-      <!-- + dropdown -->
-      <!-- <label class='select-round pull-right'> -->
-        <!-- assuming there won't be that many languages,
-             if this assumption is wrong, refactor ids/classes. -->
-      <select id='contents-eo' class="ui search dropdown select-round pull-right duo" style='display:inline'>
-        <option value='1'>1. Basics One</option>
-        <option value='2'>2. Basics Two</option>
-        <option value='3'>3. Phrases</option>
-        <option value='4'>4. Accusative</option>
-        <option value='5'>5. Languages</option>
-        <option value='6'>6. Colors</option>
-        <option value='7'>7. Plurals</option>
-        <option value='8'>8. Da/De</option>
-        <option value='9'>9. Animals</option>
-        <option value='10'>10. Possessives</option>
-        <option value='11'>11. Countries</option>
-        <option value='12'>12. Food</option>
-        <option value='13'>13. Clothing</option>
-        <option value='14'>14. Infinitive</option>
-        <option value='15'>15. Questions</option>
-        <option value='16'>16. Verbs Present</option>
-        <option value='17'>17. Family</option>
-        <option value='18'>18. Objects</option>
-        <option value='19'>19. Prepositions</option>
-        <option value='20'>20. Past &amp; Future</option>
-        <option value='21'>21. Numbers</option>
-        <option value='22'>22. Dates &amp; Time</option>
-        <option value='23'>23. Occupations</option>
-        <option value='24'>24. Imperative</option>
-        <option value='25'>25. Affixes I</option>
-        <option value='26'>26. Adjectives</option>
-        <option value='27'>27. Home</option>
-        <option value='28'>28. Verbs Conditional</option>
-        <option value='29'>29. Adverbs</option>
-        <option value='30' selected='selected'>30. Feelings</option>
-      </select>
-
-      <select id='contents-ko' class="ui search dropdown select-round pull-right duo" style='display:none'>
-        <option value='1'>1. Basics One</option>
-        <option value='2'>2. Basics Two</option>
-        <option value='3'>3. Phrases One</option>
-        <option value='4'>4. Regular Verbs</option>
-        <option value='5'>5. Adjectives</option>
-        <option value='6'>6. Demonstratives</option>
-        <option value='7'>7. Formal Moods</option>
-        <option value='8'>8. Polite</option>
-        <option value='9'>9. Food</option>
-        <option value='10'>10. Pronouns</option>
-        <option value='11'>11. Animals</option>
-        <option value='12'>12. Modifiers: Present</option>
-        <option value='13'>13. Conjunctions</option>
-        <option value='14'>14. Polite Moods</option>
-        <option value='15'>15. Adverbs: Degree</option>
-        <option value='16'>16. Numbers</option>
-        <option value='17'>17. Prepositions</option>
-        <option value='18'>18. Adverbs Two</option>
-        <option value='19'>19. Compound Verbs</option>
-        <option value='20'>20. Continuous Verbs</option>
-        <option value='21'>21. Colours</option>
-        <option value='22'>22. Honorific</option>
-        <option value='23'>23A. Casual</option>
-        <option value='132' selected='selected'>23B. Casual</option>
-        <option value='133'>23C. Casual</option>
-        <option value='24'>24A. Clothing</option>
-        <option value='142'>24B. Clothing</option>
-        <option value='143'>24C. Clothing</option>
-        <option value='144'>24D. Clothing</option>
-        <option value='145'>24E. Clothing</option>
-      </select>
-
-      <select id='contents-ja' class="ui search dropdown select-round pull-right duo" style='display:none'>
-        <option value='1'>1. Hiragana</option>
-        <option value='2' selected='selected'>2. Introduction</option>
-      </select>
-
-      <select id='contents-cn' class="ui search dropdown select-round pull-right duo" style='display:none'>
-        <option value='1'>1. 為</option>
-        <option value='2'>2. 時</option>
-        <option value='3' selected='selected'>3. 來</option>
-        <option value='4'>4. 作</option>
-      </select>
-      <button id='randomise' class='btn btn-green pull-right'><span class="glyphicon glyphicon-random" aria-hidden="true"></span></button>
-      <!-- - dropdown -->
+    <div class="container">
+      <div class="panel top-panel">
+        <span class="lesson-tag">
+          <img class="lesson-tag-img" src='assets/img/duo.ico' />
+          <svg class='flag-img' viewBox="0 1518 82 66" data-test="flag-eo" class="EZsOD"><image height="3168" href="/assets/img/flags.svg" ></image></svg>
+        </span>
+        TTMIK 4.29 -게 되다
+      </div>
     </div>
     <!-- - top bar -->
     <!-- + main panel -->
     <div class="container">
       <div class="panel main-panel">
         <div class="panel-body">
-          <h1>Traduku ĉi tiun tekston</h1>
           <div class='display-text'>
             <!-- loader: https://codepen.io/trakout/pen/rKnfo* -->
             <br><br>
@@ -174,7 +50,7 @@
             <!-- end loader -->
           </div>
           <h2 id='arrow'><b>&rsaquo;</b></h2>
-          <div spellcheck="false" data-placeholder='Esperanto' class='textarea-block textarea-lg textarea' contenteditable="true" id='answer' autofocus></div>
+          <div spellcheck="false" data-placeholder='Answer' class='textarea-block textarea-lg textarea' contenteditable="true" id='answer' autofocus></div>
           <button type='submit' class='btn btn-green btn-lg pull-right' id='checking'>Check</button>
           <button class='btn btn-lg pull-right' data-toggle='tooltip' data-placement='bottom' title="or skip with backtick `" id='skip'>Skip</button>
         </div>
@@ -203,201 +79,7 @@
     </footer>
     <!-- End footer-->
   </div>
-  <!-- - 1. DUO -->
-
-  <!-- + 2. ACCUSATIVES -->
-  <div id='acc-module' style='display:none'>
-    <!-- Start Content -->
-    <div class='container panel acc-main-panel'>
-      <div class='panel-body'>
-        <!--
-        <span class='panel acc-keyword'>&lt;NOUN&gt;</span>
-        <span class='panel acc-keyword'>&lt;VERB&gt;</span>
-        <span class='panel acc-keyword'>&lt;NOUN&gt;</span>
-        -->
-        <span class='panel acc-keyword'>a cat</span>
-        <span class='panel acc-keyword'>scratched</span>
-        <span class='panel acc-keyword'>the door</span>
-        <textarea spellcheck="false" placeholder='Esperanto' id='acc-answer' autofocus></textarea>
-      </div>
-    </div>
-    <!-- End Content -->
-
-    <!-- Start footer -->
-    <footer class='footer'>
-      <small>
-        [WIP]<br/>
-        quick, infinite practice of simple accusative cases<br/>
-        nouns randomly generated from ??
-      </small>
-    </footer>
-    <!-- End footer-->
-  </div>
-  <!-- - 2. ACCUSATIVES -->
-
-  <!-- WIP! v ONLY PLACEHOLDER RIGHT NOW v -->
-  <!-- TODO: make new UI -->
-  <!-- + 3. FLUENCY -->
-  <div id='flu-module' style='display:none'>
-    <!-- Start Content -->
-
-    <!-- + top bar -->
-    <div class='container' id='flu-top-bar' style='display:block'>
-      <!-- + dropdown -->
-      <select id='flu' style='display:block' class="ui search dropdown select-round pull-right">
-        <option value='100'>TTMIK Level 1</option>
-        <option value='101'>TTMIK 1.1 안녕하세요. 감사합니다.</option>
-        <option value='102'>TTMIK 1.2 네. 아니요. 네?</option>
-        <option value='103'>TTMIK 1.3 안녕히 가세요. 안녕히 계세요. 안녕.</option>
-        <option value='104'>TTMIK 1.4 죄송합니다. 저기요.</option>
-        <option value='105'>TTMIK 1.5 저예요. 뭐예요?</option>
-        <option value='106'>TTMIK 1.6 이거 뭐예요? 이거…</option>
-        <option value='107'>TTMIK 1.7 이, 그, 저</option>
-        <option value='108'>TTMIK 1.8 아니에요.</option>
-        <option value='109'>TTMIK 1.9 은, 는, 이, 가</option>
-        <option value='110'>TTMIK 1.10 있어요, 없어요</option>
-        <option value='111'>TTMIK 1.11 주세요.</option>
-        <option value='112'>TTMIK 1.12 맛있어요. 잘 먹겠습니다. 잘 먹었습니다.</option>
-        <option value='113'>TTMIK 1.13 -고 싶어요</option>
-        <option value='114'>TTMIK 1.14 뭐 하고 싶어요?</option>
-        <option value='116'>TTMIK 1.16 -(아/어/여)요</option>
-        <option value='117'>TTMIK 1.17 Past -았/었/였어요 (했어요)</option>
-        <option value='118'>TTMIK 1.18 에, 에서</option>
-        <option value='119'>TTMIK 1.19 언제</option>
-        <option value='121'>TTMIK 1.21 안, -지 않다</option>
-        <option value='122'>TTMIK 1.22 하다 verbs</option>
-        <option value='123'>TTMIK 1.23 누구?</option>
-        <option value='124'>TTMIK 1.24 왜? 어떻게?</option>
-        <option value='125'>TTMIK 1.25 에서/부터 -까지</option>
-        <option value='201'>TTMIK 2.1 Future -ㄹ/을 거예요, 할 거예요</option>
-        <option value='202'>TTMIK 2.2 -을, -를</option>
-        <option value='203'>TTMIK 2.3 그리고, 그래서</option>
-        <option value='204'>TTMIK 2.4 -하고, -(이)랑</option>
-        <option value='205'>TTMIK 2.5 요일</option>
-        <option value='206'>TTMIK 2.6 그렇지만, 그런데</option>
-        <!-- add -ㄴ 거예요 The thing/fact is... (lit: it is _noun'd verb_) https://www.youtube.com/watch?v=YWntjITmHB8 -->
-        <option value='207'>TTMIK 2.7 한테, 한테서</option>
-        <option value='208'>TTMIK 2.8 Telling The Time</option>
-        <option value='209'>TTMIK 2.9 개, 명</option>
-        <option value='210'>TTMIK 2.10 -고 있어요</option>
-        <option value='211'>TTMIK 2.11 자기소개</option>
-        <option value='212'>TTMIK 2.12 날짜</option>
-        <option value='213'>TTMIK 2.13 -도 Nouns, pronouns</option>
-        <option value='214'>TTMIK 2.14 -도 Verbs, -기</option>
-        <option value='215'>TTMIK 2.15 -만</option>
-        <option value='216'>TTMIK 2.16 아주, 조금, 진짜, 별로, 전혀</option>
-        <option value='217'>TTMIK 2.17 -ㄹ 수 있다/없다</option>
-        <option value='218'>TTMIK 2.18 잘하다/못하다</option>
-        <option value='219'>TTMIK 2.19 -는 것</option>
-        <option value='220'>TTMIK 2.20 -(아/어/여)야 되다/하다</option>
-        <option value='221'>TTMIK 2.21 -보다 더</option>
-        <option value='222'>TTMIK 2.22 좋다 vs 좋아하다</option>
-        <option value='223'>TTMIK 2.23 만약, -면</option>
-        <option value='224'>TTMIK 2.24 아직, 벌써</option>
-        <option value='225'>TTMIK 2.25 누군가, 무언가, 어딘가, 언젠가</option>
-        <option value='226'>TTMIK 2.26 -세요</option>
-        <option value='227'>TTMIK 2.27 -(아/어/여) 주세요</option>
-        <option value='228'>TTMIK 2.28 -로</option>
-        <option value='229'>TTMIK 2.29 더, 다</option>
-        <option value='230'>TTMIK 2.30 -지 마세요</option>
-        <option value='301'>TTMIK 3.1 너무</option>
-        <option value='302'>TTMIK 3.2 Linking Verbs with -고</option>
-        <option value='303'>TTMIK 3.3 앞에, 옆에, 위에, 밑에, 뒤에</option>
-        <option value='304'>TTMIK 3.4 -ㄹ까요?</option>
-        <option value='305'>TTMIK 3.5 쯤, 약, 정도</option>
-        <option value='306'>TTMIK 3.6 -ㄹ게요</option>
-        <option value='307'>TTMIK 3.7 -(아/어/여)서</option>
-        <option value='308'>TTMIK 3.8 같아요</option>
-        <option value='309'>TTMIK 3.9 -ㄴ 것 같아요</option>
-        <option value='310'>TTMIK 3.10 -기 전에</option>
-        <option value='311'>TTMIK 3.11 ㅂ 불규칙</option>
-        <option value='312'>TTMIK 3.12 그래도</option>
-        <option value='313'>TTMIK 3.13 Adjectives Descriptive -ㄴ</option>
-        <option value='314'>TTMIK 3.14 Adjectives Action -는/ㄴ/ㄹ</option>
-        <option value='315'>TTMIK 3.15 그러면, 그럼</option>
-        <option value='316'>TTMIK 3.16 -(아/어/여)요 (청유형)</option>
-        <option value='317'>TTMIK 3.17 위하다</option>
-        <option value='318'>TTMIK 3.18 밖에 + 부정형</option>
-        <option value='319'>TTMIK 3.19 다음에</option>
-        <option value='320'>TTMIK 3.20 -(아/어/여)도</option>
-        <option value='321'>TTMIK 3.21 -는데, -인데, -ㄴ데</option>
-        <option value='322'>TTMIK 3.22 -ㄹ 수도 있어요</option>
-        <option value='323'>TTMIK 3.23 [WB] 학 學</option>
-        <option value='324'>TTMIK 3.24 르 불규칙</option>
-        <option value='325'>TTMIK 3.25 -네요</option>
-        <option value='326'>TTMIK 3.26 ㄷ 불규칙</option>
-        <option value='327'>TTMIK 3.27 반말 & 존댓말</option>
-        <option value='328'>TTMIK 3.28 -자</option>
-        <option value='329'>TTMIK 3.29 ㅅ 불규칙</option>
-        <option value='330'>TTMIK 3.30 [WB] 실 室</option>
-        <option value='331'>TTMIK 3.31 [R] Level 3</option>
-        <option value='401'>TTMIK 4.1 -면 -ㄹ수록</option>
-        <option value='402'>TTMIK 4.2 -ㄹ래요(?)</option>
-        <option value='403'>TTMIK 4.3 -ㄹ 리가 없어요</option>
-        <option value='404'>TTMIK 4.4 -지요/-죠</option>
-        <option value='405'>TTMIK 4.5 당신</option>
-        <option value='406'>TTMIK 4.6 [WB] 동 動</option>
-        <option value='407'>TTMIK 4.7 괜찮아요</option>
-        <option value='408'>TTMIK 4.8 -도 돼요</option>
-        <option value='409'>TTMIK 4.9 -면 안 돼요</option>
-        <option value='410'>TTMIK 4.10 중, 중에, 종의, 중에서, 사이에, 사이에서</option>
-        <option value='411'>TTMIK 4.11 아무나, 아무도, 아무거나, 아무것도</option>
-        <option value='412'>TTMIK 4.12 -보다</option>
-        <option value='413'>TTMIK 4.13 [WB] 불 不</option>
-        <option value='414'>TTMIK 4.14 항상, 맨날, 자주, 가끔, 별로, 거의, 전혀</option>
-        <option value='415'>TTMIK 4.15 아무 때나, 아무 말도, 아무렇지도 않다, 아무한테도, 아무렇게나, 아무런 -도 없다, 아무것도 아니다</option>
-        <option value='416'>TTMIK 4.16 띄어쓰기 #1</option>
-        <option value='417'>TTMIK 4.17 축약형 1</option>
-        <option value='418'>TTMIK 4.18 최상급, 최고</option>
-        <option value='419'>TTMIK 4.19 덜</option>
-        <option value='420'>TTMIK 4.20 [SBD] Sentence Building Drill #1</option>
-        <option value='421'>TTMIK 4.21 띄어쓰기 #2</option>
-        <option value='422'>TTMIK 4.22 [WB] 장 場</option>
-        <option value='423'>TTMIK 4.23 축약형 2</option>
-        <option value='424'>TTMIK 4.24 훨씬</option>
-        <option value='425'>TTMIK 4.25 -ㄹ 것, -ㄹ + 명사</option>
-        <option value='426'>TTMIK 4.26 -ㄴ 것, -ㄴ + 명사</option>
-        <option value='427'>TTMIK 4.27 것 같다</option>
-        <option value='428' selected='selected'>TTMIK 4.28 -(아/어/여)지다</option>
-        <option value='429'>TTMIK 4.29 -게 되다</option>
-        <option value='430'>TTMIK 4.30 [SBD] Sentence Building Drill #2</option>
-        <option value='9001'>1. Misc Sentences</option>
-        <option value='9002'>2. Talk</option>
-      </select>
-      <button id='flu-randomise' class='btn btn-green pull-right'><span class="glyphicon glyphicon-random" aria-hidden="true"></span></button>
-      <!-- - dropdown -->
-    </div>
-    <!-- - top bar -->
-    <!-- + main panel -->
-    <div class="container">
-      <div class="panel main-panel">
-        <div class="panel-body">
-          <h1>Keyword Fluency</h1>
-          <div class='flu-display-text'>
-            <br><br>
-            <div class="circle"></div>
-            <div class="circle1"></div>
-          </div>
-          <h2 id='arrow'><b>&rsaquo;</b></h2>
-          <div spellcheck="false" data-placeholder='Original' class='textarea-block textarea-lg textarea' contenteditable="true" id='flu-answer' ></div>
-          <button type='submit' class='btn btn-green btn-lg pull-right' id='flu-checking'>Check</button>
-          <button class='btn btn-lg pull-right' data-toggle='tooltip' data-placement='bottom' title="or skip with backtick `" id='flu-skip'>Skip</button>
-        </div>
-      </div>
-    </div>
-    <!-- - main panel -->
-    <!-- End Content -->
-
-    <!-- Start footer -->
-    <footer class='footer'>
-      <small>
-        practice sentences based around a specific keyword<br/>
-        sentences from <a href='https://tatoeba.org/' target='_blank' class='link-blue'>tatoeba</a>,         inspired by <a href='https://www.youtube.com/watch?v=tq_ad-CqBik/' target='_blank' class='link-blue'>this</a>
-      </small>
-    </footer>
-    <!-- End footer-->
-  </div>
-  <!-- - 3. FLUENCY -->
+  <!-- - app -->
 
   <!-- Semantic UI -->
   <script src="assets/js/semantic.min.js"></script>
