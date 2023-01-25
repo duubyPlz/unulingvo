@@ -176,13 +176,13 @@ svg.flag-img {
   text-align: center;
 }
 
-button.btn.thing {
+button.btn.lesson {
   width: 600px;
   height: 50px;
   font-size: 100%;
 }
 
-.thing.selected-thing {
+.lesson.selected-lesson {
   background: none;
   border-left: solid 2px rgba(200, 110, 0, 0.6);
   border-right: solid 2px rgba(200, 110, 0, 0.6);
@@ -191,8 +191,8 @@ button.btn.thing {
   box-shadow: none;
 }
 
-.thing.selected-thing:hover,
-.thing.selected-thing:focus {
+.lesson.selected-lesson:hover,
+.lesson.selected-lesson:focus {
   border-left: solid 2px rgba(255, 165, 0, 1);
   border-right: solid 2px rgba(255, 165, 0, 1);
   background-color: rgba(255, 165, 0, 0.2);
@@ -348,7 +348,7 @@ img.logo {
 .btn-check:focus + .btn, .btn:focus {
   box-shadow: 0 0 0 .25rem rgba(255, 255, 255, 0.4);
 }
-.btn-check:focus + .btn.thing, .btn.thing:focus {
+.btn-check:focus + .btn.lesson, .btn.lesson:focus {
   box-shadow: 0 0 0 .25rem rgba(200, 110, 0, 0.6);
 }
 
