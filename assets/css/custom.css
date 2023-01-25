@@ -23,16 +23,33 @@ body {
   background: rgba(255, 165, 0, 0.2);
 }
 
+.operation-btn-group {
+  display: flex;
+  flex-direction: row-reverse;
+  padding: 0.5em;
+  padding-top: 0;
+}
+.operation-btn {
+  margin: 0.5em;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Exo', sans-serif;
   font-weight: 300;
   /*text-shadow: 0px 0px 3px rgba(255, 255, 255, 0.7);*/
 }
 
+a {
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
 a.link-orange {
   color: #f18a41;
 }
-
 a.link-orange:hover,
 a.link-orange:focus {
   color: #d8793a;
@@ -43,14 +60,19 @@ a.link-white {
   color: rgba(255, 255, 255, 0.7);
 }
 
+a.link-blue {
+  text-decoration: none;
+  color: #428bca;
+}
 a.link-blue:hover,
 a.link-blue:focus {
   text-decoration: none;
+  color: #2a6496;
 }
 
 .main-panel {
   position: relative;
-  top: 120px;
+  top: 80px;
   text-align: center;
   width: 800px;
   margin-left: auto;
@@ -65,13 +87,14 @@ a.link-blue:focus {
 
 .top-panel {
   position: relative;
-  top: 120px;
+  top: 80px;
   width: 50%;
   height: 40px;
   line-height: 40px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 1.2em;
   border-radius: 0;
   border-left: solid 3px rgba(255, 255, 255, 0.2);
   border-right: solid 3px rgba(255, 255, 255, 0.2);
@@ -104,16 +127,12 @@ img.lesson-tag-img {
   width: 1em;
   opacity: 80%;
   position: relative;
-  top: -3px;
   left: 1px;
-  margin-right: 1px;
 }
 svg.flag-img {
-  height: 1.1em;
-  padding-top: 3px;
+  height: 1em;
   opacity: 80%;
   position: relative;
-  right: 1px;
 }
 
 .rich-menu {
@@ -309,7 +328,6 @@ button.btn-green:focus {
 
 button#skip,
 button#flu-skip {
-  margin-right: 10px;
   min-width: 80px;
 }
 
