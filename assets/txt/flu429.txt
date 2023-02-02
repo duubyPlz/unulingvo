@@ -25,7 +25,7 @@
     E: to eventually know
 
     O: 안 먹고 싶어요. 그런데 먹게 돼요.
-    E: I do not want to eat it. But I end up eating it.
+    E: I do not{s} want to eat it. But I end up eating it.
 
     O: 지난주에 영화를 봤어요.
     E: I saw a movie last week.
