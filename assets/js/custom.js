@@ -39,11 +39,13 @@ var fileHash = new Object();
 // Current file's top badge (short-form to full name) hash
 var badgeHash = new Object();
 
+showMenu(); // ! @cku DELETEME DEBUG
+
 // 1. Rich menu listeners
 $('.top-panel').on('click', function() {
     showMenu();
 });
-$('button#close-menu').on('click', function() {
+$('button#menu-back-btn').on('click', function() {
     hideMenu();
 });
 $('body').keydown(function(e) {
