@@ -39,6 +39,8 @@ var fileHash = new Object();
 // Current file's top badge (short-form to full name) hash
 var badgeHash = new Object();
 
+showMenu(); // TODO @cku DELETE DEBUG
+
 // 1. Rich menu listeners
 $('.top-panel').on('click', function() {
     showMenu();
@@ -61,7 +63,10 @@ $('.search-bar').on('click', function() {
     focusSearch();
 });
 $('.lesson').on('click', function(e) {
-    if (e.metaKey || e.ctrlKey) {
+    if (
+        (e.metaKey || e.ctrlKey) &&
+        $(this).parents('#lesson-children').length
+    ) {
         $(this).toggleClass('selected-lesson');
     } else {
         $('.lesson').each(function() {
@@ -82,4 +87,3 @@ $('#menu-save-btn').on('click', function() {
 
 // b) Parse
 parse(selectedLessons, 'KO');
-

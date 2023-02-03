@@ -102,9 +102,6 @@ a.link-blue:focus {
 }
 
 .lesson-tag {
-  position: absolute;
-  left: 0;
-  background-color: rgba(255, 255, 255, 0.025);
   padding: 0.3em;
   margin: 0.4em;
   background-color: rgba(0, 0, 0, 0.2);
@@ -112,16 +109,23 @@ a.link-blue:focus {
   line-height: 100%;
   text-align: center;
 }
-img.lesson-tag-img {
+img.lesson-tag-img{
   width: 1em;
   opacity: 80%;
-  position: relative;
-  left: 1px;
 }
 svg.flag-img {
   height: 1em;
   opacity: 80%;
   position: relative;
+}
+
+.top-panel .lesson-tag {
+  position: absolute;
+  left: 0;
+}
+.top-panel img.lesson-tag-img {
+  position: relative;
+  left: 1px;
 }
 
 /* start rich menu */
@@ -193,6 +197,10 @@ svg.flag-img {
   font-size: 75%;
 }
 
+.rich-menu .lesson-tag {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
 .rich-menu code {
   color: rgb(255, 165, 0);
   background-color: rgba(255, 165, 0, 0.2);
@@ -205,11 +213,20 @@ svg.flag-img {
 .rich-menu #rich-menu-contents {
   text-align: center;
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
+  flex-direction: row;
   padding-left: 10%;
   padding-right: 10%;
   padding-top: 1em;
   padding-bottom: 1em;
+}
+
+#rich-menu-contents #lesson-parents {
+  margin-right: 10px;
+}
+
+#rich-menu-contents #lesson-children {
+  width: 100%;
 }
 
 button.btn.lesson {
@@ -1085,6 +1102,202 @@ footer.footer {
     font-size: 180%;
   }
   
+  h1, h2 {
+    font-size: 150%;
+    font-weight: 300;
+  }
+
+  .main-panel {
+    background-color: rgba(255, 255, 255, 0.17);
+    top: 0;
+    width: 100%
+  }
+
+  .container {
+    width: 100%;
+  }
+
+  .acc-main-panel {
+    width: auto;
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 300px;
+    padding-top: 60px;
+  }
+
+  .panel.acc-keyword {
+    font-size: 30px;
+  }
+
+  .display-text,
+  .flu-display-text {
+    background-color: rgba(0, 0, 0, 0.5);
+    font-weight: 400;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-bottom: 0;
+    padding: 24px 30px;
+    height: 150px;
+    line-height: 120%;
+  }
+
+  .textarea#answer,
+  .textarea#flu-answer {
+    background-color: rgba(0, 0, 0, 0.5);
+    font-weight: 400;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-top: 0;
+    padding: 24px 30px;
+    height: 150px;
+  }
+
+  .textarea#answer:hover,
+  .textarea#answer:focus,
+  .textarea#flu-answer:hover,
+  .textarea#flu-answer:focus {
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+
+  .textarea#acc-answer {
+    font-size: 30px;
+    height: 60px;
+    padding: 10px 20px 10px 20px;
+    width: 700px;
+  }
+
+  .textarea#answer.correct,
+  .textarea#flu-answer.correct {
+    border-left: 5px solid rgba(0, 208, 0, 0.9);
+    border-right: 5px solid rgba(0, 208, 0, 0.9);
+    background-color: rgba(0, 40, 0, 0.5);
+  }
+
+  .textarea#answer.incorrect,
+  .textarea#flu-answer.incorrect {
+    border-left: 5px solid rgba(255, 0, 0, 0.9);
+    border-right: 5px solid rgba(255, 0, 0, 0.9);
+    background-color: rgba(40, 0, 0, 0.5);
+  }
+
+  .btn {
+    background: rgba(255, 255, 255, 0.09);
+  }
+
+  .btn:hover,
+  .btn:focus {
+    background: rgba(255, 255, 255, 0.13);
+  }
+
+  button.btn-green {
+    color: rgba(0, 208, 0, 0.9);
+  }
+
+  button#submit {
+    display: block;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    font-size: 100%;
+  }
+
+  button#randomise,
+  button#flu-randomise {
+    font-size: 15px;
+    height: 44px;
+    position: relative;
+    padding: 7px 15px 5px 15px;
+  }
+
+  .tooltip-inner {
+    display: none;
+  }
+
+  img.logo {
+    height: 70px;
+  }
+
+  select#contents-eo,
+  select#contents-ko,
+  select#contents-ja {
+    font-size: 90%;
+  }
+
+  div#top-bar,
+  div#flu-top-bar {
+    top: 0;
+    left: 75px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+  .ui.selection.dropdown {
+    background-color: rgba(255, 255, 255, 0.17);
+    width: 450px;
+    height: 44px;
+    font-size: 24px;
+    padding: 10px;
+  }
+
+  .ui.selection.dropdown:hover,
+  .ui.selection.dropdown:focus,
+  .ui.selection.dropdown:active,
+  .ui.selection.dropdown.active,
+  .ui.selection.dropdown.active:hover,
+  .ui.selection.dropdown.active:focus,
+  .ui.selection.dropdown.active:active {
+    background-color: rgba(255, 255, 255, 0.19);
+  }
+
+  .nav-pills {
+    margin-left: -110px;
+    font-size: 90%;
+  }
+
+  .nav-pills span.media {
+    display: inline;
+  }
+
+  .nav-pills span.full {
+    display: none;
+  }
+
+  #arrow {
+    position: relative;
+    top: 0;
+    left: 0;
+    display:inline-block;
+    transform: rotate(90deg);
+  }
+
+  footer.footer {
+    line-height: 20px;
+    top: 0;
+  }
+
+  footer.footer small {
+    font-size: 14px;
+  }
+
+  #acc-module footer.footer small {
+    position: relative;
+    top: 200px;
+  }
+
+  .strikethrough-diagonal:before {
+    border-top: 4px solid;
+  }
+}
+
+/* TODO @cku */
+@media (max-width: 600px) {
   h1, h2 {
     font-size: 150%;
     font-weight: 300;
