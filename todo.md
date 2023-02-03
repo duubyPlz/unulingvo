@@ -3,4 +3,5 @@
 - [x] custom.js parse
 - [ ] top-panel functionality
 - [ ] mobile styles
-- [ ] if mobile, tap tap to select one, tap to select multiple instead of `ctrl`/`cmd`
+- [ ] if mobile, tap tap to select one, tap to select multiple - instead of `ctrl`/`cmd`
+- [ ] search bar logic
