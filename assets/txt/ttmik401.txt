@@ -32,8 +32,9 @@
     O: 바쁠수록
     E: the busier you are, the more...
 
+    # The more delicious it is, the better it sells.
     O: 맛있을수록 잘 팔려요.
-    E: The more delicious it is, the better it sells.
+    E: The more delicious it is, the better it gets sold.
 
     O: 바쁠수록 건강이 중요해요.
     E: The busier you are, the more important your health is.
@@ -42,13 +43,14 @@
     E: The more people, the better.
     F: _The more_ people, _the better_.
 
-    # The busier you are, the more you need to sleep.
+    # You need to sleep{l} a lot, even more so when you are busy.
     # ..., especially
     O: 바쁠수록 잠을 많이 자야 돼요.
-    E: You need to sleep{l} a lot, even more so when you are busy.
+    E: The busier you are, the more you need to sleep{l}.
 
+    # You need to read a lot of books{l}, even more so if you are a student.
     O: 학생일수록 책을 많이 읽어야 돼요.
-    E: You need to read a lot of books{l}, even more so if you are a student.
+    E: The more of a student you are, the more books{l} you need to read.
 
     O: 바쁘면 바쁠수록
     E: the busier{em} you are, the more...

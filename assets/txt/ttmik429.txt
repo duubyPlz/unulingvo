@@ -25,7 +25,7 @@
     E: to eventually know
 
     O: 안 먹고 싶어요. 그런데 먹게 돼요.
-    E: I do not want to eat it. But I end up eating it.
+    E: I do not{s} want to eat it. But I end up eating it.
 
     O: 지난주에 영화를 봤어요.
     E: I saw a movie last week.
@@ -46,7 +46,7 @@
     
     # 예문 - examples
     O: 예문 보게 될 거예요.
-    E: You will eventually look at examples. 🤔
+    E: You will eventually look at examples{s}. 🤔
 
     O: 내일 알게 될 거예요.
     E: You will eventually find out tomorrow.
@@ -67,11 +67,11 @@
     O: 만나게 되면 말해 주세요.
     E: If you get to meet him, tell me.
 
-    O: TTMIK 어떻게 알게 됬어요?
+    O: TTMIK 어떻게 알게 됐어요?
     E: How did you get to know (about) TTMIK{s}? 🤔
 
     O: 연습하게 될 거예요.
     E: You will end up practicing. 🤔
 
     O: 다시 듣게 될 거예요.
-    E: You will eventually listen to us again. 🤔
+    E: You will eventually listen (to us) again. 🤔
