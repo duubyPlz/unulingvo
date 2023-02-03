@@ -1,9 +1,21 @@
-// Main
-// 0. Init
+// Globals
 // Global hash representation of current file
 var fileHash = new Object();
 // Current file's top badge (short-form to full name) hash
 var badgeHash = new Object();
+// Reference language names
+var languageToFilePrefix = {
+    "eo": "duo",
+    "ko": "kor",
+    "ja": "jpn",
+    "cn": "chn",
+    "gr": "gre",
+    "ttmik": "ttmik",
+    "flu": "flu",
+};
+
+// Main
+// 0. Init
 
 showMenu(); // TODO @cku DELETE DEBUG
 
@@ -32,10 +44,11 @@ function defineSelectedLessons() {
     selectedLessons = []
     $('.selected').each(function() {
         if ($(this).parent().hasClass('active')) {
-
-            var language = $(this).parent().attr('language');
-
-            selectedLessons.push(language + "." + $(this).attr('id'));
+            selectedLessons.push(
+                $(this).parent().attr('language') 
+                    + "." 
+                    + $(this).attr('id')
+            );
         }
     });
     console.log('SELECTED LESSONS');
@@ -45,6 +58,21 @@ function defineSelectedLessons() {
 function parse(selectedLessons) {
     console.log('PARSE');
     console.log(selectedLessons);
+    fileHash = new Object();
+    badgeHash = new Object();
+
+    selectedLessons.forEach(lesson => {
+        var [ language, module ] = lesson.split('.');
+        var fileName = 'lernu1.txt'; // random default file
+        if (languageToFilePrefix && languageToFilePrefix[language]) {
+            fileName = 'assets/txt/' + languageToFilePrefix[language] + module + '.txt';
+            console.log('FILE TO PARSE');
+            console.log(fileName);
+        } else {
+            console.warn("Language isn't valid: " + language);
+        }
+
+    });
 }
 
 // 1. Rich menu listeners
