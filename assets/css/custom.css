@@ -96,7 +96,7 @@ a.link-blue:focus {
 
 .top-panel::after {
   position: absolute;
-  content: url('/assets/img/search.svg');
+  content: url('assets/img/search.svg');
   right: 10px;
   bottom: -2px;
 }
@@ -191,7 +191,7 @@ svg.flag-img {
 
 .rich-menu .search-bar-wrapper::after {
   position: absolute;
-  content: url('/assets/img/search.svg');
+  content: url('assets/img/search.svg');
   right: 15px;
   bottom: -1px;
 }
