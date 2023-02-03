@@ -1,6 +1,7 @@
 - [x] rich menu tabs 
 - [x] index.html all lessons port
 - [x] custom.js parse
+- [ ] badge hash doesn't work
 - [ ] top-panel functionality
 - [ ] mobile styles
 - [ ] if mobile, tap tap to select one, tap to select multiple - instead of `ctrl`/`cmd`
