@@ -1,3 +1,6 @@
 - [x] rich menu tabs 
-- [ ] index.html all lessons port
-- [ ] custom.js parse
+- [x] index.html all lessons port
+- [x] custom.js parse
+- [ ] top-panel functionality
+- [ ] mobile styles
+- [ ] if mobile, tap tap to select one, tap to select multiple instead of `ctrl`/`cmd`
