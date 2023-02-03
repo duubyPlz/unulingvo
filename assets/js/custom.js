@@ -568,7 +568,7 @@ $('.lesson-parent').on('click', function(e) {
     $(this).addClass('selected');
 
     // Select class
-    var lessonWanted = $(this).val();
+    var lessonWanted = $(this).attr('language');
     $('.lesson-children').each(function() {
         $(this).removeClass('active');
     });
