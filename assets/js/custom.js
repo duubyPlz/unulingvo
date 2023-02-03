@@ -39,8 +39,6 @@ var fileHash = new Object();
 // Current file's top badge (short-form to full name) hash
 var badgeHash = new Object();
 
-showMenu(); // ! @cku DELETEME DEBUG
-
 // 1. Rich menu listeners
 $('.top-panel').on('click', function() {
     showMenu();
@@ -78,7 +76,7 @@ $('.lesson').on('click', function(e) {
 var selectedLessons = [];
 defineSelectedLessons();
 // On menu save, update selectedLessons
-$('#save-menu').on('click', function() {
+$('#menu-save-btn').on('click', function() {
     saveMenu();
 });
 

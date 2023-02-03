@@ -141,7 +141,7 @@ svg.flag-img {
   margin-right: 10%;
   margin-top: 1em;
   margin-bottom: 1em;
-  padding: 30px;
+  line-height: 60px;
   justify-content: flex-end;
 }
 
@@ -180,7 +180,7 @@ svg.flag-img {
 .rich-menu .search-bar-wrapper::after {
   position: absolute;
   content: url('/assets/img/search.svg');
-  right: 10px;
+  right: 15px;
   bottom: -1px;
 }
 
@@ -210,7 +210,6 @@ svg.flag-img {
   padding-right: 10%;
   padding-top: 1em;
   padding-bottom: 1em;
-  overflow: scroll;
 }
 
 button.btn.lesson {
@@ -250,6 +249,7 @@ button.btn.lesson {
   height: 100px;
   width: 300px;
   margin: 30px;
+  margin-top: 70px;
   margin-bottom: 10px;
   vertical-align: top;
 }
@@ -261,12 +261,11 @@ button.btn.lesson {
 
 .textarea#answer,
 .textarea#flu-answer {
-  /*font-weight: 300;*/
   font-weight: 400;
   text-align: left;
   display: inline-block;
-  /*letter-spacing: 0.8px;*/
   margin: 30px;
+  margin-top: 70px;
   margin-bottom: 10px;
   overflow: hidden;
   word-wrap: break-word;
@@ -698,8 +697,8 @@ select#flu {
   color: orange;
   vertical-align: center;
   position: absolute;
-  top: 58px;
-  left: 391px;
+  top: 98px;
+  left: 390px;
 }
 
 div.popup {
