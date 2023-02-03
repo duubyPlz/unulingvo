@@ -65,7 +65,7 @@ $('.search-bar').on('click', function() {
 $('.lesson').on('click', function(e) {
     if (
         (e.metaKey || e.ctrlKey) &&
-        $(this).parents('#lesson-children').length
+        $(this).parents('.lesson-children').length
     ) {
         $(this).toggleClass('selected-lesson');
     } else {

@@ -34,41 +34,115 @@
     </span>
     <div id="rich-menu-hint"><code>ctrl</code>/<code>cmd</code> + click to select multiple</div>
     <div id="rich-menu-contents">
-      <div id="lesson-parents">
+      <div class="lesson-parents">
         <div class="btn-group-vertical" role="group" aria-label="Basic outlined example">
-          <button class="lesson btn">KOR</button>
-          <button class="lesson btn">FLU</button>
-          <button class="lesson btn">DUO</button>
+          <!-- One flag is 66 height -->
+          <!-- EO -->
+          <button class="lesson btn">
+            <span class="lesson-tag">
+              <img class="lesson-tag-img" src='assets/img/duo.ico' />
+              <svg class='flag-img' viewBox="0 1518 82 66"><image href="/assets/img/flags.svg"></image></svg>
+            </span>
+          </button>
+          <!-- KO -->
+          <button class="lesson btn">
+            <span class="lesson-tag">
+              <img class="lesson-tag-img" src='assets/img/duo.ico' />
+              <svg class='flag-img' viewBox="0 396 82 66"><image href="/assets/img/flags.svg"></image></svg>
+            </span>
+          </button>
+          <!-- JA -->
+          <button class="lesson btn">
+            <span class="lesson-tag">
+              <img class="lesson-tag-img" src='assets/img/duo.ico' />
+              <svg class='flag-img' viewBox="0 264 82 66"><image href="/assets/img/flags.svg"></image></svg>
+            </span>
+          </button>
+          <!-- CN -->
+          <button class="lesson btn">
+            <span class="lesson-tag">
+              <img class="lesson-tag-img" src='assets/img/duo.ico' />
+              <svg class='flag-img' viewBox="0 2640 82 66"><image href="/assets/img/flags.svg"></image></svg>
+            </span>
+          </button>
+          <!-- TTMIK -->
+          <button class="lesson btn">
+            <span class="lesson-tag">
+              <img class="lesson-tag-img" src='assets/img/ttmik.png' />
+              <svg class='flag-img' viewBox="0 396 82 66"><image href="/assets/img/flags.svg"></image></svg>
+            </span>
+          </button>
+          <!-- FLU KOR -->
+          <button class="lesson btn">
+            <span class="lesson-tag">
+              🗣
+              <svg class='flag-img' viewBox="0 396 82 66"><image href="/assets/img/flags.svg"></image></svg>
+            </span>
+          </button>
+          <!-- FLU EO -->
+          <button class="lesson btn">
+            <span class="lesson-tag">
+              🗣
+              <svg class='flag-img' viewBox="0 1518 82 66"><image href="/assets/img/flags.svg"></image></svg>
+            </span>
+          </button>
         </div>
       </div>
-      <div class="btn-group-vertical" id="lesson-children" role="group" aria-label="Basic outlined example">
-        <button id="427" class="lesson btn">TTMIK 4.27 것 같다</button>
-        <button id="428" class="lesson btn">TTMIK 4.28 -(아/어/여)지다</button>
-        <button id="429" class="lesson btn selected-lesson">TTMIK 4.29 -게 되다</button>
-        <button id="427" class="lesson btn">TTMIK 4.27 것 같다</button>
-        <button id="428" class="lesson btn">TTMIK 4.28 -(아/어/여)지다</button>
-        <button id="429" class="lesson btn selected-lesson">TTMIK 4.29 -게 되다</button>
-        <button id="427" class="lesson btn">TTMIK 4.27 것 같다</button>
-        <button id="428" class="lesson btn">TTMIK 4.28 -(아/어/여)지다</button>
-        <button id="429" class="lesson btn selected-lesson">TTMIK 4.29 -게 되다</button>
-        <button id="427" class="lesson btn">TTMIK 4.27 것 같다</button>
-        <button id="428" class="lesson btn">TTMIK 4.28 -(아/어/여)지다</button>
-        <button id="429" class="lesson btn selected-lesson">TTMIK 4.29 -게 되다</button>
-        <button id="427" class="lesson btn">TTMIK 4.27 것 같다</button>
-        <button id="428" class="lesson btn">TTMIK 4.28 -(아/어/여)지다</button>
-        <button id="429" class="lesson btn selected-lesson">TTMIK 4.29 -게 되다</button>
-        <button id="427" class="lesson btn">TTMIK 4.27 것 같다</button>
-        <button id="428" class="lesson btn">TTMIK 4.28 -(아/어/여)지다</button>
-        <button id="429" class="lesson btn selected-lesson">TTMIK 4.29 -게 되다</button>
-        <button id="427" class="lesson btn">TTMIK 4.27 것 같다</button>
-        <button id="428" class="lesson btn">TTMIK 4.28 -(아/어/여)지다</button>
-        <button id="429" class="lesson btn selected-lesson">TTMIK 4.29 -게 되다</button>
-        <button id="427" class="lesson btn">TTMIK 4.27 것 같다</button>
-        <button id="428" class="lesson btn">TTMIK 4.28 -(아/어/여)지다</button>
-        <button id="429" class="lesson btn selected-lesson">TTMIK 4.29 -게 되다</button>
-        <button id="427" class="lesson btn">TTMIK 4.27 것 같다</button>
-        <button id="428" class="lesson btn">TTMIK 4.28 -(아/어/여)지다</button>
-        <button id="429" class="lesson btn selected-lesson">TTMIK 4.29 -게 되다</button>
+      <!-- <button id="429" class="lesson btn selected-lesson">TTMIK 4.29 -게 되다</button> -->
+      <div id="lesson-child-duo-eo" class="btn-group-vertical lesson-children" role="group" style="display: none">
+        <button class="lesson btn" id="1">1. Basics One</button>
+        <button class="lesson btn" id="2">2. Basics Two</button>
+        <button class="lesson btn" id="3">3. Phrases</button>
+        <button class="lesson btn" id="4">4. Accusative</button>
+        <button class="lesson btn" id="5">5. Languages</button>
+        <button class="lesson btn" id="6">6. Colors</button>
+        <button class="lesson btn" id="7">7. Plurals</button>
+        <button class="lesson btn" id="8">8. Da/De</button>
+        <button class="lesson btn" id="9">9. Animals</button>
+        <button class="lesson btn" id="10">10. Possessives</button>
+        <button class="lesson btn" id="11">11. Countries</button>
+        <button class="lesson btn" id="12">12. Food</button>
+        <button class="lesson btn" id="13">13. Clothing</button>
+        <button class="lesson btn" id="14">14. Infinitive</button>
+        <button class="lesson btn" id="15">15. Questions</button>
+        <button class="lesson btn" id="16">16. Verbs Present</button>
+        <button class="lesson btn" id="17">17. Family</button>
+        <button class="lesson btn" id="18">18. Objects</button>
+        <button class="lesson btn" id="19">19. Prepositions</button>
+        <button class="lesson btn" id="20">20. Past &amp; Future</button>
+        <button class="lesson btn" id="21">21. Numbers</button>
+        <button class="lesson btn" id="22">22. Dates &amp; Time</button>
+        <button class="lesson btn" id="23">23. Occupations</button>
+        <button class="lesson btn" id="24">24. Imperative</button>
+        <button class="lesson btn" id="25">25. Affixes I</button>
+        <button class="lesson btn" id="26">26. Adjectives</button>
+        <button class="lesson btn" id="27">27. Home</button>
+        <button class="lesson btn" id="28">28. Verbs Conditional</button>
+        <button class="lesson btn" id="29">29. Adverbs</button>
+        <button class="lesson btn selected-lesson" id="30">30. Feelings</button>
+      </div>
+      <div id="lesson-child-duo-ko" class="btn-group-vertical lesson-children" role="group" style="display: none">
+        <button id="429" class="lesson btn selected-lesson">DUO KO</button>
+      </div>
+      <div id="lesson-child-duo-jp" class="btn-group-vertical lesson-children" role="group" style="display: none">
+        <button id="429" class="lesson btn selected-lesson">DUO JP</button>
+      </div>
+      <div id="lesson-child-duo-cn" class="btn-group-vertical lesson-children" role="group" style="display: none">
+        <button id="429" class="lesson btn selected-lesson">DUO CN</button>
+      </div>
+      <div id="lesson-child-ttmik-ko" class="btn-group-vertical lesson-children" role="group" style="display: none">
+        <button id="429" class="lesson btn selected-lesson">TTMIK</button>
+      </div>
+      <div id="lesson-child-flu-ko" class="btn-group-vertical lesson-children" role="group">
+        <button id="429" class="lesson btn">FLU KO</button>
+        <button id="429" class="lesson btn">FLU KO</button>
+        <button id="429" class="lesson btn">FLU KO</button>
+        <button id="429" class="lesson btn">FLU KO</button>
+        <button id="429" class="lesson btn">FLU KO</button>
+        <button id="429" class="lesson btn selected-lesson">FLU KO</button>
+      </div>
+      <div id="lesson-child-flu-eo" class="btn-group-vertical lesson-children" role="group" style="display: none">
+        <button id="429" class="lesson btn selected-lesson">FLU EO</button>
       </div>
     </div>
     <button class="btn btn-green" id="menu-save-btn">save</button>
@@ -82,7 +156,7 @@
       <div class="panel top-panel">
         <span class="lesson-tag">
           <img class="lesson-tag-img" src='assets/img/duo.ico' />
-          <svg class='flag-img' viewBox="0 1518 82 66" data-test="flag-eo" class="EZsOD"><image height="3168" href="/assets/img/flags.svg" ></image></svg>
+          <svg class='flag-img' viewBox="0 1518 82 66"><image href="/assets/img/flags.svg" ></image></svg>
         </span>
         TTMIK 4.29 -게 되다
       </div>

@@ -102,8 +102,6 @@ a.link-blue:focus {
 }
 
 .lesson-tag {
-  padding: 0.3em;
-  margin: 0.4em;
   background-color: rgba(0, 0, 0, 0.2);
   color: rgba(255, 255, 255, 0.7);
   line-height: 100%;
@@ -117,6 +115,16 @@ svg.flag-img {
   height: 1em;
   opacity: 80%;
   position: relative;
+}
+
+.top-panel .lesson-tag {
+  padding: 0.3em;
+  margin: 0.4em;
+}
+
+.lesson-parents .lesson-tag {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 0.2em;
 }
 
 .top-panel .lesson-tag {
@@ -197,10 +205,6 @@ svg.flag-img {
   font-size: 75%;
 }
 
-.rich-menu .lesson-tag {
-  background-color: rgba(255, 255, 255, 0.1);
-}
-
 .rich-menu code {
   color: rgb(255, 165, 0);
   background-color: rgba(255, 165, 0, 0.2);
@@ -221,12 +225,20 @@ svg.flag-img {
   padding-bottom: 1em;
 }
 
-#rich-menu-contents #lesson-parents {
+#rich-menu-contents .lesson-parents {
   margin-right: 10px;
 }
 
-#rich-menu-contents #lesson-children {
+#rich-menu-contents .lesson-children {
   width: 100%;
+}
+
+.rich-menu button {
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+.rich-menu button:hover {
+  background-color: rgba(255, 255, 255, 0.15);
 }
 
 button.btn.lesson {
