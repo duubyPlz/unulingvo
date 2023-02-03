@@ -63,10 +63,7 @@ $('.search-bar').on('click', function() {
     focusSearch();
 });
 $('.lesson').on('click', function(e) {
-    if (
-        (e.metaKey || e.ctrlKey) &&
-        $(this).parents('.lesson-children').length
-    ) {
+    if (e.metaKey || e.ctrlKey) {
         $(this).toggleClass('selected-lesson');
     } else {
         $('.lesson').each(function() {
@@ -74,7 +71,23 @@ $('.lesson').on('click', function(e) {
         });
         $(this).addClass('selected-lesson');
     }
-})
+});
+$('.lesson-parent').on('click', function(e) {
+    // Button highlight
+    $('.lesson-parent').each(function() {
+        $(this).removeClass('selected-lesson');
+    });
+    $(this).addClass('selected-lesson');
+
+    // Select class
+    var lessonWanted = $(this).val();
+    $('.lesson-children').each(function() {
+        $(this).hide();
+    });
+    $('#lesson-child-' + lessonWanted).show();
+    console.log('SHOWING LESSON');
+    console.log($('#lesson-child-' + lessonWanted));
+});
 
 // 2. Parse & display text of selected file(s)
 // a) Establish selected files/lessons

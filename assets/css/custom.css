@@ -241,12 +241,14 @@ svg.flag-img {
   background-color: rgba(255, 255, 255, 0.15);
 }
 
-button.btn.lesson {
+button.btn.lesson,
+button.btn.lesson-parent {
   height: 50px;
   font-size: 100%;
 }
 
-.lesson.selected-lesson {
+.lesson.selected-lesson,
+.lesson-parent.selected-lesson {
   background: none;
   border-left: solid 2px rgba(200, 110, 0, 0.6);
   border-right: solid 2px rgba(200, 110, 0, 0.6);
@@ -256,7 +258,9 @@ button.btn.lesson {
 }
 
 .lesson.selected-lesson:hover,
-.lesson.selected-lesson:focus {
+.lesson.selected-lesson:focus,
+.lesson-parent.selected-lesson:hover,
+.lesson-parent.selected-lesson:focus {
   border-left: solid 2px rgba(255, 165, 0, 1);
   border-right: solid 2px rgba(255, 165, 0, 1);
   background-color: rgba(255, 165, 0, 0.2);
