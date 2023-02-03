@@ -60,6 +60,15 @@ function reparse(selectedLessons) {
         display();
     }, 1000);
 }
+function populateTopPanel() {
+//     <div class="panel top-panel">
+//     <span class="lesson-tag">
+//       <img class="lesson-tag-img" src='assets/img/duo.ico' />
+//       <svg class='flag-img' viewBox="0 1518 82 66"><image href="/assets/img/flags.svg" ></image></svg>
+//     </span>
+//     TTMIK 4.29 -게 되다
+//   </div>
+}
 
 function saveMenu() {
     var selectedLessons = defineSelectedLessons();
@@ -77,13 +86,10 @@ function defineSelectedLessons() {
             );
         }
     });
-    console.log('SELECTED LESSONS');
-    console.log(selectedLessons);
+
     return selectedLessons;
 }
 function parse(selectedLessons) {
-    console.log('PARSE');
-    console.log(selectedLessons);
     fileHash = new Object();
     badgeHash = new Object();
 
@@ -115,13 +121,9 @@ function parse(selectedLessons) {
     selectedLessons.forEach(lesson => {
         var [ currentLanguage, module ] = lesson.split('.');
         language = currentLanguage.split('-')[1];
-        console.log('GLOBAL LANGEU SET TO');
-        console.log(language);
         var fileName = 'lernu1.txt'; // random default file
         if (languageToFilePrefix && languageToFilePrefix[language]) {
             fileName = 'assets/txt/' + languageToFilePrefix[language] + module + '.txt';
-            console.log('FILE TO PARSE');
-            console.log(fileName);
         } else {
             console.warn("Language isn't valid: " + language);
         }
@@ -134,8 +136,8 @@ function parse(selectedLessons) {
                 // Break result into line by line
                 var lines = data.split("\n");
                 
-                console.log(lines);
-                console.log(lines.length);
+                // console.log(lines);
+                // console.log(lines.length);
                 
                 const originalTag = "O:"
                 const englishTag = "E:"
@@ -184,9 +186,8 @@ function parse(selectedLessons) {
                     addToFileHash(fileHash, currentEntry);
                     currentEntry = generateEmptyEntry();
                 }
-                console.log('END FILE');
-                console.log(fileHash);
-                console.log( Object.keys(fileHash).length);
+                // console.log(fileHash);
+                // console.log( Object.keys(fileHash).length);
             }, 'text');
         } catch (e) {
             console.warn(e);
@@ -586,10 +587,27 @@ $('.textarea#answer').keydown(function (e) {
         }
     }
 });
+$('button#skip').on('click', function() {
+    // clear input field & makes it normal again
+    $('.textarea#answer').html('');
+    $('.textarea#answer').removeClass('correct');
+    $('.textarea#answer').removeClass('incorrect');
+
+    // then display next text
+    display();
+});
+$('.textarea#answer').keydown(function (e) {
+    if (e.keyCode == 192)  {
+        e.preventDefault();
+        $('.textarea#answer').html('');
+        $('.textarea#answer').removeClass('correct');
+        $('.textarea#answer').removeClass('incorrect');
+        display();
+    }
+});
 
 // Main:
 // 1. Init
-showMenu(); // TODO @cku DELETE DEBUG
 
 // 2. Parse & display text of selected file(s)
 // a) Establish selected files/lessons
