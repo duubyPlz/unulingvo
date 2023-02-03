@@ -1,3 +1,11 @@
+// Main
+// 0. Init
+// Global hash representation of current file
+var fileHash = new Object();
+// Current file's top badge (short-form to full name) hash
+var badgeHash = new Object();
+
+showMenu(); // TODO @cku DELETE DEBUG
 
 // Functions
 function focusSearch() {
@@ -16,30 +24,28 @@ function hideMenu() {
     $('.logo').show();
 }
 function saveMenu() {
-    defineSelectedLessons();
+    var selectedLessons = defineSelectedLessons();
+    parse(selectedLessons);
     hideMenu();
 }
 function defineSelectedLessons() {
     selectedLessons = []
-    $('.selected-lesson').each(function() {
-        selectedLessons.push($(this).attr('id'));
+    $('.selected').each(function() {
+        if ($(this).parent().hasClass('active')) {
+
+            var language = $(this).parent().attr('language');
+
+            selectedLessons.push(language + "." + $(this).attr('id'));
+        }
     });
     console.log('SELECTED LESSONS');
     console.log(selectedLessons);
+    return selectedLessons;
 }
-function parse(selectedLessons, language) {
+function parse(selectedLessons) {
     console.log('PARSE');
     console.log(selectedLessons);
-    console.log(language);
 }
-
-// 0. Init
-// Global hash representation of current file
-var fileHash = new Object();
-// Current file's top badge (short-form to full name) hash
-var badgeHash = new Object();
-
-showMenu(); // TODO @cku DELETE DEBUG
 
 // 1. Rich menu listeners
 $('.top-panel').on('click', function() {
@@ -64,39 +70,36 @@ $('.search-bar').on('click', function() {
 });
 $('.lesson').on('click', function(e) {
     if (e.metaKey || e.ctrlKey) {
-        $(this).toggleClass('selected-lesson');
+        $(this).toggleClass('selected');
     } else {
         $('.lesson').each(function() {
-            $(this).removeClass('selected-lesson');
+            $(this).removeClass('selected');
         });
-        $(this).addClass('selected-lesson');
+        $(this).addClass('selected');
     }
 });
 $('.lesson-parent').on('click', function(e) {
     // Button highlight
     $('.lesson-parent').each(function() {
-        $(this).removeClass('selected-lesson');
+        $(this).removeClass('selected');
     });
-    $(this).addClass('selected-lesson');
+    $(this).addClass('selected');
 
     // Select class
     var lessonWanted = $(this).val();
     $('.lesson-children').each(function() {
-        $(this).hide();
+        $(this).removeClass('active');
     });
-    $('#lesson-child-' + lessonWanted).show();
-    console.log('SHOWING LESSON');
-    console.log($('#lesson-child-' + lessonWanted));
+    $('div[language=' + lessonWanted + ']').addClass('active');
 });
 
 // 2. Parse & display text of selected file(s)
 // a) Establish selected files/lessons
-var selectedLessons = [];
-defineSelectedLessons();
+var selectedLessons = defineSelectedLessons();
 // On menu save, update selectedLessons
 $('#menu-save-btn').on('click', function() {
     saveMenu();
 });
 
 // b) Parse
-parse(selectedLessons, 'KO');
+parse(selectedLessons);

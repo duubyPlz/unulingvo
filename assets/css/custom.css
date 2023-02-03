@@ -231,6 +231,10 @@ svg.flag-img {
 
 #rich-menu-contents .lesson-children {
   width: 100%;
+  display: none;
+}
+#rich-menu-contents .lesson-children.active {
+  display: block;
 }
 
 .rich-menu button {
