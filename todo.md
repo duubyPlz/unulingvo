@@ -3,6 +3,7 @@
 - [x] custom.js parse
 - [x] badge hash doesn't work
 - [ ] mobile styles
+- [ ] fix flu files
 - [ ] top-panel functionality
 - [ ] if mobile, tap tap to select one, tap to select multiple - instead of `ctrl`/`cmd`
 - [ ] search bar logic

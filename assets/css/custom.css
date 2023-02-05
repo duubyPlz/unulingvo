@@ -61,7 +61,7 @@ a.link-blue:focus {
 
 .main-panel {
   position: relative;
-  top: 80px;
+  top: 50px;
   text-align: center;
   width: 800px;
   margin-left: auto;
@@ -76,7 +76,7 @@ a.link-blue:focus {
 
 .top-panel {
   position: relative;
-  top: 80px;
+  top: 50px;
   width: 400px;
   height: 40px;
   line-height: 40px;
@@ -98,7 +98,9 @@ a.link-blue:focus {
   position: absolute;
   content: url('../img/search.svg');
   right: 10px;
-  bottom: -2px;
+  top: 0.1em;
+  width: 15px;
+  height: 15px;
 }
 
 .lesson-tag {
@@ -546,8 +548,7 @@ footer.footer {
   font-weight: 300;
   font-size: 75%;
   position: relative;
-  top: 240px;
-  bottom: 100px;
+  top: 100px;
 }
 
 /*== START LOADER ==*/
@@ -663,12 +664,12 @@ footer.footer {
   }
   .top-panel .lesson-tag {
     margin: revert;
-    margin-left: 20px;
+    margin-left: 15px;
   }
   .top-panel::after {
     width: 1em;
     height: 1em;
-    bottom: revert;
+    top: 0.6em;
   }
 
   .panel-body {
@@ -775,8 +776,16 @@ footer.footer {
     display: none;
   }
 
+  .logo-container {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+  }
+
   img.logo {
     height: 100px;
+    padding: revert;
   }
 
   #arrow {
@@ -790,7 +799,7 @@ footer.footer {
 
   footer.footer {
     line-height: 25px;
-    top: 0;
+    top: 1em;
   }
 
   footer.footer small {
@@ -948,6 +957,174 @@ footer.footer {
 /* TODO @cku */
 @media (max-width: 600px) {
   body {
-    font-size: 150%;
+    font-size: 120%;
+  }
+  
+  h1, h2 {
+    font-size: 130%;
+    font-weight: 300;
+  }
+
+  .main-panel {
+    top: 0;
+    width: 100%;
+  }
+
+  .container {
+    width: 100vw;
+    max-width: 100vw;
+  }
+
+  .top-panel {
+    top: revert;
+    width: 100%;
+    height: revert;
+    line-height: normal;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-left: solid 5px rgba(255, 255, 255, 0.2);
+    border-right: solid 5px rgba(255, 255, 255, 0.2);
+    margin-bottom: 0.5em;
+  }
+  .top-panel .lesson-tag {
+    margin: revert;
+    margin-left: 15px;
+  }
+  .top-panel::after {
+    width: 1em;
+    height: 1em;
+    top: 0.75em;
+  }
+
+  .panel-body {
+    padding-top: 1em;
+  }
+
+  .display-text {
+    background-color: rgba(0, 0, 0, 0.5);
+    font-weight: 400;
+    font-size: 80%;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 100%;
+    line-height: 120%;
+    border-radius: 0;
+  }
+ 
+  .textarea#answer {
+    background-color: rgba(0, 0, 0, 0.5);
+    font-weight: 400;
+    font-size: 80%;
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 100%;
+    border-radius: 0;
+  }
+
+  .textarea#answer:hover,
+  .textarea#answer:focus,
+  .textarea#flu-answer:hover,
+  .textarea#flu-answer:focus {
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+
+  .textarea#answer.correct {
+    border-left: 5px solid rgba(0, 208, 0, 0.9);
+    border-right: 5px solid rgba(0, 208, 0, 0.9);
+    background-color: rgba(0, 40, 0, 0.5);
+  }
+
+  .textarea#answer.incorrect {
+    border-left: 5px solid rgba(255, 0, 0, 0.9);
+    border-right: 5px solid rgba(255, 0, 0, 0.9);
+    background-color: rgba(40, 0, 0, 0.5);
+  }
+
+  .operation-btn-group {
+    padding: 10px;
+  }
+
+  button.operation-btn {
+    margin: 0px;
+  }
+
+  .btn {
+    background: rgba(255, 255, 255, 0.09);
+  }
+
+  .btn:hover,
+  .btn:active,
+  .btn:focus {
+    background: rgba(255, 255, 255, 0.13);
+  }
+
+  button.btn-green {
+    color: rgba(0, 208, 0, 0.9);
+  }
+
+  button#skip {
+    margin-right: 5px;
+  }
+
+  button#submit {
+    display: block;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    font-size: 100%;
+  }
+
+  button#randomise {
+    font-size: 20px;
+    height: 60px;
+    position: relative;
+    padding: 5px 20px 5px 20px;
+
+  }
+
+  .tooltip-inner {
+    display: none;
+  }
+
+  .logo-container {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+  }
+
+  img.logo {
+    height: 60px;
+    padding: revert;
+  }
+
+  #arrow {
+    position: relative;
+    top: 0;
+    left: 0;
+    display:inline-block;
+    transform: rotate(90deg);
+    margin: 0;
+  }
+
+  footer.footer {
+    top: 1em;
+    line-height: 90%;
+  }
+
+  footer.footer small {
+    font-size: 0.7rem;
+  }
+
+  .strikethrough-diagonal:before {
+    border-top: 5px solid;
   }
 }
