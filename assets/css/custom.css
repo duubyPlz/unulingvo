@@ -822,6 +822,36 @@ footer.footer {
   .strikethrough-diagonal:before {
     border-top: 5px solid;
   }
+
+  .rich-menu {
+    font-size: 80%;
+  }
+
+  .rich-menu #rich-menu-contents {
+    padding: 0 20px;
+  }
+
+  .rich-menu .search-bar-wrapper {
+    padding: 0 20px;
+    width: 100%;
+  }
+
+  .lesson-parents {
+    width: 200px;
+  }
+
+  button.btn.lesson, button.btn.lesson-parent {
+    font-size: 100%;
+    overflow: hidden;
+  }
+
+  button.btn.lesson {
+    height: 1.8em;
+  }
+
+  button.btn.lesson-parent {
+    height: 2em;
+  }
 }
 
 @media screen and (max-device-width: 768px)
