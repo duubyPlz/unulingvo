@@ -834,6 +834,35 @@ footer.footer {
   .rich-menu .search-bar-wrapper {
     padding: 0 20px;
     width: 100%;
+    margin-top: 100px;
+  }
+
+  .rich-menu .search-bar-wrapper input {
+    line-height: 120px;
+    height: 120px;
+    font-size: 120%;
+  }
+  .rich-menu .search-bar-wrapper::after {
+    width: 1.25em;
+    height: 1.25em;
+    right: 0.7em;
+    bottom: 0.75em;
+  }
+  .rich-menu #rich-menu-hint {
+    padding-bottom: 10px;
+  }
+  #menu-back-btn {
+    position: absolute;
+    left: 20px;
+    top: 10px;
+    height: revert;
+    padding: 30px 60px;
+  }
+
+  #menu-save-btn {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin: 20px;
   }
 
   .lesson-parents {
@@ -843,6 +872,7 @@ footer.footer {
   button.btn.lesson, button.btn.lesson-parent {
     font-size: 100%;
     overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   button.btn.lesson {
@@ -850,7 +880,7 @@ footer.footer {
   }
 
   button.btn.lesson-parent {
-    height: 2em;
+    height: 2.1em;
   }
 }
 
