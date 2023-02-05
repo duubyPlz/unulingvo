@@ -13,7 +13,7 @@ var languageToFilePrefix = {
     "ttmik": "ttmik",
     "flu": "flu",
 };
-var language = "eo";
+var languageKey = "duo-en";
 
 // Functions:
 function focusSearch() {
@@ -120,7 +120,8 @@ function parse(selectedLessons) {
 
     selectedLessons.forEach(lesson => {
         var [ currentLanguage, module ] = lesson.split('.');
-        var [ prefix, language ] = currentLanguage.split('-');
+        languageKey = currentLanguage;
+        var [ prefix, _ ] = currentLanguage.split('-');
         var fileName = 'assets/txt/' + prefix + module + '.txt';
         try {
             $.get(fileName, function(data) {
@@ -334,7 +335,7 @@ function generateFancyTagsInHtml(formattedHtml) {
     return fancyTagsHtml;
 }
 
-function logic(language) {
+function logic() {
     function makeWhitelistRegex(string) {
         return new RegExp("[^" + string + "]", "g");
     }
@@ -350,7 +351,7 @@ function logic(language) {
             return "<span style='font-weight:600'>" + string + "</span>";
         }
         
-        function styleDelete(string) {
+        function styleDelete(string, language) {
             // -1: strikethrough
             var formatted = "";
             if (language === 'ko' || language === 'ja' || language === 'cn') { // CJK
@@ -361,6 +362,8 @@ function logic(language) {
             return formatted;
         }
         
+        var [ _, language ] = languageKey.split('-');
+
         // TODO @kuc case insensitiveness!
         if (userAnswer == "") {
             return correct;
@@ -382,7 +385,7 @@ function logic(language) {
                     formatted += styleInsert(value);
                     break;
                 case diff.DELETE:
-                    formatted += styleDelete(value);
+                    formatted += styleDelete(value, language);
                     break;
                 case diff.EQUAL:
                     formatted += value;
@@ -433,6 +436,7 @@ function logic(language) {
     var grBlacklistRegex = makeBlacklistRegex(grBlacklistString);
 
     var sanitisedInput = ""; // Need to use this in another 'if' statement
+    var [ prefix, language ] = languageKey.split('-');
     if (language === 'eo') {    
         sanitisedInput = inputString.replace(eoWhitelistRegex, "");
         var simplifiedString = sanitisedInput.replace(eoBlacklistRegex, "").toLowerCase().trim();
@@ -444,7 +448,7 @@ function logic(language) {
             correct = true;
         }
     }
-    else if ((language === 'flu') || (language === "ttmik")) { // [TODO] refactor
+    else if ((prefix === 'flu') || (prefix === "ttmik")) { // [TODO] refactor
         var eoAndCjkWhitelistString = eoWhitelistString + cjkWhitelistString;
         var eoAndCjkWhitelistRegex = makeWhitelistRegex(eoAndCjkWhitelistString);
         sanitisedInput = inputString.replace(eoAndCjkWhitelistRegex, "");
@@ -574,14 +578,14 @@ $('.lesson-parent').on('click', function(e) {
 });
 $('button#checking').on('click', function() {
     if (!$('.textarea#answer').hasClass('incorrect') && !$('.textarea#answer').hasClass('correct')) {
-        logic(language);
+        logic();
     }
 });
 $('.textarea#answer').keydown(function (e) {
     if (e.keyCode == 13)  {
         e.preventDefault();
         if (!$('.textarea#answer').hasClass('incorrect') && !$('.textarea#answer').hasClass('correct')) {
-            logic(language);
+            logic();
         }
     }
 });
