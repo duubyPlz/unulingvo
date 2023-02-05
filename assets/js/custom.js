@@ -130,8 +130,8 @@ function parse(selectedLessons) {
 
         try {
             $.get(fileName, function(data) {
-                // console.log(fileName);
-                // console.log(data);
+                console.log(fileName);
+                console.log(data);
     
                 // Break result into line by line
                 var lines = data.split("\n");
