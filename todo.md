@@ -6,4 +6,5 @@
 - [x] fix flu files
 - [ ] if mobile, tap tap to select one, tap to select multiple - instead of `ctrl`/`cmd`
 - [ ] top-panel functionality
+- [ ] lesson randomiser
 - [ ] search bar logic
