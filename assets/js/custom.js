@@ -120,18 +120,12 @@ function parse(selectedLessons) {
 
     selectedLessons.forEach(lesson => {
         var [ currentLanguage, module ] = lesson.split('.');
-        language = currentLanguage.split('-')[1];
-        var fileName = 'lernu1.txt'; // random default file
-        if (languageToFilePrefix && languageToFilePrefix[language]) {
-            fileName = 'assets/txt/' + languageToFilePrefix[language] + module + '.txt';
-        } else {
-            console.warn("Language isn't valid: " + language);
-        }
-
+        var [ prefix, language ] = currentLanguage.split('-');
+        var fileName = 'assets/txt/' + prefix + module + '.txt';
         try {
             $.get(fileName, function(data) {
-                console.log(fileName);
-                console.log(data);
+                // console.log(fileName);
+                // console.log(data);
     
                 // Break result into line by line
                 var lines = data.split("\n");
@@ -359,7 +353,7 @@ function logic(language) {
         function styleDelete(string) {
             // -1: strikethrough
             var formatted = "";
-            if (language === 'ko' || language === 'ja' || language === 'cn' || language === 'ttmik') { // CJK
+            if (language === 'ko' || language === 'ja' || language === 'cn') { // CJK
                 formatted = "<span class='strikethrough-diagonal' style='font-weight:400'>" + string + "</span>";
             } else {
                 formatted = "<span style='text-decoration: line-through'>" + string + "</span>";
