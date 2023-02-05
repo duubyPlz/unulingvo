@@ -1001,7 +1001,6 @@ footer.footer {
   }
 
   .display-text {
-    background-color: rgba(0, 0, 0, 0.5);
     font-weight: 400;
     font-size: 80%;
     display: block;
@@ -1016,7 +1015,6 @@ footer.footer {
   }
  
   .textarea#answer {
-    background-color: rgba(0, 0, 0, 0.5);
     font-weight: 400;
     font-size: 80%;
     display: block;
@@ -1027,25 +1025,6 @@ footer.footer {
     margin-bottom: 0;
     width: 100%;
     border-radius: 0;
-  }
-
-  .textarea#answer:hover,
-  .textarea#answer:focus,
-  .textarea#flu-answer:hover,
-  .textarea#flu-answer:focus {
-    background-color: rgba(0, 0, 0, 0.6);
-  }
-
-  .textarea#answer.correct {
-    border-left: 5px solid rgba(0, 208, 0, 0.9);
-    border-right: 5px solid rgba(0, 208, 0, 0.9);
-    background-color: rgba(0, 40, 0, 0.5);
-  }
-
-  .textarea#answer.incorrect {
-    border-left: 5px solid rgba(255, 0, 0, 0.9);
-    border-right: 5px solid rgba(255, 0, 0, 0.9);
-    background-color: rgba(40, 0, 0, 0.5);
   }
 
   .operation-btn-group {
