@@ -160,8 +160,8 @@ function parse(selectedLessons) {
                 for (var i=0; i<lines.length; i++) {
                     line = lines[i];
     
-                    var matchesTarget = '';
-                    if (matchesTarget = line.match(badgeDictEntryRegex) && !badgeHash[matchesTarget[1]]) {
+                    var matchesTarget = line.match(badgeDictEntryRegex);
+                    if (matchesTarget && !badgeHash[matchesTarget[1]]) {
                         badgeHash[matchesTarget[1]] = matchesTarget[2];
                     } else if (matchesTarget = line.match(originalRegexMatch)) {
                         // > Original [O:]
@@ -225,7 +225,8 @@ function display() {
         var badgeRegex = new RegExp("([a-zA-Z0-9]+){([^}]+)}");
         var matchesTarget = "";
         for (var word of badgedWords) {
-            if (matchesTarget = word.match(badgeRegex)) {
+            var matchesTarget = word.match(badgeRegex)
+            if (matchesTarget) {
                 fancyTagsBadgelessHtml += `<span class='badged-word'>${matchesTarget[1]}`;
                 fancyTagsBadgelessHtml += `<div class='badge-tag'>${badgeHash[matchesTarget[2]] ?? matchesTarget[2]}</div>`;
                 fancyTagsBadgelessHtml += '</span>';
@@ -536,6 +537,9 @@ $('.top-panel').on('click', function() {
 $('button#menu-back-btn').on('click', function() {
     hideMenu();
 });
+$('#menu-save-btn').on('click', function() {
+    saveMenu();
+});
 $('body').keydown(function(e) {
     if ($('.rich-menu').is(':visible')) {
         if (e.keyCode == 27)  { // esc
@@ -609,18 +613,15 @@ $('.textarea#answer').keydown(function (e) {
 // Main:
 // 1. Init
 
-// 2. Parse & display text of selected file(s)
-// a) Establish selected files/lessons
-var selectedLessons = defineSelectedLessons();
-// On menu save, update selectedLessons
-$('#menu-save-btn').on('click', function() {
-    saveMenu();
-});
+// // 2. Parse & display text of selected file(s)
+// // a) Establish selected files/lessons
+// var selectedLessons = defineSelectedLessons();
 
-// a) Parse
-parse(selectedLessons);
+// // a) Parse
+// parse(selectedLessons);
 
-// b) Display
-setTimeout(function () {
-    display();
-}, 1000);
+// // b) Display
+// setTimeout(function () {
+//     display();
+// }, 1000);
+saveMenu();
