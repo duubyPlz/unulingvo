@@ -566,7 +566,7 @@ footer.footer {
     height:40px;
     margin:0 auto;
     position: relative;
-    top:-35px;
+    top:18px;
     -moz-animation:spinPulse 1s infinite ease-in-out;
     -webkit-animation:spinPulse 1s infinite linear;
 }
@@ -583,7 +583,7 @@ footer.footer {
     height:20px;
     margin:0 auto;
     position:relative;
-    top:-65px;
+    top:-12px;
     -moz-animation:spinoffPulse 1s infinite linear;
     -webkit-animation:spinoffPulse 1s infinite linear;
 }
@@ -1014,8 +1014,7 @@ footer.footer {
   }
 }
 
-/* TODO @cku */
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   body {
     font-size: 120%;
   }
@@ -1161,6 +1160,14 @@ footer.footer {
 
   footer.footer small {
     font-size: 0.7rem;
+  }
+
+  .circle {
+    top: 20px;
+  }
+
+  .circle1 {
+    top: -10px;
   }
 
   .strikethrough-diagonal:before {
