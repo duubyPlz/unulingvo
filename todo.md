@@ -5,7 +5,7 @@
 - [x] mobile styles
 - [x] fix flu files
 - [x] if mobile, tap tap to select one, tap to select multiple - instead of `ctrl`/`cmd`
-- [ ] top-panel functionality
+- [x] top-panel functionality
 - [ ] lesson randomiser
 - [ ] search bar logic
 - [ ] Implement images for multiple lessons, in `populateTopPanel()`
