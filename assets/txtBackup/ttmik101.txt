@@ -1,6 +1,0 @@
-== TTMIK 1.1 - Hello. Thank you. / 안녕하세요. 감사합니다. ==
-    O: 안녕하세요.
-    E: Hello.
-
-    O: 감사합니다.
-    E: Thank you.
