@@ -38,6 +38,9 @@ var languageToLabel = {
 
 var languageKey = "duo-eo";
 var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+if (isMobile) {
+    var latestTap = null;
+}
 
 // Functions:
 function focusSearch() {
@@ -89,12 +92,7 @@ function populateTopPanel(selectedLessons) {
         function fileNameToLabel(selectedLesson) {
             var [ currentLanguageKey, module ] = selectedLesson.split('.');
             var wantedLessonChildren = $('.lesson-children[language="' + currentLanguageKey + '"]');
-            console.log('WANTEDLESSONCHILDREN');
-            console.log(wantedLessonChildren);
             var wantedLessonButton = wantedLessonChildren.find(`[lesson-id=${module}]`)
-            console.log('WANTEDLESSONNBUTTON');
-            console.log(wantedLessonButton);
-            console.log(wantedLessonButton.text());
             return wantedLessonButton.text();
         }
 
@@ -183,7 +181,6 @@ function parse(selectedLessons) {
         var [ currentLanguageKey, module ] = lesson.split('.');
         languageKey = currentLanguageKey;
         var fileName = 'assets/txt/' + lesson + '.txt';
-        console.log(`LESSON ${lesson} + .txt`);
         try {
             $.get(fileName, function(data) {
                 // console.log(fileName);
@@ -622,23 +619,33 @@ function selectOnlyLesson(lesson) {
     });
     lesson.addClass('selected');
 }
+function doubleTap(latestTap) {
+    var now = Date.now();
+    var timeSince = now - latestTap;
+    return (timeSince < 600) && (timeSince > 0);
+}
 $('.lesson').on('click', function(e) {
-    if (!isMobile) {
+    if (isMobile) {
+        if (latestTap != null && doubleTap(latestTap)) {
+            selectOnlyLesson($(this));
+        } else {
+            selectLesson($(this));
+        }
+        latestTap = Date.now();
+    } else {
         if (e.metaKey || e.ctrlKey) {
             selectLesson($(this));
         } else {
             selectOnlyLesson($(this));
         }
-    } else {
-        selectLesson($(this));
     }
 });
-$('.lesson').on('dblclick', function(e) {
-    if (isMobile) {
-        e.preventDefault();
-        selectOnlyLesson($(this));
-    }
-})
+// $('.lesson').on('dblclick', function(e) {
+//     if (isMobile) {
+//         e.preventDefault();
+//         selectOnlyLesson($(this));
+//     }
+// })
 $('.lesson-parent').on('click', function(e) {
     // Button highlight
     $('.lesson-parent').each(function() {
