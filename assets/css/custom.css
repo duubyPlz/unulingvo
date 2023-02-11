@@ -583,6 +583,7 @@ footer.footer {
     height:20px;
     margin:0 auto;
     position:relative;
+    top:-65px;
     -moz-animation:spinoffPulse 1s infinite linear;
     -webkit-animation:spinoffPulse 1s infinite linear;
 }
@@ -873,9 +874,10 @@ footer.footer {
     overflow: hidden;
     text-overflow: ellipsis;
   }
-
+  
   button.btn.lesson {
     height: 1.8em;
+    touch-action: manipulation;
   }
 
   button.btn.lesson-parent {

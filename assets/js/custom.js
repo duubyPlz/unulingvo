@@ -552,16 +552,33 @@ $('body').keydown(function(e) {
 $('.search-bar').on('click', function() {
     focusSearch();
 });
+var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+function selectLesson(lesson) {
+    lesson.addClass('selected');
+}
+function selectOnlyLesson(lesson) {
+    $('.lesson').each(function() {
+        $(this).removeClass('selected');
+    });
+    lesson.addClass('selected');
+}
 $('.lesson').on('click', function(e) {
-    if (e.metaKey || e.ctrlKey) {
-        $(this).toggleClass('selected');
+    if (!isMobile) {
+        if (e.metaKey || e.ctrlKey) {
+            selectLesson($(this));
+        } else {
+            selectOnlyLesson($(this));
+        }
     } else {
-        $('.lesson').each(function() {
-            $(this).removeClass('selected');
-        });
-        $(this).addClass('selected');
+        selectLesson($(this));
     }
 });
+$('.lesson').on('dblclick', function(e) {
+    if (isMobile) {
+        e.preventDefault();
+        selectOnlyLesson($(this));
+    }
+})
 $('.lesson-parent').on('click', function(e) {
     // Button highlight
     $('.lesson-parent').each(function() {
