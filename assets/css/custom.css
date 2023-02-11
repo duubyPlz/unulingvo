@@ -583,7 +583,6 @@ footer.footer {
     height:20px;
     margin:0 auto;
     position:relative;
-    top:-65px;
     -moz-animation:spinoffPulse 1s infinite linear;
     -webkit-animation:spinoffPulse 1s infinite linear;
 }
@@ -688,7 +687,7 @@ footer.footer {
     margin-top: 0;
     width: 100%;
     padding: 30px 40px;
-    height: 300px;
+    height: 35vw;
     line-height: 120%;
     border-radius: 0;
   }
@@ -705,7 +704,7 @@ footer.footer {
     margin-bottom: 0;
     width: 100%;
     padding: 30px 40px;
-    height: 300px;
+    height: 35vw;
     border-radius: 0;
   }
 
@@ -734,7 +733,6 @@ footer.footer {
 
   button.operation-btn {
     margin: 0px;
-    padding: 25px 60px;
   }
 
   .btn {
@@ -810,13 +808,14 @@ footer.footer {
     width: 90px;
     height: 90px;
     border-width: 10px;
+    top: -20px;
   }
 
   .circle1 {
     width: 60px;
     height: 60px;
     border-width: 10px;
-    top: -110px;
+    top: -95px;
   }
 
   .strikethrough-diagonal:before {
