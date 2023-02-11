@@ -14,6 +14,7 @@ var languageToFilePrefix = {
     "flu": "flu",
 };
 var languageKey = "duo-en";
+var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 
 // Functions:
 function focusSearch() {
@@ -552,7 +553,6 @@ $('body').keydown(function(e) {
 $('.search-bar').on('click', function() {
     focusSearch();
 });
-var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 function selectLesson(lesson) {
     lesson.addClass('selected');
 }
@@ -627,16 +627,19 @@ $('.textarea#answer').keydown(function (e) {
 
 // Main:
 // 1. Init
+if (isMobile) {
+    console.log($('#rich-menu-hint').html());
+    $('#rich-menu-hint').html('<code>double tap</code> to select only one')
+}
 
-// // 2. Parse & display text of selected file(s)
-// // a) Establish selected files/lessons
-// var selectedLessons = defineSelectedLessons();
+// 2. Parse & display text of selected file(s)
+// a) Establish selected files/lessons
+var selectedLessons = defineSelectedLessons();
 
-// // a) Parse
-// parse(selectedLessons);
+// a) Parse
+parse(selectedLessons);
 
-// // b) Display
-// setTimeout(function () {
-//     display();
-// }, 1000);
-saveMenu();
+// b) Display
+setTimeout(function () {
+    display();
+}, 1000);

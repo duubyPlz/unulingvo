@@ -809,14 +809,14 @@ footer.footer {
     width: 90px;
     height: 90px;
     border-width: 10px;
-    top: -20px;
+    top: 100px;
   }
 
   .circle1 {
     width: 60px;
     height: 60px;
     border-width: 10px;
-    top: -95px;
+    top: 25px;
   }
 
   .strikethrough-diagonal:before {
