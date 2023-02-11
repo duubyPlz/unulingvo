@@ -1,0 +1,91 @@
+== TTMIK 3.11 - ㅂ irregular / ㅂ 불규칙 ==
+    # Irregular rule: 
+    #   * If 오+ㅂ ➔ 오
+    #   * If 우+ㅂ ➔ 우
+    # ㅂ verbs = irregular -ONLY WHEN-> the next suffix starts with a VOWEL.
+    # Some ㅂ verbs don't follow this irregularity.
+    # ㅂ verbs = normal ➔ non-vowel suffixes (e.g. -는 or -고).
+
+    O: 돕다. 도와요
+    E: To help. Help.
+
+    O: 돕다. 도왔어요
+    E: To help. Helped.
+
+    O: 돕다. 도울 거예요.
+    E: To help. Will help.
+
+    O: 어렵다. 어려워요.
+    E: To be difficult. Is difficult.
+
+    O: 어렵다. 어려웠어요.
+    E: To be difficult. Was difficult.
+
+    O: 어렵다. 어려울 거예요.
+    E: To be difficult. Will be difficult.
+
+    O: 춥다. 추워요.
+    E: To be cold. Is cold. (weather)
+
+    O: 춥다. 추웠어요.
+    E: To be cold. Was cold. (weather)
+
+    O: 춥다. 추울 거예요.
+    E: To be cold. Will be cold. (weather)
+
+    O: 눕다. 누워요.
+    E: To lie down. Lie down.
+
+    O: 굽다. 구워요.
+    E: To bake. Bake.
+
+    O: 덥다. 더워요.
+    E: To be hot. Is hot. (weather)
+
+    O: 쉽다. 쉬워요.
+    E: To be easy. Is easy.
+
+    O: 맵다. 매워요.
+    E: To be spicy. Is spicy.
+
+    O: 귀엽다. 귀여워요.
+    E: To be cute. Is cute.
+
+    O: 밉다. 미워요.
+    E: To hate. Hate.
+
+    O: 아름답다. 아름다워요.
+    E: To be beautiful. Is beautiful.
+
+    O: 돕는 것
+    E: (the act of) helping
+
+    O: 입다. 입어요.
+    E: To wear. Wear.
+
+    O: 잡다. 잡아요.
+    E: To catch. Catch.
+
+    O: 씹다. 씹어요.
+    E: To bite. Bite.
+
+    O: 좁다. 좁아요.
+    E: To be narrow. Is narrow.
+
+    O: 넓다. 넓어요.
+    E: To be wide. Is wide.
+
+    O: 이 문제는 어려워요.
+    E: This problem is difficult.
+    F: _This problem_ is difficult.
+
+    O: 이거 너무 귀여워요.
+    E: This is so cute.
+
+    # In Seoul, it is really cold in the winter.
+    O: 서울은 겨울에 정말 추워요.
+    E: For Seoul, it is really cold in the winter.
+    F: _For Seoul_, it is really cold in the winter.
+
+    O: TTMIK에서 공부하면, 한국어 공부가 쉬워요.
+    E: If you study with TTMIK, studying Korean is easy.

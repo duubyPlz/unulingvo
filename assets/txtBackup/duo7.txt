@@ -1,0 +1,66 @@
+== Plurals ==
+> One
+    O: Ili estas belaj leteroj.
+    E: They are beautiful letters.
+
+    O: Adamo kaj Sofia estas bonaj personoj.
+    E: Adamo and Sofia are good people.
+
+    O: Ni estas viroj kaj patroj.
+    E: We are men and fathers.
+
+    O: La longaj tagoj estas belaj.
+    E: The long days are beautiful.
+
+    O: Ni estas knaboj.
+    E: We are boys.
+
+    O: La tagoj estas tre longaj, ĉu ne?
+    E: The days are very long, aren't they?
+
+    O: Li trinkas bonan akvon.
+    E: He drinks good water.
+
+> Two
+    O: Vortaroj estas gravaj.
+    E: Dictionaries are important.
+
+    O: Ili manĝas grandajn pomojn.
+    E: They eat big apples.
+
+    O: Ni estas knabinoj.
+    E: We are girls.
+
+    O: Sofia kaj Adamo estas Esperantistoj.
+    E: Sofia and Adamo are Esperanto speakers.
+
+    O: Pomoj estas bonaj.
+    E: Apples are good.
+
+    O: Mi legas gravajn leterojn.
+    E: I read important letters.
+
+    O: Estas grava tago en la parko.
+    E: It is an important day in the park.
+
+    O: Ni manĝas bonajn pomojn.
+    E: We eat good apples.
+
+> Three
+    O: Avoj estas homoj.
+    E: Grandfathers are people.
+
+    O: La gepatroj havas tri knabinojn.
+    E: The parents have three girls.
+
+    O: La du gepatroj estas la patro kaj la patrino.
+    E: The two parents are the father and the mother.
+
+    O: Kvar virinoj trinkas kafon en la kafejo.
+    E: Four women drink coffee in the café.
+
+    O: La blua flago havas unu koloron.
+    E: The blue flag has one colour.
+
+    O: Li estas komencanto, sed li lernas rapide.
+    E: He is a beginner, but he learns quickly.

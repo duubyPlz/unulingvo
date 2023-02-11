@@ -1,0 +1,59 @@
+== TTMIK 3.14 - Adjectives Action / Making Adjectives Action Verbs + -는/(으)ㄴ/(으)ㄹ + 명사 ==
+* s -> short
+* l -> long
+
+    # Adjective clause -> modifies noun.
+
+    O: 노래하는 사람
+    E: (the/a) person who sings
+
+    O: 좋아하는 책 
+    E: (the/a) book that I like
+
+    O: 가다. 가는.
+    E: To go. ... that's going (adjective)
+
+    O: 자다. 자는.
+    E: To sleep. ... that is sleeping (adjective).
+
+    O: 열다. 여는.
+    E: To open. ... that is opening (adjective).
+
+    O: 불다. 부는.
+    E: To blow. ... that is blown (adjective).
+
+    O: 민지가 좋아하는 사람
+    E: someone who Minji likes
+    F: someone who _Minji_ likes
+
+    O: 민지를 좋아하는 사람
+    E: someone who likes Minji
+
+    O: 이 노래는 제가 좋아하는 노래예요.
+    E: This song is a song that I{l} like.
+    F: _This song_ is a song that I{l} like.
+
+    O: 자주 먹는 한국 음식 있어요?
+    E: Is there a Korean food that you eat often?
+
+    O: 자주 가는 카페 있어요?
+    E: Is there a cafe that you go to often?
+
+    O: 요즘 좋아하는 가수는 누구예요?
+    E: Which singer do you like these days{s}?
+    F: Which _singer_ do you _like these days{s}_?
+
+    O: 요즘 공부하고 있는 외국어는 일본어예요.
+    E: The foreign language I am studying (continuous) these days{s} is Japanese.
+    F: _The foreign language I am studying (continuous) these days{s}_ is Japanese.
+
+    O: 눈이 오는 날에는 영화 보고 싶어요.
+    E: On a day when it snows, I want to see a movie{s}.
+    F: _On a day when it snows_, I want to see a movie{s}.
+
+    O: 저기 있는 사람, 아는 사람이에요?
+    E: That person who is over there{s}, is it someone that you know?
+
+    # Anybody (who is) hungry?
+    O: 배고픈 사람 있어요?
+    E: Is there anyone that's hungry?

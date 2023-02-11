@@ -1,0 +1,113 @@
+== TTMIK 4.16 - Spacing / 띄어쓰기 #1 ==
+* s -> short
+* l -> long
+* ll -> vlong
+* e -> eng
+
+    # {#RELATED Level 4 Lesson 21}: 띄어쓰기 #2
+
+    # Rules (_ = space):
+    # 
+    # ## Spaces ##
+    # S1. Adjective _ Noun
+    # S2. Adverb _ Verb
+    # S3. Noun Marker _ Verb
+    # S4. Noun _ Noun
+    # S5. _ Noun (in general)
+    # 
+    # ## No Spaces ##
+    # N1. Noun|Pronoun Marker
+    # N2. Proper nouns (no spaces anywhere)
+    #
+    # ## No Spaces (exceptions to Spaces)
+    # E1. Common phrases (common in sino-korean words, but spaces with english words)
+    # E2. Noun 하다
+
+    # S1. Adjective _ Noun
+    O: 부지런한 여자
+    E: a hardworking woman
+
+    O: 게으른 사람
+    E: a lazy person
+
+    O: 예쁜 강아지
+    E: a pretty puppy
+    
+    O: 재미없는 사람
+    E: a boring person (lit: A no-fun person)
+
+    # S2. Adverb _ Verb
+    O: 조용히 걷다
+    E: to walk quietly
+
+    O: 빨리 말하다
+    E: to speak fast
+
+    # S3. Noun Marker _ Verb
+    O: 이거 샀어요.
+    E: I bought this{s}.
+
+    O: 그것을 만들었어요.
+    E: I made that{ll}.
+
+    # S4. Noun _ Noun
+    O: 한국 여행
+    E: trip to Korea (lit: Korean trip)
+
+    O: 지갑 가격
+    E: the price (of a) wallet
+
+    # N1. Noun|Pronoun Marker
+    O: 저는
+    E: I + topic marker
+    F: _I_ + topic marker @polite
+
+    O: 저를
+    E: I + object marker @polite
+
+    # N2. Surname Firstname
+    O: 최경은
+    E: Choi Kyeong-eun
+
+    O: 한국관광공사
+    E: Korea Tourism Organization (lit: corporation) 🤔
+
+    O: 서울도시철도공사
+    E: Seoul Metropolitan Rapid Transit (lit: Seoul city railway corporation) 🤔
+
+    # Exception 1. Common phrases (common in sino-korean words)
+    O: 이것
+    E: This thing{l}
+
+    # Technically, 여자 친구 is correct
+    O: 여자친구
+    E: girlfriend
+
+    # Exception 2. Noun 하다
+    O: 공부하다
+    E: to study
+
+    O: 공부를 하다
+    E: to study{l}
+
+    O: 운동하다
+    E: to exercise
+
+    O: 운동을 하다
+    E: to exercise{l}
+
+    O: 청소하다
+    E: to clean up
+
+    O: 청소를 하다
+    E: to clean up{l}
+
+    O: 화장하다
+    E: to put makeup on
+
+    O: 수영하다
+    E: to swim
+
+    # Has a space = Because it is English
+    O: 데이트 하다
+    E: to date{e}

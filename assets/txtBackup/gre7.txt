@@ -1,0 +1,24 @@
+== Practice 3.6 ==
+    O: I love him.
+    E: φιλω αὐτον.
+
+    O: He is teaching his words.
+    E: τους λογους αὐτου διδασκει.
+
+    O: They have it.
+    E: ἐχουσιν αὐτο.
+
+    O: I hear her voice.
+    E: ἀκουω την φωνην.
+
+    O: Paul is calling them.
+    E: ὁ Παυλος καλει αὐτους.
+
+    O: They see the slave.
+    E: βλεπουσιν τον δουλον.
+
+    O: She keeps his child.
+    E: τηρει το τεκνον αὐτου.
+
+    O: Jesus loves their children.
+    E: ὁ Ἰησους φιλει τα τεκνα αὐτων.

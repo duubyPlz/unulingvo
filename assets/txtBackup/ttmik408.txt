@@ -1,0 +1,104 @@
+== TTMIK 4.8 - May I? / May I…, Don't have to / It is okay to…, You don’t have to… / -아/어/여도 돼요, 해도 돼요 ==
+* s -> short
+* l -> long
+
+    # {#RELATED Level 2 Lesson 20}: -아/어/여야 되다/하다
+
+    # * Meaning:
+    #   * It's okay to...
+    #   * You don't need to...
+
+    # Variations:
+    #   * -도 되다: -may
+    #   * -안 + verb + -도 되다: -don't have to
+    #       > Note: Using -안 is not "you may not". 
+    # {#RELATED Level 4 Lesson 9}: -면 안 돼요
+
+    # -도 Variations:
+    #   * Noun + -도: -too
+    #   * Verb + -도: Even if-
+
+    # 되다: { to function/work, to be possible }
+
+    O: 지금 인터넷 돼요?
+    E: Does the Internet work now?
+
+    O: 지금 배달 돼요?
+    E: Can you deliver (the food) now? / Is food delivery available now?
+
+    O: 배달 돼요?
+    E: Do you deliver (food)? / Can food delivery be done?
+
+    # Noun + -도
+    O: 저도요.
+    E: Me, too.
+
+    O: 이것도 주세요.
+    E: Give me this{l} one, too.
+
+    # Verb + -도
+    O: 먹어도
+    E: even if you eat
+
+    O: 몰라도
+    E: even if you do not know
+
+    O: 자도
+    E: even if you sleep
+
+    O: 일어나도
+    E: even when you wake up
+
+    # 켜다 - to turn/switch on
+    O: 켜도 되다
+    E: to be okay to turn … on
+
+    O: 켜도 돼요.
+    E: It is okay to turn on. / It is okay. You can turn it on.
+
+    # 불 켜도 돼요.
+    O: 불을 켜도 돼요.
+    E: You can turn the light on.
+
+    O: 컴퓨터 켜도 돼요. 
+    E: You can turn the computer on.
+
+    O: 해도 되다
+    E: to be okay to do …
+
+    O: 내일 해도 돼요.
+    E: It is okay if you do it tomorrow. / You can just do it tomorrow.
+
+    O: 내일 해도 돼요?
+    E: Is it okay if I do it tomorrow?
+
+    O: 시작해도 돼요.
+    E: You can start.
+
+    O: 시작해도 돼요? 
+    E: Can I start? / Can we start?
+
+    O: 이거 나중에 해도 돼요.
+    E: You can do this{s} later.
+
+    O: 이거 나중에 해도 돼요?
+    E: Can I do this{s} later?
+
+    O: 컴퓨터 써도 돼요?
+    E: May I use the computer{s}?
+
+    O: 오늘 쉬어도 돼요.
+    E: You can take a day off today.
+
+    # Don't have to
+    O: 안 해도 돼요.
+    E: You do not have to do it. / It is okay if you do not do it.
+
+    O: 청소 안 해도 돼요.
+    E: You do not have to clean up. / It is okay if you do not clean up.
+
+    O: 오늘 일 안 해도 돼요.
+    E: You do not have to work today. / It is okay if you do not work today.
+
+    O: 안 먹어도 돼요. 
+    E: You do not have to eat it. / It is okay if you do not eat it.

@@ -1,0 +1,41 @@
+== TTMIK 2.28 - With / Particles For Method, Way / -(으)로 ==
+* s -> short
+
+    O: 나무로 만들다 
+    E: to make (something) with wood
+
+    O: 왼쪽으로 가다
+    E: to go to the left; lit. to go through the left side
+
+    O: 이 길로 가다 
+    E: to go through this path/road
+
+    O: 펜으로 쓰다 
+    E: to write with a pen
+
+    O: 한국어로 말하다 
+    E: to talk in Korean
+
+    O: 치즈로 유명하다
+    E: to be famous for cheese
+
+    O: 사고로 다치다 
+    E: to get hurt in(from) an accident
+
+    O: 이거 뭐로 만들었어요?
+    E: What did you make this with? / What is this made of?
+
+    O: 오늘 택시로 왔어요?
+    E: Did you come by taxi today?
+
+    O: 버스로 갈 거예요.
+    E: I’m going to go by bus
+
+    O: 저를 친구로 생각해요?
+    E: Do you think of me as a friend?
+
+    O: 2번 출구로 나오세요.
+    E: Come out through exit number 2.
+
+    O: 저는 TTMIK으로 한국어 공부해요.
+    E: I study Korean{s} through TTMIK.

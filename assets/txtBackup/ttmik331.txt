@@ -1,0 +1,20 @@
+== TTMIK 3.31 - {Review} Level 3 ==
+* s -> short
+
+    O: 요즘 날씨가 너무 좋네요.
+    E: (Wow) The weather is so (lit. too) good these days.
+    F: (Wow) The weather _is so (lit. too) good these days_.
+
+    O: 네, 날씨가 정말 좋은 것 같아요.
+    E: Yes, I think the weather is really good.
+    F: Yes, _I think_ the weather _is really good_.
+
+    O: 저 내일 지민 씨하고 배드민턴 치는데, 같이 해요.
+    E: (lit. But) I’m{s} playing badminton{s} with Jimin tomorrow. Join us (lit. do it together).
+
+    O: 내일요? 어디에서요?
+    E: Tomorrow? Where?
+
+    O: 제 사무실 앞에 공원이 있어요.
+    E: There is a park in front of my{s} office.
+    F: _There is_ a park _in front of my{s} office_.

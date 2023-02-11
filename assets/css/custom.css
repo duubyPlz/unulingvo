@@ -77,7 +77,8 @@ a.link-blue:focus {
 .top-panel {
   position: relative;
   top: 50px;
-  width: 400px;
+  width: 800px;
+  max-height: 40px;
   height: 40px;
   line-height: 40px;
   text-align: center;
@@ -92,6 +93,16 @@ a.link-blue:focus {
   background-color: rgba(255, 255, 255, 0.08);
   color: rgba(255, 255, 255, 0.6);
   cursor: pointer;
+}
+
+#top-panel-label {
+  display: inline-block;
+  width: 80%;
+  text-transform: capitalize;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  height: 30px;
+  max-height: 30px;
 }
 
 .top-panel::after {
@@ -109,7 +120,7 @@ a.link-blue:focus {
   line-height: 100%;
   text-align: center;
 }
-img.lesson-tag-img{
+img.source-img{
   width: 1em;
   opacity: 80%;
 }
@@ -133,7 +144,7 @@ svg.flag-img {
   position: absolute;
   left: 0;
 }
-.top-panel img.lesson-tag-img {
+.top-panel img.source-img {
   position: relative;
   left: 1px;
 }
@@ -566,7 +577,7 @@ footer.footer {
     height:40px;
     margin:0 auto;
     position: relative;
-    top:18px;
+    top:-35px;
     -moz-animation:spinPulse 1s infinite ease-in-out;
     -webkit-animation:spinPulse 1s infinite linear;
 }
@@ -583,7 +594,7 @@ footer.footer {
     height:20px;
     margin:0 auto;
     position:relative;
-    top:-12px;
+    top:-65px;
     -moz-animation:spinoffPulse 1s infinite linear;
     -webkit-animation:spinoffPulse 1s infinite linear;
 }
@@ -654,10 +665,11 @@ footer.footer {
   .top-panel {
     top: revert;
     width: 100%;
-    height: revert;
+    height: 110px;
+    min-height: 110px;
     line-height: normal;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border-left: solid 5px rgba(255, 255, 255, 0.2);
     border-right: solid 5px rgba(255, 255, 255, 0.2);
     margin-bottom: 30px;
@@ -666,10 +678,18 @@ footer.footer {
     margin: revert;
     margin-left: 15px;
   }
+  #top-panel-label {
+    width: 70%;
+    height: 90px;
+    min-height: 90px;
+    max-height: 90px;
+    line-height: 90px;
+    font-size: 80%;
+  }
   .top-panel::after {
     width: 1em;
     height: 1em;
-    top: 0.6em;
+    top: 0.5em;
   }
 
   .panel-body {
@@ -809,14 +829,14 @@ footer.footer {
     width: 90px;
     height: 90px;
     border-width: 10px;
-    top: 100px;
+    top: 0px;
   }
 
   .circle1 {
     width: 60px;
     height: 60px;
     border-width: 10px;
-    top: 25px;
+    top: -75px;
   }
 
   .strikethrough-diagonal:before {
@@ -1039,20 +1059,24 @@ footer.footer {
     width: 100%;
     height: revert;
     line-height: normal;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     border-left: solid 5px rgba(255, 255, 255, 0.2);
     border-right: solid 5px rgba(255, 255, 255, 0.2);
     margin-bottom: 0.5em;
   }
   .top-panel .lesson-tag {
     margin: revert;
-    margin-left: 15px;
+    margin-left: 5px;
+  }
+  #top-panel-label {
+    width: 70%;
+    line-height: 30px;
   }
   .top-panel::after {
     width: 1em;
     height: 1em;
-    top: 0.75em;
+    top: 0.5em;
   }
 
   .panel-body {

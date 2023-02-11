@@ -1,0 +1,38 @@
+== TTMIK 3.25 - Verb Ending / -네요 / Wow, Oh! ==
+* s -> short
+
+    # Means:
+    # * Impressed
+    # * Surprised
+    # * Own personal thought
+
+    O: 크네요.
+    E: (I see that for the first time) It is big. / (Oh, I did not know it was big, but) It is big. (Expressing surprise)
+
+    # 잘 어울리다
+    O: 잘 어울려요.
+    E: It looks good on you. (Fact)
+
+    O: 잘 어울리네요
+    E: (Oh!) I find that it looks good on you. (Expressing your impression)
+
+    O: 현우 씨 머리 스타일 바꿨네요.
+    E: (Oh) Hyunwoo you changed your hairstyle{s}!
+
+    O: 맞네요.
+    E: I see that it is correct! (Finding out a fact for the first time.)
+
+    O: 요리 맛있네요.
+    E: (Impressed/Surprised) The dish tastes good!
+
+    O: 이 드라마 몰랐는데 재미있네요.
+    E: I didn't know (before) but I find this drama{s} fun to watch.
+
+    O: 별로 안 춥네요.
+    E: (Discover/Well) It is not that cold.
+
+    O: 아무도 안 왔네요.
+    E: (Oh, look...) Nobody came.
+
+    O: 벌써 십일월이네요.
+    E: (Discover/Wow) It is already November!

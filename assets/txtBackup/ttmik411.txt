@@ -1,0 +1,64 @@
+== TTMIK 4.11 - Anybody, Anything, Anywhere / 아무나, 아무도, 아무거나, 아무것도 (아무 Part 1) ==
+    # {#RELATED Level 4 Lesson 15}: 아무 때나, 아무 말도, 아무렇지도 않다, 아무한테도, 아무렇게나, 아무런 -도 없다, 아무것도 아니다
+
+    # Meanings:
+    # * 아무: any- + noun
+    #    * Note: (In negative context) no- + noun
+    # * -나: {positive}
+    # * -도: {negative}
+    # * 아무나: Anyone, just anyone
+    # * 아무거나: Anything, just anything
+    # * 아무데나 Anywhere, just anywhere
+    # * 아무도: Nobody
+    # * 아무것도: Nothing
+    # * 아무데도: Nowhere
+
+    # Extras (future lessons):
+    # * 아무때나: Anytime
+    # * 아무한테나: To anyone
+
+    # To remember: Check the end verb
+    # * -나 if verb positive
+    # * -도 if verb negative
+
+    O: 아무나 올 수 있어요.
+    E: Anyone can come. (possible)
+
+    # Just give me anything.
+    O: 아무거나 주세요.
+    E: Give me anything.
+
+    O: 아무데나 좋아요.
+    E: Any place is good.
+
+    # Nobody is here?
+    O: 아무도 없어요?
+    E: Nobody's here?
+
+    O: 아무것도 만지지 마세요.
+    E: Do not touch anything. (Lit: Touch nothing.)
+
+    O: 아무것도 몰라요. 
+    E: I do not know anything. (Lit: I know nothing.)
+
+    O: 아무데도 안 갈 거예요.
+    E: I will not go anywhere. (Lit: I will go nowhere.)
+
+    # Not everyone can come. (possible)
+    O: 아무나 올 수 없어요.
+    E: Not just anyone can come. (possible)
+
+    O: 아무도 올 수 없어요.
+    E: Nobody can come. (possible)
+
+    O: 아무거나 먹으면 안 돼요.
+    E: You're not allowed to eat just anything. / You should not eat just anything.
+
+    O: 아무것도 먹으면 안 돼요.
+    E: You're not allowed to eat anything at all. / You should not eat anything at all. (Lit: You should eat nothing.)
+
+    O: 아무데나 가고 싶지 않아요.
+    E: I do not want to go just anywhere.
+
+    O: 아무데도 가고 싶지 않아요.
+    E: I do not want to go anywhere.

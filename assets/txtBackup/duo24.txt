@@ -1,0 +1,154 @@
+== Imperative ==
+> One
+    O: Mi sendu mesaĝon al vi.
+    E: Let me send a message to you.
+
+    O: Ne fermu tiun skatolon!
+    E: Don't close that box!
+
+    O: Bonvolu atendi min, mi ankoraŭ dormas!
+    E: Please wait for me, I am still sleeping!
+
+    O: Aŭskultu bone!
+    E: Listen well!
+
+    O: Kantu al ni en Esperanto!
+    E: Sing to us in Esperanto!
+
+    O: Atendu!
+    E: Wait!
+
+    O: Kiom da ĉokolado estas en ĉi tiu skatolo?
+    E: How much chocolate is in this box?
+
+    O: Fermu tiun libron!
+    E: Close that book!
+
+    # Pardon us!
+    O: Pardonu nin!
+    E: Excuse us!
+
+    O: Ni kantu!
+    E: Let's sing!
+
+    # Pardon me!
+    O: Pardonu min!
+    E: Excuse me!
+
+    O: Fermu la pordon!
+    E: Close the door!
+
+    O: Sendu la florojn al ŝi!
+    E: Send the flowers to her!
+
+    O: Ne aŭskultu lin, ĉar li ne scias.
+    E: Don't listen to him, because he doesn't know.
+
+    O: Kantu la belajn kantojn!
+    E: Sing the pretty songs!
+
+    O: Bonvolu kanti, ĉar via fratino ankoraŭ kantas!
+    E: Please sing, because your sister is still singng!
+
+    O: Sofia trovis mesaĝon en botelo.
+    E: Sofia found a message in a bottle.
+
+    O: Atendu nin!
+    E: Wait for us!
+
+    O: Aŭskultu vian patron!
+    E: Listen to your father!
+
+    O: Bonvolu aŭskulti la gravan mesaĝon!
+    E: Please listen to the important message!
+
+    O: Rigardu, estas ankoraŭ unu peco da ĉokolado en la skatolo.
+    E: Look, there is still one piece of chocolate in the box.
+
+> Two
+    # nepre: without fail
+    O: Nepre vizitu viajn geavojn!
+    E: Definitely visit your grandparents!
+
+    O: Pardonu nin!
+    E: Excuse us!
+
+    O: Kredu min!
+    E: Believe me!
+
+    O: Sekvu min!
+    E: Follow me!
+
+    O: Kuiru kun mi!
+    E: Cook with me!
+
+    # zorgi: care for
+    O: Ne maltrankviliĝu!
+    E: Don't worry!
+
+    O: Ĉu vi kredas tion?
+    E: Do you believe that?
+
+    O: Nepre ne parolu pri tiu afero!
+    E: Absolutely don't speak about that thing!
+
+    O: Ni ne maltrankviliĝu pri tio!
+    E: Let us not worry about that!
+
+    O: Ni vizitu Ĉinion!
+    E: Let's visit China!
+
+    O: Nepre ne kredu lin!
+    E: Absolutely do not believe him!
+
+    O: Sendu min al Ĉinio, ĉar mi volas vidi ĝin!
+    E: Send me to China, because I want to see it!
+
+    O: Vizitu Kanadon en somero!
+    E: Visit Canada in summer!
+
+    O: Ni kuiru vespermanĝon kune!
+    E: Let us cook dinner together!
+
+> Three
+    # "him" is himself, since "I" broke it up (can't use "sin")
+    O: Paĉjo deziras, ke mi konsilu lin.
+    E: Dad wishes that I advise him.
+
+    # "receive" refers to "necessary", not "baby"
+    O: Estas necese, ke la bebo ricevu sufiĉe da lakto.
+    E: It is necessary that the baby receive enough milk.
+
+    O: Bonvolu informi min.
+    E: Please inform me.
+
+    O: Mi postulas, ke vi donu al mi la monon.
+    E: I demand that you give me the money.
+
+    O: Mia edzo konsilis min pri mia laboro.
+    E: My husband advised me about my work.
+
+    O: Bonvolu ne postuli, ke mi faru tion.
+    E: Please don't demand that I do that.
+
+    O: Mia onklo konsilis, ke mi informu lin pri mia fratino.
+    E: My uncle advised that I inform him about my sister.
+
+    O: Estas necese, ke ni manĝu kune.
+    E: It's necessary that we eat together.
+
+    # voli: intentions (stronger want), deziri: desire/wish
+    O: Li deziras, ke mi ricevu lian leteron.
+    E: He wishes that I receive his letter.
+
+    O: Estas necese, ke ni donu donacon al panjo.
+    E: It's necessary that we give a gift to mum.
+
+    O: Ĉu jes aŭ ne?
+    E: Yes or no?
+
+    O: Panjo deziras, ke li ricevu donacon.
+    E: Mum wants him to receive a gift.
+
+    O: Li postulis, ke mi informu lin pri ĉio.
+    E: He demanded that I inform him about everything.

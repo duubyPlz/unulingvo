@@ -1,0 +1,54 @@
+== Colors ==
+> One
+    O: Ĉu ĝi estas blua aŭ verda?
+    E: Is it blue or green?
+
+    O: Ĉu la flago estas ruĝa aŭ blua?
+    E: Is the flag red or blue?
+
+    O: La kolorblinda viro ne ludas.
+    E: The colourblind man does not play.
+
+    O: La koloro estas bela.
+    E: The colour is beautiful.
+
+    O: Li ludas multe kaj ankaŭ mi ludas multe.
+    E: He plays a lot and also I play a lot.
+
+    O: La akvo ne estas ruĝa.
+    E: The water is not red.
+
+    O: Mi havas verdan domon.
+    E: I have a green house.
+
+> Two
+    O: Ĝi ne estas bruna, ĝi estas griza.
+    E: It is not brown, it is grey.
+
+    O: Ili ŝatas blankan panon kaj ili ŝatas nigran panon.
+    E: They like white bread and they like black bread.
+
+    O: La flago estas ruĝa, blanka kaj blua.
+    E: The flag is red, white and blue.
+
+    O: Mi ne ŝatas grizan akvon.
+    E: I don't like grey water.
+
+    O: La domo estas bruna.
+    E: The house is brown.
+
+> Three
+    O: La floro estas rozkolora.
+    E: The flower is pink.
+
+    O: Ĝi estas oranĝkolora, ĉu ne?
+    E: It is orange, isn't it?
+
+    O: La libro estas oranĝkolora, violkolora kaj flava.
+    E: The book is orange, violet and yellow.
+
+    O: La esperanta flago estas verda kaj blanka.
+    E: The Esperanto flag is green and white.
+
+    O: La rozo estas rozkolora.
+    E: The rose is pink.

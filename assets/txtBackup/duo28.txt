@@ -1,0 +1,242 @@
+== Conditional ==
+# Devus = should, Povus = could, Volus = would
+> One
+    O: Kio estas la pasvorto por uzi la tujmesaĝilon?
+    E: What is the password to use the instant messenger?
+
+    O: Ni babilu!
+    E: Let's chat!
+
+    O: Elsalutu kaj iru labori!
+    E: Sign out and go work!
+
+    # mi povus = I could; mi povas = I can
+    O: Mi povus provi.
+    E: I could try.
+
+    O: Se mi povus memori mian pasvorton, mi povus ensaluti.
+    E: If I could remember my password, I could log in.
+
+    O: Ne forgesu elsaluti!
+    E: Don't forget to log out!
+
+    O: Ĉu vi forgesis vian pasvorton?
+    E: Did you forget your password?
+
+    O: Mi devus tuj elsaluti.
+    E: I should sign out immediately.
+
+    O: Vi devus ensaluti.
+    E: You should log in.
+
+    O: Ĝis tiam.
+    E: Until then.
+
+    O: Diru al li, kien li devus iri.
+    E: Tell him where he should go.
+
+    O: Mi babilas kun miaj amikoj per tujmesaĝilo.
+    E: I chat with my friends by instant messenger.
+
+    O: Kiu laste ensalutis?
+    E: Who logged in most recently?
+
+> Two
+    O: Mi alklakis la ligilon.
+    E: I clicked on the link.
+
+    O: Kiam mi retumas, mi legas multajn retpaĝojn.
+    E: When I browse the internet, I read many webpages.
+
+    O: Jen mia retpoŝtadreso.
+    E: Here is my email address.
+
+    O: Lia avo neniam uzas retpoŝton.
+    E: His grandfather never uses email.
+
+    O: Lia retpaĝo estas en Esperanto.
+    E: His webpage is in Esperanto.
+
+    O: Tiu ligilo ne funkcias.
+    E: That link doesn't work.
+
+    # If I could, I would browse the internet all day long.
+    O: Se mi povus, mi retumus la tutan tagon.
+    E: If I could, I would browse the net the whole day.
+
+    O: Li alklakis du ligilojn.
+    E: He clicked on two links.
+
+    O: Ĉi tiu retejo havas multajn retpaĝojn.
+    E: This website has many webpages.
+
+    O: Mi trovis ĉi tiun retejon hieraŭ, kiam mi retumis.
+    E: I found this website yesterday, when I was browsing the internet.
+
+    O: Sofia, ĉu vi povus trovi la retejon por mi?
+    E: Sofia, could you find the website for me?
+
+    O: retpoŝtadreso
+    E: email address
+
+    O: Mi sendus al vi retmesaĝon, se vi dirus al mi, kio estas via retpoŝtadreso.
+    E: I would send you an email, if you would tell me what your email address is.
+
+    O: Kiel oni elŝutas foton de tiu retpaĝo?
+    E: How does one download a photo from that webpage?
+
+    O: Se vi ne havus ĉi tiun, vi povus elŝuti ĝin nun.
+    E: If you did not have this one, you could download it now.
+
+    O: Se la foto estus pli bela, mi elŝutus ĝin.
+    E: If the photo were more beautiful, I would download it.
+
+    O: Ĉu vi ne legis mian retmesaĝon?
+    E: Have you not read my email?
+
+    O: Kiam mi retumas, mi trovas multajn interesajn aferojn.
+    E: When I browse the internet, I find many interesting things.
+
+    O: Ekde kiam vi uzas retpoŝton?
+    E: Since when do you use email?
+
+    O: Ĉu vi povus sendi ĝin per retpoŝto?
+    E: Could you send it by email?
+
+    O: Ĉu vi povus tajpi tiun leteron por ni?
+    E: Could you type that letter for us?
+
+    O: Mi ricevis pli ol cent retmesaĝojn dum la lastaj du tagoj.
+    E: I have received more than one hundred emails during the last two days.
+
+> Three
+    O: Bonvolu meti tion en dosierujon.
+    E: Please put that in a folder.
+
+    O: Tiu ludanto bezonas ŝanĝi sian kaŝnomon.
+    E: That player needs to change their nickname.
+
+    O: Laŭ mi, la interreto bonas por Esperanto.
+    E: In my opinion, the internet is good for Esperanto.
+
+    O: Se li povus tajpi pli rapide, ĉu vi dungus lin?
+    E: If he could type faster, would you hire him?
+
+    O: Kiom da dosieroj estas en la dosierujo?
+    E: How many files are in the folder?
+
+    O: Ludantoj devas akcepti la regulojn de la ludo.
+    E: Players must accept the rules of the game.
+
+    O: Esperanto bonas.
+    E: Esperanto is good.
+
+    O: Kio estas en la dosierujo?
+    E: What is in the folder?
+
+    O: Li renkontis sian edzinon en la interreto.
+    E: He met his wife online.
+
+    O: Verkistoj ofte uzas kaŝnomon.
+    E: Writers often use a pseudonym.
+
+    O: La interreto estas grandega!
+    E: The Internet is huge!
+
+> Four
+    O: Mi havas komputilon, klavaron, kaj muson.
+    E: I have a computer, a keyboard, and a mouse.
+
+    O: Ni alŝutis belajn fotojn.
+    E: We uploaded beautiful photos.
+
+    O: Mi devas elsaluti la babilejon.
+    E: I have to log out of the chatroom.
+
+    O: Kiun retumilon vi uzas?
+    E: Which web browser do you use?
+
+    # I do tho.
+    O: Mi ne ŝatas erari.
+    E: I don't like to make mistakes.
+
+    # If I were to have a lot of money, I would be rich!
+    O: Se mi havus multe da mono, mi estus riĉa!
+    E: If I had a lot of money, I would be rich!
+
+    O: La retumilo ne funkcias.
+    E: The web browser doesn't work.
+
+    O: Se mi havus komputilon, mi povus uzi la babilejon.
+    E: If I had a computer, I could use the chatroom.
+
+    O: Mi ne komprenas, kiel uzi vian retumilon.
+    E: I do not understand how to use your browser.
+
+    O: Se mi havus klavaron, mi povus uzi ĉi tiun komputilon.
+    E: If I had a keyboard, I could use this computer.
+
+    O: Estus bone, se la estraro povus progresi.
+    E: It would be good if the board of directors could make progress.
+
+    O: Se mi havus kaŝnomon, mi estus feliĉa.
+    E: If I had a nickname, I would be happy.
+
+    O: Mi tajpas rapide per komputila klavaro.
+    E: I type fast on a computer keyboard
+
+    O: Se mi havus uzantnomon, mi povus ensaluti.
+    E: If I had a username, I could log in.
+
+    O: Mi alŝutas dosieron kaj vi elŝutos ĝin poste.
+    E: I upload a file and you will download it later.
+
+    O: Se mi estus aktoro, mi povus roli en teatraĵo.
+    E: If I were an actor, I could perform in a play.
+
+    O: Se mi havus multe da mono, mi estus riĉa!
+    E: If I had a lot of money, I would be rich!
+
+    O: Se ŝi havus sufiĉe da mono, ŝi ne havus problemojn.
+    E: If she had enough money, she would not have problems.
+
+    O: Mi devus tajpi tiun leteron por mia ĉefo.
+    E: I should type that letter for my boss.
+
+    O: Miaj gefratoj ne scias, kiel alŝuti la dosieron.
+    E: My siblings do not know how to upload the file.
+
+    O: Tio ne estis mia eraro.
+    E: That was not my mistake.
+
+    O: Se vi havus retpoŝtadreson, mi povus sendi al vi retpoŝton.
+    E: If you had an email address, I could send you an email.
+
+> Five
+    O: Mi havas kelkajn problemojn pri tiu programo.
+    E: I have some problems with that program.
+
+    O: Kio estas via uzantnomo?
+    E: What is your username?
+
+    O: Ĉu vi ĝuas retumi?
+    E: Do you enjoy browsing the internet?
+
+    O: Mi ŝatus trinkaĵon.
+    E: I would like a drink.
+
+    O: Se via uzantnomo estus pli bela, mi ŝatus ĝin.
+    E: If your username were more beautiful, I would like it.
+
+    O: Tiu programo funkcias tre bone.
+    E: That program works very well.
+
+    O: Sofia ĝuas babili kun Adamo en la babilejo.
+    E: Sofia enjoys chatting with Adamo in the chat room.
+
+    O: Se ŝi havus sufiĉe da mono, ŝi ne havus problemojn.
+    E: If she had enough money, she would not have problems.
+
+    # ?? could or would?
+    O: Se mi havus tempon, mi povus ensaluti.
+    E: If I had time, I could log in.

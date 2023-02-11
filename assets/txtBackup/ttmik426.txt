@@ -1,0 +1,62 @@
+== TTMIK 4.26 - -(으)ㄴ + noun (past tense noun group) / -(으)ㄴ + 명사, 한 것 ==
+* s -> short
+* se -> see
+
+    # {#RELATED Level 4 Lesson 25}: -ㄹ + 명사, 할 것
+    # {#RELATED Level 8 Lesson 4}: N + that (someone) used to + V / -던
+
+    # * Meanings:
+    #   * Present - -는 + noun
+    #   * Past - -ㄴ + noun
+    #   * Future -ㄹ 볼 + noun
+
+    O: 어제 본 영화
+    E: the movie that I saw yesterday
+
+    O: 어제 온 사람들
+    E: the people who came yesterday
+
+    O: 어제 온 사람들 친구예요?
+    E: Are the people who came yesterday friends?
+
+    O: 친구가 말한 카페
+    E: the cafe that a friend talked about
+    F: _the cafe that_ a friend _talked about_
+
+    O: 어제 본 영화 어땠어요?
+    E: How was the movie that you saw yesterday?
+
+    O: 새로 이사 간 집은 어때요?
+    E: How is your new house that you moved to?
+    F: How is _your new house that you moved to_?
+
+    O: 오늘 배운 내용 복습하세요.
+    E: Please review the content{s} you've learnt today.
+
+    O: 제가 보는 책이에요.
+    E: It's a book that I am reading{se}.
+    F: _It's a book that _I_ am reading{se}_.
+
+    O: 제가 본 책이에요.
+    E: It's a book that I've read{se}.
+    F: _It's a book that _I_'ve read{se}_.
+
+    O: 제가 볼 책이에요.
+    E: It's a book that I will read{se}.
+    F: _It's a book that _I_ will read{se}.
+
+    O: 요즘 공부하는 외국어예요.
+    E: It's a foreign language that I am studying these days.
+
+    O: 어제 공부한 외국어예요.
+    E: It's a foreign language that I studied yesterday.
+
+    O: 내일 공부할 외국어예요.
+    E: It's a foreign language that I will study tomorrow.
+
+    # 수업
+    O: 오늘 공부한 레슨
+    E: the lesson we studied today
+ 
+    O: 내일 공부할 레슨
+    E: the lesson we will study tomorrow

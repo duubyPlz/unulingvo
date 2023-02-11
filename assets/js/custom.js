@@ -4,16 +4,39 @@ var fileHash = new Object();
 // Current file's top badge (short-form to full name) hash
 var badgeHash = new Object();
 // Reference language names
-var languageToFilePrefix = {
-    "eo": "duo",
-    "ko": "kor",
-    "ja": "jpn",
-    "cn": "chn",
-    "gr": "gre",
-    "ttmik": "ttmik",
-    "flu": "flu",
+var languageList = [
+    "eo",
+    "ko",
+    "ja",
+    "cn",
+    "gr",
+];
+var sourceList = [
+    "duo",
+    "ttmik",
+    "flu",
+    "tatoeba",
+];
+var viewBoxToOffset = {
+    "eo": "1518",
+    "ko": "396",
+    "ja": "264",
+    "cn": "2640",
 };
-var languageKey = "duo-en";
+var sourceToImage = {
+    "duo": "assets/img/duo.ico",
+    "ttmik": "assets/img/ttmik.png",
+    "flu": "🗣",
+    "tatoeba": "assets/img/tatoeba.svg",
+};
+var languageToLabel = {
+    "eo": "Esperanto",
+    "ko": "Korean",
+    "ja": "Japanese",
+    "cn": "Chinese",
+}
+
+var languageKey = "duo-eo";
 var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 
 // Functions:
@@ -61,18 +84,55 @@ function reparse(selectedLessons) {
         display();
     }, 1000);
 }
-function populateTopPanel() {
-//     <div class="panel top-panel">
-//     <span class="lesson-tag">
-//       <img class="lesson-tag-img" src='assets/img/duo.ico' />
-//       <svg class='flag-img' viewBox="0 1518 82 66"><image href="/assets/img/flags.svg" ></image></svg>
-//     </span>
-//     TTMIK 4.29 -게 되다
-//   </div>
+function populateTopPanel(selectedLessons) {
+    function selectedLessonsToString(selectedLessons) {
+        function fileNameToLabel(selectedLesson) {
+            var [ currentLanguageKey, module ] = selectedLesson.split('.');
+            var wantedLessonChildren = $('.lesson-children[language="' + currentLanguageKey + '"]');
+            console.log('WANTEDLESSONCHILDREN');
+            console.log(wantedLessonChildren);
+            var wantedLessonButton = wantedLessonChildren.find(`[lesson-id=${module}]`)
+            console.log('WANTEDLESSONNBUTTON');
+            console.log(wantedLessonButton);
+            console.log(wantedLessonButton.text());
+            return wantedLessonButton.text();
+        }
+
+        if (selectedLessons == null) {
+            return 'Lesson';
+        }
+        if (selectedLessons.length === 1) {
+            return fileNameToLabel(selectedLessons[0]);
+        } else {
+            return "Multiple lessons";
+        }
+    }
+
+    // TODO @cku Implement images for multiple lessons
+    if (selectedLessons.length === 1) {
+        var lesson = selectedLessons[0];
+        var [ currentLanguageKey, module ] = lesson.split('.');
+        var [ source, language ] = currentLanguageKey.split('-');
+        if (sourceList.includes(source)) {
+            if (source === "flu") {
+                $('.top-panel #top-panel-source-img').text('🗣');
+            } else {
+                $('.top-panel #top-panel-source-img').attr('src', sourceToImage[source]);
+            }
+        }
+        if (languageList.includes(language)) {
+            $('.top-panel #top-panel-flag-img').removeAttr('viewBox');
+            $('.top-panel #top-panel-flag-img').each(function () { 
+                $(this)[0].setAttribute('viewBox', `0 ${viewBoxToOffset[language]} 82 66`); 
+            });
+        }
+    }
+    $('.top-panel #top-panel-label').text(selectedLessonsToString(selectedLessons));
 }
 
-function saveMenu() {
+function rerender() {
     var selectedLessons = defineSelectedLessons();
+    populateTopPanel(selectedLessons);
     reparse(selectedLessons);
     hideMenu();
 }
@@ -83,7 +143,7 @@ function defineSelectedLessons() {
             selectedLessons.push(
                 $(this).parent().attr('language') 
                     + "." 
-                    + $(this).attr('id')
+                    + $(this).attr('lesson-id')
             );
         }
     });
@@ -120,10 +180,10 @@ function parse(selectedLessons) {
     }
 
     selectedLessons.forEach(lesson => {
-        var [ currentLanguage, module ] = lesson.split('.');
-        languageKey = currentLanguage;
-        var [ prefix, _ ] = currentLanguage.split('-');
-        var fileName = 'assets/txt/' + prefix + module + '.txt';
+        var [ currentLanguageKey, module ] = lesson.split('.');
+        languageKey = currentLanguageKey;
+        var fileName = 'assets/txt/' + lesson + '.txt';
+        console.log(`LESSON ${lesson} + .txt`);
         try {
             $.get(fileName, function(data) {
                 // console.log(fileName);
@@ -437,7 +497,7 @@ function logic() {
     var grBlacklistRegex = makeBlacklistRegex(grBlacklistString);
 
     var sanitisedInput = ""; // Need to use this in another 'if' statement
-    var [ prefix, language ] = languageKey.split('-');
+    var [ source, language ] = languageKey.split('-');
     if (language === 'eo') {    
         sanitisedInput = inputString.replace(eoWhitelistRegex, "");
         var simplifiedString = sanitisedInput.replace(eoBlacklistRegex, "").toLowerCase().trim();
@@ -449,7 +509,7 @@ function logic() {
             correct = true;
         }
     }
-    else if ((prefix === 'flu') || (prefix === "ttmik")) { // [TODO] refactor
+    else if ((source === 'flu') || (source === "ttmik")) { // [TODO] refactor
         var eoAndCjkWhitelistString = eoWhitelistString + cjkWhitelistString;
         var eoAndCjkWhitelistRegex = makeWhitelistRegex(eoAndCjkWhitelistString);
         sanitisedInput = inputString.replace(eoAndCjkWhitelistRegex, "");
@@ -537,7 +597,7 @@ $('button#menu-back-btn').on('click', function() {
     hideMenu();
 });
 $('#menu-save-btn').on('click', function() {
-    saveMenu();
+    rerender();
 });
 $('body').keydown(function(e) {
     if ($('.rich-menu').is(':visible')) {
@@ -546,7 +606,7 @@ $('body').keydown(function(e) {
             hideMenu();
         } else if (e.keyCode == 13) { // enter
             e.preventDefault();
-            saveMenu();
+            rerender();
         }
     }
 });
@@ -628,18 +688,8 @@ $('.textarea#answer').keydown(function (e) {
 // Main:
 // 1. Init
 if (isMobile) {
-    console.log($('#rich-menu-hint').html());
     $('#rich-menu-hint').html('<code>double tap</code> to select only one')
 }
 
-// 2. Parse & display text of selected file(s)
-// a) Establish selected files/lessons
-var selectedLessons = defineSelectedLessons();
-
-// a) Parse
-parse(selectedLessons);
-
-// b) Display
-setTimeout(function () {
-    display();
-}, 1000);
+// 2. Render
+rerender();

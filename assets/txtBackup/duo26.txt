@@ -1,0 +1,322 @@
+== Adjectives ==
+> One
+    O: Nia hundo ne estas pura; ĝi estas malpura.
+    E: Our dog is not clean; it is dirty.
+
+    O: Mia juna filo ofte ludas en la rivero.
+    E: My young son often plays in the river.
+
+    O: La maldika, maljuna kato.
+    E: The thin, old cat.
+
+    O: La dika viro manĝas tro da kuko.
+    E: The fat man eats too much cake.
+
+    O: Miaj okulvitroj estas malpuraj.
+    E: My glasses are dirty.
+
+    O: June kaj kune.
+    E: Young and together.
+
+    O: Miaj geavoj estas maljunaj.
+    E: My grandparents are old.
+
+    O: La dika hundo ne povas kuri rapide.
+    E: The fat dog can't run fast.
+
+    O: Kial la rivero ne estas pura?
+    E: Why is the river not clean?
+
+    O: La hundo estas bruna, malgranda kaj maldika.
+    E: The dog is brown, small and thin.
+
+    O: Mia domo estas malpura.
+    E: My house is dirty.
+
+    O: Li estas tro dika por kuri rapide.
+    E: He is too fat to run fast.
+
+    O: La reĝo estis tre maljuna.
+    E: The king was very old.
+
+    O: La hundo ludis ekster la domo, kaj nun estas malpura.
+    E: The dog played outside the house, and now is dirty.
+
+    O: Ĉu via edzino estas pli juna ol vi?
+    E: Is your wife younger than you?
+
+    O: Ĉu via domo estas pura?
+    E: Is your house clean?
+
+    # larĝa = wide, granda = large, grandioza = grand
+    O: La tablo estas larĝa.
+    E: The table is wide.
+
+    O: La rivero estas larĝa kaj longa.
+    E: The river is wide and long.
+
+    O: Mia mantelo estas tro larĝa.
+    E: My coat is too wide.
+
+    O: Malgraŭ la tuta mono, kiun li havas, li ne estas feliĉa.
+    E: Despite all the money he has, he is not happy.
+
+    O: Ĉiaj homoj volas esti feliĉaj!
+    E: Every kind of person wants to be happy!
+
+> Two
+    O: Mia filo estas sana kaj forta.
+    E: My son is healthy and strong.
+
+    # what kind of father, that kind of son
+    O: Kia patro, tia filo.
+    E: Like father, like son.
+
+    O: Li estas kaj malsana kaj malforta.
+    E: He is both sick and weak.
+
+    O: Ĝemeloj ofte estas tre similaj.
+    E: Twins are often very similar.
+
+    O: Aligatoroj kaj krokodiloj estas malsimilaj.
+    E: Alligators and crocodiles are different.
+
+    O: Nia riĉa onklo donis al ni monon.
+    E: Our rich uncle gave us money.
+
+    O: Ŝiaj studentoj tre malsimilas.
+    E: Her students are very different.
+
+    O: Kiam oni estas riĉa, oni havas multajn amikojn.
+    E: When one is rich, one has many friends.
+
+    O: Li ne estas forta, sed malforta.
+    E: He is not strong, but weak.
+
+    O: Ŝi estis malsana sed nun estas sana.
+    E: She was sick but now is healthy.
+
+    O: Pomoj kaj oranĝoj ne estas similaj.
+    E: Apples and oranges aren't similar.
+
+    O: Tia forta knabino estas sana.
+    E: That kind of strong girl is healthy.
+
+    O: Mia amikino estas kaj riĉa kaj bela.
+    E: My female friend is both rich and beautiful.
+
+    O: Mi ne sciis, ke vi estas malsana.
+    E: I did not know that you were sick.
+
+    O: Mia domo estas simila al la via.
+    E: My house is similar to yours.
+
+    O: Vi kaj mi estas malsimilaj.
+    E: You and I are different.
+
+    O: Ĉia stelo brilas.
+    E: Every kind of star shines.
+
+    O: Mia domo estas simila al la via.
+    E: My house is similar to yours.
+
+    O: Kian belan aŭton vi havas!
+    E: What a beautiful car you have!
+
+    O: Vi kaj mi estas malsimilaj.
+    E: You and I are different (not similar).
+
+    O: Ĉiaj boteloj povas enhavi akvon.
+    E: All kinds of bottles can contain water.
+
+    O: Kia estas la pantalono?
+    E: What kind of trousers are they?
+
+> Three
+    O: La instruisto havas diversajn ideojn.
+    E: The teacher has diverse ideas.
+
+    O: Ĉu la glaso estas plena aŭ malplena?
+    E: Is the glass full or empty?
+
+    O: La ĉielo estas klara.
+    E: The sky is clear.
+
+    O: Ni estas liberaj.
+    E: We are free.
+
+    O: La fino estas proksima.
+    E: The end is near.
+
+    O: Aŭstralio estas malproksima de multaj landoj.
+    E: Australia is far from many countries.
+
+    O: La mondo estas tre diversa.
+    E: The world is very diverse.
+
+    O: Morgaŭ mi estos libera.
+    E: Tomorrow I will be free.
+
+    O: Tio estas tre bona ideo!
+    E: That is a very good idea!
+
+    O: Ĉu vi havas liberan tempon?
+    E: Do you have free time?
+
+    O: Klare, la proksima parko malplenas.
+    E: Clearly, the nearby park is empty.
+
+    O: Ĉu vi havas klaran ideon pri tio?
+    E: Do you have a clear idea about that?
+
+    O: La preĝejo estas malproksima de nia domo.
+    E: The church is far from our house.
+
+    O: Kie estas la plej proksima restoracio?
+    E: Where is the nearest restaurant?
+
+    O: La korbo estas plena.
+    E: The basket is full.
+
+    O: Mia taso de kafo estas malplena.
+    E: My cup of coffee is empty.
+
+    # uloj
+    O: Nia domo estas plena de homoj.
+    E: Our house is full of people.
+
+    O: Kiu restoracio estas proksima?
+    E: Which restaurant is nearby?
+
+    O: Mi trinkas nenian kafon.
+    E: I do not drink any kind of coffee.
+
+    O: Li volas neniajn florojn.
+    E: He does not want any kind of flowers.
+
+    O: Ĉu la kesto estas plena?
+    E: Is the chest full?
+
+> Four
+    O: La ĉefa menuo devas esti simpla.
+    E: The main menu has to be simple.
+
+    O: Kelkaj patoj necesas por kuiri ĉi tiun manĝon.
+    E: Some frying pans are necessary to cook this meal.
+
+    O: La ĉevaloj estas rapidaj.
+    E: The horses are fast.
+
+    O: La tuta manĝo estis bongusta.
+    E: The whole meal was delicious.
+
+    O: Ĝenerale mi ne ŝatas legi gazetojn.
+    E: Generally, I don't like reading newspapers.
+
+    O: La domo havas kelkajn simplajn regulojn.
+    E: The house has some simple rules.
+
+    O: Ĉu vi estas la ĉefo?
+    E: Are you the boss (chief)?
+
+    O: Tio simple estas ĝenerala regulo.
+    E: That simply is a general rule.
+
+> Five
+    O: Tiu araneo certe estas normala.
+    E: That spider certainly is normal.
+
+    O: La strato ne estas seka, sed malseka.
+    E: The street isn't dry, but wet.
+
+    O: Ĉu la akvo estas profunda aŭ malprofunda?
+    E: Is the water deep or shallow?
+
+    O: Vi respondis ĝuste!
+    E: You answered correctly!
+
+    O: Ĉiaj boteloj povas enhavi akvon.
+    E: All kinds of bottles can contain water.
+
+    O: Ĉu vi havas ian bovlon?
+    E: Do you have any kind of bowl?
+
+    O: Mi neniam manĝas sekan panon.
+    E: I never eat dry bread.
+
+    O: Mia ĉemizo estas malseka.
+    E: My shirt is wet.
+
+    O: Tiu rivero estas seka.
+    E: That river is dry.
+
+    O: Necesas.
+    E: It's necessary.
+
+    O: Ĉu seka kuko estas normala?
+    E: Is dry cake normal?
+
+    O: La rivero profundos post la pluvo, ĉu ne?
+    E: The river will be deep after the rain, will it not?
+
+    O: Mi ne certis.
+    E: I was not sure.
+
+    O: Jen la ĝusta respondo!
+    E: Here is the right answer!
+
+    O: Tiu rivero estas larĝa sed malprofunda.
+    E: That river is wide but shallow.
+
+    O: Mi ne certas pri ĝia koloro.
+    E: I am not certain of its color.
+
+    O: Jen la ĝusta demando!
+    E: Here is the right question!
+
+    O: La akvo estas tre malprofunda.
+    E: The water is very shallow.
+
+    O: Mi bezonas ian profundan korbon.
+    E: I need some kind of deep basket.
+
+> Six
+    O: Mia onklino estas afabla, ne stranga.
+    E: My aunt is nice, not strange.
+
+    O: Lia filo estas alta, ne malalta.
+    E: His son is tall, not short.
+
+    O: Mi estas preta por aŭskulti viajn interesajn ideojn.
+    E: I am ready to listen to your interesting ideas.
+
+    O: Tiu fama dancisto estas tre lerta.
+    E: That famous dancer is very skilled.
+
+    O: Mi kapablas lerni Esperanton.
+    E: I am capable of learning Esperanto.
+
+    O: La lasta numero de la gazeto estas tre interesa.
+    E: The last issue of the newspaper is very interesting.
+
+    O: Miaj fratinoj estas tre malaltaj.
+    E: My sisters are very short.
+
+    O: La fama kuiristo estas interesa kaj kapabla.
+    E: The famous chef is interesting and capable.
+
+    O: La stranga sed afabla verkisto estis tre kapabla.
+    E: The strange but nice author was very capable.
+
+    # Kial tiu stranga viro estis preta por manĝi aligatoron?
+    O: Kial tiu stranga viro estis preta manĝi aligatoron?
+    E: Why was that strange man ready to eat an alligator?
+
+    O: Mi pretas danci kun tiu fama, alta dancisto.
+    E: I am ready to dance with that famous, tall dancer.
+
+    O: La instruisto ĉiam trovis afablan vorton.
+    E: The teacher always found a kind word.
+
+    O: La arkitekto ĉiam sidas sur alta seĝo.
+    E: The architect always sits on a tall chair.

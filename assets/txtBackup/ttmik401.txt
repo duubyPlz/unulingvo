@@ -1,0 +1,104 @@
+== TTMIK 4.1 - The more … the more … / -(으)면 -(으)ㄹ수록 ==
+* em -> emphasis
+* l -> long
+
+    # {#RELATED Level 4 Lesson 23}: Word Contractions (part 2)
+
+    # The more {A}: (-면) -ㄹ수록
+    # The more {B}: another verb
+
+    # * -을수록: consonant
+    # * -ㄹ수록: vowel
+    # * -수록: ending in ㄹ
+
+    # Other meanings:
+    # { Especially, Particularly, Even more so } { if, when }...
+
+    O: 살수록
+    E: the more you live, the more...
+
+    O: 갈수록
+    E: the more you go, the more...
+
+    O: 예쁠수록
+    E: the prettier it is, the more...
+
+    O: 비쌀수록
+    E: the more expensive it is, the more...
+
+    O: 이상할수록
+    E: the stranger it is, the more...
+
+    O: 바쁠수록
+    E: the busier you are, the more...
+
+    # The more delicious it is, the better it sells.
+    O: 맛있을수록 잘 팔려요.
+    E: The more delicious it is, the better it gets sold.
+
+    O: 바쁠수록 건강이 중요해요.
+    E: The busier you are, the more important your health is.
+
+    O: 사람이 많을수록 좋아요.
+    E: The more people, the better.
+    F: _The more_ people, _the better_.
+
+    # You need to sleep{l} a lot, even more so when you are busy.
+    # ..., especially
+    O: 바쁠수록 잠을 많이 자야 돼요.
+    E: The busier you are, the more you need to sleep{l}.
+
+    # You need to read a lot of books{l}, even more so if you are a student.
+    O: 학생일수록 책을 많이 읽어야 돼요.
+    E: The more of a student you are, the more books{l} you need to read.
+
+    O: 바쁘면 바쁠수록
+    E: the busier{em} you are, the more...
+
+    O: 좋으면 좋을수록
+    E: the better{em} it is, the more...
+
+    O: 많을수록 좋아요.
+    E: The more, the better.
+
+    O: 많으면 많을수록 좋아요.
+    E: The more{em}, the better.
+
+    O: 쌀수록 많이 살 수 있어요.
+    E: The cheaper it is, the more of it you can buy.
+
+    O: 싸면 쌀수록 많이 살 수 있어요.
+    E: The cheaper{em} it is, the more of it you can buy.
+
+    # Lit.: The more you go...
+    O: 갈수록
+    E: As time goes by... (Figuratively)
+
+    O: 갈수록 추워요.
+    E: It keeps getting colder.
+
+    O: 사브린 씨는 갈수록 한국어를 잘해요.
+    E: Sabrin keeps getting better-at her Korean.
+    F: _Sabrin_ keeps getting better-at her Korean{l}.
+
+    O: 친구는 많을수록 좋아요.
+    E: The more friends you have, the better.
+    F: The more _friends_ you have, the better.
+
+    O: 친구는 많으면 많을수록 좋아요.
+    E: The more friends you have, the better.
+    F: The more _friends_ you have{em}, the better.
+
+    O: 비쌀수록 잘 팔려요.
+    E: The more expensive it is, the better it sells.
+
+    O: 비싸면 비쌀수록 잘 팔려요.
+    E: The more expensive{em} it is, the better it sells.
+
+    # The more interesting a person is, the better.
+    O: 재미있는 사람일수록 좋아요.
+    E: The more of an interesting person you are, the better.
+
+    # If you are an interesting person, it is more likely that you are popular.
+    O: 재미있는 사람일수록 인기가 많아요.
+    E: The more interesting a person is, the more popular he/she is.

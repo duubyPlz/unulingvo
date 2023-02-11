@@ -1,0 +1,87 @@
+== TTMIK 4.22 - [Word Builder] 학 (學) ==
+* s -> short
+* e -> eng
+
+    # 場所
+    O: 장소
+    E: place / venue
+
+    O: 시간, 날짜, 장소
+    E: time, date, place
+
+    # 運動場
+    O: 운동장
+    E: schoolyard
+
+    O: 놀이터
+    E: playground
+
+    # As a child, I extremely hated going out to the schoolyard.
+    O: 어렸을 때 운동장에 나가는 거 굉장히 싫어했어요.
+    E: When I was young, I extremely hated going out to the schoolyard.
+
+    # 駐車場
+    O: 주차장
+    E: car park / parking lot
+
+    O: 체육 시간
+    E: PE class
+
+    # Please park (your car) in the parking lot.
+    O: 주차장에 주차하세요.
+    E: Please park in the car park.
+
+    # 場面
+    O: 장면
+    E: scene
+
+    O: 이 영화에서 제일 좋아하는 장면이 뭐예요?
+    E: What is your favorite scene from this movie?
+    F: _What is_ your favorite scene from this movie?
+
+    # 市場
+    O: 시장
+    E: marketplace
+
+    O: 지금 시장 갈 거예요.
+    E: I will go to the marketplace{s} now. / I am going to the marketplace now.
+
+    # 牧場
+    O: 목장
+    E: farm / ranch
+
+    # 갓 fresh / just now
+    O: 목장에서 갓 짠 우유 마셔 봤어요?
+    E: Have you ever had milk straight from a cow on the farm?
+
+    O: 갓 구운 빵
+    E: freshly baked bread
+
+    O: 갓 꺾은 꽃 
+    E: freshly picked flowers
+
+    # 水泳場
+    O: 수영장
+    E: swimming pool
+
+    O: 풀장
+    E: swimming pool{e}
+
+    O: 수영장에 일주일에 세 번 가요.
+    E: I go to the swimming pool three times a week.
+
+    # 禮式場
+    O: 예식장
+    E: wedding hall (lit: ceremonial hall)
+
+    O: 예식장이 어디예요?
+    E: Where is the wedding hall?
+    F: _Where is the_ wedding hall?
+
+    # 磁氣場
+    O: 자기장
+    E: magnetic field
+
+    # 重力場
+    O: 중력장
+    E: gravity field

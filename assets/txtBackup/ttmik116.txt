@@ -1,0 +1,16 @@
+== TTMIK 1.16 - Basic Present Tense / -아요, -어요, -여요 ==
+    O: 가요
+    E: I go. / You go. / He goes. / She goes. / They go. / etc.
+
+    O: 먹어요
+    E:  I eat. / You eat. / He eats. / etc.
+
+    O: 봐요
+    E: I see. / I look. / I watch. / You look. / etc.
+
+    # 보이다: to be seen, to be visible
+    O: 보여요
+    E: It is visible. / (I) see it. 
+
+    O: 해요
+    E: I do. / You do. / He does. / etc.

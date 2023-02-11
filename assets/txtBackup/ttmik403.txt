@@ -1,0 +1,70 @@
+== TTMIK 4.3 - It can’t be … / -(으)ㄹ 리가 없어요, 할 리가 없어요 ==
+    # * Meaning:
+    #   * Disbelief
+    #   * It's impossible that...
+
+    # * 리: { reason, logic }
+    #   * 이유 reason
+    #   * 눈리 logic
+    #   * Lit: There is no reason that ...
+
+    # * Variations:
+    #   * consonants + -을 리가 없어요.
+    #   * vowel + -ㄹ 리가 없어요.
+    #   * ㄹ + 리가 없어요.
+
+    # Own note: Seems like we can have two subject particles with this -리가 -.
+
+    # 그렇다: To be like that. / To be so.
+    O: 그럴 리가 없어요!
+    E: That is impossible! / That cannot be! / It cannot be so!
+
+    O: 눈이 올 리가 없어요!
+    E: It is impossible that it is snowing! / It cannot be snowing!
+
+    O: 모를 리가 없어요.
+    E: It is impossible that they do not know. / It cannot be that he/she does not know.
+
+    O: 갈 리가 없어요.
+    E: There is no way that they are going/leaving. / He/She will never go.
+
+    O: 갔을 리가 없어요.
+    E: There is no way that they went.
+
+    # 있다: To be (somewhere)
+    E: There can't be something. / No way that it exists.
+    O: 있을 리가 없어요.
+    E: No way it exists. / It's impossible there's something.
+
+    # There couldn't have been something. / It is impossible that there was something.
+    O: 있었을 리가 없어요.
+    E: It was impossible there was something. / No way it existed.
+
+    O: 내일이 일요일일 리가 없어요.
+    E: There is no way that tomorrow is Sunday.
+    F: _There is no way that_ tomorrow _is Sunday_.
+
+    # It is impossible that it will snow tomorrow.
+    O: 내일 눈이 올 리가 없어요.
+    E: It is impossible that tomorrow will snow.
+
+    O: 정말요? 그럴 리가 없어요!
+    E: Really? That cannot be true!
+
+    O: 효진 씨가 안 왔을 리가 없어요.
+    E: It is impossible that Hyojin didn't come (past tense). / There is no way that Hyojin is not here.
+    F: _It is impossible that_ Hyojin _didn't come_ (past tense). / There is no way that Hyojin is not here.
+
+    # Own note: Present tense here
+    O: 경은 씨가 노래를 할 리가 없어요.
+    E: There is no way that Kyeong-eun is going to sing{l}. / It is impossible that Kyeong-eun will sing.
+    F: _There is no way that_ Kyeong-eun _is going to sing{l}_. / It is impossible that Kyeong-eun will sing.
+
+    # There is no way it's not cold. It is January right now.
+    O: 안 추울 리가 없어요. 지금 1월이에요.
+    E: It is impossible that it is not cold. It is January right now.
+
+    # Own note: Present tense here
+    # It is strange. There is no way that it is not going to work.
+    O: 이상하네요. 안 될 리가 없어요.
+    E: (Wow) It is strange. There is no way it won't work.

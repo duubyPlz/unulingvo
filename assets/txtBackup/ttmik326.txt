@@ -1,0 +1,60 @@
+== TTMIK 3.26 - ㄷ irregular / ㄷ 불규칙 ==
+* l -> long
+* s -> short
+
+    # Irregular rule: ㄷ ➔ ㄹ, when ㄷ is the 받침
+
+    O: 듣다. 들어서
+    E: To listen. Because I listen; I listen and then
+
+    O: 듣다. 듣고 있어요.
+    E: To listen. I am listening (continuous).
+
+    O: 듣다. 들었어요.
+    E: To listen. I heard.
+
+    O: 걷다. 걸어요.
+    E: To walk. I walk.
+
+    O: 걷다. 걷는 것 좋아해요.
+    E: To walk. I like walking. 
+
+    # 걷다. 한 시간 걸었어요.
+    O: 걷다. 한 시간 동안 걸었어요.
+    E: To walk. I walked for an hour.
+
+    O: 묻다. 물으면
+    E: To ask. If I ask
+
+    O: 묻다. 물어요.
+    E: To ask. I ask.
+
+    O: 싣다. 실을 거예요.
+    E: To load. I will load.
+
+    O: 깨닫다. 깨달았어요.
+    E: To realise. I realised.
+
+    O: 받다. 받아서
+    E: To receive. Because I receive; I receive and then
+
+    O: 묻다. 묻어요.
+    E: To bury. I bury.
+
+    O: 닫다. 닫으면
+    E: To close. If I close
+
+    O: 믿다. 믿어요.
+    E: To believe. I believe.
+
+    O: 어디에서 들었어요?
+    E: Where did you hear it?
+
+    O: 많이 걸었는데, 안 피곤해요.
+    E: (I) walked a lot, but (I) am not{s} tired.
+
+    O: 그 이야기를 믿어요?
+    E: Do you believe that story?
+
+    O: 물어도 대답이 없어요.
+    E: Even if (I) ask, there is no answer{l}.

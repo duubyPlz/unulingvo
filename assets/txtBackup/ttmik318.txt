@@ -1,0 +1,51 @@
+== TTMIK 3.18 - Nothing but, Only / 밖에 + 부정형 negative verb conjugation ==
+* s -> short
+
+    # Nothing else but...
+    # {#RELATED Level 2 Lesson 15}: noun + -만
+    # -만 vs. -밖에:
+    #   * Negation, -밖에 is generally used more than -만
+    #   * -만 ONLY - imperatives
+    #   * -만 more common - negative verb
+
+    O: 콜라밖에 안 마셔요
+    E: I only drink cola
+
+    O: 이것만 주세요
+    E: Give me this one only
+
+    O: 돈밖에 없다
+    E: to have nothing but money, to only have money
+
+    O: 저는 현우 씨만 싫어해요.
+    E: I only hate Hyunwoo.
+    F: _I_ only hate Hyunwoo.
+
+    O: 저는 닭고기만 싫어해요
+    E: I only hate chicken.
+    F: _I_ only hate chicken.
+
+    # More awkward version: 한국인 친구가 한 명만 있어요.
+    O: 한국인 친구가 한 명밖에 없어요.
+    E: (I) only have one Korean friend. (No previous context)
+    F: _(I) only have one_ Korean friend. (No previous context)
+
+    O: 한국인 친구는 한 명밖에 없어요.
+    E: AS FOR Korean friends, I only have one. (Contrast)
+
+    # More awkward version: 한국어 조금만 할 수 있어요.
+    O: 한국어 조금밖에 못해요.
+    E: (I) can only speak a little bit of Korean{s}.
+
+    O: 이것밖에 없어요?
+    E: You only have this? This is it?
+
+    O: 세 명밖에 없어요?
+    E: There are only three people?
+
+    O: 우리 고양이는 참치밖에 안 먹어요.
+    E: My cat only eats tuna.
+    F: _My cat_ only eats tuna.
+
+    O: 왜 공부밖에 안 해요?
+    E: Why do you only study? Why do you do nothing but study?

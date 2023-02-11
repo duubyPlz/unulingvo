@@ -1,0 +1,41 @@
+== TTMIK 2.20 - Should / Have to, Should, Must / -아/어/여야 되다/하다 ==
+# -되다 and -하다 are the same but -뒤다 more colloquial
+
+* d -> do
+
+    O: 자야 되다
+    E: Should sleep
+
+    O: 자야 하다
+    E: Should sleep{d}
+
+    O: 써야 되다
+    E: Should write
+
+    O: 써야 하다
+    E: Should write{d}
+
+    O: 되다
+    E: to be possible
+
+    O: -야
+    E: only when
+
+    O: -야 되다
+    E: (only) when __, it works
+
+    O: 집에 가야 돼요.
+    E: I have to go home.
+
+    O: 저는 뭐 해야 돼요?
+    E: What (thing, not how) should I do?
+    F: What (thing, not how) should _I_ do?
+
+    O: 언제까지 여기에 있어야 돼요? 
+    E: Until when should I be here?
+
+    O: 누구한테 줘야 돼요?
+    E: Who should I give it to?
+
+    O: 어디에서 사야 돼요?
+    E: Where should I buy it?

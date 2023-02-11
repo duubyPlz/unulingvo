@@ -1,0 +1,244 @@
+== Polite Speech ==
+> One
+    O: 아이가 친구하고 텔레비전을 봐요.
+    E: The child watches television with a friend.
+    F: The child _watches television with a friend_.
+
+    O: 저는 가수예요.
+    E: I am a singer.
+    F: _I_ am a singer.
+
+    O: 그 자동차가 사라져요.
+    E: That car disappears.
+    F: That car _disappears_.
+
+    O: 제가 차에서 내려요.
+    E: I get off the car{s}.
+    F: I _get off the car{s}_.
+
+    O: 이 편지는 맞지 않아요.
+    E: This letter is not{l} correct.
+    F: _This letter_ is not{l} correct.
+
+    O: 여자가 울지 않아요.
+    E: The woman does not{l} cry.
+    F: The woman _does not{l} cry_.
+
+    O: 학생이 가방을 잠가요.
+    E: The student locks a bag.
+    F: The student _locks a bag_.
+
+    O: 저 개는 울어요.
+    E: That dog over there cries.
+    F: _That dog_ over there cries.
+
+    O: 그 책이 맞아요.
+    E: That book is correct.
+    F: That book _is correct_.
+
+    O: 저는 남자아이를 봐요.
+    E: I look at the boy.
+    F: _I_ look at the boy.
+
+    O: 저는 가수예요.
+    E: I am a singer.
+    F: _I_ am a singer.
+
+    O: 맞아요!
+    E: Correct!
+
+    O: 저는 텔레비전을 안 봐요.
+    E: I do not watch television.
+    F: _I_ do not watch television.
+
+    O: 남자아이가 울어요.
+    E: The boy cries.
+    F: The boy _cries_.
+
+> Two
+    O: 저는 라디오를 안 들어요.
+    E: I do not listen to the radio.
+    F: _I_ do not listen to the radio.
+
+    O: 저는 길을 걸어요.
+    E: I walk along the street.
+    F: _I_ walk along the street.
+
+    O: 학생이 한국어로 물어요.
+    E: The student asks in Korean.
+    F: The student _asks in Korean_.
+
+    O: 친구가 길에 누워요.
+    E: A friend lies down on the road.
+    F: A friend _lies down on the road_.
+
+    O: 친구가 저를 도와요.
+    E: The friend helps me.
+    F: The friend _helps me_.
+
+    # 여기가 어두워요
+    O: 여기는 어두워요.
+    E: It is dark here.
+    F: It is dark _here_.
+
+    O: 여기는 어둡지 않아요.
+    E: It is not{l} dark here.
+    F: It is not{l} dark _here_.
+
+    O: 저는 누워요.
+    E: I lie down.
+    F: _I_ lie down.
+
+    O: 저는 라디오를 들어요.
+    E: I listen to the radio.
+    F: _I_ listen to the radio.
+
+    O: 저는 물어요.
+    E: I ask.
+    F: _I_ ask.
+
+    O: 고양이가 라디오를 들어요.
+    E: The cat listens to the radio.
+    F: The cat _listens to the radio_.
+
+    O: 동물이 아이를 도와요.
+    E: The animal helps the child.
+    F: The animal _helps the child_.
+
+> Three
+    O: 이 병과 그 병은 달라요.
+    E: This illness and that illness are different.
+    F: _This illness and that illness_ are different.
+
+    O: 저는 건물을 지어요.
+    E: I build a building.
+    F: _I_ build a building.
+
+    O: 그 여자가 그 책을 몰라요.
+    E: That woman does not know that book.
+    F: That woman _does not know that book_.
+
+    O: 여자아이가 개를 길러요.
+    E: A girl raises a dog.
+    F: A girl _raises a dog_.
+
+    O: 제가 이것들을 이어요.
+    E: I connect these.
+    F: I _connect these_.
+
+    O: 아이가 나아요.
+    E: The child gets well.
+    F: The child _gets well_.
+
+    O: 아이가 한국어를 몰라요.
+    E: The child does not know Korean.
+    F: The child _does not know Korean_.
+
+    O: 남자들이 집을 지어요.
+    E: The men build the house.
+    F: The men _build the house_.
+
+    O: 아이는 병이 나아요.
+    E: The child recovers from the disease.
+    F: _The child_ recovers from the disease.
+
+    O: 저는 동물을 길러요.
+    E: I raise an animal.
+    F: _I_ raise an animal.
+
+    O: 저의 책이 달라요.
+    E: My book is different.
+    F: My book _is different_.
+
+    O: 남자가 이것과 저것을 이어요.
+    E: A man connects this and that over there.
+    F: A man _connects this and that over there_.
+
+> Four
+    O: 열쇠는 저래요.
+    E: Keys are like that over there.
+    F: _Keys_ are like that over there.
+
+    O: 제 음악은 이래요.
+    E: My{s} music is like this.
+    F: _My{s} music_ is like this.
+
+    O: 날씨가 그래요. 
+    E: The weather is like that.
+    F: The weather _is like that_.
+
+    O: 저 남자는 잘 일해요.
+    E: That man over there works well.
+    F: _That man over there_ works well.
+
+    O: 학생들이 건강해요.
+    E: The students are healthy.
+    F: The students _are healthy_.
+
+    O: 사람들이 비슷해요.
+    E: The people are similar.
+    F: The people _are similar_.
+
+    O: 이 학생은 저렇지 않아요.
+    E: This student is not{l} like that over there.
+    F: _This student_ is not{l} like that over there.
+
+    O: 이것과 저것은 비슷하지 않아요.
+    E: This and that over there are not{l} similar.
+    F: _This and that over there_ are not{l} similar.
+
+    O: 저의 집은 그렇지 않아요.
+    E: My house is not{l} like that.
+    F: _My house_ is not{l} like that.
+
+    O: 저는 이렇지 않아요.
+    E: I am not{l} like this.
+    F: _I_ am not{l} like this.
+
+    O: 날씨가 추워요.
+    E: The weather is cold.
+    F: The weather _is cold_.
+
+    O: 저것은 저래요.
+    E: That over there is like that over there.
+    F: _That over there_ is like that over there.
+
+    O: 그 빵은 그래요.
+    E: That bread is like that.
+    F: _That bread_ is like that.
+
+    O: 저는 길을 이어요.
+    E: I connect the road.
+    F: _I_ connect the road.
+
+    O: 저는 이 가수를 몰라요.
+    E: I do not know this singer.
+    F: _I_ do not know this singer.
+
+    O: 여기는 날씨가 나빠요.
+    E: The weather is bad here.
+    F: The weather is bad _here_.
+    
+    O: 그 개가 사라져요.  
+    E: That dog disappears.
+    F: That dog _disappears_.
+
+    O: 남자아이가 자동차에서 내려요.
+    E: The boy gets out of the car.
+    F: The boy _gets out of the car_.
+
+    O: 그것은 나무예요.
+    E: That is a tree.
+    F: _That_ is a tree.
+
+    O: 그 책이 맞아요.
+    E: That book is right. 
+    F: That book _is right_. 
+
+    O: 남자는 울지 않아요.
+    E: The man does not cry.
+    F: _The man_ does not cry.
+
+    O: 그 텔레비전은 사라져요.
+    E: That television disappears.
+    F: _That television_ disappears.

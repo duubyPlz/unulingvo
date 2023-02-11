@@ -1,0 +1,59 @@
+= TTMIK 2.21 - More.. than… / -보다 더 ==
+* s ➔ short
+* l ➔ long
+
+    O: 더 빠르다
+    E: to be faster
+
+    O: 더 비싸다
+    E: to be more expensive
+
+    O: 더 예뻐요.
+    E: It is prettier. / You are prettier. / She is prettier.
+
+    O: 수박은 사과보다 더 커요.
+    E: A watermelon is bigger than an apple.
+    F: _A watermelon_ is bigger than an apple.
+
+    O: 이거보다 더 커요.
+    E: It is bigger than this one.
+
+    O: 더 좋다
+    E: to be nicer (a thing)
+
+    O: 더 좋아요.
+    E: It is nicer (a thing).
+
+    O: 이거보다 더 좋아요.
+    E: It is nicer (a thing) than this one.
+
+    O: 더 착하다 
+    E: to be nicer (a person)
+
+    O: 현우 씨는 더 착해요.
+    E: Hyunwoo is nicer.
+    F: _Hyunwoo_ is nicer.
+
+    # 현우 씨는 경은 씨보다 착해요.
+    O: 현우 씨는 경은 씨보다 더 착해요.
+    E: Hyunwoo is nicer than Kyeong-eun. 
+    F: _Hyunwoo_ is nicer than Kyeong-eun. 
+
+    O: 오늘은 어제보다 더워요. 
+    E: Today is hotter{s} than yesterday.
+    F: _Today_ is hotter{s} than yesterday.
+
+    O: 영어는 한국어보다 어려워요.
+    E: English is more{s} difficult than Korean.
+    F: _English_ is more{s} difficult than Korean.
+
+    O: 어제보다 일찍 갈 거예요.
+    E: I will go earlier{s} than yesterday.
+
+    O: 현정 씨가 저보다 더 잘해요
+    E: Hyeonjeong is better than me (at doing that).
+    F: Hyeonjeong _is better than me (at doing that)_.
+
+    O: 저는 책을 읽는 것보다 사는 것을 더 좋아해요.
+    E: I like buying{l} books more than reading{l} books.
+    F: _I_ like buying{l} books more than reading{l} books.

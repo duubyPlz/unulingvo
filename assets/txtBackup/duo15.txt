@@ -1,0 +1,144 @@
+== Questions ==
+> One
+    O: Kiu estas tie?
+    E: Who is there?
+
+    O: Tiu ĉi lando havas bonan kafon.
+    E: This country has good coffee.
+
+    O: Kiam ŝi manĝas oranĝojn?
+    E: When does she eat oranges?
+
+    O: Ĉi tiuj aŭtoj estas bonaj.
+    E: These cars are good.
+
+    O: Kiu trinkas sukon kun glacio?
+    E: Who drinks juice with ice?
+
+    O: Kiu estas vi?
+    E: Who are you?
+
+    O: Kiu estas ĉi tiu virino, kiu dormas ĉi tie?
+    E: Who is this woman who sleeps here?
+
+    O: Kiu estas tie?
+    E: Who is there?
+
+    O: Kiom da litroj da akvo estas tie?
+    E: How many litres of water is there?
+
+    O: Kiam vi dancas kune?
+    E: When do you dance together?
+
+    O: Mi ne scias, kiu li estas.
+    E: I don't know who he is.
+
+    O: Kie estas mia aŭto? Ĝi ne estas tie.
+    E: Where is my car? It is not there.
+
+    O: Ĉu tiu estas la via aŭ la mia?
+    E: Is that yours or mine?
+
+    O: Kiam li legas ĵurnalon?
+    E: When does he read a newspaper?
+
+    O: Ĉu jes aŭ ne?
+    E: Yes or no?
+
+    O: Ni loĝas tie ĉi.
+    E: We live here.
+
+    O: Tiu malgranda besto estas kuniklo.
+    E: That small animal is a rabbit.
+
+    O: Kiun koloron havas la aŭto, kiun li volas aĉeti?
+    E: What is the color of the car he wants to buy?
+
+    O: Tiu ĉi esperantisto ne parolas la anglan.
+    E: This esperanto speaker doesn't speak English.
+
+> Two
+    O: Ili demandas, kaj ni respondas.
+    E: They ask and we answer.
+
+    O: Kial ne?
+    E: Why not?
+
+    O: Kio estas ĉi tiu afero?
+    E: What is this thing?
+
+    O: Vi ne scias kion diri.
+    E: You don't know what to say.
+
+    O: Ili demandas nin pri niaj gepatroj.
+    E: They ask us about our parents.
+
+    O: La afero ne estas grava.
+    E: The thing isn't important.
+
+    O: Ĉu vi povas respondi la leteron?
+    E: Can you reply to the letter?
+
+    O: Pri kio ni parolas?
+    E: What are we talking about?
+
+    O: Tio ne estas via afero.
+    E: That is not your thing.
+
+    O: Pri kio vi parolas?
+    E: What are you talking about?
+
+    O: Ĉu vi povas diri al mi, kial vi faras tion?
+    E: Can you tell me why you are doing that?
+
+    O: Li skribas libron pri Francio.
+    E: He writes a book about France.
+
+    O: Kion ili demandas al ni?
+    E: What are they asking us?
+
+    O: Kial ne mendi pli da picoj?
+    E: Why not order more pizzas?
+
+> Three
+    O: Ĉu vi scias la respondon?
+    E: Do you know the answer?
+
+    O: La demando de la instruisto estas tre facila.
+    E: The teacher's question is very easy.
+
+    O: Miaj gepatroj iras kien ili volas.
+    E: My parents go where they want.
+
+    O: Kies libro estas tiu?
+    E: Whose book is that?
+
+    O: Kies estas tio?
+    E: Whose is that?
+
+    O: Io estas en la domo. Ĉu vi vidas ĝin?
+    E: Something is in the house. Do you see it?
+
+    O: La instruisto havas mapon.
+    E: The teacher has a map.
+    
+    O: La respondo ne estas facila.
+    E: The answer is not easy.
+
+    O: Kien Sofia iras?
+    E: Where is Sofia going?
+
+    O: Ŝi demandas al mi, ĉu mi havas panon
+    E: She asks me whether I have bread.
+
+    O: Kies aŭto estas tiu?
+    E: Whose car is that?
+
+    O: Kien Adamo iras? Li iras al Ĉinio.
+    E: Where is Adamo going? He is going to China.
+
+    O: Kiu volas manĝi tiun pomon?
+    E: Who wants to eat that apple?
+
+    O: Instruistoj ofte havas demandojn, sed infanoj ne ofte havas respondojn.
+    E: Teachers often have questions, but children don't often have answers.

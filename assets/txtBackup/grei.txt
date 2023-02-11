@@ -1,0 +1,36 @@
+== Exercise 4A ==
+    O: δοξαν παρα ἀνθρωπων οὐ λαμβανω.
+    E: I am not receiving glory from people.
+
+    O: πιστευεις εἰς τον υἱον του ἀνθρωπου;
+    E: Do you believe in the son of man?
+
+    O: ὁ κυριος λεγει αὐτοις* Που αὐτους ἀγετε;
+    E: The Lord is saying to them,'Where are you leading them?'
+
+    O: ὁ Πετρος διδασκει αὐτους περι της βασιλειας παρα τοις πλοιοις.
+    E: Peter is teaching them about the kingdom beside the boats.
+
+    O: ἀναβλεπομεν εἰς τον οὐρανον ἐνωπιον του ἱερου.
+    E: We are looking up into heaven in front of the temple.
+
+    O: ὁ Ἰησους ἐκβαλλει τα δαιμονια ἐκ του ἀνθρωπου λογῳ.
+    E: Jesus is casting demons out of the person with a word.
+
+    O: περιπατω ὑπο ἁμαρτιαν και κατα του νομου του θεου.
+    E: I am living under sin and against God's law.
+
+    O: ὁ Πετρος συναγει την ἐκκλησιαν εἰς τον οἰκον της ἀδελφης του Ἰακωβ.
+    E: Peter is gathering the church into the house of Jabcob's sister.
+
+    O: ὑπαγομεν προς την θαλασσαν.
+    E: We are departing towards the sea.
+
+    O: παρακαλειτε τους ἀδελφους ἐν κυριῳ.
+    E: You are exhorting the brothers in the Lord.
+
+    O: τηρεις το σαββατον δια τον νομον;
+    E: Do you keep the Sabbath because of the law?
+
+    O: οἱ ἀνθρωποι ἐν τῳ πλοιῳ προσκυνουσιν τῳ κυριῳ.
+    E: The people in the boat are worshipping the Lord.

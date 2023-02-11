@@ -1,0 +1,57 @@
+== TTMIK 2.24 - Still not, Already / 아직, 벌써 ==
+    # 이미 - You + speaker know about something already and talk
+about it
+    # 벌써 - You're just finding out as you speak
+
+    O: 아직 열시예요. 
+    E: It’s still 10 o’clock.
+
+    O: 아직 안 했어요.
+    E: (I) haven’t done it yet.
+
+    O: 아직 아침이에요.
+    E: It’s still morning. 
+
+    O: 아직 몰라요.
+    E: (I) don’t know yet.
+
+    O: 아직 몰라요?
+    E: You don’t know yet?
+
+    O: 아직도 몰라요?
+    E: You still{l} don’t know?; How could you still not know?
+
+    O: 아직 안 왔어요?
+    E: He’s not here yet?
+
+    O: 네, 아직도 안 왔어요.
+    E: Yes, he’s still{l} not here. 
+
+    O: 벌써 세 시예요
+    E: It’s already three o’clock.
+
+    O: 세 시예요, 벌써!
+    E: It’s three o’clock, already!
+
+    O: 벌써 왔어요? 
+    E: (Oh,) you are already here!
+
+    O: 벌써 끝났어요?
+    E: Is it already over? Did it already finish?
+
+    O: 그 사람은 이미 학교를 졸업했어요. 
+    E: That person already graduated from school. (only a statement)
+    F: _That person_ already graduated from school. (only a statement)
+
+    O: 그 사람은 벌써 학교를 졸업했어요!
+    E: That person already graduated from school! (shocked)
+    F: _That person_ already graduated from school! (shocked)
+
+    O: 벌써 비가 오고 있어요.
+    E: It is already raining (continuous).
+
+    O: 벌써 추워요.
+    E: It is already cold.
+
+    O: 벌써 끝났어요.
+    E: It is already over.

@@ -1,0 +1,12 @@
+== 時 ==
+    O: 時晴時雨
+    E: Sometimes sunny sometimes rainy @four-words
+
+    O: 幾時?
+    E: When?
+
+    O: 幾時放學呀?
+    E: When is school over??
+
+    O: 我而家冇時間食嘢。
+    E: I don't have time to eat right now.

@@ -1,0 +1,77 @@
+== TTMIK 4.29 - To gradually get to do / -게 되다, 하게 되다 ==
+* p -> past
+* d -> do
+* s -> short
+
+    # {#RELATED Level 4 Lesson 28}: To become + adjective / To gradually get to be / -(아/어/여)지다
+    
+    * 4.28 - To gradually get to be
+    * 4.29 - To gradually get to do
+    
+    * Meaning:
+      * -게 - in order to / so that
+      * 되다 - to become
+      * -게 되다 - to gradually/eventually get to do
+        * 1. Transition from state A ➔ B, via the verb
+        * 2. Unexpectedly doing something
+       
+    * Variations:
+      * -게 될 거예요 Future, confidence what will happen in future
+  
+    O: 하게 되다
+    E: to eventually do
+
+    O: 알게 되다
+    E: to eventually know
+
+    O: 안 먹고 싶어요. 그런데 먹게 돼요.
+    E: I do not{s} want to eat it. But I end up eating it.
+
+    O: 지난주에 영화를 봤어요.
+    E: I saw a movie last week.
+
+    # (I was not planning to in the first place, but) I got to see a movie last week.
+    O: 지난주에 영화를 보게 됐어요.
+    E: I ended up seeing a movie last week.
+
+    O: 그렇게 하게 될 거예요.
+    E: You will eventually end up doing it that way.
+
+    O: 오게 될 거예요.
+    E: He will eventually come here.
+    
+    # 도와 달라다 - call for help
+    O: 도와 달라고 하게 될 거예요.
+    E: He will eventually go{d} and ask for my help. 🤔
+    
+    # 예문 - examples
+    O: 예문 보게 될 거예요.
+    E: You will eventually look at examples{s}. 🤔
+
+    O: 내일 알게 될 거예요.
+    E: You will eventually find out tomorrow.
+
+    O: 다 사게 됐어요.
+    E: I ended up buying everything.
+    
+    O: 다 사게 됐어요.
+    E: I ended up being able to buy everything.
+
+    # (Things happened so that) I can go{p} back to school again.
+    O: 다시 학교에 다니게 됐어요.
+    E: I ended up attending school again.
+
+    O: 어떻게 여기에 오게 됐어요?
+    E: How did you get to come here? / How did you end up here?
+
+    O: 만나게 되면 말해 주세요.
+    E: If you get to meet him, tell me.
+
+    O: TTMIK 어떻게 알게 됐어요?
+    E: How did you get to know (about) TTMIK{s}? 🤔
+
+    O: 연습하게 될 거예요.
+    E: You will end up practicing. 🤔
+
+    O: 다시 듣게 될 거예요.
+    E: You will eventually listen (to us) again. 🤔

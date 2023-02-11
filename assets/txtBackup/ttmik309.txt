@@ -1,0 +1,66 @@
+== TTMIK 3.9 - To seem/look like (verbs) / -ㄴ 것 같아요 ==
+* s -> short
+* st -> story
+
+    # {#RELATED Level 2 Lesson 19}: -는 것
+    # -ㄴ 것 같아요: descriptive
+    # -는 것 같아요: action present
+    # -ㄹ 것 같아요: future descriptive/active
+
+    O: 커피 같아요.
+    E: It looks like coffee. / I think it is coffee.
+
+    O: 저 사람 소연 씨 같아요.
+    E: That person{s} (over there) looks like So-yeon. / I think that person is So-yeon.
+
+    # Descriptive
+    O: 예쁜 것
+    E: something pretty; being pretty; the thing that is pretty
+
+    # Action present
+    O: 말하는 것
+    E: talking; what one is saying; the act of talking
+
+    # Action past
+    O: 말한 것
+    E: what one said; the fact that one talked
+
+    # Action future
+    O: 말할 것
+    E: what one will say; the fact that one will talk
+
+    O: 이상한 것 같아요.
+    E: It seems to be strange. / I think it is strange.
+
+    O: 눈이 오는 것 같아요.
+    E: It seems to be snowing. / I think it is snowing.
+
+    O: 눈이 올 것 같아요.
+    E: I think it will snow. / It seems like it will snow.
+
+    O: 이야기한 것 같아요.
+    E: I think they told{st} them. / It looks like they talked.
+
+    O: 이야기할 것 같아요.
+    E: I think they will talk{st}. / It seems like they will talk.
+
+    O: 이야기하는 것 같아요.
+    E: I think they are talking{st}. / They seem to talk to each other.
+
+    O: 여기 비싼 것 같아요.
+    E: I think it's expensive here. / This (place) seems to be expensive.
+
+    # 그렇다 - to be that way
+    O: 그런 것 같아요.
+    E: I think so. / It seems to be so. / It looks like it.
+
+    O: 이 영화 재미있을 것 같아요.
+    E: I think this movie{s} will be interesting. / This movie looks like it will be interesting (to watch).
+
+    # I think I bought this bag here.
+    O: 이 가방, 여기에서 산 것 같아요.
+    E: I think I bought this bag from here.
+
+    # 아마: possibly, probably
+    O: 아마 안 할 것 같아요.
+    E: I think I probably will not do it. / It looks like we are probably not going to do it.

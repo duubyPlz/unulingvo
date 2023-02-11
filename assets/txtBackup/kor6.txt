@@ -1,0 +1,197 @@
+== Demonstratives ==
+> One
+    O: 그 여자
+    E: That woman
+
+    O: 이 카메라
+    E: This camera
+
+    O: 이것, 그것, 저것
+    E: This thing, that thing, that thing over there
+
+    O: 저 사람
+    E: That person over there
+
+    O: 이 사과
+    E: This apple
+
+    O: 저것은 집입니다.
+    E: That is a house.
+    F: _That_ is a house.
+
+    O: 이 책상이 큽니다.
+    E: This desk is big.
+    F: This desk _is big_.
+
+    O: 그 카메라는 비쌉니다.
+    E: That camera is expensive.
+    F: _That camera_ is expensive.
+
+    O: 저는 이것을 먹습니다.
+    E: I eat this thing.
+    F: _I_ eat this thing.
+
+    O: 그 사람
+    E: That person
+
+    O: 이 여자
+    E: This woman
+
+    O: 그 사람은 남자입니다.
+    E: That person is a man.
+    F: _That person_ is a man.
+
+    O: 저 카메라
+    E: That camera over there
+
+    O: 이것은 책상입니다.
+    E: This is a desk.
+    F: _This_ is a desk.
+
+    O: 그 연필은 작습니다.
+    E: That pencil is small.
+    F: _That pencil_ is small.
+
+    O: 이 학생
+    E: This student
+
+    O: 호텔이 비쌉니다.
+    E: The hotel is expensive.
+    F: The hotel _is expensive_.
+
+    O: 아이들이 저 건물로 달립니다.
+    E: The children run to that building.
+    F: The children _run to that building_.
+
+    O: 그것은 개입니다.
+    E: That is a dog.
+    F: _That_ is a dog.
+
+    O: 그 남자가 저것을 읽습니다.
+    E: That man reads that over there.
+    F: That man _reads that over there_.
+
+    O: 저 사람
+    E: That person over there
+
+    O: 여자가 저것을 마십니다.
+    E: The woman drinks that over there.
+    F: The woman _drinks that over there_.
+
+> Two
+    O: 남자가 이쪽으로 옵니다.
+    E: The man comes this way.
+    F: The man _comes this way_.
+
+    O: 그쪽
+    E: That way
+
+    O: 이 식당은 큽니다.
+    E: This restaurant is big.
+    F: _This restaurant_ is big.
+
+    O: 저기
+    E: Over there
+
+    O: 이쪽, 그쪽, 저쪽
+    E: This way, that way, that way over there
+
+    O: 식당은 여기에 있습니다.
+    E: The restaurant is here.
+    F: _The restaurant_ is here.
+
+    # This place, that place, that place over there
+    O: 여기, 거기, 저기
+    E: Here, there, over there
+
+    O: 여기는 호텔입니다.
+    E: This is a hotel.
+    F: _This_ is a hotel.
+
+    O: 남자가 화장실에 있습니다.
+    E: The man is in the bathroom.
+    F: The man _is in the bathroom_.
+
+    O: 화장실은 이쪽에 있습니다.
+    E: The bathroom is this way.
+    F: _The bathroom_ is this way.
+
+    # It is over there.
+    O: 그것은 저쪽에 있습니다.
+    E: That is over there (direction).
+    F: _That_ is over there (direction).
+
+    O: 이것은 거기에 있습니다.
+    E: This is there.
+    F: _This_ is there.
+
+    O: 이것은 저쪽에 있습니다.
+    E: This is over there (direction).
+    F: _This_ is over there (direction).
+   
+    O: 저의 여자는 저기에 있습니다.
+    E: My woman is over there.
+    F: _My woman_ is over there.
+
+> Three
+    O: 침대는 음식입니다.
+    E: A bed is food.
+    F: _A bed_ is food.
+
+    O: 저는 저편으로 갑니다.
+    E: I go in that (over there) direction.
+    F: _I_ go in that (over there) direction.
+
+    O: 이편, 그편, 저편
+    E: This side, that side, that side over there
+
+    O: 이만큼, 그만큼, 저만큼
+    E: This much, that much, that much over there
+
+    O: 가수가 가방을 방에서 던집니다.
+    E: The singer throws a bag in the room.
+    F: The singer _throws a bag in the room_.
+
+    O: 저는 저만큼 한국어를 합니다.
+    E: I speak Korean to that (over there) extent.
+    F: _I_ speak Korean to that (over there) extent.
+
+    O: 그 나무는 그만큼 높습니다.
+    E: That tree is that tall.
+    F: _That tree_ is that tall.
+
+    O: 그 여자아이의 가방은 그만큼 쌉니다.
+    E: That girl's bag is that cheap.
+    F: _That girl's bag_ is that cheap.
+
+    O: 저 여자는 키가 이만큼 큽니다.
+    E: That woman over there is this tall.
+    F: _That woman_ over there is this tall.
+
+    O: 저 여자가 저 침대를 저편으로 던집니다.
+    E: That woman (over there) throws that bed (over there) in that direction (over there).
+    F: That woman (over there) _throws that bed (over there) in that direction (over there)_.
+
+    O: 저의 가방은 저만큼 큽니다.
+    E: My bag is that (over there) big.
+    F: _My bag_ is that (over there) big.
+
+    O: 이것은 건물이 아닙니다.
+    E: This is not a building.
+    F: _This_ is not a building.
+
+    O: 저는 그쪽으로 갑니다. 
+    E: I go that way.
+    F: _I_ go that way.
+
+    O: 그 나무는 그만큼 높습니다.
+    E: That tree is that tall.
+    F: _That tree_ is that tall.
+
+    O: 이 아이와 이 고양이가 같이 이편으로 달립니다.
+    E: This child and this cat run in this direction together.
+    F: This child and this cat _run in this direction together_.
+
+    O: 침대는 이만큼 큽니다.
+    E: A bed is this big.
+    F: _A bed_ is this big.

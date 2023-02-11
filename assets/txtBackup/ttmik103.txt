@@ -1,0 +1,6 @@
+== TTMIK 1.3 - Good-bye. See you. / 안녕히 가세요. 안녕히 계세요. 안녕. ==
+    O: 안녕히 계세요.
+    E: Goodbye (stay in peace).
+
+    O: 안녕히 가세요.
+    E: Goodbye (go in peace).

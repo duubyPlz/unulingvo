@@ -1,0 +1,51 @@
+== TTMIK 3.13 - Adjectives Descriptive / Making Adjectives Descriptive Verbs + -ㄴ 명사 / -ㄴ|-은 ==
+* s -> short
+
+    # desc_verb + 다 -> to be desc_verb (Not just desc_verb)
+    # &there4; the *to be* part = infinitive
+    # &there4; to use the actual adjective form = add -ㄴ|-은
+
+    # For "It is...", just use infinitive form.
+
+    O: 작은 집
+    E: a small house
+
+    O: 빠른 차
+    E: a fast car
+
+    O: 조용한 방
+    E: a quiet room
+
+    O: 비싼 컴퓨터
+    E: an expensive computer
+
+    O: 하얗다. 하얀.
+    E: To be white. White (adjective).
+
+    O: 그렇다. 그런.
+    E: To be like-that. Like-that (adjective) / such.
+
+    O: 달다. 단.
+    E: To be sweet. Sweet (adjective).
+
+    O: 좋은 아이디어예요.
+    E: It is a good idea.
+
+    O: 이상한 사람이에요.
+    E: He is a strange person.
+
+    O: 더 작은 가방 있어요?
+    E: Do you have a smaller bag?
+
+    O: 차가운 커피 마시고 싶어요.
+    E: I want to drink some cold coffee{s}.
+
+    O: 나쁜 사람이에요
+    E: He is a bad person.
+
+    # Nice person.
+    O: 좋은 사람
+    E: Good person
+
+    O: 재미있는 게임
+    E: Fun game

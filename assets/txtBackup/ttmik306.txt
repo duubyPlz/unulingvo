@@ -1,0 +1,30 @@
+== TTMIK 3.6 - Future Tenses / So I will~ / -(으)ㄹ 거예요 vs -(으)ㄹ게요 ==
+* s -> short
+
+    # -(으)ㄹ게요 - action/decision as a reaction.
+    # 1. Deciding according to what someone said.
+        # "In that case..."
+    # 2. Say this before others speak -> wait for their reaction.
+        # "I will go ahead and do..., if you don't veto it."
+
+    O: 방해하지 마세요. 공부할 거예요.
+    E: Do not disturb me. I will study.
+
+    O: 공부할게요.
+    E: (If you say so,) I will study. / So I will study. / (Since the circumstances are like this,) I will study. / (If you do not mind,) I will study.
+
+    O: 저도 갈게요.
+    E: (In that case) I will go too. / I will come along, too (if you do not mind). / (In that case,) I will go there, too. / (Okay, since you say so,) I will go, too.
+
+    O: 지금 어디예요? 지금 나갈게요.
+    E: Where are you now? (I) will go out now. (+ if you do not mind / if you want me to / unless you do not want me to / what do you think about that?)
+
+    O: 저 갈게요. 안녕히 계세요.
+    E: I{s} am going to go. Goodbye. (+ unless you want me to stay longer / unless there is something I have to stay longer to do)
+
+    O: 그래요? 다시 할게요.
+    E: Is that so? I will do it again.
+
+    # If instead you said "내일 4시쯤에 갈 거예요" - doing it regardless of others' opinion.
+    O: 내일 네시쯤에 갈게요. 괜찮아요?
+    E: I will go (there) at around four o’clock tomorrow. Is that alright?

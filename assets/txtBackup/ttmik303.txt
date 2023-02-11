@@ -1,0 +1,59 @@
+== TTMIK 3.3 - In front of, Behind, On top of, Under, Next to / 앞에, 옆에, 위에, 밑에, 뒤에 ==
+* l -> long
+* o -> object
+
+    # ~에: more accurate, location-marking particle
+    # 어디에 있어요? 
+    O: 어디 있어요? 
+    E: Where is it? / Where are you? / Where are they?
+
+    O: 현우 씨, 어디에 있어요? 
+    E: Hyunwoo, where{l} are you?
+
+    O: 어디 있었어요?
+    E: Where were you? / Where have you been?
+
+    O: 어디 있을 거예요?
+    E: Where will you be? / Where are you going to be?
+
+    O: 친구를 어디에서 만날 거예요?
+    E: Where are you going to meet (your) friends{o}?
+
+    O: 은행 앞에서 만날 거예요.
+    E: I’m going to meet (them) in front of the bank.
+
+    # -에: **status** of a person/object
+    # -에서: actions/behaviors, actively **happening**
+
+    O: 은행 뒤에서 만날 거예요.
+    E: I’m going to meet (them) behind the bank.
+
+    O: 은행 옆에서 만날 거예요.
+    E: I’m going to meet (them) beside the bank.
+
+    O: 소파 위에서 자고 있어요.
+    E: I’m sleeping on the sofa.
+
+    O: 나무 밑에서 책을 읽고 있어요.
+    E: I’m reading a book{o} under the tree.
+
+    O: 자동차 앞에 있어요.
+    E: It is in front of the car.
+
+    O: 자동차 뒤에 있어요.
+    E: It is behind the car.
+
+    O: 자동차 옆에 있어요.
+    E: It is next to the car.
+
+    O: 자동차 위에 있어요.
+    E: It is on top of the car.
+
+    O: 자동차 밑에 있어요.
+    E: It is under the car.
+
+    O: 나무 뒤에 숨어 있었어요.
+    E: I have been hiding behind the tree.
+
+    O: 문 앞에서 통화하고 있었어요.
+    E: I was talking on the phone in front of the door.

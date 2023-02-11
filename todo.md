@@ -8,3 +8,6 @@
 - [ ] top-panel functionality
 - [ ] lesson randomiser
 - [ ] search bar logic
+- [ ] Implement images for multiple lessons, in `populateTopPanel()`
+
+<!-- for i in old*; do mv "$i" "${i/#old/new}"; done -->

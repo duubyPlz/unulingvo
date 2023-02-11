@@ -1,0 +1,457 @@
+== Adjectives ==
+> One
+    O: 자동차가 많습니다.
+    E: There are many cars.
+    F: _There are many_ cars.
+
+    O: 길이 짧습니다.
+    E: The road is short.
+    F: The road _is short_.
+
+    O: 여자는 좋습니다.
+    E: Women are good.
+    F: _Women_ are good.
+
+    O: 아니요, 저는 나쁩니다.
+    E: No, I am bad.
+    F: No, _I_ am bad.
+
+    O: 물건이 작습니다.
+    E: The thing is small.
+    F: The thing _is small_.
+
+    O: 영화가 깁니다.
+    E: The movie is long.
+    F: The movie _is long_.
+
+    O: 공들이 많습니다.
+    E: There are many balls.
+    F: _There are many_ balls.
+
+    O: 사과가 나쁩니다.
+    E: The apple is bad.
+    F: The apple _is bad_.
+
+    O: 영화가 짧습니다.
+    E: The movie is short.
+    F: The movie _is short_.
+
+    O: 빵이 작습니다.
+    E: The bread is small.
+    F: The bread _is small_.
+
+    O: 책이 깁니다.
+    E: The book is long.
+    F: The book _is long_.
+
+    O: 예, 사람들은 나쁩니다.
+    E: Yes, people are bad.
+    F: Yes, _people_ are bad.
+
+    O: 친구들은 좋습니다.
+    E: Friends are good.
+    F: _Friends_ are good.
+
+    O: 사람들이 많습니다.
+    E: There are a lot of people.
+    F: _There are a lot of_ people.
+
+    O: 연필이 짧습니다.
+    E: The pencil is short.
+    F: The pencil _is short_.
+
+    O: 길이 깁니다.
+    E: The road is long.
+    F: The road _is long_.
+
+    O: 집은 큽니다.
+    E: A house is big.
+    F: _A house_ is big.
+
+    O: 공들이 큽니다.
+    E: The balls are big.
+    F: The balls _are big_.
+
+    O: 학교가 좋습니다.
+    E: The school is good.
+    F: The school _is good_.
+
+    O: 저 카메라
+    E: That camera over there
+
+    O: 이 사과
+    E: This apple
+
+    O: 저것은 개입니다.
+    E: That (over there) is a dog.
+    F: _That (over there)_ is a dog.
+
+    O: 그 사람은 남자입니다.
+    E: That person is a man.
+    F: _That person_ is a man.
+
+    O: 저것은 집입니다.
+    E: That (over there) is a house.
+    F: _That (over there)_ is a house.
+
+    O: 저 사람은 남자입니다.
+    E: That (over there) person is a man.
+    F: _That (over there) person_ is a man.
+
+    O: 저 건물이 큽니다.
+    E: That (over there) building is big.
+    F: That (over there) building _is big_.
+
+    O: 여자아이가 그 책상에 앉습니다.
+    E: The girl sits at that desk.
+    F: The girl _sits at that desk_.
+
+    O: 그것은 개입니다.
+    E: That is a dog.
+    F: _That_ is a dog.
+    
+> Two
+    O: 물건이 뜨겁습니다
+    E: The thing is hot.
+    F: The thing _is hot_.
+
+    O: 남자는 빠릅니다.
+    E: A man is fast.
+    F: _A man_ is fast.
+
+    O: 사과는 가볍습니다.
+    E: An apple is light.
+    F: _An apple_ is light.
+
+    O: 책이 쌉니다.
+    E: The book is cheap.
+    F: The book _is cheap_.
+    
+    O: 남자의 신문이 무겁습니다.
+    E: The man's newspaper is heavy.
+    F: The man's newspaper _is heavy_.
+
+    O: 여자의 자동차가 느립니다.
+    E: The woman's car is slow.
+    F: The woman's car _is slow_.
+
+    O: 차가 차갑습니다.
+    E: The car{s} is cold to touch.
+    F: The car{s} _is cold to touch_.
+
+    O: 음식이 비쌉니다.
+    E: The food is expensive.
+    F: The food _is expensive_.
+
+    O: 물건이 차갑습니다.
+    E: The thing is cold.
+    F: The thing _is cold_.
+
+    O: 빵이 쌉니다.
+    E: The bread is cheap.
+    F: The bread _is cheap_.
+
+    O: 저는 느립니다.
+    E: I am slow.
+    F: _I_ am slow.
+
+    O: 빵이 가볍습니다.
+    E: The bread is light.
+    F: The bread _is light_.
+
+    O: 학생의 책들이 무겁습니다.
+    E: The student's books are heavy.
+    F: The student's books _are heavy_.
+
+    O: 자동차가 빠릅니다.
+    E: The car is fast.
+    F: The car _is fast_.
+
+    O: 빵이 뜨겁습니다.
+    E: The bread is hot.
+    F: The bread _is hot_.
+
+    O: 자동차가 비쌉니다.
+    E: The car is expensive.
+    F: The car _is expensive_.
+
+    O: 여자가 무겁습니다.
+    E: The woman is heavy.
+    F: The woman _is heavy_.
+
+    O: 방이 쌉니다.
+    E: The room is cheap.
+    F: The room _is cheap_.
+
+    O: 빵이 차갑습니다.
+    E: The bread is cold.
+    F: The bread _is cold_.
+
+> Three
+    # The TTS says [나씀니다], which is what you are most likely to hear from native speakers when they speak fast, but [낟씀니다] is correct.
+    O: 장소가 낮습니다.
+    E: The place is low.
+    F: The place _is low_.
+
+    O: 방이 덥습니다.
+    E: The room is hot.
+    F: The room _is hot_.
+
+    O: 저의 방이 좁습니다.
+    E: My room is narrow.
+    F: My room _is narrow_.
+
+    O: 한국은 춥습니다.
+    E: Korea is cold.
+    F: _Korea_ is cold.
+
+    O: 학교가 높습니다.
+    E: The school is tall.
+    F: The school _is tall_.
+
+    O: 방이 넓습니다.
+    E: The room is wide.
+    F: The room _is wide_.
+    
+    O: 장소가 덥습니다.
+    E: The place is hot.
+    F: The place _is hot_.
+
+    O: 산이 높습니다.
+    E: The mountain is high.
+    F: The mountain _is high_.
+
+    O: 길이 좁습니다.
+    E: The road is narrow.
+    F: The road _is narrow_.
+
+    O: 집이 좁습니다.
+    E: The house is small.
+    F: The house _is small_.
+
+    O: 학교가 낮습니다.
+    E: The school is low.
+    F: The school _is low_.
+
+    O: 한국이 덥습니다.
+    E: Korea is hot.
+    F: Korea _is hot_.
+
+    O: 저는 덥습니다.
+    E: I am hot.
+    F: _I_ am hot.
+
+> Four
+    O: 여자가 날씬합니다.
+    E: The woman is thin.
+    F: The woman _is thin_.
+
+    O: 바다가 더럽습니다.
+    E: The sea is dirty.
+    F: The sea _is dirty_.
+
+    O: 저는 뚱뚱합니다.
+    E: I am fat.
+    F: _I_ am fat.
+
+    O: 여자는 예쁩니다.
+    E: A woman is pretty.
+    F: _A woman_ is pretty.
+
+    O: 아이들이 귀엽습니다.
+    E: The children are cute.
+    F: The children _are cute_.
+
+    O: 한국은 아름답습니다.
+    E: Korea is beautiful.
+    F: _Korea_ is beautiful.
+
+    O: 남자아이는 키가 큽니다.
+    E: The boy is tall.
+    F: _The boy_ is tall.
+
+    O: 아이가 깨끗합니다.
+    E: The child is clean.
+    F: The child _is clean_.
+
+    O: 자동차가 더럽습니다.
+    E: The car is dirty.
+    F: The car _is dirty_.
+
+    O: 가수가 날씬합니다.
+    E: The singer is thin.
+    F: The singer _is thin_.
+
+    O: 저는 귀엽습니다.
+    E: I am cute.
+    F: _I_ am cute.
+
+    O: 고양이가 뚱뚱합니다.
+    E: The cat is fat.
+    F: The cat _is fat_.
+
+    O: 산이 예쁩니다.
+    E: The mountain is pretty.
+    F: The mountain _is pretty_.
+
+    O: 여자들이 아름답습니다.
+    E: The women are beautiful.
+    F: The women _are beautiful_.
+
+    O: 남자는 키가 작습니다.
+    E: The man is short.
+    F: _The man_ is short.
+
+    O: 가수가 예쁩니다.
+    E: The singer is pretty.
+    F: The singer _is pretty_.
+
+    O: 개가 뚱뚱합니다.
+    E: The dog is fat.
+    F: The dog _is fat_.
+
+    O: 공이 더럽습니다.
+    E: The ball is dirty.
+    F: The ball _is dirty_.
+
+    O: 남자의 고양이가 귀엽습니다.
+    E: The man's cat is cute.
+    F: The man's cat _is cute_.
+
+    O: 여자는 키가 큽니다.
+    E: The woman is tall.
+    F: _The woman_ is tall.
+
+> Five
+    O: 저는 바쁩니다.
+    E: I am busy.
+    F: _I_ am busy.
+
+    O: 학생이 게으릅니다.
+    E: The student is lazy.
+    F: The student _is lazy_.
+
+    O: 여자들은 이상합니다.
+    E: Women are strange.
+    F: _Women_ are strange.
+
+    O: 가수가 친절합니다.
+    E: The singer is kind.
+    F: The singer _is kind_.
+
+    O: 저의 친구들은 비열합니다.
+    E: My friends are mean.
+    F: _My friends_ are mean.
+
+    O: 여자아이가 착합니다.
+    E: The girl is nice.
+    F: The girl _is nice_.
+
+    O: 여자아이가 영리합니다.
+    E: The girl is clever.
+    F: The girl _is clever_.
+
+    O: 여자아이가 똑똑합니다.
+    E: The girl is smart.
+    F: The girl _is smart_.
+
+    O: 개가 게으릅니다.
+    E: The dog is lazy.
+    F: The dog _is lazy_.
+
+    O: 개는 영리합니다.
+    E: Dogs are clever.
+    F: _Dogs_ are clever.
+
+    O: 여자가 비열합니다.
+    E: The woman is mean.
+    F: The woman _is mean_.
+
+    O: 책이 이상합니다.
+    E: The book is strange.
+    F: The book _is strange_.
+
+    O: 아이들이 친절합니다.
+    E: The children are kind.
+    F: The children _are kind_.
+
+    O: 학생들이 바쁩니다.
+    E: The students are busy.
+    F: The students _are busy_.
+
+    O: 저는 착합니다.
+    E: I am nice.
+    F: _I_ am nice.
+
+    O: 저는 똑똑합니다.
+    E: I am smart.
+    F: _I_ am smart.
+
+    O: 사람들은 비열합니다.
+    E: People are mean.
+    F: _People_ are mean.
+
+> Six
+    O: 동물들이 아픕니다.
+    E: Animals are ill.
+    F: Animals _are ill_.
+
+    O: 가수가 행복합니다.
+    E: The singer is happy.
+    F: The singer _is happy_.
+
+    O: 아이들이 피곤합니다.
+    E: The children are tired.
+    F: The children _are tired_.
+
+    O: 여자가 슬픕니다.
+    E: The woman is sad.
+    F: The woman _is sad_.
+
+    O: 사람들이 기쁩니다.
+    E: The people are glad.
+    F: The people _are glad_.
+
+    O: 학교는 지루합니다.
+    E: School is boring.
+    F: _School_ is boring.
+
+    O: 여자의 개가 아픕니다.
+    E: The woman's dog is sick.
+    F: The woman's dog _is sick_.
+
+    O: 사람들은 지루합니다.
+    E: People are boring.
+    F: _People_ are boring.
+
+    O: 저는 기쁩니다.
+    E: I am glad.
+    F: _I_ am glad.
+
+    O: 아이들이 기쁩니다.
+    E: The children are glad.
+    F: The children _are glad_.
+
+    O: 저는 슬픕니다.
+    E: I am sad.
+    F: _I_ am sad.
+    
+    O: 저는 피곤합니다.
+    E: I am tired.
+    F: _I_ am tired.
+    
+    O: 고양이가 행복합니다.
+    E: The cat is happy.
+    F: The cat _is happy_.
+
+    O: 가수들이 피곤합니다.
+    E: The singers are tired.
+    F: The singers _are tired_.
+
+    O: 영화가 지루합니다.
+    E: The movie is boring.
+    F: The movie _is boring_.
+
+    O: 저는 아픕니다.
+    E: I am sick.
+    F: _I_ am sick.

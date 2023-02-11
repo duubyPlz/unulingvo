@@ -1,0 +1,95 @@
+== TTMIK 3.21 - Linking Verbs with -는데 / noun + -인데, adjective + -ㄴ데 ==
+* s -> short
+
+    # * -는데: action verbs
+    # * -은/ㄴ데 descriptive verb
+    #   * -ㄴ: vowel, ㄹ (ㄹ gets dropped), 이다 & 아니다
+    # * -인데: noun (noun + 있다 + -ㄴ데 ?)
+
+    # Usages (용법):
+    # 1. Context -> [question|occurred]
+    # 2. Juxtaposition
+    # 3. Exclamation
+    # 4. -는데?$ Question waiting for their explanation
+
+    O: 하는데
+    E: 하다
+
+    O: 있는데
+    E: 있다
+
+    O: 먹는데
+    E: 먹다
+
+    O: 작은데
+    E: 작다
+
+    O: 좁은데
+    E: 좁다
+
+    O: 예쁜데
+    E: 예쁘다
+
+    O: 먼데
+    E: 멀다
+
+    # -그레서- but that sounds a bit unnatural
+    O: 내일 일요일인데, 뭐 할 거예요?
+    E: It is Sunday tomorrow + what are you going to do?
+
+    O: 어제 자고 있었는데, 한국에서 전화가 왔어요. 
+    E: I was sleeping (continuous) yesterday + I got a phone call from Korea (lit: a call from Korea came).
+
+    O: 아직 9시인데 벌써 졸려요.
+    E: It is still 9 o’clock but I am already sleepy.
+
+    O: 준비 많이 했는데요...
+    E: I prepared{s} a lot, but. (sentence ends)
+
+    O: 멋있는데요!
+    E: Oh, (that) is cool!
+
+    O: 지금 어디에 있는데요?
+    E: So where are you now? (Explain yourself)
+
+    O: 지금 어디에 있는데 늦어요?
+    E: So where are you now, that you're late? (Explain yourself)
+
+    O: 지금요? 지금 바쁜데요.
+    E: Now? I am busy now, so...
+
+    O: 지금? 지금 바쁜데.
+    E: Now? I am busy now, so... @impolite
+
+    O: 지금 어디에 있는데?
+    E: So where are you now? (Explain yourself) @impolite
+
+    O: 멋있는데!
+    E: Oh, (that) is cool! @impolite
+
+    O: 준비 많이 했는데...
+    E: I prepared{s} a lot, but. (sentence ends) @impolite
+
+    O: 내일 친구 생일인데, 선물을 아직 못 샀어요.
+    E: It is (my) friend’s{s} birthday tomorrow, but I still haven't bought a present.
+
+    O: 이거 일본에서 샀는데, 선물이에요.
+    E: I bought this in Japan, and it is a present for you.
+
+    O: 오늘 뉴스에서 봤는데, 그거 진짜예요?
+    E: I saw it in the news today. Is that for real?
+
+    O: 이거 좋은데요!
+    E: This is good! / I like this!
+
+    O: 어? 여기 있었는데.
+    E: Huh? It was here{s}... @impolite
+
+    O: 영화 재미있었는데, 무서웠어요.
+    E: The movie{s} was interesting, but it was scary.
+
+    O: 영화 봤는데, 무서웠어요.
+    E: I saw a movie{s}, and it was scary.
+
+    O: 저 지금 학생인데, 일도 하고 있어요.
+    E: I{s} am a student now, but I am also working (continuous).

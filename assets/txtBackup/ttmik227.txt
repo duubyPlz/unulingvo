@@ -1,0 +1,66 @@
+== TTMIK 2.27 - Please do it for me. / -아/어/여 주세요 ==
+* l -> long
+
+    # There is no need to say “저를 위해서" (written-like).
+    # less formally: 줘요 (vs. 주세요).
+
+    O: 오세요.
+    E: Please come.
+
+    O: 와 주세요.
+    E: Please (do me a favor and) come.
+
+    O: 하세요.
+    E: Do it.
+
+    O: 해 주세요.
+    E: Please (do me a favor and) do it for me.
+
+    # Maybe scenario: selling ice cream
+    O: 아이스크림 사세요.
+    E: Buy some ice cream; Buy (yourself) some ice cream; Buy ice cream for your friends.
+
+    O: 아이스크림 사 주세요
+    E: Please buy ME some ice cream.
+
+    O: 저를 도와 주세요!
+    E: Help me{l}!
+
+    O: 가르치세요.
+    E: Teach. / Please teach. (to whom is unknown)
+
+    O: 가르쳐 주세요
+    E: Please teach me.
+
+    O: 경은 씨한테 가르쳐 주세요.
+    E: Please teach Kyeong-eun (how to do that).
+
+    O: 경은 씨한테 스페인어 가르쳐 주세요
+    E: Please teach Kyeong-eun Spanish.
+
+    O: 스페인어 가르쳐 주세요.
+    E: Please teach (me) Spanish.
+
+    O: 보세요.
+    E: See it. / Please see it.
+
+    O: 봐 주세요.
+    E: Please see it, (and I would appreciate it.) / Please be kind and see it.
+
+    O: 이거 봐 주세요. 
+    E: Please (do me a favor and) look at this.
+
+    O: 숙제 봐 주세요.
+    E: Please look at my homework.
+
+    O: 영어를 배우고 있어요. 도와주세요.
+    E: I am learning English. Please help me.
+
+    O: 도와줄 수 있어요?
+    E: Can you help me?
+
+    O: 배고파요. 김밥 사 주세요.
+    E: I am hungry. Buy me some kimbap.
+
+    O: 무서워요. 같이 가 주세요.
+    E: I am scared. Please go with me.

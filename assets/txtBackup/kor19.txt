@@ -1,0 +1,212 @@
+== Compound Verbs ==
+* m -> my
+* sp -> spoken
+* s -> short
+
+> One
+    O: 남자가 돌려줍니다.
+    E: The man returns it. @formal
+    F: The man _returns it_. @formal
+
+    O: 남자에게 자동차를 빌려주세요.
+    E: Lend the man a car. @polite
+
+    O: 저는 친구에게 연필을 빌려줍니다.
+    E: I lend a pencil to my friend. @formal
+    F: _I_ lend a pencil to my friend. @formal
+
+    O: 이 음식을 먹어보세요.
+    E: Try this food please. @polite
+
+    O: 아이는 큰 탁자를 빌려요.
+    E: A child borrows a big table. @polite
+    F: _A child_ borrows a big table. @polite
+
+    O: 그는 소를 도와주지 않아요.
+    E: He does not help the cow. @polite
+    F: _He_ does not help the cow. @polite
+
+    O: 학생들이 서로 도와줘요.
+    E: The students help each other. @polite
+    F: The students _help each other_. @polite
+
+    O: 노래를 해보세요.
+    E: Try to sing. @polite
+
+    O: 여기로 돌려주세요.
+    E: Return it here, please. @polite
+
+    O: 김치를 먹어봅시다.
+    E: Let's try kimchi. @formal
+
+    O: 고양이가 거북이를 돌립니다.
+    E: The cat turns the turtle. @formal
+    F: The cat _turns the turtle_. @formal
+
+    O: 그는 운동을 해봐요.
+    E: He tries to exercise. @polite
+    F: _He_ tries to exercise. @polite
+
+    O: 학생이 의자를 돌려요.
+    E: The student turns the chair. @polite
+    F: The student _turns the chair_. @polite
+
+    O: 제가 책을 빌려요.
+    E: I borrow a book. @polite
+    F: I _borrow a book_. @polite
+
+    O: 게는 상어를 도와줘요.
+    E: A crab helps the shark. @polite
+    F: _A crab_ helps the shark. @polite
+
+    # With regard to the compound verbs, as McPwny mentioned, one is active and the other passive. Essentially, if there is an agent acting on an object (i.e. a dog returning a ball) then the compound verb will contain the root 돌려. If there is no agent acting on the object/subject (i.e. a car comes back) then you use the root 돌아
+    O: 개가 공을 돌려줍니다.
+    E: The dog returns the ball. @formal
+    F: The dog _returns the ball_. @formal
+
+    O: 조용히 생각을 해보세요.
+    E: Try to think quietly. @polite
+
+> Two
+    O: 저는 집을 빌리고 싶어요.
+    E: I want to rent a house. @polite
+    F: _I_ want to rent a house. @polite
+
+    O: 늑대하고 곰은 무서워요.
+    E: Wolves and{sp} bears are scary. @polite
+    F: _Wolves and{sp} bears_ are scary. @polite
+
+    O: 작은 괴물이 아주 무서워요.
+    E: The small monster is very scary. @polite
+    F: The small monster _is very scary_. @polite
+
+    O: 아이가 괴물을 무서워해요.
+    E: The child is afraid of the monster. @polite
+    F: The child _is afraid of the monster_. @polite
+
+    O: 괴물이 사람을 먹고 싶어해요.
+    E: The monster wants to eat a person. @polite
+    F: The monster _wants to eat a person_. @polite
+
+    O: 슬퍼하지 마십시오.
+    E: Don't be sad. @formal
+
+    # 남자아이 is the subject of the verb 없다, so it has the subject marker
+    # 개 is the subject of 슬퍼하다 but is also the main topic of the sentence, so it has the 는 marker
+    O: 남자아이가 없으면 개는 슬퍼해요.
+    E: If the boy is not there, the dog is sad. @polite
+    F: If the boy is not there, _the dog_ is sad. @polite
+
+    O: 큰 부엉이가 슬퍼합니다.
+    E: The big owl is sad. @formal
+    F: The big owl _is sad_. @formal
+
+    O: 저는 제 자신을 무서워해요.
+    E: I am afraid of myself{m}. @polite
+    F: _I_ am afraid of myself{m}. @polite
+
+    O: 괴물이 어디에 있습니까?
+    E: Where is the monster? @formal
+    F: _Where is_ the monster? @formal
+
+    O: 나는 숲 속의 호랑이를 무서워해요.
+    E: I'm afraid of the tiger in the forest. @polite @i
+    F: _I_'m afraid of the tiger in the forest. @polite @i
+
+    O: 저는 한국에 가고 싶어요.
+    E: I want to go to Korea. @polite
+    F: _I_ want to go to Korea. @polite
+
+    O: 긴 뱀은 아주 무서워요.
+    E: Long snakes are very scary. @polite
+    F: _Long snakes_ are very scary. @polite
+
+    O: 여자아이가 날고 싶어해요.
+    E: The girl wants to fly. @polite
+    F: The girl _wants to fly_. @polite
+
+    O: 아기가 맥주를 마시고 싶어해요.
+    E: The baby wants to drink beer. @polite
+    F: The baby _wants to drink beer_. @polite
+
+> Three
+    O: 집에 빨리 돌아오세요.
+    E: Come back home quickly. @polite
+
+    O: 저는 여기에서 은행까지 걸어가고 싶어요.
+    E: I would like to walk to the bank from here. @polite
+    F: _I_ would like to walk to the bank from here. @polite
+
+    O: 곰이 학교까지 걸어가요.
+    E: The bear walks up to the school. @polite
+    F: The bear _walks up to the school_. @polite
+
+    O: 자동차가 돕니다.
+    E: The car turns. @formal
+    F: The car _turns_. @formal
+
+    O: 산에서 빨리 내려오세요.
+    E: Come down from the mountain quickly. @polite
+
+    O: 자동차가 돌아와요.
+    E: The car comes back. @polite
+    F: The car _comes back_. @polite
+
+    O: 그녀는 산에 올라가요.
+    E: She goes up to the mountain. @polite
+    F: _She_ goes up to the mountain. @polite
+
+    # "probable future", add ~겠다
+    # ~ㄹ 거예요 is a "for sure" or "definite" kind of feeling like
+    # 좋다(be good) becomes 좋겠다(likely to be good)
+    # 알다 and 모르다 are often conjugated to 알겠다 or 모르겠다.
+    # Although they are conjugated to the future tense, those two words are typically used to express _ in the present tense.
+    O: 나는 돌아오겠다.
+    E: I'll be back. @plain @i 🤔
+    F: _I_'ll be back. @plain @i 🤔
+
+    O: 뱀이 내려와요.
+    E: The snake comes down. @polite
+    F: The snake _comes down_. @polite
+
+    O: 아기가 돌아요.
+    E: The baby turns. @polite
+    F: The baby _turns_. @polite
+
+    O: 학생이 학교를 올라요.
+    E: The student climbs the school. @polite
+    F: The student _climbs the school_. @polite
+
+    O: 호랑이 두 마리가 한국에 들어가요.
+    E: Two tigers enter Korea. @polite
+    F: Two tigers _enter Korea_. @polite
+
+    O: 남자는 산을 오릅니다.
+    E: A man climbs a mountain. @formal
+    F: _A man_ climbs a mountain. @formal
+
+    O: 비싼 차들이 건물에 들어가요.
+    E: The expensive cars{s} enter the building. @polite
+    F: The expensive cars{s} _enter the building_. @polite
+
+    O: 여우가 공원으로 돌아와요.
+    E: The fox returns to(wards) the park. @polite
+    F: The fox _returns to(wards) the park_. @polite
+
+    # Duolingo: A bird flies high.
+    # Birds fly up.
+    # The birds fly up.
+    O: 새는 날아올라요.
+    E: A bird flies up. @polite
+    F: _A bird_ flies up. @polite
+
+    O: 그는 집에서 걸어가요.
+    E: He walks from the house. @polite
+    F: _He_ walks from the house. @polite
+
+    O: 내려오세요!
+    E: Come down! @polite
+
+    O: 쥐가 올라가요.
+    E: The rat goes up. @polite
+    F: The rat _goes up_. @polite

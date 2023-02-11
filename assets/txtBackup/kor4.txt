@@ -1,0 +1,502 @@
+== Regular Verbs ==
+> One
+    O: 여자하고 남자아이가 함께 생각합니다.
+    E: The woman and{s} the boy think together.
+    F: The woman and{s} the boy _think together_.
+
+    O: 저는 방에서 웃습니다.
+    E: I laugh in the room.
+    F: _I_ laugh in the room
+
+    # 서다 + ㅂ니다 → 섭니다
+    O: 개가 섭니다.
+    E: The dog stands.
+    F: The dog _stands_.
+
+    O: 학생이 방에 앉습니다.
+    E: The student sits in the room.
+    F: The student _sits in the room_.
+
+    O: 남자가 넘어집니다.
+    E: The man falls.
+    F: The man _falls_.  
+
+    O: 남자들이 같이 생각합니다.
+    E: The men think together{s}.
+    F: The men _think together{s}_.
+
+    O: 저는 앉습니다.
+    E: I sit.
+    F: _I_ sit.
+
+    O: 여자와 남자는 함께 웃습니다.
+    E: A woman and a man laugh together.
+    F: _A woman and a man_ laugh together.
+
+    O: 여자와 남자가 함께 웃습니다.
+    E: The woman and the man laugh together.
+    F: The woman and the man _laugh together_.
+
+    O: 동물이 웃습니다.
+    E: The animal laughs.
+    F: The animal _laughs_.
+
+    O: 남자가 앉습니다.
+    E: The man sits.
+    F: The man _sits_.
+
+    # The man stands on the road.
+    O: 남자가 길에서 섭니다.
+    E: The man stands up in the street.
+    F: The man _stands up in the street_.
+
+    O: 고양이가 넘어집니다.
+    E: The cat falls.
+    F: The cat _falls_.
+
+    O: 학생이 도서관에서 생각합니다.
+    E: The student thinks in the library.
+    F: The student _thinks in the library_.
+
+    O: 남자가 웃습니다.
+    E: The man laughs.
+    F: The man _laughs_.
+
+    O: 아이들이 함께 앉습니다.
+    E: The children sit together.
+    F: The children _sit together_.
+
+    O: 도서관의 방.
+    E: The room of the library.
+    
+    O: 학생들이 길에 섭니다.
+    E: The students stand in the street.
+    F: The students _stand in the street_.
+
+    O: 여자가 길에서 웃습니다.
+    E: The woman laughs in the street.
+    F: The woman _laughs in the street_.
+    
+    O: 남자아이가 웃습니다.
+    E: The boy laughs.
+    F: The boy _laughs_.
+
+    O: 남자가 여자와 같이 웃습니다.
+    E: The man laughs with the woman.
+    F: The man _laughs with the woman_.
+ 
+> Two
+    O: 남자가 집까지 수영합니다.
+    E: The man swims to the house.
+    F: The man _swims to the house_.
+
+    # The dog goes home.
+    O: 개가 집으로 갑니다.
+    E: The dog goes towards a house.
+    F: The dog _goes towards a house_.
+
+    O: 섬하고 바다.
+    E: Island and{s} sea.
+
+    O: 고양이가 집에서 옵니다.
+    E: The cat comes from the house.
+    F: The cat _comes from the house_.
+
+    O: 여자하고 남자가 도서관에서 걷습니다.
+    E: The woman and{s} the man walk, inside the library.
+    F: The woman and{s} the man _walk, inside the library_.
+
+    O: 남자가 공원에서 뜁니다.
+    E: The man runs{j} at the park.
+    F: The man _runs{j} at the park_.
+
+    O: 학생이 도서관까지 달립니다.
+    E: The student runs to the library.
+    F: The student _runs to the library_.
+
+    O: 남자가 바다로 달립니다.
+    E: The man runs towards the sea.
+    F: The man _runs towards the sea_.
+
+    O: 저는 수영합니다.
+    E: I swim.
+    F: _I_ swim.
+
+    O: 제가 갑니다.
+    E: I go.
+    F: I _go_.
+
+    O: 남자가 도서관에서 걷습니다.
+    E: The man walks inside the library.
+    F: The man _walks inside the library_.
+
+    O: 개가 집에 옵니다.
+    E: The dog comes home.
+    F: The dog _comes home_.
+
+    O: 저는 집에 갑니다.
+    E: I go home.
+    F: _I_ go home.
+
+    O: 남자는 걷습니다.
+    E: A man walks.
+    F: _A man_ walks.
+
+    O: 개가 섬까지 수영합니다.
+    E: The dog swims to the island.
+    F: The dog _swims to the island_.
+
+    O: 아이가 길에서 뜁니다.
+    E: The child jumps in the street.
+    F: The child _jumps in the street_.
+
+    O: 갑니다!
+    E: I'm going!
+
+    O: 저의 섬.
+    E: My island.
+
+    O: 학생이 도서관으로 뜁니다.
+    E: The student jumps toward the library.
+    F: The student _jumps toward the library_.
+
+    O: 남자아이가 학교에서 집에 달립니다.
+    E: The boy runs home from school.
+    F: The boy _runs home from school_.
+    
+> Three
+    O: 저는 메시지를 적습니다.
+    E: I write a message.
+    F: _I_ write a message.
+
+    O: 여자는 읽습니다.
+    E: A woman reads.
+    F: _A woman_ reads.
+
+    O: 저는 마십니다.
+    E: I drink.
+    F: _I_ drink.
+
+    O: 저는 도서관에서 먹습니다.
+    E: I eat at the library.
+    F: _I_ eat at the library.
+
+    O: 동물은 물이 있습니다.
+    E: An animal has water.
+    F: _An animal_ has water.
+
+    O: 동물이 메시지를 씁니다.
+    E: The animal writes a message.
+    F: The animal _writes a message_.
+
+    O: 저는 물을 마십니다.
+    E: I drink water.
+    F: _I_ drink water.
+
+    O: 남자가 저의 메시지를 읽습니다.
+    E: The man reads my message.
+    F: The man _reads my message_.
+
+    O: 남자가 신문을 씁니다.
+    E: The man writes the newspaper.
+    F: The man _writes the newspaper_.
+
+    O: 남자아이와 여자아이는 적습니다.
+    E: A boy and a girl write.
+    F: _A boy and a girl_ write.
+
+    O: 저는 도서관에서 먹습니다.
+    E: I eat at the library.
+    F: _I_ eat at the library.
+
+    O: 남자는 적습니다.
+    E: A man writes.
+    F: _A man_ writes.
+
+    # "-로 here marks the instrumental case. The hands are being used for the action of eating. If it were an object, the hands would be the thing being eaten!" - LiKenun
+    O: 아이가 손으로 먹습니다.
+    E: The child eats with his hands.
+    F: The child _eats with his hands_.
+
+    O: 저는 책을 씁니다.
+    E: I write a book.
+    F: _I_ write a book.
+
+    O: 손
+    E: Hand
+
+    O: 저는 사과를 먹습니다.
+    E: I eat an apple.
+    F: _I_ eat an apple.
+
+    O: 저는 신문을 읽습니다.
+    E: I read the newspaper.
+    F: _I_ read the newspaper.
+
+    O: 남자가 연필로 메시지를 적습니다.
+    E: The man writes a message with a pencil.
+    F: The man _writes a message with a pencil_.
+
+    O: 여자는 책을 손으로 씁니다.
+    E: A woman writes a book by hand
+    F: _A woman_ writes a book by hand
+
+    O: 남자가 영어를 잘합니다. 
+    E: The man speaks English well.
+    F: _The man_ speaks English well.
+
+    O: 여자가 동물하고 한국어로 대화합니다.
+    E: The woman has a conversation with an animal in Korean.
+    F: The woman _has a conversation with an animal in Korean_.
+
+> Four
+    O: 여자의 학생이 영어를 합니다.
+    E: The woman's student speaks English.
+    F: The woman's student _speaks English_.
+
+    O: 저는 대화합니다.
+    E: I converse.
+    F: _I_ converse.
+
+    O: 아이들이 말합니다.
+    E: The children talk.
+    F: The children _talk_.
+
+    O: 개가 빵을 조금 먹습니다.
+    E: The dog eats a little bit of bread.
+    F: The dog _eats a little bit of bread_.
+
+    O: 한국어와 영어.
+    E: Korean and English.
+
+    O: 저는 한국어를 잘합니다.
+    E: I speak Korean well.
+    F: _I_ speak Korean well.
+
+    O: 남자는 영어를 잘합니다.
+    E: A man speaks English well.
+    F: _A man_ speaks English well.
+
+    O: 저는 말합니다.
+    E: I speak.
+    F: _I_ speak.
+
+    O: 남자가 영어를 잘합니다.
+    E: The man speaks English well.
+    F: The man _speaks English well_.
+
+    O: 남자가 한국어로 말합니다.
+    E: The man speaks in Korean.
+    F: The man _speaks in Korean_.
+
+    O: 개와 고양이가 한국어로 대화합니다.
+    E: The dog and cat converse in Korean.
+    F: The dog and cat _converse in Korean_.
+
+    O: 저는 한국어를 조금 합니다.
+    E: I speak a little Korean.
+    F: _I_ speak a little Korean.
+
+    # 이야기하다 means "to tell/talk"
+    O: 아이들이 조금 이야기합니다.
+    E: The children talk a little.
+    F: The children _talk a little_.
+
+    O: 남자들이 영어로 이야기합니다.
+    E: The men talk in English.
+    F: The men _talk in English_.
+
+    O: 고양이가 빵을 먹습니다.
+    E: The cat eats bread.
+    F: The cat _eats bread_.
+
+    O: 학생들이 한국어로 이야기합니다.
+    E: The students talk in Korean.
+    F: The students _talk in Korean_.
+
+> Five
+    O: 여자아이는 남자에게서 개를 받습니다.
+    E: A girl gets a dog from the man.
+    F: _A girl_ gets a dog from the man.
+
+    O: 친구가 개에게 영어를 가르칩니다.
+    E: The friend teaches English to the dog.
+    F: The friend _teaches English to the dog_.
+
+    O: 여자아이는 남자아이에게 편지를 보냅니다.
+    E: A girl sends a boy a letter.
+    F: _A girl_ sends a boy a letter.
+
+    O: 제가 친구에게 선물을 줍니다.
+    E: I give my friend a present.
+    F: I _give my friend a present_.
+
+    O: 저는 여자에게 선물을 줍니다.
+    E: I give the woman a present.
+    F: _I_ give the woman a present.
+
+    O: 저는 한국어를 가르칩니다.
+    E: I teach Korean.
+    F: _I_ teach Korean.
+
+    O: 남자가 편지를 보냅니다.
+    E: The man sends a letter.
+    F: The man _sends a letter_.
+
+    O: 저는 선물을 받습니다.
+    E: I receive a present.
+    F: _I_ receive a present.
+
+    O: 저는 아이를 가르칩니다.
+    E: I teach a child.
+    F: _I_ teach a child.
+
+    O: 저는 친구에게 편지를 보냅니다.
+    E: I send a letter to my friend.
+    F: _I_ send a letter to my friend.
+
+    O: 남자는 여자에게서 선물을 받습니다. 
+    E: A man receives a gift from a woman.
+    F: _A man_ receives a gift from a woman.
+
+    O: 가수는 저에게서 선물을 받습니다.
+    E: A singer gets a gift from me.
+    F: _A singer_ gets a gift from me.
+
+> Six
+    O: 남자와 여자가 춤을 춥니다.
+    E: The man and the woman dance.
+    F: The man and the woman _dance_.
+
+    O: 여자와 남자가 노래합니다.
+    E: The woman and the man sing.
+    F: The woman and the man _sing_.
+
+    O: 아이는 잠잡니다.
+    E: A child sleeps{s}.
+    F: _A child_ sleeps{s}.
+
+    O: 고양이들이 잡니다.
+    E: The cats sleep{ss}.
+    F: The cats _sleep{ss}_.
+    
+    O: 남자가 잠을 잡니다.
+    E: The man sleeps.
+    F: The man _sleeps_.
+
+    O: 학생이 도서관에서 꿈을 꿉니다.
+    E: The student dreams at the library.
+    F: The student _dreams at the library_.
+
+    O: 저는 도서관에서 노래를 합니다.
+    E: I sing{l} at the library.
+    F: _I_ sing{l} at the library.
+
+    O: 가수가 공원에서 노래합니다.
+    E: The singer sings at the park.
+    F: The singer _sings at the park_.
+
+    O: 노래와 춤
+    E: Song and dance.
+
+    O: 저는 꿈을 꿉니다.
+    E: I dream.
+    F: _I_ dream.
+
+    O: 개가 노래합니다.
+    E: The dog sings.
+    F: The dog _sings_.
+
+    # 개가 춤춥니다.
+    O: 개가 춤을 춥니다.
+    E: The dog dances.
+    F: The dog _dances_.
+
+    O: 여자가 꿈을 꿉니다.
+    E: The woman dreams.
+    F: The woman _dreams_.
+
+    O: 저는 노래를 합니다.
+    E: I sing{l}.
+    F: _I_ sing{l}.
+
+    O: 학생들이 학교에서 공부합니다.
+    E: The students study at school.
+    F: The students _study at school_.
+
+    O: 저는 공부를 합니다.
+    E: I study{l}.
+    F: _I_ study{l}.
+
+    O: 저는 동물을 먹지 않습니다.
+    E: I do not{l} eat animals.
+    F: _I_ do not{l} eat animals.
+
+> Seven
+    O: 저는 친구를 던지지 않습니다.
+    E: I do not{l} throw my friend.
+    F: _I_ do not{l} throw my friend.
+
+    O: 여자는 한국어를 안 배웁니다.
+    E: A woman does not learn Korean.
+    F: _A woman_ does not learn Korean.
+
+    O: 공부
+    E: Study
+
+    O: 학생들이 학교에서 운동합니다.
+    E: The students exercise at school.
+    F: The students _exercise at school_.
+
+    O: 학생들이 학교에서 공부합니다.
+    E: The students study at school.
+    F: The students _study at school_.
+
+    O: 남자아이가 공을 안 잡습니다.
+    E: The boy does not catch the ball.
+    F: The boy _does not catch the ball_.
+
+    O: 개가 공을 잡지 않습니다.
+    E: The dog does not{l} catch the ball.
+    F: The dog _does not{l} catch the ball_.
+
+    O: 아이가 공을 던집니다.
+    E: The child throws the ball.
+    F: The child _throws the ball_.
+
+    O: 저는 공부하지 않습니다.
+    E: I do not{l} study.
+    F: _I_ do not{l} study.
+
+    O: 저는 영어를 배우지 않습니다.
+    E: I do not{l} learn English.
+    F: _I_ do not{l} learn English.
+
+    O: 남자가 공원에서 운동합니다.
+    E: The man exercises at the park.
+    F: The man _exercises at the park_.
+
+    O: 여자가 한국어를 공부합니다.
+    E: The woman studies Korean.
+    F: The woman _studies Korean_.
+
+    O: 저는 한국어를 배웁니다.
+    E: I learn Korean.
+    F: _I_ learn Korean.
+
+    # The dog does not catch the cat.
+    O: 개가 고양이를 안잡습니다.
+    E: The dog does not catch a cat.
+    F: The dog _does not catch a cat_.
+
+    O: 여자가 운동합니다.
+    E: The woman exercises.
+    F: The woman _exercises_.
+
+    O: 남자는 운동을 합니다.
+    E: The man exercises.
+    F: _The man_ exercises.
+
+    O: 남자가 연필을 던지지 않습니다.
+    E: The man does not throw a pencil.
+    F: The man _does not throw a pencil_.

@@ -1,0 +1,84 @@
+== Basics One ==
+> One
+    O: Mi ne estas vi.
+    E: I am not you.
+
+    O: Mi estas knabo.
+    E: I am a boy.
+
+    O: Mi estas la viro!
+    E: I am the man!
+
+    O: Vi estas knabo, ne viro.
+    E: You are a boy, not a man.
+
+    O: La viro.
+    E: The man.
+
+    O: Mi ne estas viro.
+    E: I am not a man.
+
+> Two
+    O: Li estas viro.
+    E: He is a man.
+
+    O: Li kantas.
+    E: He sings.
+
+    O: La viro kaj la virino kantas.
+    E: The man and the woman sing.
+
+    O: Ŝi kaj la knabino kantas.
+    E: She and the girl sing.
+
+    O: Vi kaj mi ludas.
+    E: You and I play.
+
+    O: La knabino.
+    E: The girl.
+
+    O: Li ludas kaj ŝi kantas.
+    E: He plays and she sings.
+
+    O: Viro kaj virino ludas.
+    E: A man and a woman play.
+
+> Three
+    O: La bona knabo laboras multe.
+    E: The good boy works a lot.
+
+    O: Ĝi dormas.
+    E: It sleeps.
+
+    O: Knabino aŭ virino.
+    E: A girl or a woman.
+
+    O: Ĝi falas.
+    E: It falls.
+
+    O: La knabino laboras multe.
+    E: The girl works a lot.
+
+    O: Knabino falas.
+    E: A girl falls.
+
+    O: Ĝi estas bona.
+    E: It is good.
+
+    O: Viro aŭ virino.
+    E: A man or a woman.
+
+    O: Mi dormas multe.
+    E: I sleep a lot.
+
+    O: La bona knabino kantas multe.
+    E: The good girl sings a lot.
+
+    O: Li aŭ ŝi laboras.
+    E: He or she works.
+
+    O: Knabino falas.
+    E: A girl falls.
+
+    O: La viro ne laboras.
+    E: The man doesn't work.

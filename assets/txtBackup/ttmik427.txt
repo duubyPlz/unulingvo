@@ -1,0 +1,63 @@
+== TTMIK 4.27 - I think … (+ future tense) / -(으)ㄴ/(으)ㄹ/ㄴ 것 같다, 한 것 같다, 할 것 같다 ==
+* s -> short
+* u -> utilise
+
+    # * Meanings:
+    #   * 생각하다 to think
+    #     // ^ Natural when asking
+    #   * -것 + 같다 I think-
+    #     * -는 것 Present tense noun group
+    #     * 같다 to be the same
+    #       * When 같다 is used with other nouns - To be similar
+
+    # * Variations:
+    #   * Past tense: -(으)ㄴ 것 같다
+    #   * Present tense: -는 것 같다
+    #   * Future tense: -(으)ㄹ 것 같다
+
+    # To be the same
+    O: 학생 같아요.
+    E: You are like a student. / You look like a student.
+
+    O: 저 사람 한국 사람 같아요.
+    E: That person (over there) is like a Korean. / That person (over there) looks like a Korean person. 
+
+    # I think...
+    O: 벌써 한 것 같아요.
+    E: I think (someone) already did it.
+
+    O: 지금 하는 것 같아요.
+    E: I think (someone) does/is doing it now.
+
+    O: 내일 할 것 같아요.
+    E: I think (someone) will do it tomorrow.
+
+    O: 내일 비 올 것 같아요.
+    E: I think it will rain{s} tomorrow.
+
+    O: 이게 더 좋은 것 같아요.
+    E: I think this is better.
+    F: _I think_ this _is better_.
+
+    O: 이거 뭐인 것 같아요?
+    E: What do you think this is?
+
+    O: 누가 한 것 같아요?
+    E: Who do you think did it?
+    F: Who _do you think did it_?
+
+    O: 곧 도착할 것 같아요.
+    E: I think I will arrive soon.
+
+    O: 한국 사람들은 종말 자주 사용하는 것 같아요.
+    E: I think Korean people use{u} it (the word) really often. 🤔
+    F: I think _Korean people_ use{u} it (the word) really often. 🤔
+
+    O: 거의 없는 것 같아요.
+    E: I think (there's) almost none.
+    
+    O: 끝난 것 같아요.
+    E: I think it's (already) over.
+    
+    O: 다 한 것 같아요.
+    E: I think everything is (already) done.

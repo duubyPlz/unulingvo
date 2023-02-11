@@ -1,0 +1,42 @@
+== TTMIK 3.8 - To look/seem like (noun) / 같아요 ==
+    # 같다 - to be the same
+    # (~랑) 비슷하다 - to be similar (to~)
+
+    O: 도쿄는 서울하고 비슷해요?
+    E: Is Tokyo similar to Seoul?
+    F: Is _Tokyo_ similar to Seoul?
+
+    # 참외 - An oriental melon
+    O: 참외는 멜론하고 비슷해요.
+    E: 참외 (a type of fruit) is similar to melon.
+    F: _참외 (a type of fruit)_ is similar to melon.
+
+    O: 이거랑 이거랑 같아요?
+    E: Is this the same as this? / Are these two things the same?
+
+    O: 우리는 나이가 같아요.
+    E: We have the same age.
+
+    O: 커피 같아요.
+    E: It is like coffee. / It seems to be coffee. / It looks like coffee.
+
+    O: 거짓말 같아요.
+    E: It seems to be a lie. / It sounds like a lie.
+
+    O: 로봇 같아요.
+    E: It is like a robot. / It seems to be a robot. / It looks like a robot.
+
+    O: 저 사람은 로봇 같아요.
+    E: That person (over there) is like a robot.
+
+    O: 경은 씨는 천사 같아요.
+    E: Kyeong-eun is like an angel.
+
+    O: 현우 씨는 천재 같아요.
+    E: Hyunwoo seems to be a genius.
+
+    O: 그 이야기는 거짓말 같아요.
+    E: That story sounds like a lie.
+
+    O: 이 강아지는 고양이 같아요. 
+    E: This puppy is like a cat.

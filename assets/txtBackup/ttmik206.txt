@@ -1,0 +1,46 @@
+== TTMIK 2.6 - But, However / 그렇지만, 그런데 ==
+* v -> vs
+* l -> long
+# vs. for verses
+
+    # 그렇지만 Contrast. Writing & specific.
+    # 그런데 "but" or "and/then", background info & continuing on. Wider variety of meaning.
+    O: 피곤해요. 그렇지만 영화 보고 싶어요.
+    E: I am tired, but{v} I want to see a movie.
+
+    O: 피곤해요. 그런데 영화 보고 싶어요.
+    E: I am tired. But-then, I want to see a movie.
+
+    O: 어제 이거 샀어요. 그렇지만 정말 커요.
+    E: I bought this yesterday. But{v} (disappointed - contrasting the purchase vs. big) it is really big.
+
+    O: 어제 이거 샀어요. 그런데 정말 커요.
+    E: I bought this yesterday. But (continuing on I found out) it is really big.
+
+    O: 어제 학교에 갔어요. 그렇지만 일요일이었어요.
+    E: I went to school yesterday, but{v} it was Sunday.
+
+    O: 어제 학교에 갔어요. 그런데 일요일이었어요.
+    E: I went to school yesterday, and by the way, it was Sunday.
+
+    # 어제 밤 늦게 잤어요. 그런데 전혀 피곤하지 않아요.
+    O: 어젯밤 늦게 잤어요. 그런데 피곤하지 않아요.
+    E: I slept late last night{s}, but (continuing on) I am not tired.
+
+    O: 저는 매일 운동을 해요. 그런데 살이 빠지지 않아요.
+    E: I{l} work out every day, but (continuing on) I do not{l} lose any weight.
+    F: _I{l}_ work out every day, but (continuing on) I do not{l} lose any weight.
+
+    # 왕따 = outcast, loner, someone who is bullied by others
+    O: 저는 친구가 없어요. 그런데 왕따는 아니에요.
+    E: I{l} do not have friends, but (continuing on) I am not a loner.
+    F: _I{l}_ do not have friends, but (continuing on) I am not _a loner_.
+
+    # 과음하다 = to drink too much
+    # 말짱하다 = 멀쩡하다 = to be perfectly okay
+    O: 어제 과음했어요. 그런데 말짱해요.
+    E: I over-drank yesterday. But I’m perfectly-ok (now). 🤔
+
+    O: 어제까지는 친구였어요. 그런데 오늘부터는 애인이에요.
+    E: Until yesterday, we were friends. But from today, we are lovers. 🤔
+    F: _Until yesterday_, we were friends. But _from today_, we are lovers. 🤔

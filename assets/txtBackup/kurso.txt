@@ -1,0 +1,89 @@
+== Leciono One ==
+> Eight
+    O: Viaj filoj estas niaj amikoj.
+    E: Your sons are our friends.
+
+    O: Varma lakto estas bona.
+    E: Warm milk is good.
+
+    O: La knaboj estas grandaj.
+    E: The boys are big.
+
+    O: La pano estas seka.
+    E: The bread is dry.
+
+    O: Floro estas bela.
+    E: A flower is beautiful.
+
+    O: La patro estas bona.
+    E: The father is good.
+
+> Twelve
+    O: La teo estas varma.
+    E: The tea is warm.
+
+    O: La instruisto estas patro.
+    E: The teacher is a father.
+
+    O: Via patro estas bona.
+    E: Your father is good.
+
+    O: La novaj instruistoj estos bonaj.
+    E: The new teachers will be good.
+
+    O: Mia frato estos instruisto.
+    E: My brother will be a teacher.
+
+    O: Viaj filoj estos amikoj.
+    E: Your sons will be friends.
+
+    O: La kukoj estis bonaj.
+    E: The cakes were good.
+
+    O: La pano estas seka.
+    E: The bread is dry.
+
+    O: La nova knabo estis mia amiko.
+    E: The new boy was my friend.
+
+    O: La knaboj estos bonaj amikoj.
+    E: The boys will be great friends.
+
+== Leciono Two ==
+> Two
+    O: Mi lavas la novan tason.
+    E: I wash the new cup.
+
+    O: Mi lavas la novajn tasojn.
+    E: I wash the new cups.
+
+> Three
+    O: Mi ne lavos la novan tason.
+    E: I won't wash the new cup.
+
+    O: Li ne estas mia frato.
+    E: He is not my brother.
+
+    O: Ŝi ne estas mia patrino.
+    E: She isn't my mother.
+
+    O: La kukoj ne estis varmaj.
+    E: The cakes weren't hot.
+
+> Nine - Accusatives
+    O: John faras limonadon.
+    E: John is making lemonade.
+
+    O: Juna patro ne trinkas malbonan lakton.
+    E: A young father doesn't drink bad milk.
+
+    O: La virino havas sekajn kukojn.
+    E: The woman has dry cakes.
+
+    O: Peter havas belan filinon.
+    E: Peter has a beautiful daughter.
+
+    O: Miaj amikoj estas bonaj.
+    E: My friends are good.
+
+    ... [23]

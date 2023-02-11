@@ -1,0 +1,59 @@
+== TTMIK 2.23 - If, In case / 만약, -(으)면 ==
+    # {#RELATED Level 4 Lesson 23}: Word Contractions (part 2)
+
+    # 만약 - to make sentence clearer that it's conditional
+    # (since Korean is heavily affected by verb endings)
+
+    O: 자면
+    E: if you sleep
+
+    O: 길면
+    E: if it is long
+
+    O: 작으면
+    E: if it is small
+
+    O: 지금 자면
+    E: if I sleep now
+
+    O: 만약 지금 자면
+    E: In case, if I sleep now
+
+    O: 내일 밤에 비가 오면
+    E: if it rains tomorrow night
+
+    O: 만약 내일 밤에 비가 오면
+    E: In case, if it rains tomorrow night
+
+    O: 먹으면
+    E: if you eat it; if I eat it
+
+    O: 사면
+    E: if you buy it, if I buy it, if they buy it
+
+    O: 샀으면
+    E: if you bought it, if we bought it
+
+    O: 보면
+    E: if you watch it, if I watch it
+
+    O: 봤으면
+    E: if I watched it, if they watched it
+
+    O: 볼 거면
+    E: if you are going to watch it
+
+    O: 내일 비가 오면, 집에 있을 거예요.
+    E: If it rains tomorrow, I will be at home.
+
+    O: 이거 다 먹으면, 배가 아플 거예요.
+    E: If you eat all of this, your stomach will hurt
+
+    O: 리모콘을 찾으면, 티브이를 볼 수 있어요.
+    E:  If you find the remote control, you can watch TV
+
+    O: TTMIK에서 공부하면, 재미있어요.
+    E: If you study at TTMIK, it’s fun.
+
+    O: 지금 안 오면, 후회할 거예요.
+    E: If you don’t come now, you will regret it.

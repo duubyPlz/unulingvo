@@ -1,0 +1,44 @@
+== TTMIK 4.24 - Much more, much less 훨씬 ==
+* s -> short
+    
+    # {#RELATED Level 2 Lesson 21}: More.. than… / -보다 더
+    # {#RELATED Level 2 Lesson 29}: More, All / 더, 다
+    # {#RELATED Level 4 Lesson 19}: Less, Not completely / 덜
+
+    # Meanings:
+    # * 훨씬 (더 optional) Much more
+    # * 훨씬 덜 Much less
+
+    O: 멋있다
+    E: to be cool; to be stylish
+
+    O: 더 멋있다
+    E: to be cooler; to be more stylish
+
+    O: 훨씬 더 멋있다 
+    E: to be much cooler; to be much more stylish
+
+    O: 이게 훨씬 더 좋아요.
+    E: This is much better.
+    F: This _is much better_.
+
+    O: 밥 많이 주세요.
+    E: Give me a lot of rice (cooked).
+
+    O: 서울에서 도쿄까지보다, 서울에서 뉴욕까지가 훨씬 더 멀어요.
+    E: Compared to from Seoul to Tokyo, Seoul to New York is much farther away.
+    F: Compared to from Seoul to Tokyo, Seoul to New York _is much farther away_.
+
+    # 한국어가 일본어보다 훨씬 더 쉬워요.
+    O: 일본어보다 한국어가 훨씬 더 쉬워요.
+    E: Compared to Japanese, Korean is much easier.
+    F: Compared to Japanese, Korean _is much easier_.
+
+    O: 훨씬 재미있어요.
+    E: It's much more{s} fun.
+
+    O: 훨씬 덜 비싸다
+    E: to be much less expensive
+
+    O: 훨씬 덜 가깝다
+    E: to be much less near

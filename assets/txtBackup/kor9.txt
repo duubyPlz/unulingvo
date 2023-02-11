@@ -1,0 +1,274 @@
+== Food ==
+> One
+    O: 아침이 맛있습니다.
+    E: The breakfast is delicious. @formal
+    F: The breakfast _is delicious_. @formal
+
+    O: 식사
+    E: Meal
+
+    O: 저는 점심을 안 먹어요.
+    E: I don't eat lunch. @polite
+    F: _I_ don't eat lunch. @polite
+
+    O: 저는 그 남자에게서 접시를 받아요.
+    E: I receive a plate from that man. @polite
+    F: _I_ receive a plate from that man. @polite
+
+    O: 저는 그릇을 던지지 않습니다.
+    E: I do not{l} throw a bowl. @formal
+    F: _I_ do not{l} throw a bowl. @formal
+
+    O: 학생이 빨리 저녁을 요리해요.
+    E: The student quickly cooks dinner. @polite
+    F: The student _quickly cooks dinner_. @polite
+
+    O: 반찬
+    E: Side dish
+
+    O: 오늘 저는 반찬만 먹어요.
+    E: Today I only eat side dishes. @polite
+    F: Today _I_ only eat side dishes. @polite
+
+    O: 점심
+    E: Lunch
+
+    O: 식사로 이것을 먹읍시다.
+    E: Let's eat this for a meal. @formal
+
+    O: 저녁
+    E: Dinner
+
+    O: 그릇에 무엇이 있어요?
+    E: What is in the bowl? @polite
+
+    O: 이 그릇은 커요.
+    E: This bowl is big. @polite
+    F: _This bowl_ is big. @polite
+
+> Two
+    # 어디에 기름이 있습니까?
+    O: 기름이 어디에 있습니까?
+    E: Where is the oil? @formal
+    F: _Where is the_ oil? @formal
+
+    # 커피가 맛없어요.
+    O: 커피는 맛없어요.
+    E: Coffee tastes bad. @polite
+    F: _Coffee_ tastes bad. @polite
+
+    # 우유는 비싸요.
+    O: 우유가 비싸요.
+    E: Milk is expensive. @polite
+    F: Milk _is expensive_. @polite
+
+    O: 그 기름이 뜨겁습니까?
+    E: Is that oil hot? @formal
+    F: _Is_ that oil _hot_? @formal
+
+    O: 고양이가 우유를 마셔요.
+    E: The cat drinks milk. @polite
+    F: The cat _drinks milk_. @polite
+
+> Three
+    O: 옥수수 수프
+    E: Corn soup
+
+    O: 바나나 우유
+    E: Banana milk
+
+    O: 고추가 어디에 있습니까?
+    E: Where is the chili? @formal
+    F: _Where is the_ chili? @formal
+
+    O: 귤을 어떻게 요리합니까?
+    E: How do you cook a tangerine? @formal
+
+    O: 오렌지 주스
+    E: Orange juice
+
+    # It would, if the sentence were "I eat coffee and banana", but I think the context here is more like: every time I eat a banana, I also have coffee 
+    O: 바나나를 커피와 함께 먹습니다.
+    E: (I) eat a banana together with coffee. @formal
+
+    O: 토마토가 커요.
+    E: The tomato is big. @polite
+    F: The tomato _is big_. @polite
+
+    O: 저는 고추로 요리하지 않습니다.
+    E: I do not{l} cook with chili peppers. @formal
+    F: _I_ do not{l} cook with chili peppers. @formal
+
+> Four
+    O: 왜 돼지고기는 맛있습니까?
+    E: Why is pork delicious? @formal
+    F: Why is _pork_ delicious? @formal
+
+    O: 저는 달걀을 먹습니다.
+    E: I eat an egg. @formal
+    F: _I_ eat an egg. @formal
+
+    O: 아침으로 닭고기를 먹읍시다.
+    E: Let's eat chicken for breakfast. @formal
+
+    O: 돼지고기는 건강해요.
+    E: Pork is healthy. @polite
+    F: _Pork_ is healthy. @polite
+
+> Five
+    O: 저에게 설탕을 주세요.
+    E: Please give sugar to me. @polite
+
+    O: 케이크를 던지십시오.
+    E: Throw the cake. @formal
+
+    O: 후추 샌드위치
+    E: Pepper sandwich
+
+    O: 수프에 후추가 있어요.
+    E: There is pepper in the soup. @polite
+    F: _There is_ pepper _in the soup_. @polite
+
+    O: 저는 식사로 감자만 먹습니다.
+    E: I only eat potato as a meal. @formal
+    F: _I_ only eat potato as a meal. @formal
+
+    O: 케이크는 맛있어요.
+    E: Cake is delicious. @polite
+    F: _Cake_ is delicious. @polite
+
+    O: 바나나 케이크가 있습니까?
+    E: Is there banana cake? @formal
+    F: _Is there_ banana cake? @formal
+
+    O: 설탕 케이크
+    E: Sugar cake
+
+    O: 설탕과 후추
+    E: Sugar and pepper
+
+    O: 파스타를 먹읍시다!
+    E: Let's eat pasta! @formal
+
+    O: 감자 샌드위치
+    E: Potato sandwich
+
+> Six
+    O: 딸기 아이스크림
+    E: Strawberry ice cream
+
+    O: 치킨은 닭고기입니다.
+    E: Fried chicken is chicken. @formal
+    F: _Fried chicken_ is chicken. @formal
+
+    O: 라면!
+    E: Ramen
+
+    O: 과자를 너무 많이 먹지 마십시오.
+    E: Do not eat too many crackers. @formal
+
+    O: 피자
+    E: Pizza
+
+    O: 개에게 초콜릿을 주지 마십시오.
+    E: Do not give chocolate to dogs. @formal
+
+    # What kind of hamburger do you have?
+    O: 무슨 햄버거가 있습니까?
+    E: What hamburger do you have? @formal
+    F: What hamburger _do you have_? @formal
+
+    O: 치킨은 좋아요.
+    E: (Fried) chicken is good. @polite
+    F: _(Fried) chicken_ is good. @polite
+
+    O: 저는 옥수수 피자가 좋아요.
+    E: I like corn pizza. @polite
+    F: _I_ like corn pizza. @polite
+
+    O: 과자
+    E: Snack
+
+    O: 아이스크림이 뜨거워요.
+    E: The ice cream is hot. @polite
+    F: The ice cream _is hot_. @polite
+
+    O: 저는 매일 초콜릿을 먹어요.
+    E: I eat chocolate every day. @polite
+    F: _I_ eat chocolate every day. @polite
+
+    O: 라면을 요리합시다!
+    E: Let's cook ramen. @formal
+
+> Seven
+    O: 목이 마릅니까?
+    E: Are you thirsty? @formal
+
+    # "배가 고픕니다" literally means "the tummy is empty"
+    # 저는 배가 고파요. 
+    O: 저는 배고파요!
+    E: I am hungry{s}! @polite
+    F: _I_ am hungry{s}! @polite
+
+    O: 배가 고픕니까?
+    E: Are you hungry? @formal
+
+    O: 저는 배가 고픕니다.
+    E: I am hungry. @formal
+    F: _I_ am hungry. @formal
+
+    O: 저는 목이 말라요.
+    E: I am thirsty. @polite
+    F: _I_ am thirsty. @polite
+
+    O: 고양이는 목이 마릅니다.
+    E: The cat is thirsty. @formal
+    F: _The cat_ is thirsty. @formal
+
+    O: 목
+    E: Throat
+
+    O: 배
+    E: Tummy
+
+> Eight
+    O: 불고기
+    E: Bulgogi
+
+    O: 김밥
+    E: Gimbap
+
+    O: 김
+    E: Seaweed
+
+    O: 김치는 비쌉니까? 
+    E: Is kimchi expensive? @formal
+    F: Is _kimchi_ expensive? @formal
+
+    O: 한국에서 사람들이 치맥을 먹어요. 
+    E: In Korea people eat chicken and beer. @polite
+    F: _In Korea_ people _eat chicken and beer_. @polite
+
+    O: 김과 밥  
+    E: Laver and rice
+
+    O: 치맥을 먹읍시다! 
+    E: Let's eat chicken and beer! @formal
+
+    O: 아이가 김밥을 먹어요. 
+    E: The child eats gimbap. @polite
+    F: The child _eats gimbap_. @polite
+
+    O: 김치 파스타
+    E: Kimchi pasta
+
+    O: 누구가 치맥을 먹습니까? 
+    E: Who eats chicken and beer? @formal
+    F: Who _eats chicken and beer_? @formal
+
+    O: 불고기는 맛있습니까? 
+    E: Is bulgogi delicious? @formal
+    F: Is _bulgogi_ delicious? @formal
+
+    O: 김치, 김밥, 불고기, 김
+    E: Kimchi, gimbap, bulgogi, laver

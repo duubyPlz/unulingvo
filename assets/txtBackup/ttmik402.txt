@@ -1,0 +1,60 @@
+== TTMIK 4.02 - Do you want to …? / I want to... / -(으)ㄹ래요(?) ==
+* s -> short
+
+    # {#RELATED Level 3 Lesson 16}: -아/어/여요 (청유형)
+    # {#RELATED Level 3 Lesson 6}: -(으)ㄹ 거예요 vs -(으)ㄹ게요
+
+    # * Meaning:
+    #   * -ㄹ래요: { intent, will } to do
+    #   * Note: Cannot use in formal settings
+
+    # * Variations:
+    #   * vowel + -ㄹ래요
+    #   * consonant + -을래요
+    #   * ㄹ + -래요
+
+    # * Other future endings (vague ➔ direct):
+    #   * -고 싶다: Want
+    #   * -ㄹ게요: (Conditional) If so, will
+    #   * -ㄹ래요: Intent, (combination of) will/want
+    #   * -ㄹ 거예요: Will
+
+    O: 먹다. 먹을래요.
+    E: To eat. I intend to eat. / I will/want to eat.
+
+    O: 팔다. 팔래요.
+    E: To sell. I intend to sell. / I will/want to sell.
+
+    O: 사다. 살래요.
+    E: To buy. I intend to buy. / I will/want to buy.
+
+    O: 집에 갈래요.
+    E: I intend to go home. / I will/want to go home.
+
+    O: 혼자 할래요.
+    E: I intend to do it alone. / I will/want to do it alone.
+
+    O: 혼자 할게요
+    E: (So) I will do it alone (if you do not mind).
+
+    O: 저는 안 갈래요.
+    E: I do not intend to go. / I will not/do not want to go.
+    F: _I_ do not intend to go. / I will not/do not want to go.
+
+    O: 저는 안 가고 싶어요.
+    E: I do not want{s} to go. (Room for change: if you really insist though, I might go.)
+    F: _I_ do not want{s} to go. (Room for change: if you really insist though, I might go.)
+
+    # 뭐 마시고 싶어요? Makes sense, but is {#TEXTBOOK-LIKE} unnatural.
+    O: 뭐 마실래요?
+    E: What do you intend to drink? What will you/do you want to drink?
+
+    O: 커피 마실래요, 차 마실래요?
+    E: Do you intend/want to drink coffee or tea?
+
+    O: 이거 볼래?
+    E: Do you want to see this? @impolite
+
+    # 우리 언제 만날래?
+    O: 언제 만날래?
+    E: When do you want to meet? @impolite

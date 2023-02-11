@@ -1,0 +1,30 @@
+== Practice 2.3.3 ==
+    O: A brother is teaching crowds.
+    E: ἀδελφος διδασκει ὀχλους.
+
+    O: We are seeking bread.
+    E: ζητουμεν ἀρτον.
+
+    O: You are untying slaves.
+    E: δουλους λυεις.
+
+    O: A lord is saying a word.
+    E: κυριος λεγει λογον.
+    
+    O: People are calling.
+    E: ἀνθρωποι καλουσιν.
+    
+    O: Angels are keeping laws.
+    E: ἀγγελοι τηρουσιν νομους.
+    
+    O: A brother is seeing a house.
+    E: ἀδελφος βλεπει οἰκον.
+    
+    O: People are watching.
+    E: ἀνθρωποι βλεπουσιν.
+    
+    O: We are loving a world.
+    E: φιλουμεν κοσμον.
+    
+    O: God is leading.
+    E: θεος ἀγει.

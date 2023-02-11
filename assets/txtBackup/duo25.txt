@@ -1,0 +1,270 @@
+== Affixes I ==
+> One
+    O: Jen bonega monujo!
+    E: Here is a great wallet!
+
+    O: Tiu ujo estas grandega!
+    E: That container is huge!
+
+    # tre << ege << treege
+    O: Li ege feliĉas pri tio.
+    E: He is extremely happy about that.
+
+    # boundaries of the languages aren't the same
+    O: Ĉu la ĉambro estas varmeta aŭ varma?
+    E: Is the room a little bit warm or hot?
+
+    O: La supo varmegas!
+    E: The soup is very hot!
+
+    O: La grandega parko havas multajn etajn arbojn.
+    E: The huge park has many small trees.
+
+    O: Dum la somero, la domo estas varmega!
+    E: During the summer, the house is very hot!
+
+    O: Mia porko trinkas varmetan akvon.
+    E: My pig drinks warm water.
+
+    O: La virino portas etan monujon.
+    E: The woman carries a small wallet.
+
+    O: Ŝi ege amas lin.
+    E: She really loves him.
+
+    O: Mia bonega koramiko kuiras por mi.
+    E: My great boyfriend cooks for me.
+
+    O: La grandega ujo estas varmega!
+    E: The huge container is very hot!
+
+    O: Via familio estas bonega!
+    E: Your family is great!
+
+    O: La dormeto estis tro mallonga.
+    E: The nap was too short.
+
+    O: Mi ege ŝatas danci.
+    E: I really like to dance.
+
+    O: Malvarma nokto.
+    E: A cold night.
+
+    # La knabineto volos kukon.
+    O: La eta knabino volos kukon.
+    E: The little girl will want cake.
+
+> Two
+    O: Lernejo estas ejo por lerni.
+    E: School is a place for learning.
+
+    O: Bonulo estas ulo, kiu estas bona.
+    E: A good person is a person who is good.
+
+    O: La junulo kaj la maljunulo laboras kune.
+    E: The young person and the old person work together.
+
+    O: Venu viziti mian loĝejon!
+    E: Come visit my apartment!
+
+    O: Multaj bonuloj laboras en ĉi tiu laborejo.
+    E: Many good people work in this workplace.
+
+    O: Junuloj devas iri al lernejo.
+    E: Young people have to go to school.
+
+    O: La ursoj ne ŝatas tiun ulon!
+    E: The bears don't like that person!
+
+    O: Laborejo estas ejo por labori.
+    E: A workplace is a place to work.
+
+    O: La ulo devas iri al la necesejo.
+    E: The person has to go to the toilet.
+
+    O: Ĉu viaj infanoj estas en la lernejo ankaŭ posttagmeze?
+    E: Are your children at school also in the afternoon?
+
+    O: La avo estas maljunulo.
+    E: The grandfather is a senior.
+
+    O: La maljunulo bone parolas Esperanton.
+    E: The old person speaks Esperanto well.
+
+    O: La junulo iros al la laborejo.
+    E: The young person will go to the workplace.
+
+    O: Bonulo eble uzas ilojn en la laborejo.
+    E: A good person maybe uses tools in the workplace.
+
+    O: Bonulo uzas la sonorilon ĉe la pordo.
+    E: A good person uses the doorbell at the door.
+
+    O: Tio ne eblas.
+    E: That is not possible.
+
+> Three
+    O: La sonorilo sonoras.
+    E: The bell rings.
+
+    O: Kompreneble ili havas bonajn ilojn en sia domo.
+    E: Of course they have good tools in their house.
+
+    O: Junuloj eble tranĉas panon en Germanio.
+    E: Young people might slice bread in Germany.
+
+    O: Mi memoris miajn ŝlosilojn.
+    E: I remembered my keys.
+
+    O: La juĝisto ŝlosis la ujon.
+    E: The judge locked the container.
+
+    O: La ŝlosilo estas en la ujo.
+    E: The key is in the container.
+
+    O: Mi ŝatas grandegajn sonorilojn.
+    E: I like huge bells.
+
+    O: Tiu ĉi libro ne estas komprenebla.
+    E: This book is not understandable.
+
+    O: Mi tranĉas la panon per tranĉilo.
+    E: I slice the bread with a knife.
+
+    O: La edzino laboras.
+    E: The wife works.
+
+    # Via koramikino sonoras ĉe la pordo.
+    O: Via koramikino sonoras la pordosonorilon.
+    E: Your girlfriend is ringing the doorbell.
+
+    O: Kompreneble la patro ŝlosos la pordon de la lernejo.
+    E: Of course the father will lock the school's door.
+
+    O: Tranĉilo estas ilo por tranĉi.
+    E: A knife is a tool for cutting.
+
+    O: La grandega ujo estas tre varmega!
+    E: The huge container is very hot!
+
+    O: Monujo estas ujo por porti monon.
+    E: A wallet is a container for carrying money.
+
+> Four
+    O: La malo de facila estas malfacila.
+    E: The opposite of easy is difficult.
+
+    O: Mi volas esti ano de via klubo.
+    E: I want to be a member of your club.
+
+    O: Vi malamas viajn bogepatrojn.
+    E: You hate your parents-in-law.
+
+    # lernejano: a member of a school, lernanto: learner
+    O: Mi estas lernejano.
+    E: I am a pupil.
+
+    O: Gepatroj kaj gefratoj estas familianoj.
+    E: Parents and siblings are family members.
+
+    O: Ĉu ili estas anoj?
+    E: Are they members?
+
+    O: Mi diris la malon!
+    E: I said the opposite!
+
+    O: Multaj familianoj manĝos kune.
+    E: Many family members will eat together.
+
+    O: Tio estas klubo de esperantistoj.
+    E: That is a club of Esperanto speakers.
+
+    O: Mi malamas labori nokte.
+    E: I hate working at night.
+
+    O: Mi trovis laboron, sed ĝi estas tro malfacila por mi.
+    E: I found a job, but it is too difficult for me.
+
+    O: La malo de granda estas malgranda.
+    E: The opposite of big is little.
+
+    O: Vi devas memori, ke mi nur estas lernejano.
+    E: You have to remember that I am only a pupil.
+
+    O: Nur por anoj.
+    E: Only for members.
+
+    O: Klubano estas ano de klubo.
+    E: A club member is a member of a club.
+
+    O: Kiom da klubanoj ni havas?
+    E: How many club members do we have?
+
+    O: Tri dancistoj dancis la malfacilan dancon.
+    E: Three dancers danced the difficult dance.
+
+> Five
+    O: Jen internacia aro de homoj.
+    E: Here is an international group of people.
+
+    # multiple staircases
+    O: La junularo de Usono ne uzas ŝtuparojn.
+    E: America's youth don't use stairs.
+
+    O: Tio estas la unua ŝtupo.
+    E: That is the first step.
+
+    O: Ĉu vi estas ano de tiu estraro?
+    E: Are you a member of that board of directors?
+
+    O: Vi bone progresas!
+    E: You are progressing well!
+
+    O: Dum la lasta jaro, mi progresis multe.
+    E: In the last year, I progressed a lot.
+
+    O: Li kisas sian koramikinon en la arbaro.
+    E: He kisses his girlfriend in the forest.
+
+    O: Mi ŝatas uzi la ŝtuparon.
+    E: I like using the stairs.
+
+    O: La Internacia Junulara Kongreso estas bona ejo por paroli Esperanton.
+    E: The International Youth Congress is a good place to speak Esperanto.
+
+    O: La estraro sidas sur la ŝtuparo.
+    E: The board of directors is sitting on the staircase.
+
+    O: Tio estas la unua ŝtupo.
+    E: That is the first step.
+
+    O: Aro de arboj estas arbaro.
+    E: A group of trees is a forest
+
+    O: La estraro estas tre internacia.
+    E: The board of directors is very international.
+
+    O: Lernejestro estas estro de lernejo.
+    E: A principal is a leader of a school.
+
+    # Bonegis dormeti post la manĝo.
+    O: Estis bonege dormeti post la manĝo.
+    E: It was great to nap after the meal.
+
+    O: La lernejestro kaj la instruistoj laboras en la lernejo.
+    E: The principal and the teachers work in the school.
+
+    O: Mi amas la homaron.
+    E: I love humanity.
+
+    O: La junuloj parolos kun la lernejestro.
+    E: The young people will speak with the principal.
+
+    O: Libroj instruas nin pri la homaro.
+    E: Books teach us about humanity.
+
+    O: La komencanto vojaĝos al la Internacia Junulara Kongreso.
+    E: The beginner will travel to the International Youth Congress.
+
+    O: Hieraŭ mi dormetis unu horon.
+    E: Yesterday I napped for one hour.

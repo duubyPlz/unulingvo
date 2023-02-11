@@ -1,0 +1,364 @@
+== Occupations ==
+> One
+    O: Ĉu tiu verkisto estas blinda?
+    E: Is that author blind?
+
+    O: Mi volas fariĝi flegisto.
+    E: I want to become a nurse.
+
+    O: Italaj studentoj manĝas picojn.
+    E: Italian students eat pizza.
+
+    O: La germana kuracisto trinkas bieron.
+    E: The german doctor drinks beer.
+
+    O: Mi bezonas postenon.
+    E: I need a job.
+
+    O: Ĉu tiu viro bezonas rulseĝon?
+    E: Does that man need a wheelchair?
+
+    O: Ĉu vi volas dungi min?
+    E: Do you want to hire me?
+
+    O: Miaj gepatroj ŝatas la kuraciston.
+    E: My parents like the doctor.
+
+    O: La verkisto ne volas dungi studenton.
+    E: The author doesn't want to hire a student.
+
+    O: Li volas gravan postenon.
+    E: He wants an important job.
+
+    O: Flegisto, helpu min!
+    E: Nurse, help me!
+
+    O: Multaj viroj nun volas fariĝi flegistoj.
+    E: Many men now want to become nurses.
+
+    O: La flegisto helpas virinon, kiu uzas rulseĝon.
+    E: The nurse helps a woman who uses a wheelchair.
+
+    O: La germana verkisto ŝatas manĝi viandon.
+    E: The german author likes eating meat.
+
+    O: Kiom da kuracistoj estas en Usono?
+    E: How many doctors are in USA?
+
+    O: Lia patro dungas tri kelnerojn por la restoracio.
+    E: His father is hiring three waiters for the restaurant.
+
+    O: Mi estas kuracisto.
+    E: I am a doctor.
+
+    O: La studento studas multe.
+    E: The student studies a lot.
+
+    O: Spertaj kuracistoj kaj flegistoj helpis ilin.
+    E: Experienced doctors and nurses helped them.
+
+    O: Mia patrino studis por fariĝi kuracisto.
+    E: My mother studied to become a doctor.
+
+    O: Mia onklino estis verkisto kiu verkis longan libron.
+    E: My aunt was an author who wrote a long book.
+
+    O: Mia kuracisto manĝas pomon.
+    E: My doctor eats an apple.
+
+    O: La blinda studento lernas esperanton.
+    E: The blind student learns Esperanto.
+
+> Two
+    O: Unu el la diplomatoj estas surda.
+    E: One of the diplomats is deaf.
+
+    O: Farmistoj dungas multajn laboristojn.
+    E: Farmers hire many workers.
+
+    O: Ni tre ŝatas nian estron.
+    E: We really like our boss.
+
+    O: Artistoj ŝatas kolorojn.
+    E: Artists like colours.
+
+    O: Lia kariero estas longa.
+    E: His career is long.
+
+    O: Farmisto, dungu min!
+    E: Farmer, hire me!
+
+    O: La policanoj kuras rapide al la domo.
+    E: The police officers run fast to the house.
+
+    O: La policanoj trinkas kafon.
+    E: The police officers drink coffee.
+
+    O: Lia patro estas bona artisto.
+    E: His father is a good artist.
+
+    O: La estro de la restoracio punis la kelneron.
+    E: The boss of the restaurant punished the waiter.
+
+    O: Kiom da laboristoj laboras en via lando?
+    E: How many workers work in your country?
+
+    O: La virino en la rulseĝo estas diplomato.
+    E: The woman in the wheelchair is a diplomat.
+
+    O: Mia estro diras, ke mi ne laboras bone.
+    E: My boss says that I don't work well.
+
+    O: La estro dungis kvar laborestrojn.
+    E: The boss hired four foremen.
+
+    O: La estro ne volas dungi min.
+    E: The boss doesn't want to hire me.
+
+    O: Ĉu vi ŝatas vian karieron?
+    E: Do you like your career?
+
+    O: Mi volas havi bonan karieron.
+    E: I want to have a good career.
+
+> Three
+    O: Aktoroj, iru al la teatro!
+    E: Actors, go to the theatre!
+
+    O: Ŝia onklino estas talenta juĝisto.
+    E: Her aunt is a talented judge.
+
+    O: Vi estas instruisto, ne gardisto.
+    E: You are a teacher, not a guard.
+
+    O: Ili estas malbonaj ŝtelistoj.
+    E: They are bad thieves.
+
+    O: Dancistoj, dancu pli rapide!
+    E: Dancers, dance faster!
+
+    O: La aktoro rolas kiel juĝisto.
+    E: The actor performs as a judge.
+
+    O: La dancisto dancas la dancon.
+    E: The dancer dances the dance.
+
+    O: Mia blinda amiko volas fariĝi instruisto.
+    E: My blind friend wants to become a teacher.
+
+    O: La kvin talentaj aktoroj rolis kiel gardistoj en la teatro.
+    E: The five talented actors performed as guards in the theatre.
+
+    O: La dancistoj dancas en la teatro.
+    E: The dancers dance in the theatre.
+
+    O: Aktoroj rolas en teatroj.
+    E: Actors perform in theatres.
+
+    # Juĝisto, rigardu tiun ŝteliston!
+    O: Juĝisto, rigardu al tiu ŝtelisto!
+    E: Judge, look at that thief!
+
+    O: Ĉu vi spektos la dancon en la teatro?
+    E: Will you see the dance in the theatre?
+
+    O: Ŝi tre talentas pri muziko kaj danco.
+    E: She is very talented in music and dance.
+
+> Four
+    # sekretario, sekretariino
+    O: Multaj tradukistoj bezonas sekretariojn.
+    E: Many translators need secretaries.
+
+    # or: arĥitekto
+    O: La arkitekto havas bonan profesion.
+    E: The architect has a good profession.
+
+    O: Mi konas lertan programiston.
+    E: I know a skilled programmer.
+
+    O: Mia patrino estas inĝeniero.
+    E: My mother is an engineer.
+
+    O: La feliĉa kuiristo tre ŝatas sian profesion.
+    E: The happy chef really likes their profession.
+
+    O: Programisto, helpu min!
+    E: Programmer, help me!
+
+    O: Tiu dancisto estas tre lerta.
+    E: That dancer is very skilled.
+
+    O: Laŭ la kuiristo, la manĝo estis malbona.
+    E: According to the cook, the meal was bad.
+
+    O: La inĝeniero laboras en francio.
+    E: The engineer works in France.
+
+    O: Nia onklino estas la plej sperta kuiristo en la familio.
+    E: Our aunt is the most expert cook in the family.
+
+    O: Sekretario, skribu rapide!
+    E: Secretary, write fast!
+
+    O: Laŭ mia opinio, ŝi estas lerta arkitekto.
+    E: In my opinion, she is a skilful architect.
+
+    O: Ĉu via amiko estas tradukisto aŭ programisto?
+    E: Is your friend a translator or a programmer?
+
+    O: Mi preferas la tradukon el la germana.
+    E: I prefer the translation from German.
+
+    O: Mia patrino estis lerta tradukisto.
+    E: My mother was a skilled translator.
+
+> Five
+    O: Ni spektis teatraĵon en la teatro.
+    E: We watched a play in the theatre.
+
+    O: La muzikisto ludas muzikon.
+    E: The musician plays music.
+
+    O: La danco estas facila.
+    E: The dance is easy.
+
+    O: Tiu traduko estas lerta.
+    E: That translation is skilful.
+
+    # note: imperio + estro
+    O: La imperiestro ne havas vestaĵojn.
+    E: The emperor doesn't have clothes.
+
+    O: Tiu laboristo volas fariĝi laborestro.
+    E: That worker wants to become a foreman.
+
+    O: Kiu verkisto verkis tiun teatraĵon?
+    E: Which author wrote that play?
+
+    O: La verkisto legas libron.
+    E: The author reads a book.
+
+    O: Muziko estas bela lingvo.
+    E: Music is a beautiful language.
+
+    O: Multaj muzikistoj ludas por la imperiestro.
+    E: Many musicians play for the emperor.
+
+    O: Ĉu vi estis laborestro antaŭ ol fariĝi estro?
+    E: Were you a foreman before becoming a boss?
+
+    O: La imperiestro de Japanio havas edzinon.
+    E: The emperor of Japan has a wife.
+
+    O: La muzikisto kaj dancisto devas labori kune.
+    E: The musician and dancer have to work together.
+
+    O: Ĉu ŝi dancas kun muziko?
+    E: Does she dance with music?
+
+    O: Kiam la muzikistoj komencos la koncerton?
+    E: When will the musicians start the concert?
+
+> Six
+    O: Hundo ŝiris mian kostumon!
+    E: A dog tore my costume!
+
+    O: Soldatoj ĉiam portas uniformojn.
+    E: Soldiers always wear uniforms.
+
+    O: La ŝtelisto ŝtelis monon de la reĝino.
+    E: The thief stole money from the queen.
+
+    O: Estas tro da militoj en la mondo.
+    E: There are too many wars in the world.
+
+    O: Estas bone esti la reĝo.
+    E: It is good to be the king.
+
+    O: Kiam li estis knabo, li volis fariĝi soldato.
+    E: When he was a boy, he wanted to become a soldier.
+
+    O: La soldato portas belan uniformon.
+    E: The soldier wears a beautiful uniform.
+
+    O: Ne ŝiru mian uniformon!
+    E: Don't tear my uniform!
+
+    O: Kial li ŝtelis ŝian monon?
+    E: Why did he steal her money?
+
+    O: Tiu aktoro havas belan kostumon!
+    E: That actor has a beautiful costume!
+
+    O: Ŝiru rozojn en la somero!
+    E: Pick roses in the summer!
+
+    O: Mi estas la reĝo de la mondo!
+    E: I am the king of the world!
+
+    O: Ili ŝtelis mian rulseĝon!
+    E: They stole my wheelchair!
+
+    O: Sofia ŝiris ŝian ruĝan robon.
+    E: Sofia tore her red dress.
+
+    O: Ĉu estas milito en via lando?
+    E: Is there a war in your country?
+
+    O: Via patro estis ŝtelisto.
+    E: Your father was a thief.
+
+    O: La malgranda aligatoro havas belan voston.
+    E: The little alligator has a beautiful tail.
+
+    O: Ĉu la reĝo decidis, kion fari pri la milito?
+    E: Did the king decide what to do about the war?
+
+    O: Mia kuzo uzas rulseĝon.
+    E: My cousin uses a wheelchair.
+
+> Seven
+    # Tio ...
+    O: Tiu estas albumo de ilia koncerto.
+    E: That one is an album of their concert.
+
+    O: Ni loĝas en vigla strato.
+    E: We live on a lively street.
+
+    O: Ĉu Sofia estas ofta nomo?
+    E: Is Sofia a common name?
+
+    O: Bonvolu esti atenta!
+    E: Please be careful!
+
+    O: Ili trovis ŝin kulpa.
+    E: They found her guilty.
+
+    O: En la teatro, aktoroj estas pli oftaj ol arkitektoj.
+    E: In the theatre, actors are more common than architects.
+
+    O: Kio estas la nomo de ilia lasta albumo?
+    E: What is the name of their last album?
+
+    O: La bebo de mia fratino estas feliĉa kaj vigla.
+    E: The baby of my sister is happy and lively.
+
+    O: Mia avo estas tre vigla ĉar li ofte kuras.
+    E: My grandfather is very lively because he often runs.
+
+    O: Jen kanto el la unua albumo.
+    E: Here is a song from the first album.
+
+    O: Ĉu li diris al la polico, ke li estas kulpa?
+    E: Did he say to the police that he is guilty?
+
+    # Ŝi ŝajnis esti atenta, ...
+    O: Ŝi ŝajnis atenti, sed tio ne estis ofta afero.
+    E: She seemed to be attentive, but that was not a common thing.
+
+    O: Ŝajnas, ke la ŝtelisto estis kulpa.
+    E: It seems that the thief was guilty.
+
+    O: Ŝajnas al mi, ke vi ne estis atenta.
+    E: It seems to me that you were not attentive.

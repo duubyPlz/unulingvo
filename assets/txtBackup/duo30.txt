@@ -1,0 +1,295 @@
+== Feelings ==
+> One
+    O: Mi sentas min malsata.
+    E: I feel hungry.
+
+    O: Mi sentas min feliĉa.
+    E: I feel happy.
+
+    O: Ili estas lacaj, do ili volas ripozi.
+    E: They're tired, so they want to rest.
+
+    O: Kio estas amo?
+    E: What is love?
+
+    O: Kial vi ploras?
+    E: Why are you crying?
+
+    O: Ĉu ili estas sataj?
+    E: Are they full?
+
+    O: Duono de la lernejanoj kontentas.
+    E: Half of the pupils are pleased.
+
+    O: La knabo estas malkontenta, ĉar li ne havas katon.
+    E: The boy is discontented, because he doesn't have a cat.
+
+    O: Kia vi sentas vin?
+    E: How do you feel?
+
+    O: La bebo ploras ĉar ĝi estas malsata nun.
+    E: The baby is crying because it is hungry now.
+
+    O: Mi ne sentas min bone.
+    E: I don't feel good.
+
+    O: Li estas malsana, do morgaŭ li ripozos hejme.
+    E: He is sick, so tomorrow he will rest at home.
+
+    O: Li komprenas kiel vi sentas vin.
+    E: He understands how you feel.
+
+    O: Se mi havus kaŝnomon, mi estus kontenta.
+    E: If I had a nickname, I would be satisfied.
+
+    O: Kiam mi malsatas, mi ĉiam estas malkontenta.
+    E: When I am hungry, I always am discontented.
+
+    O: Mi tute ne estas laca.
+    E: I am not at all tired.
+
+    O: Vi estos lacaj post tia laboro.
+    E: You will be tired after that kind of work.
+
+    O: Post tiu manĝo mi satos dum unu semajno!
+    E: After that meal I will be full for one week!
+
+    O: Vi ne sentas vin feliĉa, ĉu?
+    E: You do not feel happy, right?
+
+    O: Ni laboras tage, kaj ni ripozas nokte.
+    E: We work during the day and we rest at night.
+
+    O: La patrino sentis amon por siaj infanoj.
+    E: The mother felt love for her children.
+
+> Two
+    O: Ĉu vi ĝojas aŭ malĝojas?
+    E: Are you happy or sad?
+
+    O: Ridetu!
+    E: Smile!
+
+    O: Mia avino ĉiam estas trankvila.
+    E: My grandmother is always calm.
+
+    O: Vi ne ridos morgaŭ.
+    E: You won't laugh tomorrow.
+
+    O: Ĉu vi komprenas liajn sentojn?
+    E: Do you understand his feelings?
+
+    O: Ĉu vi ĝojas pri la rezulto?
+    E: Are you happy with the result?
+
+    O: Bonvolu rideti por mi!
+    E: Please smile for me!
+
+    O: Mia bebo trankvilis dum la tuta nokto.
+    E: My baby was calm all night.
+
+    O: Kiam vi ridetas, mi volas tuj kisi vin!
+    E: When you smile, I want to immediately kiss you!
+
+    # Joy
+    O: Ĝojo estas bela sento.
+    E: Happiness is a beautiful feeling.
+
+    O: Mi tute malĝojas pri tiu rezulto.
+    E: I am completely sad about that result.
+
+    O: Estis trankvila nokto.
+    E: It was a calm night.
+
+    # to be concerned = zorgumi, zorgoplena
+    O: Ŝi estas maltrankvila pri sia plej juna filo.
+    E: She is worried about her youngest son.
+
+    O: Ŝi sentis sin maltrankvila pri la rezulto.
+    E: She felt worried about the result.
+
+    O: Mi ne povis ridi, nek plori.
+    E: I could not laugh nor cry.
+
+> Three
+    O: Ĉu ŝi kompatas lin?
+    E: Does she feel sorry for him?
+
+    O: Ni amuzis la infanojn.
+    E: We entertained the kids.
+
+    O: Sofia estas tre agrabla.
+    E: Sofia is very nice.
+
+    O: La plezuro estas mia.
+    E: The pleasure is mine.
+
+    O: Ĉokolado plaĉas al mi.
+    E: Chocolate pleases me.
+    
+    O: Mi miras pri la vetero ĉi tie.
+    E: I am amazed at the weather here.
+
+    O: Miaj gepatroj koleros, kiam mi alvenos hejmen malfrue.
+    E: My parents will be angry, when I come home late.
+
+    O: Kia plezuro!
+    E: What pleasure!
+
+    O: La manĝo tre plaĉas al mi.
+    E: I like the meal very much.
+
+    O: Miaj kuzoj kompatis tiujn malsatajn hundojn
+    E: My cousins felt sorry for those hungry dogs.
+
+    O: Ŝi neniam koleras pri sia laboro.
+    E: She is never angry about her work.
+
+    O: Kian agrablan vojaĝon ni havis.
+    E: What a pleasant trip we had!
+
+    O: Se mi irus hejmen sen vi, ĉu vi kolerus?
+    E: If I went home without you, would you be angry?
+
+> Four
+    O: Mi ne povas esprimi miajn emociojn.
+    E: I can't express my emotions.
+
+    O: Li fieras pri sia kuraĝa filo.
+    E: He is proud of his brave son.
+
+    O: Mi bedaŭras, se mi ĝenas vin.
+    E: I apologise if I annoy you.
+
+    O: Kial vi estas en malbona humoro hodiaŭ?
+    E: Why are you in a bad mood today?
+
+    O: Kolero estas forta emocio.
+    E: Anger is a strong emotion.
+
+    O: Ĉi tiu kanto esprimas fortajn emociojn.
+    E: This song expresses strong emotions.
+
+    O: Kia kuraĝa knabino!
+    E: What a brave girl!
+
+    O: Sofia fieras pri si mem.
+    E: Sofia is proud of herself.
+
+    O: Ĉiam, kiam mi kuras rapide, mi fieras.
+    E: Whenever I run fast, I am proud.
+
+    O: Kiam lia humoro estas malbona, li ne povas esprimi siajn emociojn.
+    E: When his mood is bad, he cannot express his emotions.
+
+    O: Ni bedaŭras pri la malbona vetero dum via vojaĝo.
+    E: We're sorry about the bad weather during your trip.
+
+> Five
+    O: Mi timas, ke li forlasos min.
+    E: I'm scared that he'll leave me.
+
+    O: Paĉjo, rakontu al mi tiun rakonton, pri la kuraĝa hundo!
+    E: Dad, tell me that story about the brave dog!
+
+    O: Li estas terura, kiam li ĵaluzas.
+    E: He is terrible, when he is jealous.
+
+    O: Mi sopiris pri amo.
+    E: I yearned for love.
+
+    O: Ne forlasu min, ĉar mi amas vin!
+    E: Don't leave me, because I love you!
+
+    O: Kio estas via plej granda timo?
+    E: What is your biggest fear?
+
+    O: La gazeto rakontas pri la lernejo.
+    E: The newspaper talks about the school.
+
+    O: La rakonto estis amuza, ne serioza.
+    E: The story was funny, not serious.
+
+    O: Ŝi konfesis, ke ŝi sopiras al la hejmo.
+    E: She confessed, that she longs for home.
+
+    O: Panjo, ne rakontu al mi tiun teruran rakonton!
+    E: Mum, don't tell me that terrible story!
+
+    O: Ni sopiras pri pli bona rezulto.
+    E: We are longing for a better result.
+
+    O: Ĉu vi ĵaluzas pri mi?
+    E: Are you jealous of me?
+
+    O: Kiam ŝi forlasis lin, li ploris.
+    E: When she left him, he cried.
+
+> Six
+    O: Kio mankas?
+    E: What's missing?
+
+    O: Ŝi revas viziti Ĉinion.
+    E: She dreams of visiting China.
+
+    O: Kiam vi kaj Sofia geedziĝos?
+    E: When will you and Sofia get married?
+
+    O: Li menciis tiun verkiston dufoje.
+    E: He mentioned that author twice.
+
+    O: Konfesu, ke vi bedaŭras kion vi faris!
+    E: Admit that you are sorry for what you did!
+
+    O: Li estas freneze fiera, sed mi ne scias kial.
+    E: He is insanely proud, but I do not know why.
+
+    O: Kiam li estis ĵaluza, ŝi mokis lin.
+    E: When he was jealous, she made fun of him.
+
+    O: Mi dubas ĉu la rakonto estas vera.
+    E: I doubt if the story is true.
+
+    O: Revon havas mi.
+    E: I have a dream.
+
+    O: Mi bedaŭras diri, ke la ideo estas freneza.
+    E: I'm sorry to say that the idea is crazy.
+
+    O: Ŝi edziniĝis antaŭ sep jaroj.
+    E: She married seven years ago.
+
+    O: Kiam mi estis infano, mi ĉiam revis fariĝi dancisto.
+    E: When I was a child, I always dreamt of becoming a dancer.
+
+    O: Kiu mankas?
+    E: Who is missing?
+
+    # Ŝi ne mokis lin, sed ŝi ridetis iomete.
+    O: Ŝi ne mokis lin, sed ŝi iom ridetis.
+    E: She did not mock him, but she smiled a bit.
+
+    O: Sofia menciis al mi, ke ŝi ĵaluzas.
+    E: Sofia mentioned to me that she's jealous.
+
+    O: Amo estas blinda.
+    E: Love is blind.
+
+    # sendube
+    O: Li nepre volas edziĝi en preĝejo.
+    E: He definitely wants to get married in a church.
+
+    O: Viaj demandoj neniam ĝenas min.
+    E: Your questions never bother me.
+
+    O: Ĉu vi aŭdis la rakonton pri knabino kiu timas araneon?
+    E: Did you hear the story about a girl who was afraid of a spider?
+
+    O: Ŝi ĵaluzas, kiam li parolas kun aliaj virinoj.
+    E: She is jealous when he talks with other women.
+
+    O: Tio mankis al mi.
+    E: I was missing that.
+
+    O: Ĉu oni povas dubi, ke tio amuzis al ni?
+    E: Can one doubt that that amused us?

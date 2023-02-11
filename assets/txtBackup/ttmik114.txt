@@ -1,0 +1,48 @@
+== TTMIK 1.14 - What do you want to do? / 뭐 하고 싶어요? ==
+    O: 뭐 하고 싶어요?
+    E: What do you want to do?
+
+    O: 텔레비전 보고 싶어요.
+    E: I want to watch TV.
+
+    O: 뭐 보고 싶어요?
+    E: What do you want to watch?
+
+    O: 뉴스 보고 싶어요.
+    E: I want to watch the news.
+
+    O: 이거 사고 싶어요.
+    E: I want to buy this.
+
+    O: 이거요?
+    E: This one?
+
+    O: 네. 이거 먹고 싶어요.
+    E: Yeah. I want to eat this.
+
+    O: 이거 뭐예요?
+    E: What is this?
+
+    O: 이거 김밥이에요.
+    E: This is kimbap.
+
+    O: 읽고 싶어요
+    E: I want to read.
+
+    O: 자고 싶어요.
+    E: I want to sleep.
+
+    O: 놀고 싶어요.
+    E: I want to play.
+
+    O: 쉬고 싶어요
+    E: I want to rest.
+
+    O: 일하고 싶어요.
+    E: I want to work.
+
+    O: 영화 보고 싶어요.
+    E: I want to watch a movie.
+
+    O: 김밥 먹고 싶어요.
+    E: I want to eat kimbap.

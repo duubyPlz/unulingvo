@@ -1,0 +1,182 @@
+== Pronouns ==
+* l -> long
+* s -> short
+* p -> plural
+* m -> my
+
+> One
+    O: 이 여자는 우리를 미워해요.
+    E: This woman hates us. @polite
+    F: _This woman_ hates us. @polite
+
+    O: 나는 차를 싫어합니다.
+    E: I hate tea. @formal @i
+    F: _I_ hate tea. @formal @i
+
+    O: 저는 운동을 좋아합니다.
+    E: I like exercise. @formal
+    F: _I_ like exercise. @formal
+
+    O: 우리는 한국어를 사랑해요!
+    E: We love Korean! @polite
+    F: _We_ love Korean! @polite
+
+    O: 아이가 빵을 싫어해요.
+    E: The child hates bread. @polite
+    F: The child _hates bread_. @polite
+
+    O: 저는 그 남자를 미워합니다.
+    E: I hate that man. @formal
+    F: _I_ hate that man. @formal
+
+    O: 우리는 바다를 사랑합니다.
+    E: We love the sea. @formal
+    F: _We_ love the sea. @formal
+
+    O: 나는 개를 싫어하지 않아요.
+    E: I do not{l} hate dogs. @polite @i
+    F: _I_ do not{l} hate dogs. @polite @i
+
+    O: 저는 이 가방을 더 좋아합니다.
+    E: I like this bag better. @formal
+    F: _I_ like this bag better. @formal
+
+    O: 나는 극장에서 영화를 봅니다.
+    E: I watch a movie at the theatre. @formal @i
+    F: _I_ watch a movie at the theatre. @formal @i
+
+    O: 우리는 개를 좋아합니다.
+    E: We like dogs. @formal
+    F: _We_ like dogs. @formal
+
+    O: 개가 나를 미워해요.
+    E: The dog hates me. @polite
+    F: The dog _hates me_. @polite
+
+    O: 우리는 듀오링고를 사랑해요!
+    E: We love Duolingo! @polite
+    F: _We_ love Duolingo! @polite
+
+    O: 나는 그것을 좋아합니다.
+    E: I like that. @formal @i
+    F: _I_ like that. @formal @i
+
+    O: 저는 그 남자를 미워합니다.
+    E: I hate that man. @formal
+    F: _I_ hate that man. @formal
+
+    # 싫어해요 = dislike 몹시 싫어해요 = hate
+    O: 저는 그 남자를 미워해요.
+    E: I hate that man. @polite
+    F: _I_ hate that man. @polite
+
+    O: 나의 길
+    E: My way @i
+
+> Two
+    O: 나는 그 학생을 믿습니다.
+    E: I believe that student. @formal @i
+    F: _I_ believe that student. @formal @i
+
+    O: 너와 나
+    E: You and me @i
+
+    O: 나를 놀리지 마십시오.
+    E: Please don't tease me. @formal @i
+
+    O: 내 친구는 나를 너무 많이 속입니다.
+    E: My{s} friend deceives me too much. @formal @i
+    F: _My{s} friend_ deceives me too much. @formal @i
+
+    # It means "you guys" (너희). It like makes a plural "you".
+    O: 너희와 나
+    E: You{p} and me @i
+
+    O: 나를 믿으십시오.
+    E: Please believe me. @formal @i
+
+    O: 사람들이 우리를 놀려요.
+    E: People make fun of us. @polite
+    F: People _make fun of us_. @polite
+
+    O: 나를 속이지 마십시오.
+    E: Please don't deceive me. @formal @i
+
+    O: 우리는 사람들을 놀립니다.
+    E: We make fun of people. @formal
+    F: _We_ make fun of people. @formal
+
+    # Your name
+    O: 너의 이름은
+    E: Your name is @i
+
+    O: 너희와 우리
+    E: You{p} and us @i
+
+    O: 너
+    E: You @i
+
+    O: 우리는 남자아이를 속입니다.
+    E: We deceive the boy. @formal
+    F: _We_ deceive the boy. @formal
+
+    O: 너희의 빵
+    E: Your{p} bread. @i
+
+> Three
+    # 내 자신을 means "my oneself/ myself"
+    # 나 자신을 means "I oneself/myself"
+    # I don't think the meaning changes much.
+    O: 나는 내 자신을 압니다.
+    E: I know myself{m}. @formal @i
+    F: _I_ know myself{m}. @formal @i
+
+    O: 나는 혼자 요리합니다.
+    E: I cook by myself. @formal @i
+    F: _I_ cook by myself. @formal @i
+
+    O: 너희가 서로 싫어합니다.
+    E: You hate each other. @formal @i
+    F: You _hate each other_. @formal @i
+    
+    O: 동물은 자기의 음식을 먹어요.
+    E: The animal eats its own food. @polite
+    F: _The animal_ eats its own food. @polite
+
+    O: 그녀가 속입니다.
+    E: She deceives. @formal
+    F: She _deceives_. @formal
+
+    O: 그는 런던에 있습니다.
+    E: He is in London. @formal
+    F: _He_ is in London. @formal
+
+    # @neutral
+    O: 당신!
+    E: You! @n
+
+    O: 알겠습니다.
+    E: Affirmative. @formal
+
+    O: 나는 나 자신을 사랑합니다.
+    E: I love myself. @formal @i
+    F: _I_ love myself. @formal @i
+
+    O: 나는 그녀를 사랑해요.
+    E: I love her. @polite @i
+    F: _I_ love her. @polite @i
+
+    O: 혼자 공부하지 마십시오.
+    E: Do not study alone. @formal
+
+    O: 당신의 선물
+    E: Your present @n
+
+    O: 그들은 서로 압니다.
+    E: They know each other. @formal
+    F: _They_ know each other. @formal
+
+    O: 나는 나 자신을 놀려요.
+    E: I make fun of myself. @polite @i
+    F: _I_ make fun of myself. @polite @i
+
