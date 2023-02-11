@@ -854,9 +854,8 @@ footer.footer {
   #menu-back-btn {
     position: absolute;
     left: 20px;
-    top: 10px;
+    top: 35px;
     height: revert;
-    padding: 30px 60px;
   }
 
   #menu-save-btn {
