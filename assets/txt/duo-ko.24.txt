@@ -50,7 +50,8 @@
     F: _Are_ his clothes _cheap_? @polite
 
     O: 그는 바지를 안 입어요.
-    E: _He_ does not wear pants. @polite
+    E: He does not wear pants. @polite
+    F: _He_ does not wear pants. @polite
 
     O: 한국에서 사람들이 한복을 입어요.
     E: In Korea people wear hanbok. @polite
@@ -61,11 +62,8 @@
 
     O: 그는 바지를 안 입어요.
     E: He does not wear pants. @polite
-    F: He does not wear pants. @polite
+    F: _He_ does not wear pants. @polite
 
     O: 곰은 바지 없이 뛰고 있어요.
     E: The bear is running without pants. @polite
-    F: The bear is running without pants. @polite
-
-    O: 
-    E: 
+    F: _The bear_ is running without pants. @polite
