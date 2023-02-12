@@ -709,7 +709,7 @@ footer.footer {
     width: 100%;
     padding: 30px 40px;
     height: 35vw;
-    line-height: 120%;
+    line-height: 1.5em;
     border-radius: 0;
   }
  
@@ -829,14 +829,14 @@ footer.footer {
     width: 90px;
     height: 90px;
     border-width: 10px;
-    top: 0px;
+    top: -30px;
   }
 
   .circle1 {
     width: 60px;
     height: 60px;
     border-width: 10px;
-    top: -75px;
+    top: -105px;
   }
 
   .strikethrough-diagonal:before {
