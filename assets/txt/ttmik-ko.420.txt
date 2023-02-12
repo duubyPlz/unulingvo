@@ -14,7 +14,7 @@
     #
     # ### 3
     # > 내일 시간이 있으면, 같이 커피 마실래요?
-    # > If you have time tomorrow, will you drink coffee together (with me)?
+    # > If you have time{l} tomorrow, will you drink coffee together (with me)?
     
     # # 1
     # ### Variants
@@ -63,7 +63,7 @@
     # segment_d["준비할 거예요."]="prepare"
     
     O: 제가 항상 하는 말이에요.
-    E: It's something (lit. some words) I say{s} all the time.
+    E: It's something (lit. some words) I say{s} all the time{l}.
 
     O: 오늘부터 한국어를 열심히 공부할 거예요.
     E: Starting from today, I am going to study Korean{l} hard.
@@ -699,18 +699,18 @@
 
     # # 3
     # ### Variants
-    # 시간이 있으면 = if you have time
-    # 시간이 없으면 = if you do not have time
-    # 시간이 많이 있으면 = if you have a lot{av} of time
-    # 시간이 많으면 = if you have a lot{v} of time
-    # 시간이 조금 밖에 없으면 = if you have only a little bit of time
-    # 시간이 전혀 없으면 = if you have no time at all
+    # 시간이 있으면 = if you have time{l}
+    # 시간이 없으면 = if you do not have time{l}
+    # 시간이 많이 있으면 = if you have a lot{av} of time{l}
+    # 시간이 많으면 = if you have a lot{v} of time{l}
+    # 시간이 조금 밖에 없으면 = if you have only a little bit of time{l}
+    # 시간이 전혀 없으면 = if you have no time{l} at all
     # 
-    # 내일 시간이 있으면 = if you have time tomorrow
-    # 오늘 시간이 있으면 = if you have time today
-    # 주말에 시간이 있으면 = if you have time on the weekend
-    # 다음 주에 시간이 있으면 = if you have time next week
-    # 이번 달에 시간이 있으면 = if you have time this month
+    # 내일 시간이 있으면 = if you have time{l} tomorrow
+    # 오늘 시간이 있으면 = if you have time{l} today
+    # 주말에 시간이 있으면 = if you have time{l} on the weekend
+    # 다음 주에 시간이 있으면 = if you have time{l} next week
+    # 이번 달에 시간이 있으면 = if you have time{l} this month
     # 
     # 커피 마실래요? = Do you want to drink coffee? / Shall we drink coffee?
     # 뭐 마실래요? = What do you want to drink? / What shall we drink?
@@ -731,12 +731,12 @@
     # segment_a["이번 달에"]="this month,"
     # 
     # segment_b = {}
-    # segment_b["시간이 있으면"]="If you have time"
-    # segment_b["시간이 없으면"]="If you don't have time"
-    # segment_b["시간이 많이 있으면"]="If you have a lot{av} of time"
-    # segment_b["시간이 많으면"]="If you have a lot{v} of time"
-    # segment_b["시간이 조금 밖에 없으면"]="If you have only a little bit of time"
-    # segment_b["시간이 전혀 없으면"]="If you have no time at all"
+    # segment_b["시간이 있으면"]="If you have time{l}"
+    # segment_b["시간이 없으면"]="If you don't have time{l}"
+    # segment_b["시간이 많이 있으면"]="If you have a lot{av} of time{l}"
+    # segment_b["시간이 많으면"]="If you have a lot{v} of time{l}"
+    # segment_b["시간이 조금 밖에 없으면"]="If you have only a little bit of time{l}"
+    # segment_b["시간이 전혀 없으면"]="If you have no time{l} at all"
     # 
     # segment_c = {}
     # segment_c["같이"]="together?"
@@ -751,1441 +751,1441 @@
     # segment_d["어디에서 마실래요?"]="where do you want to drink (something)"
 
     O: 내일 시간이 있으면 같이 커피 마실래요?
-    E: If you have time tomorrow, do you want to drink coffee together?
+    E: If you have time{l} tomorrow, do you want to drink coffee together?
 
     O: 내일 시간이 있으면 같이 뭐 마실래요?
-    E: If you have time tomorrow, what do you want to drink together?
+    E: If you have time{l} tomorrow, what do you want to drink together?
 
     O: 내일 시간이 있으면 같이 어떤 거 마실래요?
-    E: If you have time tomorrow, what kind of thing{s} do you want to drink together?
+    E: If you have time{l} tomorrow, what kind of thing{s} do you want to drink together?
 
     O: 내일 시간이 있으면 어디에서 같이 마실래요?
-    E: If you have time tomorrow, where do you want to drink (something) together?
+    E: If you have time{l} tomorrow, where do you want to drink (something) together?
 
     O: 내일 시간이 있으면 저랑 커피 마실래요?
-    E: If you have time tomorrow, do you want to drink coffee with me?
+    E: If you have time{l} tomorrow, do you want to drink coffee with me?
 
     O: 내일 시간이 있으면 저랑 뭐 마실래요?
-    E: If you have time tomorrow, what do you want to drink with me?
+    E: If you have time{l} tomorrow, what do you want to drink with me?
 
     O: 내일 시간이 있으면 저랑 어떤 거 마실래요?
-    E: If you have time tomorrow, what kind of thing{s} do you want to drink with me?
+    E: If you have time{l} tomorrow, what kind of thing{s} do you want to drink with me?
 
     O: 내일 시간이 있으면 어디에서 저랑 마실래요?
-    E: If you have time tomorrow, where do you want to drink (something) with me?
+    E: If you have time{l} tomorrow, where do you want to drink (something) with me?
 
     O: 내일 시간이 있으면 저랑 같이 커피 마실래요?
-    E: If you have time tomorrow, do you want to drink coffee together with me?
+    E: If you have time{l} tomorrow, do you want to drink coffee together with me?
 
     O: 내일 시간이 있으면 저랑 같이 뭐 마실래요?
-    E: If you have time tomorrow, what do you want to drink together with me?
+    E: If you have time{l} tomorrow, what do you want to drink together with me?
 
     O: 내일 시간이 있으면 저랑 같이 어떤 거 마실래요?
-    E: If you have time tomorrow, what kind of thing{s} do you want to drink together with me?
+    E: If you have time{l} tomorrow, what kind of thing{s} do you want to drink together with me?
 
     O: 내일 시간이 있으면 어디에서 저랑 같이 마실래요?
-    E: If you have time tomorrow, where do you want to drink (something) together with me?
+    E: If you have time{l} tomorrow, where do you want to drink (something) together with me?
 
     O: 내일 시간이 있으면 다 같이 커피 마실래요?
-    E: If you have time tomorrow, do you want to drink coffee with everyone?
+    E: If you have time{l} tomorrow, do you want to drink coffee with everyone?
 
     O: 내일 시간이 있으면 다 같이 뭐 마실래요?
-    E: If you have time tomorrow, what do you want to drink with everyone?
+    E: If you have time{l} tomorrow, what do you want to drink with everyone?
 
     O: 내일 시간이 있으면 다 같이 어떤 거 마실래요?
-    E: If you have time tomorrow, what kind of thing{s} do you want to drink with everyone?
+    E: If you have time{l} tomorrow, what kind of thing{s} do you want to drink with everyone?
 
     O: 내일 시간이 있으면 어디에서 다 같이 마실래요?
-    E: If you have time tomorrow, where do you want to drink (something) with everyone?
+    E: If you have time{l} tomorrow, where do you want to drink (something) with everyone?
 
     O: 내일 시간이 없으면 같이 커피 마실래요?
-    E: If you don't have time tomorrow, do you want to drink coffee together?
+    E: If you don't have time{l} tomorrow, do you want to drink coffee together?
 
     O: 내일 시간이 없으면 같이 뭐 마실래요?
-    E: If you don't have time tomorrow, what do you want to drink together?
+    E: If you don't have time{l} tomorrow, what do you want to drink together?
 
     O: 내일 시간이 없으면 같이 어떤 거 마실래요?
-    E: If you don't have time tomorrow, what kind of thing{s} do you want to drink together?
+    E: If you don't have time{l} tomorrow, what kind of thing{s} do you want to drink together?
 
     O: 내일 시간이 없으면 어디에서 같이 마실래요?
-    E: If you don't have time tomorrow, where do you want to drink (something) together?
+    E: If you don't have time{l} tomorrow, where do you want to drink (something) together?
 
     O: 내일 시간이 없으면 저랑 커피 마실래요?
-    E: If you don't have time tomorrow, do you want to drink coffee with me?
+    E: If you don't have time{l} tomorrow, do you want to drink coffee with me?
 
     O: 내일 시간이 없으면 저랑 뭐 마실래요?
-    E: If you don't have time tomorrow, what do you want to drink with me?
+    E: If you don't have time{l} tomorrow, what do you want to drink with me?
 
     O: 내일 시간이 없으면 저랑 어떤 거 마실래요?
-    E: If you don't have time tomorrow, what kind of thing{s} do you want to drink with me?
+    E: If you don't have time{l} tomorrow, what kind of thing{s} do you want to drink with me?
 
     O: 내일 시간이 없으면 어디에서 저랑 마실래요?
-    E: If you don't have time tomorrow, where do you want to drink (something) with me?
+    E: If you don't have time{l} tomorrow, where do you want to drink (something) with me?
 
     O: 내일 시간이 없으면 저랑 같이 커피 마실래요?
-    E: If you don't have time tomorrow, do you want to drink coffee together with me?
+    E: If you don't have time{l} tomorrow, do you want to drink coffee together with me?
 
     O: 내일 시간이 없으면 저랑 같이 뭐 마실래요?
-    E: If you don't have time tomorrow, what do you want to drink together with me?
+    E: If you don't have time{l} tomorrow, what do you want to drink together with me?
 
     O: 내일 시간이 없으면 저랑 같이 어떤 거 마실래요?
-    E: If you don't have time tomorrow, what kind of thing{s} do you want to drink together with me?
+    E: If you don't have time{l} tomorrow, what kind of thing{s} do you want to drink together with me?
 
     O: 내일 시간이 없으면 어디에서 저랑 같이 마실래요?
-    E: If you don't have time tomorrow, where do you want to drink (something) together with me?
+    E: If you don't have time{l} tomorrow, where do you want to drink (something) together with me?
 
     O: 내일 시간이 없으면 다 같이 커피 마실래요?
-    E: If you don't have time tomorrow, do you want to drink coffee with everyone?
+    E: If you don't have time{l} tomorrow, do you want to drink coffee with everyone?
 
     O: 내일 시간이 없으면 다 같이 뭐 마실래요?
-    E: If you don't have time tomorrow, what do you want to drink with everyone?
+    E: If you don't have time{l} tomorrow, what do you want to drink with everyone?
 
     O: 내일 시간이 없으면 다 같이 어떤 거 마실래요?
-    E: If you don't have time tomorrow, what kind of thing{s} do you want to drink with everyone?
+    E: If you don't have time{l} tomorrow, what kind of thing{s} do you want to drink with everyone?
 
     O: 내일 시간이 없으면 어디에서 다 같이 마실래요?
-    E: If you don't have time tomorrow, where do you want to drink (something) with everyone?
+    E: If you don't have time{l} tomorrow, where do you want to drink (something) with everyone?
 
     O: 내일 시간이 많이 있으면 같이 커피 마실래요?
-    E: If you have a lot{av} of time tomorrow, do you want to drink coffee together?
+    E: If you have a lot{av} of time{l} tomorrow, do you want to drink coffee together?
 
     O: 내일 시간이 많이 있으면 같이 뭐 마실래요?
-    E: If you have a lot{av} of time tomorrow, what do you want to drink together?
+    E: If you have a lot{av} of time{l} tomorrow, what do you want to drink together?
 
     O: 내일 시간이 많이 있으면 같이 어떤 거 마실래요?
-    E: If you have a lot{av} of time tomorrow, what kind of thing{s} do you want to drink together?
+    E: If you have a lot{av} of time{l} tomorrow, what kind of thing{s} do you want to drink together?
 
     O: 내일 시간이 많이 있으면 어디에서 같이 마실래요?
-    E: If you have a lot{av} of time tomorrow, where do you want to drink (something) together?
+    E: If you have a lot{av} of time{l} tomorrow, where do you want to drink (something) together?
 
     O: 내일 시간이 많이 있으면 저랑 커피 마실래요?
-    E: If you have a lot{av} of time tomorrow, do you want to drink coffee with me?
+    E: If you have a lot{av} of time{l} tomorrow, do you want to drink coffee with me?
 
     O: 내일 시간이 많이 있으면 저랑 뭐 마실래요?
-    E: If you have a lot{av} of time tomorrow, what do you want to drink with me?
+    E: If you have a lot{av} of time{l} tomorrow, what do you want to drink with me?
 
     O: 내일 시간이 많이 있으면 저랑 어떤 거 마실래요?
-    E: If you have a lot{av} of time tomorrow, what kind of thing{s} do you want to drink with me?
+    E: If you have a lot{av} of time{l} tomorrow, what kind of thing{s} do you want to drink with me?
 
     O: 내일 시간이 많이 있으면 어디에서 저랑 마실래요?
-    E: If you have a lot{av} of time tomorrow, where do you want to drink (something) with me?
+    E: If you have a lot{av} of time{l} tomorrow, where do you want to drink (something) with me?
 
     O: 내일 시간이 많이 있으면 저랑 같이 커피 마실래요?
-    E: If you have a lot{av} of time tomorrow, do you want to drink coffee together with me?
+    E: If you have a lot{av} of time{l} tomorrow, do you want to drink coffee together with me?
 
     O: 내일 시간이 많이 있으면 저랑 같이 뭐 마실래요?
-    E: If you have a lot{av} of time tomorrow, what do you want to drink together with me?
+    E: If you have a lot{av} of time{l} tomorrow, what do you want to drink together with me?
 
     O: 내일 시간이 많이 있으면 저랑 같이 어떤 거 마실래요?
-    E: If you have a lot{av} of time tomorrow, what kind of thing{s} do you want to drink together with me?
+    E: If you have a lot{av} of time{l} tomorrow, what kind of thing{s} do you want to drink together with me?
 
     O: 내일 시간이 많이 있으면 어디에서 저랑 같이 마실래요?
-    E: If you have a lot{av} of time tomorrow, where do you want to drink (something) together with me?
+    E: If you have a lot{av} of time{l} tomorrow, where do you want to drink (something) together with me?
 
     O: 내일 시간이 많이 있으면 다 같이 커피 마실래요?
-    E: If you have a lot{av} of time tomorrow, do you want to drink coffee with everyone?
+    E: If you have a lot{av} of time{l} tomorrow, do you want to drink coffee with everyone?
 
     O: 내일 시간이 많이 있으면 다 같이 뭐 마실래요?
-    E: If you have a lot{av} of time tomorrow, what do you want to drink with everyone?
+    E: If you have a lot{av} of time{l} tomorrow, what do you want to drink with everyone?
 
     O: 내일 시간이 많이 있으면 다 같이 어떤 거 마실래요?
-    E: If you have a lot{av} of time tomorrow, what kind of thing{s} do you want to drink with everyone?
+    E: If you have a lot{av} of time{l} tomorrow, what kind of thing{s} do you want to drink with everyone?
 
     O: 내일 시간이 많이 있으면 어디에서 다 같이 마실래요?
-    E: If you have a lot{av} of time tomorrow, where do you want to drink (something) with everyone?
+    E: If you have a lot{av} of time{l} tomorrow, where do you want to drink (something) with everyone?
 
     O: 내일 시간이 많으면 같이 커피 마실래요?
-    E: If you have a lot{v} of time tomorrow, do you want to drink coffee together?
+    E: If you have a lot{v} of time{l} tomorrow, do you want to drink coffee together?
 
     O: 내일 시간이 많으면 같이 뭐 마실래요?
-    E: If you have a lot{v} of time tomorrow, what do you want to drink together?
+    E: If you have a lot{v} of time{l} tomorrow, what do you want to drink together?
 
     O: 내일 시간이 많으면 같이 어떤 거 마실래요?
-    E: If you have a lot{v} of time tomorrow, what kind of thing{s} do you want to drink together?
+    E: If you have a lot{v} of time{l} tomorrow, what kind of thing{s} do you want to drink together?
 
     O: 내일 시간이 많으면 어디에서 같이 마실래요?
-    E: If you have a lot{v} of time tomorrow, where do you want to drink (something) together?
+    E: If you have a lot{v} of time{l} tomorrow, where do you want to drink (something) together?
 
     O: 내일 시간이 많으면 저랑 커피 마실래요?
-    E: If you have a lot{v} of time tomorrow, do you want to drink coffee with me?
+    E: If you have a lot{v} of time{l} tomorrow, do you want to drink coffee with me?
 
     O: 내일 시간이 많으면 저랑 뭐 마실래요?
-    E: If you have a lot{v} of time tomorrow, what do you want to drink with me?
+    E: If you have a lot{v} of time{l} tomorrow, what do you want to drink with me?
 
     O: 내일 시간이 많으면 저랑 어떤 거 마실래요?
-    E: If you have a lot{v} of time tomorrow, what kind of thing{s} do you want to drink with me?
+    E: If you have a lot{v} of time{l} tomorrow, what kind of thing{s} do you want to drink with me?
 
     O: 내일 시간이 많으면 어디에서 저랑 마실래요?
-    E: If you have a lot{v} of time tomorrow, where do you want to drink (something) with me?
+    E: If you have a lot{v} of time{l} tomorrow, where do you want to drink (something) with me?
 
     O: 내일 시간이 많으면 저랑 같이 커피 마실래요?
-    E: If you have a lot{v} of time tomorrow, do you want to drink coffee together with me?
+    E: If you have a lot{v} of time{l} tomorrow, do you want to drink coffee together with me?
 
     O: 내일 시간이 많으면 저랑 같이 뭐 마실래요?
-    E: If you have a lot{v} of time tomorrow, what do you want to drink together with me?
+    E: If you have a lot{v} of time{l} tomorrow, what do you want to drink together with me?
 
     O: 내일 시간이 많으면 저랑 같이 어떤 거 마실래요?
-    E: If you have a lot{v} of time tomorrow, what kind of thing{s} do you want to drink together with me?
+    E: If you have a lot{v} of time{l} tomorrow, what kind of thing{s} do you want to drink together with me?
 
     O: 내일 시간이 많으면 어디에서 저랑 같이 마실래요?
-    E: If you have a lot{v} of time tomorrow, where do you want to drink (something) together with me?
+    E: If you have a lot{v} of time{l} tomorrow, where do you want to drink (something) together with me?
 
     O: 내일 시간이 많으면 다 같이 커피 마실래요?
-    E: If you have a lot{v} of time tomorrow, do you want to drink coffee with everyone?
+    E: If you have a lot{v} of time{l} tomorrow, do you want to drink coffee with everyone?
 
     O: 내일 시간이 많으면 다 같이 뭐 마실래요?
-    E: If you have a lot{v} of time tomorrow, what do you want to drink with everyone?
+    E: If you have a lot{v} of time{l} tomorrow, what do you want to drink with everyone?
 
     O: 내일 시간이 많으면 다 같이 어떤 거 마실래요?
-    E: If you have a lot{v} of time tomorrow, what kind of thing{s} do you want to drink with everyone?
+    E: If you have a lot{v} of time{l} tomorrow, what kind of thing{s} do you want to drink with everyone?
 
     O: 내일 시간이 많으면 어디에서 다 같이 마실래요?
-    E: If you have a lot{v} of time tomorrow, where do you want to drink (something) with everyone?
+    E: If you have a lot{v} of time{l} tomorrow, where do you want to drink (something) with everyone?
 
     O: 내일 시간이 조금 밖에 없으면 같이 커피 마실래요?
-    E: If you have only a little bit of time tomorrow, do you want to drink coffee together?
+    E: If you have only a little bit of time{l} tomorrow, do you want to drink coffee together?
 
     O: 내일 시간이 조금 밖에 없으면 같이 뭐 마실래요?
-    E: If you have only a little bit of time tomorrow, what do you want to drink together?
+    E: If you have only a little bit of time{l} tomorrow, what do you want to drink together?
 
     O: 내일 시간이 조금 밖에 없으면 같이 어떤 거 마실래요?
-    E: If you have only a little bit of time tomorrow, what kind of thing{s} do you want to drink together?
+    E: If you have only a little bit of time{l} tomorrow, what kind of thing{s} do you want to drink together?
 
     O: 내일 시간이 조금 밖에 없으면 어디에서 같이 마실래요?
-    E: If you have only a little bit of time tomorrow, where do you want to drink (something) together?
+    E: If you have only a little bit of time{l} tomorrow, where do you want to drink (something) together?
 
     O: 내일 시간이 조금 밖에 없으면 저랑 커피 마실래요?
-    E: If you have only a little bit of time tomorrow, do you want to drink coffee with me?
+    E: If you have only a little bit of time{l} tomorrow, do you want to drink coffee with me?
 
     O: 내일 시간이 조금 밖에 없으면 저랑 뭐 마실래요?
-    E: If you have only a little bit of time tomorrow, what do you want to drink with me?
+    E: If you have only a little bit of time{l} tomorrow, what do you want to drink with me?
 
     O: 내일 시간이 조금 밖에 없으면 저랑 어떤 거 마실래요?
-    E: If you have only a little bit of time tomorrow, what kind of thing{s} do you want to drink with me?
+    E: If you have only a little bit of time{l} tomorrow, what kind of thing{s} do you want to drink with me?
 
     O: 내일 시간이 조금 밖에 없으면 어디에서 저랑 마실래요?
-    E: If you have only a little bit of time tomorrow, where do you want to drink (something) with me?
+    E: If you have only a little bit of time{l} tomorrow, where do you want to drink (something) with me?
 
     O: 내일 시간이 조금 밖에 없으면 저랑 같이 커피 마실래요?
-    E: If you have only a little bit of time tomorrow, do you want to drink coffee together with me?
+    E: If you have only a little bit of time{l} tomorrow, do you want to drink coffee together with me?
 
     O: 내일 시간이 조금 밖에 없으면 저랑 같이 뭐 마실래요?
-    E: If you have only a little bit of time tomorrow, what do you want to drink together with me?
+    E: If you have only a little bit of time{l} tomorrow, what do you want to drink together with me?
 
     O: 내일 시간이 조금 밖에 없으면 저랑 같이 어떤 거 마실래요?
-    E: If you have only a little bit of time tomorrow, what kind of thing{s} do you want to drink together with me?
+    E: If you have only a little bit of time{l} tomorrow, what kind of thing{s} do you want to drink together with me?
 
     O: 내일 시간이 조금 밖에 없으면 어디에서 저랑 같이 마실래요?
-    E: If you have only a little bit of time tomorrow, where do you want to drink (something) together with me?
+    E: If you have only a little bit of time{l} tomorrow, where do you want to drink (something) together with me?
 
     O: 내일 시간이 조금 밖에 없으면 다 같이 커피 마실래요?
-    E: If you have only a little bit of time tomorrow, do you want to drink coffee with everyone?
+    E: If you have only a little bit of time{l} tomorrow, do you want to drink coffee with everyone?
 
     O: 내일 시간이 조금 밖에 없으면 다 같이 뭐 마실래요?
-    E: If you have only a little bit of time tomorrow, what do you want to drink with everyone?
+    E: If you have only a little bit of time{l} tomorrow, what do you want to drink with everyone?
 
     O: 내일 시간이 조금 밖에 없으면 다 같이 어떤 거 마실래요?
-    E: If you have only a little bit of time tomorrow, what kind of thing{s} do you want to drink with everyone?
+    E: If you have only a little bit of time{l} tomorrow, what kind of thing{s} do you want to drink with everyone?
 
     O: 내일 시간이 조금 밖에 없으면 어디에서 다 같이 마실래요?
-    E: If you have only a little bit of time tomorrow, where do you want to drink (something) with everyone?
+    E: If you have only a little bit of time{l} tomorrow, where do you want to drink (something) with everyone?
 
     O: 내일 시간이 전혀 없으면 같이 커피 마실래요?
-    E: If you have no time at all tomorrow, do you want to drink coffee together?
+    E: If you have no time{l} at all tomorrow, do you want to drink coffee together?
 
     O: 내일 시간이 전혀 없으면 같이 뭐 마실래요?
-    E: If you have no time at all tomorrow, what do you want to drink together?
+    E: If you have no time{l} at all tomorrow, what do you want to drink together?
 
     O: 내일 시간이 전혀 없으면 같이 어떤 거 마실래요?
-    E: If you have no time at all tomorrow, what kind of thing{s} do you want to drink together?
+    E: If you have no time{l} at all tomorrow, what kind of thing{s} do you want to drink together?
 
     O: 내일 시간이 전혀 없으면 어디에서 같이 마실래요?
-    E: If you have no time at all tomorrow, where do you want to drink (something) together?
+    E: If you have no time{l} at all tomorrow, where do you want to drink (something) together?
 
     O: 내일 시간이 전혀 없으면 저랑 커피 마실래요?
-    E: If you have no time at all tomorrow, do you want to drink coffee with me?
+    E: If you have no time{l} at all tomorrow, do you want to drink coffee with me?
 
     O: 내일 시간이 전혀 없으면 저랑 뭐 마실래요?
-    E: If you have no time at all tomorrow, what do you want to drink with me?
+    E: If you have no time{l} at all tomorrow, what do you want to drink with me?
 
     O: 내일 시간이 전혀 없으면 저랑 어떤 거 마실래요?
-    E: If you have no time at all tomorrow, what kind of thing{s} do you want to drink with me?
+    E: If you have no time{l} at all tomorrow, what kind of thing{s} do you want to drink with me?
 
     O: 내일 시간이 전혀 없으면 어디에서 저랑 마실래요?
-    E: If you have no time at all tomorrow, where do you want to drink (something) with me?
+    E: If you have no time{l} at all tomorrow, where do you want to drink (something) with me?
 
     O: 내일 시간이 전혀 없으면 저랑 같이 커피 마실래요?
-    E: If you have no time at all tomorrow, do you want to drink coffee together with me?
+    E: If you have no time{l} at all tomorrow, do you want to drink coffee together with me?
 
     O: 내일 시간이 전혀 없으면 저랑 같이 뭐 마실래요?
-    E: If you have no time at all tomorrow, what do you want to drink together with me?
+    E: If you have no time{l} at all tomorrow, what do you want to drink together with me?
 
     O: 내일 시간이 전혀 없으면 저랑 같이 어떤 거 마실래요?
-    E: If you have no time at all tomorrow, what kind of thing{s} do you want to drink together with me?
+    E: If you have no time{l} at all tomorrow, what kind of thing{s} do you want to drink together with me?
 
     O: 내일 시간이 전혀 없으면 어디에서 저랑 같이 마실래요?
-    E: If you have no time at all tomorrow, where do you want to drink (something) together with me?
+    E: If you have no time{l} at all tomorrow, where do you want to drink (something) together with me?
 
     O: 내일 시간이 전혀 없으면 다 같이 커피 마실래요?
-    E: If you have no time at all tomorrow, do you want to drink coffee with everyone?
+    E: If you have no time{l} at all tomorrow, do you want to drink coffee with everyone?
 
     O: 내일 시간이 전혀 없으면 다 같이 뭐 마실래요?
-    E: If you have no time at all tomorrow, what do you want to drink with everyone?
+    E: If you have no time{l} at all tomorrow, what do you want to drink with everyone?
 
     O: 내일 시간이 전혀 없으면 다 같이 어떤 거 마실래요?
-    E: If you have no time at all tomorrow, what kind of thing{s} do you want to drink with everyone?
+    E: If you have no time{l} at all tomorrow, what kind of thing{s} do you want to drink with everyone?
 
     O: 내일 시간이 전혀 없으면 어디에서 다 같이 마실래요?
-    E: If you have no time at all tomorrow, where do you want to drink (something) with everyone?
+    E: If you have no time{l} at all tomorrow, where do you want to drink (something) with everyone?
 
     O: 오늘 시간이 있으면 같이 커피 마실래요?
-    E: If you have time today, do you want to drink coffee together?
+    E: If you have time{l} today, do you want to drink coffee together?
 
     O: 오늘 시간이 있으면 같이 뭐 마실래요?
-    E: If you have time today, what do you want to drink together?
+    E: If you have time{l} today, what do you want to drink together?
 
     O: 오늘 시간이 있으면 같이 어떤 거 마실래요?
-    E: If you have time today, what kind of thing{s} do you want to drink together?
+    E: If you have time{l} today, what kind of thing{s} do you want to drink together?
 
     O: 오늘 시간이 있으면 어디에서 같이 마실래요?
-    E: If you have time today, where do you want to drink (something) together?
+    E: If you have time{l} today, where do you want to drink (something) together?
 
     O: 오늘 시간이 있으면 저랑 커피 마실래요?
-    E: If you have time today, do you want to drink coffee with me?
+    E: If you have time{l} today, do you want to drink coffee with me?
 
     O: 오늘 시간이 있으면 저랑 뭐 마실래요?
-    E: If you have time today, what do you want to drink with me?
+    E: If you have time{l} today, what do you want to drink with me?
 
     O: 오늘 시간이 있으면 저랑 어떤 거 마실래요?
-    E: If you have time today, what kind of thing{s} do you want to drink with me?
+    E: If you have time{l} today, what kind of thing{s} do you want to drink with me?
 
     O: 오늘 시간이 있으면 어디에서 저랑 마실래요?
-    E: If you have time today, where do you want to drink (something) with me?
+    E: If you have time{l} today, where do you want to drink (something) with me?
 
     O: 오늘 시간이 있으면 저랑 같이 커피 마실래요?
-    E: If you have time today, do you want to drink coffee together with me?
+    E: If you have time{l} today, do you want to drink coffee together with me?
 
     O: 오늘 시간이 있으면 저랑 같이 뭐 마실래요?
-    E: If you have time today, what do you want to drink together with me?
+    E: If you have time{l} today, what do you want to drink together with me?
 
     O: 오늘 시간이 있으면 저랑 같이 어떤 거 마실래요?
-    E: If you have time today, what kind of thing{s} do you want to drink together with me?
+    E: If you have time{l} today, what kind of thing{s} do you want to drink together with me?
 
     O: 오늘 시간이 있으면 어디에서 저랑 같이 마실래요?
-    E: If you have time today, where do you want to drink (something) together with me?
+    E: If you have time{l} today, where do you want to drink (something) together with me?
 
     O: 오늘 시간이 있으면 다 같이 커피 마실래요?
-    E: If you have time today, do you want to drink coffee with everyone?
+    E: If you have time{l} today, do you want to drink coffee with everyone?
 
     O: 오늘 시간이 있으면 다 같이 뭐 마실래요?
-    E: If you have time today, what do you want to drink with everyone?
+    E: If you have time{l} today, what do you want to drink with everyone?
 
     O: 오늘 시간이 있으면 다 같이 어떤 거 마실래요?
-    E: If you have time today, what kind of thing{s} do you want to drink with everyone?
+    E: If you have time{l} today, what kind of thing{s} do you want to drink with everyone?
 
     O: 오늘 시간이 있으면 어디에서 다 같이 마실래요?
-    E: If you have time today, where do you want to drink (something) with everyone?
+    E: If you have time{l} today, where do you want to drink (something) with everyone?
 
     O: 오늘 시간이 없으면 같이 커피 마실래요?
-    E: If you don't have time today, do you want to drink coffee together?
+    E: If you don't have time{l} today, do you want to drink coffee together?
 
     O: 오늘 시간이 없으면 같이 뭐 마실래요?
-    E: If you don't have time today, what do you want to drink together?
+    E: If you don't have time{l} today, what do you want to drink together?
 
     O: 오늘 시간이 없으면 같이 어떤 거 마실래요?
-    E: If you don't have time today, what kind of thing{s} do you want to drink together?
+    E: If you don't have time{l} today, what kind of thing{s} do you want to drink together?
 
     O: 오늘 시간이 없으면 어디에서 같이 마실래요?
-    E: If you don't have time today, where do you want to drink (something) together?
+    E: If you don't have time{l} today, where do you want to drink (something) together?
 
     O: 오늘 시간이 없으면 저랑 커피 마실래요?
-    E: If you don't have time today, do you want to drink coffee with me?
+    E: If you don't have time{l} today, do you want to drink coffee with me?
 
     O: 오늘 시간이 없으면 저랑 뭐 마실래요?
-    E: If you don't have time today, what do you want to drink with me?
+    E: If you don't have time{l} today, what do you want to drink with me?
 
     O: 오늘 시간이 없으면 저랑 어떤 거 마실래요?
-    E: If you don't have time today, what kind of thing{s} do you want to drink with me?
+    E: If you don't have time{l} today, what kind of thing{s} do you want to drink with me?
 
     O: 오늘 시간이 없으면 어디에서 저랑 마실래요?
-    E: If you don't have time today, where do you want to drink (something) with me?
+    E: If you don't have time{l} today, where do you want to drink (something) with me?
 
     O: 오늘 시간이 없으면 저랑 같이 커피 마실래요?
-    E: If you don't have time today, do you want to drink coffee together with me?
+    E: If you don't have time{l} today, do you want to drink coffee together with me?
 
     O: 오늘 시간이 없으면 저랑 같이 뭐 마실래요?
-    E: If you don't have time today, what do you want to drink together with me?
+    E: If you don't have time{l} today, what do you want to drink together with me?
 
     O: 오늘 시간이 없으면 저랑 같이 어떤 거 마실래요?
-    E: If you don't have time today, what kind of thing{s} do you want to drink together with me?
+    E: If you don't have time{l} today, what kind of thing{s} do you want to drink together with me?
 
     O: 오늘 시간이 없으면 어디에서 저랑 같이 마실래요?
-    E: If you don't have time today, where do you want to drink (something) together with me?
+    E: If you don't have time{l} today, where do you want to drink (something) together with me?
 
     O: 오늘 시간이 없으면 다 같이 커피 마실래요?
-    E: If you don't have time today, do you want to drink coffee with everyone?
+    E: If you don't have time{l} today, do you want to drink coffee with everyone?
 
     O: 오늘 시간이 없으면 다 같이 뭐 마실래요?
-    E: If you don't have time today, what do you want to drink with everyone?
+    E: If you don't have time{l} today, what do you want to drink with everyone?
 
     O: 오늘 시간이 없으면 다 같이 어떤 거 마실래요?
-    E: If you don't have time today, what kind of thing{s} do you want to drink with everyone?
+    E: If you don't have time{l} today, what kind of thing{s} do you want to drink with everyone?
 
     O: 오늘 시간이 없으면 어디에서 다 같이 마실래요?
-    E: If you don't have time today, where do you want to drink (something) with everyone?
+    E: If you don't have time{l} today, where do you want to drink (something) with everyone?
 
     O: 오늘 시간이 많이 있으면 같이 커피 마실래요?
-    E: If you have a lot{av} of time today, do you want to drink coffee together?
+    E: If you have a lot{av} of time{l} today, do you want to drink coffee together?
 
     O: 오늘 시간이 많이 있으면 같이 뭐 마실래요?
-    E: If you have a lot{av} of time today, what do you want to drink together?
+    E: If you have a lot{av} of time{l} today, what do you want to drink together?
 
     O: 오늘 시간이 많이 있으면 같이 어떤 거 마실래요?
-    E: If you have a lot{av} of time today, what kind of thing{s} do you want to drink together?
+    E: If you have a lot{av} of time{l} today, what kind of thing{s} do you want to drink together?
 
     O: 오늘 시간이 많이 있으면 어디에서 같이 마실래요?
-    E: If you have a lot{av} of time today, where do you want to drink (something) together?
+    E: If you have a lot{av} of time{l} today, where do you want to drink (something) together?
 
     O: 오늘 시간이 많이 있으면 저랑 커피 마실래요?
-    E: If you have a lot{av} of time today, do you want to drink coffee with me?
+    E: If you have a lot{av} of time{l} today, do you want to drink coffee with me?
 
     O: 오늘 시간이 많이 있으면 저랑 뭐 마실래요?
-    E: If you have a lot{av} of time today, what do you want to drink with me?
+    E: If you have a lot{av} of time{l} today, what do you want to drink with me?
 
     O: 오늘 시간이 많이 있으면 저랑 어떤 거 마실래요?
-    E: If you have a lot{av} of time today, what kind of thing{s} do you want to drink with me?
+    E: If you have a lot{av} of time{l} today, what kind of thing{s} do you want to drink with me?
 
     O: 오늘 시간이 많이 있으면 어디에서 저랑 마실래요?
-    E: If you have a lot{av} of time today, where do you want to drink (something) with me?
+    E: If you have a lot{av} of time{l} today, where do you want to drink (something) with me?
 
     O: 오늘 시간이 많이 있으면 저랑 같이 커피 마실래요?
-    E: If you have a lot{av} of time today, do you want to drink coffee together with me?
+    E: If you have a lot{av} of time{l} today, do you want to drink coffee together with me?
 
     O: 오늘 시간이 많이 있으면 저랑 같이 뭐 마실래요?
-    E: If you have a lot{av} of time today, what do you want to drink together with me?
+    E: If you have a lot{av} of time{l} today, what do you want to drink together with me?
 
     O: 오늘 시간이 많이 있으면 저랑 같이 어떤 거 마실래요?
-    E: If you have a lot{av} of time today, what kind of thing{s} do you want to drink together with me?
+    E: If you have a lot{av} of time{l} today, what kind of thing{s} do you want to drink together with me?
 
     O: 오늘 시간이 많이 있으면 어디에서 저랑 같이 마실래요?
-    E: If you have a lot{av} of time today, where do you want to drink (something) together with me?
+    E: If you have a lot{av} of time{l} today, where do you want to drink (something) together with me?
 
     O: 오늘 시간이 많이 있으면 다 같이 커피 마실래요?
-    E: If you have a lot{av} of time today, do you want to drink coffee with everyone?
+    E: If you have a lot{av} of time{l} today, do you want to drink coffee with everyone?
 
     O: 오늘 시간이 많이 있으면 다 같이 뭐 마실래요?
-    E: If you have a lot{av} of time today, what do you want to drink with everyone?
+    E: If you have a lot{av} of time{l} today, what do you want to drink with everyone?
 
     O: 오늘 시간이 많이 있으면 다 같이 어떤 거 마실래요?
-    E: If you have a lot{av} of time today, what kind of thing{s} do you want to drink with everyone?
+    E: If you have a lot{av} of time{l} today, what kind of thing{s} do you want to drink with everyone?
 
     O: 오늘 시간이 많이 있으면 어디에서 다 같이 마실래요?
-    E: If you have a lot{av} of time today, where do you want to drink (something) with everyone?
+    E: If you have a lot{av} of time{l} today, where do you want to drink (something) with everyone?
 
     O: 오늘 시간이 많으면 같이 커피 마실래요?
-    E: If you have a lot{v} of time today, do you want to drink coffee together?
+    E: If you have a lot{v} of time{l} today, do you want to drink coffee together?
 
     O: 오늘 시간이 많으면 같이 뭐 마실래요?
-    E: If you have a lot{v} of time today, what do you want to drink together?
+    E: If you have a lot{v} of time{l} today, what do you want to drink together?
 
     O: 오늘 시간이 많으면 같이 어떤 거 마실래요?
-    E: If you have a lot{v} of time today, what kind of thing{s} do you want to drink together?
+    E: If you have a lot{v} of time{l} today, what kind of thing{s} do you want to drink together?
 
     O: 오늘 시간이 많으면 어디에서 같이 마실래요?
-    E: If you have a lot{v} of time today, where do you want to drink (something) together?
+    E: If you have a lot{v} of time{l} today, where do you want to drink (something) together?
 
     O: 오늘 시간이 많으면 저랑 커피 마실래요?
-    E: If you have a lot{v} of time today, do you want to drink coffee with me?
+    E: If you have a lot{v} of time{l} today, do you want to drink coffee with me?
 
     O: 오늘 시간이 많으면 저랑 뭐 마실래요?
-    E: If you have a lot{v} of time today, what do you want to drink with me?
+    E: If you have a lot{v} of time{l} today, what do you want to drink with me?
 
     O: 오늘 시간이 많으면 저랑 어떤 거 마실래요?
-    E: If you have a lot{v} of time today, what kind of thing{s} do you want to drink with me?
+    E: If you have a lot{v} of time{l} today, what kind of thing{s} do you want to drink with me?
 
     O: 오늘 시간이 많으면 어디에서 저랑 마실래요?
-    E: If you have a lot{v} of time today, where do you want to drink (something) with me?
+    E: If you have a lot{v} of time{l} today, where do you want to drink (something) with me?
 
     O: 오늘 시간이 많으면 저랑 같이 커피 마실래요?
-    E: If you have a lot{v} of time today, do you want to drink coffee together with me?
+    E: If you have a lot{v} of time{l} today, do you want to drink coffee together with me?
 
     O: 오늘 시간이 많으면 저랑 같이 뭐 마실래요?
-    E: If you have a lot{v} of time today, what do you want to drink together with me?
+    E: If you have a lot{v} of time{l} today, what do you want to drink together with me?
 
     O: 오늘 시간이 많으면 저랑 같이 어떤 거 마실래요?
-    E: If you have a lot{v} of time today, what kind of thing{s} do you want to drink together with me?
+    E: If you have a lot{v} of time{l} today, what kind of thing{s} do you want to drink together with me?
 
     O: 오늘 시간이 많으면 어디에서 저랑 같이 마실래요?
-    E: If you have a lot{v} of time today, where do you want to drink (something) together with me?
+    E: If you have a lot{v} of time{l} today, where do you want to drink (something) together with me?
 
     O: 오늘 시간이 많으면 다 같이 커피 마실래요?
-    E: If you have a lot{v} of time today, do you want to drink coffee with everyone?
+    E: If you have a lot{v} of time{l} today, do you want to drink coffee with everyone?
 
     O: 오늘 시간이 많으면 다 같이 뭐 마실래요?
-    E: If you have a lot{v} of time today, what do you want to drink with everyone?
+    E: If you have a lot{v} of time{l} today, what do you want to drink with everyone?
 
     O: 오늘 시간이 많으면 다 같이 어떤 거 마실래요?
-    E: If you have a lot{v} of time today, what kind of thing{s} do you want to drink with everyone?
+    E: If you have a lot{v} of time{l} today, what kind of thing{s} do you want to drink with everyone?
 
     O: 오늘 시간이 많으면 어디에서 다 같이 마실래요?
-    E: If you have a lot{v} of time today, where do you want to drink (something) with everyone?
+    E: If you have a lot{v} of time{l} today, where do you want to drink (something) with everyone?
 
     O: 오늘 시간이 조금 밖에 없으면 같이 커피 마실래요?
-    E: If you have only a little bit of time today, do you want to drink coffee together?
+    E: If you have only a little bit of time{l} today, do you want to drink coffee together?
 
     O: 오늘 시간이 조금 밖에 없으면 같이 뭐 마실래요?
-    E: If you have only a little bit of time today, what do you want to drink together?
+    E: If you have only a little bit of time{l} today, what do you want to drink together?
 
     O: 오늘 시간이 조금 밖에 없으면 같이 어떤 거 마실래요?
-    E: If you have only a little bit of time today, what kind of thing{s} do you want to drink together?
+    E: If you have only a little bit of time{l} today, what kind of thing{s} do you want to drink together?
 
     O: 오늘 시간이 조금 밖에 없으면 어디에서 같이 마실래요?
-    E: If you have only a little bit of time today, where do you want to drink (something) together?
+    E: If you have only a little bit of time{l} today, where do you want to drink (something) together?
 
     O: 오늘 시간이 조금 밖에 없으면 저랑 커피 마실래요?
-    E: If you have only a little bit of time today, do you want to drink coffee with me?
+    E: If you have only a little bit of time{l} today, do you want to drink coffee with me?
 
     O: 오늘 시간이 조금 밖에 없으면 저랑 뭐 마실래요?
-    E: If you have only a little bit of time today, what do you want to drink with me?
+    E: If you have only a little bit of time{l} today, what do you want to drink with me?
 
     O: 오늘 시간이 조금 밖에 없으면 저랑 어떤 거 마실래요?
-    E: If you have only a little bit of time today, what kind of thing{s} do you want to drink with me?
+    E: If you have only a little bit of time{l} today, what kind of thing{s} do you want to drink with me?
 
     O: 오늘 시간이 조금 밖에 없으면 어디에서 저랑 마실래요?
-    E: If you have only a little bit of time today, where do you want to drink (something) with me?
+    E: If you have only a little bit of time{l} today, where do you want to drink (something) with me?
 
     O: 오늘 시간이 조금 밖에 없으면 저랑 같이 커피 마실래요?
-    E: If you have only a little bit of time today, do you want to drink coffee together with me?
+    E: If you have only a little bit of time{l} today, do you want to drink coffee together with me?
 
     O: 오늘 시간이 조금 밖에 없으면 저랑 같이 뭐 마실래요?
-    E: If you have only a little bit of time today, what do you want to drink together with me?
+    E: If you have only a little bit of time{l} today, what do you want to drink together with me?
 
     O: 오늘 시간이 조금 밖에 없으면 저랑 같이 어떤 거 마실래요?
-    E: If you have only a little bit of time today, what kind of thing{s} do you want to drink together with me?
+    E: If you have only a little bit of time{l} today, what kind of thing{s} do you want to drink together with me?
 
     O: 오늘 시간이 조금 밖에 없으면 어디에서 저랑 같이 마실래요?
-    E: If you have only a little bit of time today, where do you want to drink (something) together with me?
+    E: If you have only a little bit of time{l} today, where do you want to drink (something) together with me?
 
     O: 오늘 시간이 조금 밖에 없으면 다 같이 커피 마실래요?
-    E: If you have only a little bit of time today, do you want to drink coffee with everyone?
+    E: If you have only a little bit of time{l} today, do you want to drink coffee with everyone?
 
     O: 오늘 시간이 조금 밖에 없으면 다 같이 뭐 마실래요?
-    E: If you have only a little bit of time today, what do you want to drink with everyone?
+    E: If you have only a little bit of time{l} today, what do you want to drink with everyone?
 
     O: 오늘 시간이 조금 밖에 없으면 다 같이 어떤 거 마실래요?
-    E: If you have only a little bit of time today, what kind of thing{s} do you want to drink with everyone?
+    E: If you have only a little bit of time{l} today, what kind of thing{s} do you want to drink with everyone?
 
     O: 오늘 시간이 조금 밖에 없으면 어디에서 다 같이 마실래요?
-    E: If you have only a little bit of time today, where do you want to drink (something) with everyone?
+    E: If you have only a little bit of time{l} today, where do you want to drink (something) with everyone?
 
     O: 오늘 시간이 전혀 없으면 같이 커피 마실래요?
-    E: If you have no time at all today, do you want to drink coffee together?
+    E: If you have no time{l} at all today, do you want to drink coffee together?
 
     O: 오늘 시간이 전혀 없으면 같이 뭐 마실래요?
-    E: If you have no time at all today, what do you want to drink together?
+    E: If you have no time{l} at all today, what do you want to drink together?
 
     O: 오늘 시간이 전혀 없으면 같이 어떤 거 마실래요?
-    E: If you have no time at all today, what kind of thing{s} do you want to drink together?
+    E: If you have no time{l} at all today, what kind of thing{s} do you want to drink together?
 
     O: 오늘 시간이 전혀 없으면 어디에서 같이 마실래요?
-    E: If you have no time at all today, where do you want to drink (something) together?
+    E: If you have no time{l} at all today, where do you want to drink (something) together?
 
     O: 오늘 시간이 전혀 없으면 저랑 커피 마실래요?
-    E: If you have no time at all today, do you want to drink coffee with me?
+    E: If you have no time{l} at all today, do you want to drink coffee with me?
 
     O: 오늘 시간이 전혀 없으면 저랑 뭐 마실래요?
-    E: If you have no time at all today, what do you want to drink with me?
+    E: If you have no time{l} at all today, what do you want to drink with me?
 
     O: 오늘 시간이 전혀 없으면 저랑 어떤 거 마실래요?
-    E: If you have no time at all today, what kind of thing{s} do you want to drink with me?
+    E: If you have no time{l} at all today, what kind of thing{s} do you want to drink with me?
 
     O: 오늘 시간이 전혀 없으면 어디에서 저랑 마실래요?
-    E: If you have no time at all today, where do you want to drink (something) with me?
+    E: If you have no time{l} at all today, where do you want to drink (something) with me?
 
     O: 오늘 시간이 전혀 없으면 저랑 같이 커피 마실래요?
-    E: If you have no time at all today, do you want to drink coffee together with me?
+    E: If you have no time{l} at all today, do you want to drink coffee together with me?
 
     O: 오늘 시간이 전혀 없으면 저랑 같이 뭐 마실래요?
-    E: If you have no time at all today, what do you want to drink together with me?
+    E: If you have no time{l} at all today, what do you want to drink together with me?
 
     O: 오늘 시간이 전혀 없으면 저랑 같이 어떤 거 마실래요?
-    E: If you have no time at all today, what kind of thing{s} do you want to drink together with me?
+    E: If you have no time{l} at all today, what kind of thing{s} do you want to drink together with me?
 
     O: 오늘 시간이 전혀 없으면 어디에서 저랑 같이 마실래요?
-    E: If you have no time at all today, where do you want to drink (something) together with me?
+    E: If you have no time{l} at all today, where do you want to drink (something) together with me?
 
     O: 오늘 시간이 전혀 없으면 다 같이 커피 마실래요?
-    E: If you have no time at all today, do you want to drink coffee with everyone?
+    E: If you have no time{l} at all today, do you want to drink coffee with everyone?
 
     O: 오늘 시간이 전혀 없으면 다 같이 뭐 마실래요?
-    E: If you have no time at all today, what do you want to drink with everyone?
+    E: If you have no time{l} at all today, what do you want to drink with everyone?
 
     O: 오늘 시간이 전혀 없으면 다 같이 어떤 거 마실래요?
-    E: If you have no time at all today, what kind of thing{s} do you want to drink with everyone?
+    E: If you have no time{l} at all today, what kind of thing{s} do you want to drink with everyone?
 
     O: 오늘 시간이 전혀 없으면 어디에서 다 같이 마실래요?
-    E: If you have no time at all today, where do you want to drink (something) with everyone?
+    E: If you have no time{l} at all today, where do you want to drink (something) with everyone?
 
     O: 주말에 시간이 있으면 같이 커피 마실래요?
-    E: If you have time (this) weekend, do you want to drink coffee together?
+    E: If you have time{l} (this) weekend, do you want to drink coffee together?
 
     O: 주말에 시간이 있으면 같이 뭐 마실래요?
-    E: If you have time (this) weekend, what do you want to drink together?
+    E: If you have time{l} (this) weekend, what do you want to drink together?
 
     O: 주말에 시간이 있으면 같이 어떤 거 마실래요?
-    E: If you have time (this) weekend, what kind of thing{s} do you want to drink together?
+    E: If you have time{l} (this) weekend, what kind of thing{s} do you want to drink together?
 
     O: 주말에 시간이 있으면 어디에서 같이 마실래요?
-    E: If you have time (this) weekend, where do you want to drink (something) together?
+    E: If you have time{l} (this) weekend, where do you want to drink (something) together?
 
     O: 주말에 시간이 있으면 저랑 커피 마실래요?
-    E: If you have time (this) weekend, do you want to drink coffee with me?
+    E: If you have time{l} (this) weekend, do you want to drink coffee with me?
 
     O: 주말에 시간이 있으면 저랑 뭐 마실래요?
-    E: If you have time (this) weekend, what do you want to drink with me?
+    E: If you have time{l} (this) weekend, what do you want to drink with me?
 
     O: 주말에 시간이 있으면 저랑 어떤 거 마실래요?
-    E: If you have time (this) weekend, what kind of thing{s} do you want to drink with me?
+    E: If you have time{l} (this) weekend, what kind of thing{s} do you want to drink with me?
 
     O: 주말에 시간이 있으면 어디에서 저랑 마실래요?
-    E: If you have time (this) weekend, where do you want to drink (something) with me?
+    E: If you have time{l} (this) weekend, where do you want to drink (something) with me?
 
     O: 주말에 시간이 있으면 저랑 같이 커피 마실래요?
-    E: If you have time (this) weekend, do you want to drink coffee together with me?
+    E: If you have time{l} (this) weekend, do you want to drink coffee together with me?
 
     O: 주말에 시간이 있으면 저랑 같이 뭐 마실래요?
-    E: If you have time (this) weekend, what do you want to drink together with me?
+    E: If you have time{l} (this) weekend, what do you want to drink together with me?
 
     O: 주말에 시간이 있으면 저랑 같이 어떤 거 마실래요?
-    E: If you have time (this) weekend, what kind of thing{s} do you want to drink together with me?
+    E: If you have time{l} (this) weekend, what kind of thing{s} do you want to drink together with me?
 
     O: 주말에 시간이 있으면 어디에서 저랑 같이 마실래요?
-    E: If you have time (this) weekend, where do you want to drink (something) together with me?
+    E: If you have time{l} (this) weekend, where do you want to drink (something) together with me?
 
     O: 주말에 시간이 있으면 다 같이 커피 마실래요?
-    E: If you have time (this) weekend, do you want to drink coffee with everyone?
+    E: If you have time{l} (this) weekend, do you want to drink coffee with everyone?
 
     O: 주말에 시간이 있으면 다 같이 뭐 마실래요?
-    E: If you have time (this) weekend, what do you want to drink with everyone?
+    E: If you have time{l} (this) weekend, what do you want to drink with everyone?
 
     O: 주말에 시간이 있으면 다 같이 어떤 거 마실래요?
-    E: If you have time (this) weekend, what kind of thing{s} do you want to drink with everyone?
+    E: If you have time{l} (this) weekend, what kind of thing{s} do you want to drink with everyone?
 
     O: 주말에 시간이 있으면 어디에서 다 같이 마실래요?
-    E: If you have time (this) weekend, where do you want to drink (something) with everyone?
+    E: If you have time{l} (this) weekend, where do you want to drink (something) with everyone?
 
     O: 주말에 시간이 없으면 같이 커피 마실래요?
-    E: If you don't have time (this) weekend, do you want to drink coffee together?
+    E: If you don't have time{l} (this) weekend, do you want to drink coffee together?
 
     O: 주말에 시간이 없으면 같이 뭐 마실래요?
-    E: If you don't have time (this) weekend, what do you want to drink together?
+    E: If you don't have time{l} (this) weekend, what do you want to drink together?
 
     O: 주말에 시간이 없으면 같이 어떤 거 마실래요?
-    E: If you don't have time (this) weekend, what kind of thing{s} do you want to drink together?
+    E: If you don't have time{l} (this) weekend, what kind of thing{s} do you want to drink together?
 
     O: 주말에 시간이 없으면 어디에서 같이 마실래요?
-    E: If you don't have time (this) weekend, where do you want to drink (something) together?
+    E: If you don't have time{l} (this) weekend, where do you want to drink (something) together?
 
     O: 주말에 시간이 없으면 저랑 커피 마실래요?
-    E: If you don't have time (this) weekend, do you want to drink coffee with me?
+    E: If you don't have time{l} (this) weekend, do you want to drink coffee with me?
 
     O: 주말에 시간이 없으면 저랑 뭐 마실래요?
-    E: If you don't have time (this) weekend, what do you want to drink with me?
+    E: If you don't have time{l} (this) weekend, what do you want to drink with me?
 
     O: 주말에 시간이 없으면 저랑 어떤 거 마실래요?
-    E: If you don't have time (this) weekend, what kind of thing{s} do you want to drink with me?
+    E: If you don't have time{l} (this) weekend, what kind of thing{s} do you want to drink with me?
 
     O: 주말에 시간이 없으면 어디에서 저랑 마실래요?
-    E: If you don't have time (this) weekend, where do you want to drink (something) with me?
+    E: If you don't have time{l} (this) weekend, where do you want to drink (something) with me?
 
     O: 주말에 시간이 없으면 저랑 같이 커피 마실래요?
-    E: If you don't have time (this) weekend, do you want to drink coffee together with me?
+    E: If you don't have time{l} (this) weekend, do you want to drink coffee together with me?
 
     O: 주말에 시간이 없으면 저랑 같이 뭐 마실래요?
-    E: If you don't have time (this) weekend, what do you want to drink together with me?
+    E: If you don't have time{l} (this) weekend, what do you want to drink together with me?
 
     O: 주말에 시간이 없으면 저랑 같이 어떤 거 마실래요?
-    E: If you don't have time (this) weekend, what kind of thing{s} do you want to drink together with me?
+    E: If you don't have time{l} (this) weekend, what kind of thing{s} do you want to drink together with me?
 
     O: 주말에 시간이 없으면 어디에서 저랑 같이 마실래요?
-    E: If you don't have time (this) weekend, where do you want to drink (something) together with me?
+    E: If you don't have time{l} (this) weekend, where do you want to drink (something) together with me?
 
     O: 주말에 시간이 없으면 다 같이 커피 마실래요?
-    E: If you don't have time (this) weekend, do you want to drink coffee with everyone?
+    E: If you don't have time{l} (this) weekend, do you want to drink coffee with everyone?
 
     O: 주말에 시간이 없으면 다 같이 뭐 마실래요?
-    E: If you don't have time (this) weekend, what do you want to drink with everyone?
+    E: If you don't have time{l} (this) weekend, what do you want to drink with everyone?
 
     O: 주말에 시간이 없으면 다 같이 어떤 거 마실래요?
-    E: If you don't have time (this) weekend, what kind of thing{s} do you want to drink with everyone?
+    E: If you don't have time{l} (this) weekend, what kind of thing{s} do you want to drink with everyone?
 
     O: 주말에 시간이 없으면 어디에서 다 같이 마실래요?
-    E: If you don't have time (this) weekend, where do you want to drink (something) with everyone?
+    E: If you don't have time{l} (this) weekend, where do you want to drink (something) with everyone?
 
     O: 주말에 시간이 많이 있으면 같이 커피 마실래요?
-    E: If you have a lot{av} of time (this) weekend, do you want to drink coffee together?
+    E: If you have a lot{av} of time{l} (this) weekend, do you want to drink coffee together?
 
     O: 주말에 시간이 많이 있으면 같이 뭐 마실래요?
-    E: If you have a lot{av} of time (this) weekend, what do you want to drink together?
+    E: If you have a lot{av} of time{l} (this) weekend, what do you want to drink together?
 
     O: 주말에 시간이 많이 있으면 같이 어떤 거 마실래요?
-    E: If you have a lot{av} of time (this) weekend, what kind of thing{s} do you want to drink together?
+    E: If you have a lot{av} of time{l} (this) weekend, what kind of thing{s} do you want to drink together?
 
     O: 주말에 시간이 많이 있으면 어디에서 같이 마실래요?
-    E: If you have a lot{av} of time (this) weekend, where do you want to drink (something) together?
+    E: If you have a lot{av} of time{l} (this) weekend, where do you want to drink (something) together?
 
     O: 주말에 시간이 많이 있으면 저랑 커피 마실래요?
-    E: If you have a lot{av} of time (this) weekend, do you want to drink coffee with me?
+    E: If you have a lot{av} of time{l} (this) weekend, do you want to drink coffee with me?
 
     O: 주말에 시간이 많이 있으면 저랑 뭐 마실래요?
-    E: If you have a lot{av} of time (this) weekend, what do you want to drink with me?
+    E: If you have a lot{av} of time{l} (this) weekend, what do you want to drink with me?
 
     O: 주말에 시간이 많이 있으면 저랑 어떤 거 마실래요?
-    E: If you have a lot{av} of time (this) weekend, what kind of thing{s} do you want to drink with me?
+    E: If you have a lot{av} of time{l} (this) weekend, what kind of thing{s} do you want to drink with me?
 
     O: 주말에 시간이 많이 있으면 어디에서 저랑 마실래요?
-    E: If you have a lot{av} of time (this) weekend, where do you want to drink (something) with me?
+    E: If you have a lot{av} of time{l} (this) weekend, where do you want to drink (something) with me?
 
     O: 주말에 시간이 많이 있으면 저랑 같이 커피 마실래요?
-    E: If you have a lot{av} of time (this) weekend, do you want to drink coffee together with me?
+    E: If you have a lot{av} of time{l} (this) weekend, do you want to drink coffee together with me?
 
     O: 주말에 시간이 많이 있으면 저랑 같이 뭐 마실래요?
-    E: If you have a lot{av} of time (this) weekend, what do you want to drink together with me?
+    E: If you have a lot{av} of time{l} (this) weekend, what do you want to drink together with me?
 
     O: 주말에 시간이 많이 있으면 저랑 같이 어떤 거 마실래요?
-    E: If you have a lot{av} of time (this) weekend, what kind of thing{s} do you want to drink together with me?
+    E: If you have a lot{av} of time{l} (this) weekend, what kind of thing{s} do you want to drink together with me?
 
     O: 주말에 시간이 많이 있으면 어디에서 저랑 같이 마실래요?
-    E: If you have a lot{av} of time (this) weekend, where do you want to drink (something) together with me?
+    E: If you have a lot{av} of time{l} (this) weekend, where do you want to drink (something) together with me?
 
     O: 주말에 시간이 많이 있으면 다 같이 커피 마실래요?
-    E: If you have a lot{av} of time (this) weekend, do you want to drink coffee with everyone?
+    E: If you have a lot{av} of time{l} (this) weekend, do you want to drink coffee with everyone?
 
     O: 주말에 시간이 많이 있으면 다 같이 뭐 마실래요?
-    E: If you have a lot{av} of time (this) weekend, what do you want to drink with everyone?
+    E: If you have a lot{av} of time{l} (this) weekend, what do you want to drink with everyone?
 
     O: 주말에 시간이 많이 있으면 다 같이 어떤 거 마실래요?
-    E: If you have a lot{av} of time (this) weekend, what kind of thing{s} do you want to drink with everyone?
+    E: If you have a lot{av} of time{l} (this) weekend, what kind of thing{s} do you want to drink with everyone?
 
     O: 주말에 시간이 많이 있으면 어디에서 다 같이 마실래요?
-    E: If you have a lot{av} of time (this) weekend, where do you want to drink (something) with everyone?
+    E: If you have a lot{av} of time{l} (this) weekend, where do you want to drink (something) with everyone?
 
     O: 주말에 시간이 많으면 같이 커피 마실래요?
-    E: If you have a lot{v} of time (this) weekend, do you want to drink coffee together?
+    E: If you have a lot{v} of time{l} (this) weekend, do you want to drink coffee together?
 
     O: 주말에 시간이 많으면 같이 뭐 마실래요?
-    E: If you have a lot{v} of time (this) weekend, what do you want to drink together?
+    E: If you have a lot{v} of time{l} (this) weekend, what do you want to drink together?
 
     O: 주말에 시간이 많으면 같이 어떤 거 마실래요?
-    E: If you have a lot{v} of time (this) weekend, what kind of thing{s} do you want to drink together?
+    E: If you have a lot{v} of time{l} (this) weekend, what kind of thing{s} do you want to drink together?
 
     O: 주말에 시간이 많으면 어디에서 같이 마실래요?
-    E: If you have a lot{v} of time (this) weekend, where do you want to drink (something) together?
+    E: If you have a lot{v} of time{l} (this) weekend, where do you want to drink (something) together?
 
     O: 주말에 시간이 많으면 저랑 커피 마실래요?
-    E: If you have a lot{v} of time (this) weekend, do you want to drink coffee with me?
+    E: If you have a lot{v} of time{l} (this) weekend, do you want to drink coffee with me?
 
     O: 주말에 시간이 많으면 저랑 뭐 마실래요?
-    E: If you have a lot{v} of time (this) weekend, what do you want to drink with me?
+    E: If you have a lot{v} of time{l} (this) weekend, what do you want to drink with me?
 
     O: 주말에 시간이 많으면 저랑 어떤 거 마실래요?
-    E: If you have a lot{v} of time (this) weekend, what kind of thing{s} do you want to drink with me?
+    E: If you have a lot{v} of time{l} (this) weekend, what kind of thing{s} do you want to drink with me?
 
     O: 주말에 시간이 많으면 어디에서 저랑 마실래요?
-    E: If you have a lot{v} of time (this) weekend, where do you want to drink (something) with me?
+    E: If you have a lot{v} of time{l} (this) weekend, where do you want to drink (something) with me?
 
     O: 주말에 시간이 많으면 저랑 같이 커피 마실래요?
-    E: If you have a lot{v} of time (this) weekend, do you want to drink coffee together with me?
+    E: If you have a lot{v} of time{l} (this) weekend, do you want to drink coffee together with me?
 
     O: 주말에 시간이 많으면 저랑 같이 뭐 마실래요?
-    E: If you have a lot{v} of time (this) weekend, what do you want to drink together with me?
+    E: If you have a lot{v} of time{l} (this) weekend, what do you want to drink together with me?
 
     O: 주말에 시간이 많으면 저랑 같이 어떤 거 마실래요?
-    E: If you have a lot{v} of time (this) weekend, what kind of thing{s} do you want to drink together with me?
+    E: If you have a lot{v} of time{l} (this) weekend, what kind of thing{s} do you want to drink together with me?
 
     O: 주말에 시간이 많으면 어디에서 저랑 같이 마실래요?
-    E: If you have a lot{v} of time (this) weekend, where do you want to drink (something) together with me?
+    E: If you have a lot{v} of time{l} (this) weekend, where do you want to drink (something) together with me?
 
     O: 주말에 시간이 많으면 다 같이 커피 마실래요?
-    E: If you have a lot{v} of time (this) weekend, do you want to drink coffee with everyone?
+    E: If you have a lot{v} of time{l} (this) weekend, do you want to drink coffee with everyone?
 
     O: 주말에 시간이 많으면 다 같이 뭐 마실래요?
-    E: If you have a lot{v} of time (this) weekend, what do you want to drink with everyone?
+    E: If you have a lot{v} of time{l} (this) weekend, what do you want to drink with everyone?
 
     O: 주말에 시간이 많으면 다 같이 어떤 거 마실래요?
-    E: If you have a lot{v} of time (this) weekend, what kind of thing{s} do you want to drink with everyone?
+    E: If you have a lot{v} of time{l} (this) weekend, what kind of thing{s} do you want to drink with everyone?
 
     O: 주말에 시간이 많으면 어디에서 다 같이 마실래요?
-    E: If you have a lot{v} of time (this) weekend, where do you want to drink (something) with everyone?
+    E: If you have a lot{v} of time{l} (this) weekend, where do you want to drink (something) with everyone?
 
     O: 주말에 시간이 조금 밖에 없으면 같이 커피 마실래요?
-    E: If you have only a little bit of time (this) weekend, do you want to drink coffee together?
+    E: If you have only a little bit of time{l} (this) weekend, do you want to drink coffee together?
 
     O: 주말에 시간이 조금 밖에 없으면 같이 뭐 마실래요?
-    E: If you have only a little bit of time (this) weekend, what do you want to drink together?
+    E: If you have only a little bit of time{l} (this) weekend, what do you want to drink together?
 
     O: 주말에 시간이 조금 밖에 없으면 같이 어떤 거 마실래요?
-    E: If you have only a little bit of time (this) weekend, what kind of thing{s} do you want to drink together?
+    E: If you have only a little bit of time{l} (this) weekend, what kind of thing{s} do you want to drink together?
 
     O: 주말에 시간이 조금 밖에 없으면 어디에서 같이 마실래요?
-    E: If you have only a little bit of time (this) weekend, where do you want to drink (something) together?
+    E: If you have only a little bit of time{l} (this) weekend, where do you want to drink (something) together?
 
     O: 주말에 시간이 조금 밖에 없으면 저랑 커피 마실래요?
-    E: If you have only a little bit of time (this) weekend, do you want to drink coffee with me?
+    E: If you have only a little bit of time{l} (this) weekend, do you want to drink coffee with me?
 
     O: 주말에 시간이 조금 밖에 없으면 저랑 뭐 마실래요?
-    E: If you have only a little bit of time (this) weekend, what do you want to drink with me?
+    E: If you have only a little bit of time{l} (this) weekend, what do you want to drink with me?
 
     O: 주말에 시간이 조금 밖에 없으면 저랑 어떤 거 마실래요?
-    E: If you have only a little bit of time (this) weekend, what kind of thing{s} do you want to drink with me?
+    E: If you have only a little bit of time{l} (this) weekend, what kind of thing{s} do you want to drink with me?
 
     O: 주말에 시간이 조금 밖에 없으면 어디에서 저랑 마실래요?
-    E: If you have only a little bit of time (this) weekend, where do you want to drink (something) with me?
+    E: If you have only a little bit of time{l} (this) weekend, where do you want to drink (something) with me?
 
     O: 주말에 시간이 조금 밖에 없으면 저랑 같이 커피 마실래요?
-    E: If you have only a little bit of time (this) weekend, do you want to drink coffee together with me?
+    E: If you have only a little bit of time{l} (this) weekend, do you want to drink coffee together with me?
 
     O: 주말에 시간이 조금 밖에 없으면 저랑 같이 뭐 마실래요?
-    E: If you have only a little bit of time (this) weekend, what do you want to drink together with me?
+    E: If you have only a little bit of time{l} (this) weekend, what do you want to drink together with me?
 
     O: 주말에 시간이 조금 밖에 없으면 저랑 같이 어떤 거 마실래요?
-    E: If you have only a little bit of time (this) weekend, what kind of thing{s} do you want to drink together with me?
+    E: If you have only a little bit of time{l} (this) weekend, what kind of thing{s} do you want to drink together with me?
 
     O: 주말에 시간이 조금 밖에 없으면 어디에서 저랑 같이 마실래요?
-    E: If you have only a little bit of time (this) weekend, where do you want to drink (something) together with me?
+    E: If you have only a little bit of time{l} (this) weekend, where do you want to drink (something) together with me?
 
     O: 주말에 시간이 조금 밖에 없으면 다 같이 커피 마실래요?
-    E: If you have only a little bit of time (this) weekend, do you want to drink coffee with everyone?
+    E: If you have only a little bit of time{l} (this) weekend, do you want to drink coffee with everyone?
 
     O: 주말에 시간이 조금 밖에 없으면 다 같이 뭐 마실래요?
-    E: If you have only a little bit of time (this) weekend, what do you want to drink with everyone?
+    E: If you have only a little bit of time{l} (this) weekend, what do you want to drink with everyone?
 
     O: 주말에 시간이 조금 밖에 없으면 다 같이 어떤 거 마실래요?
-    E: If you have only a little bit of time (this) weekend, what kind of thing{s} do you want to drink with everyone?
+    E: If you have only a little bit of time{l} (this) weekend, what kind of thing{s} do you want to drink with everyone?
 
     O: 주말에 시간이 조금 밖에 없으면 어디에서 다 같이 마실래요?
-    E: If you have only a little bit of time (this) weekend, where do you want to drink (something) with everyone?
+    E: If you have only a little bit of time{l} (this) weekend, where do you want to drink (something) with everyone?
 
     O: 주말에 시간이 전혀 없으면 같이 커피 마실래요?
-    E: If you have no time at all (this) weekend, do you want to drink coffee together?
+    E: If you have no time{l} at all (this) weekend, do you want to drink coffee together?
 
     O: 주말에 시간이 전혀 없으면 같이 뭐 마실래요?
-    E: If you have no time at all (this) weekend, what do you want to drink together?
+    E: If you have no time{l} at all (this) weekend, what do you want to drink together?
 
     O: 주말에 시간이 전혀 없으면 같이 어떤 거 마실래요?
-    E: If you have no time at all (this) weekend, what kind of thing{s} do you want to drink together?
+    E: If you have no time{l} at all (this) weekend, what kind of thing{s} do you want to drink together?
 
     O: 주말에 시간이 전혀 없으면 어디에서 같이 마실래요?
-    E: If you have no time at all (this) weekend, where do you want to drink (something) together?
+    E: If you have no time{l} at all (this) weekend, where do you want to drink (something) together?
 
     O: 주말에 시간이 전혀 없으면 저랑 커피 마실래요?
-    E: If you have no time at all (this) weekend, do you want to drink coffee with me?
+    E: If you have no time{l} at all (this) weekend, do you want to drink coffee with me?
 
     O: 주말에 시간이 전혀 없으면 저랑 뭐 마실래요?
-    E: If you have no time at all (this) weekend, what do you want to drink with me?
+    E: If you have no time{l} at all (this) weekend, what do you want to drink with me?
 
     O: 주말에 시간이 전혀 없으면 저랑 어떤 거 마실래요?
-    E: If you have no time at all (this) weekend, what kind of thing{s} do you want to drink with me?
+    E: If you have no time{l} at all (this) weekend, what kind of thing{s} do you want to drink with me?
 
     O: 주말에 시간이 전혀 없으면 어디에서 저랑 마실래요?
-    E: If you have no time at all (this) weekend, where do you want to drink (something) with me?
+    E: If you have no time{l} at all (this) weekend, where do you want to drink (something) with me?
 
     O: 주말에 시간이 전혀 없으면 저랑 같이 커피 마실래요?
-    E: If you have no time at all (this) weekend, do you want to drink coffee together with me?
+    E: If you have no time{l} at all (this) weekend, do you want to drink coffee together with me?
 
     O: 주말에 시간이 전혀 없으면 저랑 같이 뭐 마실래요?
-    E: If you have no time at all (this) weekend, what do you want to drink together with me?
+    E: If you have no time{l} at all (this) weekend, what do you want to drink together with me?
 
     O: 주말에 시간이 전혀 없으면 저랑 같이 어떤 거 마실래요?
-    E: If you have no time at all (this) weekend, what kind of thing{s} do you want to drink together with me?
+    E: If you have no time{l} at all (this) weekend, what kind of thing{s} do you want to drink together with me?
 
     O: 주말에 시간이 전혀 없으면 어디에서 저랑 같이 마실래요?
-    E: If you have no time at all (this) weekend, where do you want to drink (something) together with me?
+    E: If you have no time{l} at all (this) weekend, where do you want to drink (something) together with me?
 
     O: 주말에 시간이 전혀 없으면 다 같이 커피 마실래요?
-    E: If you have no time at all (this) weekend, do you want to drink coffee with everyone?
+    E: If you have no time{l} at all (this) weekend, do you want to drink coffee with everyone?
 
     O: 주말에 시간이 전혀 없으면 다 같이 뭐 마실래요?
-    E: If you have no time at all (this) weekend, what do you want to drink with everyone?
+    E: If you have no time{l} at all (this) weekend, what do you want to drink with everyone?
 
     O: 주말에 시간이 전혀 없으면 다 같이 어떤 거 마실래요?
-    E: If you have no time at all (this) weekend, what kind of thing{s} do you want to drink with everyone?
+    E: If you have no time{l} at all (this) weekend, what kind of thing{s} do you want to drink with everyone?
 
     O: 주말에 시간이 전혀 없으면 어디에서 다 같이 마실래요?
-    E: If you have no time at all (this) weekend, where do you want to drink (something) with everyone?
+    E: If you have no time{l} at all (this) weekend, where do you want to drink (something) with everyone?
 
     O: 다음 주에 시간이 있으면 같이 커피 마실래요?
-    E: If you have time next week, do you want to drink coffee together?
+    E: If you have time{l} next week, do you want to drink coffee together?
 
     O: 다음 주에 시간이 있으면 같이 뭐 마실래요?
-    E: If you have time next week, what do you want to drink together?
+    E: If you have time{l} next week, what do you want to drink together?
 
     O: 다음 주에 시간이 있으면 같이 어떤 거 마실래요?
-    E: If you have time next week, what kind of thing{s} do you want to drink together?
+    E: If you have time{l} next week, what kind of thing{s} do you want to drink together?
 
     O: 다음 주에 시간이 있으면 어디에서 같이 마실래요?
-    E: If you have time next week, where do you want to drink (something) together?
+    E: If you have time{l} next week, where do you want to drink (something) together?
 
     O: 다음 주에 시간이 있으면 저랑 커피 마실래요?
-    E: If you have time next week, do you want to drink coffee with me?
+    E: If you have time{l} next week, do you want to drink coffee with me?
 
     O: 다음 주에 시간이 있으면 저랑 뭐 마실래요?
-    E: If you have time next week, what do you want to drink with me?
+    E: If you have time{l} next week, what do you want to drink with me?
 
     O: 다음 주에 시간이 있으면 저랑 어떤 거 마실래요?
-    E: If you have time next week, what kind of thing{s} do you want to drink with me?
+    E: If you have time{l} next week, what kind of thing{s} do you want to drink with me?
 
     O: 다음 주에 시간이 있으면 어디에서 저랑 마실래요?
-    E: If you have time next week, where do you want to drink (something) with me?
+    E: If you have time{l} next week, where do you want to drink (something) with me?
 
     O: 다음 주에 시간이 있으면 저랑 같이 커피 마실래요?
-    E: If you have time next week, do you want to drink coffee together with me?
+    E: If you have time{l} next week, do you want to drink coffee together with me?
 
     O: 다음 주에 시간이 있으면 저랑 같이 뭐 마실래요?
-    E: If you have time next week, what do you want to drink together with me?
+    E: If you have time{l} next week, what do you want to drink together with me?
 
     O: 다음 주에 시간이 있으면 저랑 같이 어떤 거 마실래요?
-    E: If you have time next week, what kind of thing{s} do you want to drink together with me?
+    E: If you have time{l} next week, what kind of thing{s} do you want to drink together with me?
 
     O: 다음 주에 시간이 있으면 어디에서 저랑 같이 마실래요?
-    E: If you have time next week, where do you want to drink (something) together with me?
+    E: If you have time{l} next week, where do you want to drink (something) together with me?
 
     O: 다음 주에 시간이 있으면 다 같이 커피 마실래요?
-    E: If you have time next week, do you want to drink coffee with everyone?
+    E: If you have time{l} next week, do you want to drink coffee with everyone?
 
     O: 다음 주에 시간이 있으면 다 같이 뭐 마실래요?
-    E: If you have time next week, what do you want to drink with everyone?
+    E: If you have time{l} next week, what do you want to drink with everyone?
 
     O: 다음 주에 시간이 있으면 다 같이 어떤 거 마실래요?
-    E: If you have time next week, what kind of thing{s} do you want to drink with everyone?
+    E: If you have time{l} next week, what kind of thing{s} do you want to drink with everyone?
 
     O: 다음 주에 시간이 있으면 어디에서 다 같이 마실래요?
-    E: If you have time next week, where do you want to drink (something) with everyone?
+    E: If you have time{l} next week, where do you want to drink (something) with everyone?
 
     O: 다음 주에 시간이 없으면 같이 커피 마실래요?
-    E: If you don't have time next week, do you want to drink coffee together?
+    E: If you don't have time{l} next week, do you want to drink coffee together?
 
     O: 다음 주에 시간이 없으면 같이 뭐 마실래요?
-    E: If you don't have time next week, what do you want to drink together?
+    E: If you don't have time{l} next week, what do you want to drink together?
 
     O: 다음 주에 시간이 없으면 같이 어떤 거 마실래요?
-    E: If you don't have time next week, what kind of thing{s} do you want to drink together?
+    E: If you don't have time{l} next week, what kind of thing{s} do you want to drink together?
 
     O: 다음 주에 시간이 없으면 어디에서 같이 마실래요?
-    E: If you don't have time next week, where do you want to drink (something) together?
+    E: If you don't have time{l} next week, where do you want to drink (something) together?
 
     O: 다음 주에 시간이 없으면 저랑 커피 마실래요?
-    E: If you don't have time next week, do you want to drink coffee with me?
+    E: If you don't have time{l} next week, do you want to drink coffee with me?
 
     O: 다음 주에 시간이 없으면 저랑 뭐 마실래요?
-    E: If you don't have time next week, what do you want to drink with me?
+    E: If you don't have time{l} next week, what do you want to drink with me?
 
     O: 다음 주에 시간이 없으면 저랑 어떤 거 마실래요?
-    E: If you don't have time next week, what kind of thing{s} do you want to drink with me?
+    E: If you don't have time{l} next week, what kind of thing{s} do you want to drink with me?
 
     O: 다음 주에 시간이 없으면 어디에서 저랑 마실래요?
-    E: If you don't have time next week, where do you want to drink (something) with me?
+    E: If you don't have time{l} next week, where do you want to drink (something) with me?
 
     O: 다음 주에 시간이 없으면 저랑 같이 커피 마실래요?
-    E: If you don't have time next week, do you want to drink coffee together with me?
+    E: If you don't have time{l} next week, do you want to drink coffee together with me?
 
     O: 다음 주에 시간이 없으면 저랑 같이 뭐 마실래요?
-    E: If you don't have time next week, what do you want to drink together with me?
+    E: If you don't have time{l} next week, what do you want to drink together with me?
 
     O: 다음 주에 시간이 없으면 저랑 같이 어떤 거 마실래요?
-    E: If you don't have time next week, what kind of thing{s} do you want to drink together with me?
+    E: If you don't have time{l} next week, what kind of thing{s} do you want to drink together with me?
 
     O: 다음 주에 시간이 없으면 어디에서 저랑 같이 마실래요?
-    E: If you don't have time next week, where do you want to drink (something) together with me?
+    E: If you don't have time{l} next week, where do you want to drink (something) together with me?
 
     O: 다음 주에 시간이 없으면 다 같이 커피 마실래요?
-    E: If you don't have time next week, do you want to drink coffee with everyone?
+    E: If you don't have time{l} next week, do you want to drink coffee with everyone?
 
     O: 다음 주에 시간이 없으면 다 같이 뭐 마실래요?
-    E: If you don't have time next week, what do you want to drink with everyone?
+    E: If you don't have time{l} next week, what do you want to drink with everyone?
 
     O: 다음 주에 시간이 없으면 다 같이 어떤 거 마실래요?
-    E: If you don't have time next week, what kind of thing{s} do you want to drink with everyone?
+    E: If you don't have time{l} next week, what kind of thing{s} do you want to drink with everyone?
 
     O: 다음 주에 시간이 없으면 어디에서 다 같이 마실래요?
-    E: If you don't have time next week, where do you want to drink (something) with everyone?
+    E: If you don't have time{l} next week, where do you want to drink (something) with everyone?
 
     O: 다음 주에 시간이 많이 있으면 같이 커피 마실래요?
-    E: If you have a lot{av} of time next week, do you want to drink coffee together?
+    E: If you have a lot{av} of time{l} next week, do you want to drink coffee together?
 
     O: 다음 주에 시간이 많이 있으면 같이 뭐 마실래요?
-    E: If you have a lot{av} of time next week, what do you want to drink together?
+    E: If you have a lot{av} of time{l} next week, what do you want to drink together?
 
     O: 다음 주에 시간이 많이 있으면 같이 어떤 거 마실래요?
-    E: If you have a lot{av} of time next week, what kind of thing{s} do you want to drink together?
+    E: If you have a lot{av} of time{l} next week, what kind of thing{s} do you want to drink together?
 
     O: 다음 주에 시간이 많이 있으면 어디에서 같이 마실래요?
-    E: If you have a lot{av} of time next week, where do you want to drink (something) together?
+    E: If you have a lot{av} of time{l} next week, where do you want to drink (something) together?
 
     O: 다음 주에 시간이 많이 있으면 저랑 커피 마실래요?
-    E: If you have a lot{av} of time next week, do you want to drink coffee with me?
+    E: If you have a lot{av} of time{l} next week, do you want to drink coffee with me?
 
     O: 다음 주에 시간이 많이 있으면 저랑 뭐 마실래요?
-    E: If you have a lot{av} of time next week, what do you want to drink with me?
+    E: If you have a lot{av} of time{l} next week, what do you want to drink with me?
 
     O: 다음 주에 시간이 많이 있으면 저랑 어떤 거 마실래요?
-    E: If you have a lot{av} of time next week, what kind of thing{s} do you want to drink with me?
+    E: If you have a lot{av} of time{l} next week, what kind of thing{s} do you want to drink with me?
 
     O: 다음 주에 시간이 많이 있으면 어디에서 저랑 마실래요?
-    E: If you have a lot{av} of time next week, where do you want to drink (something) with me?
+    E: If you have a lot{av} of time{l} next week, where do you want to drink (something) with me?
 
     O: 다음 주에 시간이 많이 있으면 저랑 같이 커피 마실래요?
-    E: If you have a lot{av} of time next week, do you want to drink coffee together with me?
+    E: If you have a lot{av} of time{l} next week, do you want to drink coffee together with me?
 
     O: 다음 주에 시간이 많이 있으면 저랑 같이 뭐 마실래요?
-    E: If you have a lot{av} of time next week, what do you want to drink together with me?
+    E: If you have a lot{av} of time{l} next week, what do you want to drink together with me?
 
     O: 다음 주에 시간이 많이 있으면 저랑 같이 어떤 거 마실래요?
-    E: If you have a lot{av} of time next week, what kind of thing{s} do you want to drink together with me?
+    E: If you have a lot{av} of time{l} next week, what kind of thing{s} do you want to drink together with me?
 
     O: 다음 주에 시간이 많이 있으면 어디에서 저랑 같이 마실래요?
-    E: If you have a lot{av} of time next week, where do you want to drink (something) together with me?
+    E: If you have a lot{av} of time{l} next week, where do you want to drink (something) together with me?
 
     O: 다음 주에 시간이 많이 있으면 다 같이 커피 마실래요?
-    E: If you have a lot{av} of time next week, do you want to drink coffee with everyone?
+    E: If you have a lot{av} of time{l} next week, do you want to drink coffee with everyone?
 
     O: 다음 주에 시간이 많이 있으면 다 같이 뭐 마실래요?
-    E: If you have a lot{av} of time next week, what do you want to drink with everyone?
+    E: If you have a lot{av} of time{l} next week, what do you want to drink with everyone?
 
     O: 다음 주에 시간이 많이 있으면 다 같이 어떤 거 마실래요?
-    E: If you have a lot{av} of time next week, what kind of thing{s} do you want to drink with everyone?
+    E: If you have a lot{av} of time{l} next week, what kind of thing{s} do you want to drink with everyone?
 
     O: 다음 주에 시간이 많이 있으면 어디에서 다 같이 마실래요?
-    E: If you have a lot{av} of time next week, where do you want to drink (something) with everyone?
+    E: If you have a lot{av} of time{l} next week, where do you want to drink (something) with everyone?
 
     O: 다음 주에 시간이 많으면 같이 커피 마실래요?
-    E: If you have a lot{v} of time next week, do you want to drink coffee together?
+    E: If you have a lot{v} of time{l} next week, do you want to drink coffee together?
 
     O: 다음 주에 시간이 많으면 같이 뭐 마실래요?
-    E: If you have a lot{v} of time next week, what do you want to drink together?
+    E: If you have a lot{v} of time{l} next week, what do you want to drink together?
 
     O: 다음 주에 시간이 많으면 같이 어떤 거 마실래요?
-    E: If you have a lot{v} of time next week, what kind of thing{s} do you want to drink together?
+    E: If you have a lot{v} of time{l} next week, what kind of thing{s} do you want to drink together?
 
     O: 다음 주에 시간이 많으면 어디에서 같이 마실래요?
-    E: If you have a lot{v} of time next week, where do you want to drink (something) together?
+    E: If you have a lot{v} of time{l} next week, where do you want to drink (something) together?
 
     O: 다음 주에 시간이 많으면 저랑 커피 마실래요?
-    E: If you have a lot{v} of time next week, do you want to drink coffee with me?
+    E: If you have a lot{v} of time{l} next week, do you want to drink coffee with me?
 
     O: 다음 주에 시간이 많으면 저랑 뭐 마실래요?
-    E: If you have a lot{v} of time next week, what do you want to drink with me?
+    E: If you have a lot{v} of time{l} next week, what do you want to drink with me?
 
     O: 다음 주에 시간이 많으면 저랑 어떤 거 마실래요?
-    E: If you have a lot{v} of time next week, what kind of thing{s} do you want to drink with me?
+    E: If you have a lot{v} of time{l} next week, what kind of thing{s} do you want to drink with me?
 
     O: 다음 주에 시간이 많으면 어디에서 저랑 마실래요?
-    E: If you have a lot{v} of time next week, where do you want to drink (something) with me?
+    E: If you have a lot{v} of time{l} next week, where do you want to drink (something) with me?
 
     O: 다음 주에 시간이 많으면 저랑 같이 커피 마실래요?
-    E: If you have a lot{v} of time next week, do you want to drink coffee together with me?
+    E: If you have a lot{v} of time{l} next week, do you want to drink coffee together with me?
 
     O: 다음 주에 시간이 많으면 저랑 같이 뭐 마실래요?
-    E: If you have a lot{v} of time next week, what do you want to drink together with me?
+    E: If you have a lot{v} of time{l} next week, what do you want to drink together with me?
 
     O: 다음 주에 시간이 많으면 저랑 같이 어떤 거 마실래요?
-    E: If you have a lot{v} of time next week, what kind of thing{s} do you want to drink together with me?
+    E: If you have a lot{v} of time{l} next week, what kind of thing{s} do you want to drink together with me?
 
     O: 다음 주에 시간이 많으면 어디에서 저랑 같이 마실래요?
-    E: If you have a lot{v} of time next week, where do you want to drink (something) together with me?
+    E: If you have a lot{v} of time{l} next week, where do you want to drink (something) together with me?
 
     O: 다음 주에 시간이 많으면 다 같이 커피 마실래요?
-    E: If you have a lot{v} of time next week, do you want to drink coffee with everyone?
+    E: If you have a lot{v} of time{l} next week, do you want to drink coffee with everyone?
 
     O: 다음 주에 시간이 많으면 다 같이 뭐 마실래요?
-    E: If you have a lot{v} of time next week, what do you want to drink with everyone?
+    E: If you have a lot{v} of time{l} next week, what do you want to drink with everyone?
 
     O: 다음 주에 시간이 많으면 다 같이 어떤 거 마실래요?
-    E: If you have a lot{v} of time next week, what kind of thing{s} do you want to drink with everyone?
+    E: If you have a lot{v} of time{l} next week, what kind of thing{s} do you want to drink with everyone?
 
     O: 다음 주에 시간이 많으면 어디에서 다 같이 마실래요?
-    E: If you have a lot{v} of time next week, where do you want to drink (something) with everyone?
+    E: If you have a lot{v} of time{l} next week, where do you want to drink (something) with everyone?
 
     O: 다음 주에 시간이 조금 밖에 없으면 같이 커피 마실래요?
-    E: If you have only a little bit of time next week, do you want to drink coffee together?
+    E: If you have only a little bit of time{l} next week, do you want to drink coffee together?
 
     O: 다음 주에 시간이 조금 밖에 없으면 같이 뭐 마실래요?
-    E: If you have only a little bit of time next week, what do you want to drink together?
+    E: If you have only a little bit of time{l} next week, what do you want to drink together?
 
     O: 다음 주에 시간이 조금 밖에 없으면 같이 어떤 거 마실래요?
-    E: If you have only a little bit of time next week, what kind of thing{s} do you want to drink together?
+    E: If you have only a little bit of time{l} next week, what kind of thing{s} do you want to drink together?
 
     O: 다음 주에 시간이 조금 밖에 없으면 어디에서 같이 마실래요?
-    E: If you have only a little bit of time next week, where do you want to drink (something) together?
+    E: If you have only a little bit of time{l} next week, where do you want to drink (something) together?
 
     O: 다음 주에 시간이 조금 밖에 없으면 저랑 커피 마실래요?
-    E: If you have only a little bit of time next week, do you want to drink coffee with me?
+    E: If you have only a little bit of time{l} next week, do you want to drink coffee with me?
 
     O: 다음 주에 시간이 조금 밖에 없으면 저랑 뭐 마실래요?
-    E: If you have only a little bit of time next week, what do you want to drink with me?
+    E: If you have only a little bit of time{l} next week, what do you want to drink with me?
 
     O: 다음 주에 시간이 조금 밖에 없으면 저랑 어떤 거 마실래요?
-    E: If you have only a little bit of time next week, what kind of thing{s} do you want to drink with me?
+    E: If you have only a little bit of time{l} next week, what kind of thing{s} do you want to drink with me?
 
     O: 다음 주에 시간이 조금 밖에 없으면 어디에서 저랑 마실래요?
-    E: If you have only a little bit of time next week, where do you want to drink (something) with me?
+    E: If you have only a little bit of time{l} next week, where do you want to drink (something) with me?
 
     O: 다음 주에 시간이 조금 밖에 없으면 저랑 같이 커피 마실래요?
-    E: If you have only a little bit of time next week, do you want to drink coffee together with me?
+    E: If you have only a little bit of time{l} next week, do you want to drink coffee together with me?
 
     O: 다음 주에 시간이 조금 밖에 없으면 저랑 같이 뭐 마실래요?
-    E: If you have only a little bit of time next week, what do you want to drink together with me?
+    E: If you have only a little bit of time{l} next week, what do you want to drink together with me?
 
     O: 다음 주에 시간이 조금 밖에 없으면 저랑 같이 어떤 거 마실래요?
-    E: If you have only a little bit of time next week, what kind of thing{s} do you want to drink together with me?
+    E: If you have only a little bit of time{l} next week, what kind of thing{s} do you want to drink together with me?
 
     O: 다음 주에 시간이 조금 밖에 없으면 어디에서 저랑 같이 마실래요?
-    E: If you have only a little bit of time next week, where do you want to drink (something) together with me?
+    E: If you have only a little bit of time{l} next week, where do you want to drink (something) together with me?
 
     O: 다음 주에 시간이 조금 밖에 없으면 다 같이 커피 마실래요?
-    E: If you have only a little bit of time next week, do you want to drink coffee with everyone?
+    E: If you have only a little bit of time{l} next week, do you want to drink coffee with everyone?
 
     O: 다음 주에 시간이 조금 밖에 없으면 다 같이 뭐 마실래요?
-    E: If you have only a little bit of time next week, what do you want to drink with everyone?
+    E: If you have only a little bit of time{l} next week, what do you want to drink with everyone?
 
     O: 다음 주에 시간이 조금 밖에 없으면 다 같이 어떤 거 마실래요?
-    E: If you have only a little bit of time next week, what kind of thing{s} do you want to drink with everyone?
+    E: If you have only a little bit of time{l} next week, what kind of thing{s} do you want to drink with everyone?
 
     O: 다음 주에 시간이 조금 밖에 없으면 어디에서 다 같이 마실래요?
-    E: If you have only a little bit of time next week, where do you want to drink (something) with everyone?
+    E: If you have only a little bit of time{l} next week, where do you want to drink (something) with everyone?
 
     O: 다음 주에 시간이 전혀 없으면 같이 커피 마실래요?
-    E: If you have no time at all next week, do you want to drink coffee together?
+    E: If you have no time{l} at all next week, do you want to drink coffee together?
 
     O: 다음 주에 시간이 전혀 없으면 같이 뭐 마실래요?
-    E: If you have no time at all next week, what do you want to drink together?
+    E: If you have no time{l} at all next week, what do you want to drink together?
 
     O: 다음 주에 시간이 전혀 없으면 같이 어떤 거 마실래요?
-    E: If you have no time at all next week, what kind of thing{s} do you want to drink together?
+    E: If you have no time{l} at all next week, what kind of thing{s} do you want to drink together?
 
     O: 다음 주에 시간이 전혀 없으면 어디에서 같이 마실래요?
-    E: If you have no time at all next week, where do you want to drink (something) together?
+    E: If you have no time{l} at all next week, where do you want to drink (something) together?
 
     O: 다음 주에 시간이 전혀 없으면 저랑 커피 마실래요?
-    E: If you have no time at all next week, do you want to drink coffee with me?
+    E: If you have no time{l} at all next week, do you want to drink coffee with me?
 
     O: 다음 주에 시간이 전혀 없으면 저랑 뭐 마실래요?
-    E: If you have no time at all next week, what do you want to drink with me?
+    E: If you have no time{l} at all next week, what do you want to drink with me?
 
     O: 다음 주에 시간이 전혀 없으면 저랑 어떤 거 마실래요?
-    E: If you have no time at all next week, what kind of thing{s} do you want to drink with me?
+    E: If you have no time{l} at all next week, what kind of thing{s} do you want to drink with me?
 
     O: 다음 주에 시간이 전혀 없으면 어디에서 저랑 마실래요?
-    E: If you have no time at all next week, where do you want to drink (something) with me?
+    E: If you have no time{l} at all next week, where do you want to drink (something) with me?
 
     O: 다음 주에 시간이 전혀 없으면 저랑 같이 커피 마실래요?
-    E: If you have no time at all next week, do you want to drink coffee together with me?
+    E: If you have no time{l} at all next week, do you want to drink coffee together with me?
 
     O: 다음 주에 시간이 전혀 없으면 저랑 같이 뭐 마실래요?
-    E: If you have no time at all next week, what do you want to drink together with me?
+    E: If you have no time{l} at all next week, what do you want to drink together with me?
 
     O: 다음 주에 시간이 전혀 없으면 저랑 같이 어떤 거 마실래요?
-    E: If you have no time at all next week, what kind of thing{s} do you want to drink together with me?
+    E: If you have no time{l} at all next week, what kind of thing{s} do you want to drink together with me?
 
     O: 다음 주에 시간이 전혀 없으면 어디에서 저랑 같이 마실래요?
-    E: If you have no time at all next week, where do you want to drink (something) together with me?
+    E: If you have no time{l} at all next week, where do you want to drink (something) together with me?
 
     O: 다음 주에 시간이 전혀 없으면 다 같이 커피 마실래요?
-    E: If you have no time at all next week, do you want to drink coffee with everyone?
+    E: If you have no time{l} at all next week, do you want to drink coffee with everyone?
 
     O: 다음 주에 시간이 전혀 없으면 다 같이 뭐 마실래요?
-    E: If you have no time at all next week, what do you want to drink with everyone?
+    E: If you have no time{l} at all next week, what do you want to drink with everyone?
 
     O: 다음 주에 시간이 전혀 없으면 다 같이 어떤 거 마실래요?
-    E: If you have no time at all next week, what kind of thing{s} do you want to drink with everyone?
+    E: If you have no time{l} at all next week, what kind of thing{s} do you want to drink with everyone?
 
     O: 다음 주에 시간이 전혀 없으면 어디에서 다 같이 마실래요?
-    E: If you have no time at all next week, where do you want to drink (something) with everyone?
+    E: If you have no time{l} at all next week, where do you want to drink (something) with everyone?
 
     O: 이번 달에 시간이 있으면 같이 커피 마실래요?
-    E: If you have time this month, do you want to drink coffee together?
+    E: If you have time{l} this month, do you want to drink coffee together?
 
     O: 이번 달에 시간이 있으면 같이 뭐 마실래요?
-    E: If you have time this month, what do you want to drink together?
+    E: If you have time{l} this month, what do you want to drink together?
 
     O: 이번 달에 시간이 있으면 같이 어떤 거 마실래요?
-    E: If you have time this month, what kind of thing{s} do you want to drink together?
+    E: If you have time{l} this month, what kind of thing{s} do you want to drink together?
 
     O: 이번 달에 시간이 있으면 어디에서 같이 마실래요?
-    E: If you have time this month, where do you want to drink (something) together?
+    E: If you have time{l} this month, where do you want to drink (something) together?
 
     O: 이번 달에 시간이 있으면 저랑 커피 마실래요?
-    E: If you have time this month, do you want to drink coffee with me?
+    E: If you have time{l} this month, do you want to drink coffee with me?
 
     O: 이번 달에 시간이 있으면 저랑 뭐 마실래요?
-    E: If you have time this month, what do you want to drink with me?
+    E: If you have time{l} this month, what do you want to drink with me?
 
     O: 이번 달에 시간이 있으면 저랑 어떤 거 마실래요?
-    E: If you have time this month, what kind of thing{s} do you want to drink with me?
+    E: If you have time{l} this month, what kind of thing{s} do you want to drink with me?
 
     O: 이번 달에 시간이 있으면 어디에서 저랑 마실래요?
-    E: If you have time this month, where do you want to drink (something) with me?
+    E: If you have time{l} this month, where do you want to drink (something) with me?
 
     O: 이번 달에 시간이 있으면 저랑 같이 커피 마실래요?
-    E: If you have time this month, do you want to drink coffee together with me?
+    E: If you have time{l} this month, do you want to drink coffee together with me?
 
     O: 이번 달에 시간이 있으면 저랑 같이 뭐 마실래요?
-    E: If you have time this month, what do you want to drink together with me?
+    E: If you have time{l} this month, what do you want to drink together with me?
 
     O: 이번 달에 시간이 있으면 저랑 같이 어떤 거 마실래요?
-    E: If you have time this month, what kind of thing{s} do you want to drink together with me?
+    E: If you have time{l} this month, what kind of thing{s} do you want to drink together with me?
 
     O: 이번 달에 시간이 있으면 어디에서 저랑 같이 마실래요?
-    E: If you have time this month, where do you want to drink (something) together with me?
+    E: If you have time{l} this month, where do you want to drink (something) together with me?
 
     O: 이번 달에 시간이 있으면 다 같이 커피 마실래요?
-    E: If you have time this month, do you want to drink coffee with everyone?
+    E: If you have time{l} this month, do you want to drink coffee with everyone?
 
     O: 이번 달에 시간이 있으면 다 같이 뭐 마실래요?
-    E: If you have time this month, what do you want to drink with everyone?
+    E: If you have time{l} this month, what do you want to drink with everyone?
 
     O: 이번 달에 시간이 있으면 다 같이 어떤 거 마실래요?
-    E: If you have time this month, what kind of thing{s} do you want to drink with everyone?
+    E: If you have time{l} this month, what kind of thing{s} do you want to drink with everyone?
 
     O: 이번 달에 시간이 있으면 어디에서 다 같이 마실래요?
-    E: If you have time this month, where do you want to drink (something) with everyone?
+    E: If you have time{l} this month, where do you want to drink (something) with everyone?
 
     O: 이번 달에 시간이 없으면 같이 커피 마실래요?
-    E: If you don't have time this month, do you want to drink coffee together?
+    E: If you don't have time{l} this month, do you want to drink coffee together?
 
     O: 이번 달에 시간이 없으면 같이 뭐 마실래요?
-    E: If you don't have time this month, what do you want to drink together?
+    E: If you don't have time{l} this month, what do you want to drink together?
 
     O: 이번 달에 시간이 없으면 같이 어떤 거 마실래요?
-    E: If you don't have time this month, what kind of thing{s} do you want to drink together?
+    E: If you don't have time{l} this month, what kind of thing{s} do you want to drink together?
 
     O: 이번 달에 시간이 없으면 어디에서 같이 마실래요?
-    E: If you don't have time this month, where do you want to drink (something) together?
+    E: If you don't have time{l} this month, where do you want to drink (something) together?
 
     O: 이번 달에 시간이 없으면 저랑 커피 마실래요?
-    E: If you don't have time this month, do you want to drink coffee with me?
+    E: If you don't have time{l} this month, do you want to drink coffee with me?
 
     O: 이번 달에 시간이 없으면 저랑 뭐 마실래요?
-    E: If you don't have time this month, what do you want to drink with me?
+    E: If you don't have time{l} this month, what do you want to drink with me?
 
     O: 이번 달에 시간이 없으면 저랑 어떤 거 마실래요?
-    E: If you don't have time this month, what kind of thing{s} do you want to drink with me?
+    E: If you don't have time{l} this month, what kind of thing{s} do you want to drink with me?
 
     O: 이번 달에 시간이 없으면 어디에서 저랑 마실래요?
-    E: If you don't have time this month, where do you want to drink (something) with me?
+    E: If you don't have time{l} this month, where do you want to drink (something) with me?
 
     O: 이번 달에 시간이 없으면 저랑 같이 커피 마실래요?
-    E: If you don't have time this month, do you want to drink coffee together with me?
+    E: If you don't have time{l} this month, do you want to drink coffee together with me?
 
     O: 이번 달에 시간이 없으면 저랑 같이 뭐 마실래요?
-    E: If you don't have time this month, what do you want to drink together with me?
+    E: If you don't have time{l} this month, what do you want to drink together with me?
 
     O: 이번 달에 시간이 없으면 저랑 같이 어떤 거 마실래요?
-    E: If you don't have time this month, what kind of thing{s} do you want to drink together with me?
+    E: If you don't have time{l} this month, what kind of thing{s} do you want to drink together with me?
 
     O: 이번 달에 시간이 없으면 어디에서 저랑 같이 마실래요?
-    E: If you don't have time this month, where do you want to drink (something) together with me?
+    E: If you don't have time{l} this month, where do you want to drink (something) together with me?
 
     O: 이번 달에 시간이 없으면 다 같이 커피 마실래요?
-    E: If you don't have time this month, do you want to drink coffee with everyone?
+    E: If you don't have time{l} this month, do you want to drink coffee with everyone?
 
     O: 이번 달에 시간이 없으면 다 같이 뭐 마실래요?
-    E: If you don't have time this month, what do you want to drink with everyone?
+    E: If you don't have time{l} this month, what do you want to drink with everyone?
 
     O: 이번 달에 시간이 없으면 다 같이 어떤 거 마실래요?
-    E: If you don't have time this month, what kind of thing{s} do you want to drink with everyone?
+    E: If you don't have time{l} this month, what kind of thing{s} do you want to drink with everyone?
 
     O: 이번 달에 시간이 없으면 어디에서 다 같이 마실래요?
-    E: If you don't have time this month, where do you want to drink (something) with everyone?
+    E: If you don't have time{l} this month, where do you want to drink (something) with everyone?
 
     O: 이번 달에 시간이 많이 있으면 같이 커피 마실래요?
-    E: If you have a lot{av} of time this month, do you want to drink coffee together?
+    E: If you have a lot{av} of time{l} this month, do you want to drink coffee together?
 
     O: 이번 달에 시간이 많이 있으면 같이 뭐 마실래요?
-    E: If you have a lot{av} of time this month, what do you want to drink together?
+    E: If you have a lot{av} of time{l} this month, what do you want to drink together?
 
     O: 이번 달에 시간이 많이 있으면 같이 어떤 거 마실래요?
-    E: If you have a lot{av} of time this month, what kind of thing{s} do you want to drink together?
+    E: If you have a lot{av} of time{l} this month, what kind of thing{s} do you want to drink together?
 
     O: 이번 달에 시간이 많이 있으면 어디에서 같이 마실래요?
-    E: If you have a lot{av} of time this month, where do you want to drink (something) together?
+    E: If you have a lot{av} of time{l} this month, where do you want to drink (something) together?
 
     O: 이번 달에 시간이 많이 있으면 저랑 커피 마실래요?
-    E: If you have a lot{av} of time this month, do you want to drink coffee with me?
+    E: If you have a lot{av} of time{l} this month, do you want to drink coffee with me?
 
     O: 이번 달에 시간이 많이 있으면 저랑 뭐 마실래요?
-    E: If you have a lot{av} of time this month, what do you want to drink with me?
+    E: If you have a lot{av} of time{l} this month, what do you want to drink with me?
 
     O: 이번 달에 시간이 많이 있으면 저랑 어떤 거 마실래요?
-    E: If you have a lot{av} of time this month, what kind of thing{s} do you want to drink with me?
+    E: If you have a lot{av} of time{l} this month, what kind of thing{s} do you want to drink with me?
 
     O: 이번 달에 시간이 많이 있으면 어디에서 저랑 마실래요?
-    E: If you have a lot{av} of time this month, where do you want to drink (something) with me?
+    E: If you have a lot{av} of time{l} this month, where do you want to drink (something) with me?
 
     O: 이번 달에 시간이 많이 있으면 저랑 같이 커피 마실래요?
-    E: If you have a lot{av} of time this month, do you want to drink coffee together with me?
+    E: If you have a lot{av} of time{l} this month, do you want to drink coffee together with me?
 
     O: 이번 달에 시간이 많이 있으면 저랑 같이 뭐 마실래요?
-    E: If you have a lot{av} of time this month, what do you want to drink together with me?
+    E: If you have a lot{av} of time{l} this month, what do you want to drink together with me?
 
     O: 이번 달에 시간이 많이 있으면 저랑 같이 어떤 거 마실래요?
-    E: If you have a lot{av} of time this month, what kind of thing{s} do you want to drink together with me?
+    E: If you have a lot{av} of time{l} this month, what kind of thing{s} do you want to drink together with me?
 
     O: 이번 달에 시간이 많이 있으면 어디에서 저랑 같이 마실래요?
-    E: If you have a lot{av} of time this month, where do you want to drink (something) together with me?
+    E: If you have a lot{av} of time{l} this month, where do you want to drink (something) together with me?
 
     O: 이번 달에 시간이 많이 있으면 다 같이 커피 마실래요?
-    E: If you have a lot{av} of time this month, do you want to drink coffee with everyone?
+    E: If you have a lot{av} of time{l} this month, do you want to drink coffee with everyone?
 
     O: 이번 달에 시간이 많이 있으면 다 같이 뭐 마실래요?
-    E: If you have a lot{av} of time this month, what do you want to drink with everyone?
+    E: If you have a lot{av} of time{l} this month, what do you want to drink with everyone?
 
     O: 이번 달에 시간이 많이 있으면 다 같이 어떤 거 마실래요?
-    E: If you have a lot{av} of time this month, what kind of thing{s} do you want to drink with everyone?
+    E: If you have a lot{av} of time{l} this month, what kind of thing{s} do you want to drink with everyone?
 
     O: 이번 달에 시간이 많이 있으면 어디에서 다 같이 마실래요?
-    E: If you have a lot{av} of time this month, where do you want to drink (something) with everyone?
+    E: If you have a lot{av} of time{l} this month, where do you want to drink (something) with everyone?
 
     O: 이번 달에 시간이 많으면 같이 커피 마실래요?
-    E: If you have a lot{v} of time this month, do you want to drink coffee together?
+    E: If you have a lot{v} of time{l} this month, do you want to drink coffee together?
 
     O: 이번 달에 시간이 많으면 같이 뭐 마실래요?
-    E: If you have a lot{v} of time this month, what do you want to drink together?
+    E: If you have a lot{v} of time{l} this month, what do you want to drink together?
 
     O: 이번 달에 시간이 많으면 같이 어떤 거 마실래요?
-    E: If you have a lot{v} of time this month, what kind of thing{s} do you want to drink together?
+    E: If you have a lot{v} of time{l} this month, what kind of thing{s} do you want to drink together?
 
     O: 이번 달에 시간이 많으면 어디에서 같이 마실래요?
-    E: If you have a lot{v} of time this month, where do you want to drink (something) together?
+    E: If you have a lot{v} of time{l} this month, where do you want to drink (something) together?
 
     O: 이번 달에 시간이 많으면 저랑 커피 마실래요?
-    E: If you have a lot{v} of time this month, do you want to drink coffee with me?
+    E: If you have a lot{v} of time{l} this month, do you want to drink coffee with me?
 
     O: 이번 달에 시간이 많으면 저랑 뭐 마실래요?
-    E: If you have a lot{v} of time this month, what do you want to drink with me?
+    E: If you have a lot{v} of time{l} this month, what do you want to drink with me?
 
     O: 이번 달에 시간이 많으면 저랑 어떤 거 마실래요?
-    E: If you have a lot{v} of time this month, what kind of thing{s} do you want to drink with me?
+    E: If you have a lot{v} of time{l} this month, what kind of thing{s} do you want to drink with me?
 
     O: 이번 달에 시간이 많으면 어디에서 저랑 마실래요?
-    E: If you have a lot{v} of time this month, where do you want to drink (something) with me?
+    E: If you have a lot{v} of time{l} this month, where do you want to drink (something) with me?
 
     O: 이번 달에 시간이 많으면 저랑 같이 커피 마실래요?
-    E: If you have a lot{v} of time this month, do you want to drink coffee together with me?
+    E: If you have a lot{v} of time{l} this month, do you want to drink coffee together with me?
 
     O: 이번 달에 시간이 많으면 저랑 같이 뭐 마실래요?
-    E: If you have a lot{v} of time this month, what do you want to drink together with me?
+    E: If you have a lot{v} of time{l} this month, what do you want to drink together with me?
 
     O: 이번 달에 시간이 많으면 저랑 같이 어떤 거 마실래요?
-    E: If you have a lot{v} of time this month, what kind of thing{s} do you want to drink together with me?
+    E: If you have a lot{v} of time{l} this month, what kind of thing{s} do you want to drink together with me?
 
     O: 이번 달에 시간이 많으면 어디에서 저랑 같이 마실래요?
-    E: If you have a lot{v} of time this month, where do you want to drink (something) together with me?
+    E: If you have a lot{v} of time{l} this month, where do you want to drink (something) together with me?
 
     O: 이번 달에 시간이 많으면 다 같이 커피 마실래요?
-    E: If you have a lot{v} of time this month, do you want to drink coffee with everyone?
+    E: If you have a lot{v} of time{l} this month, do you want to drink coffee with everyone?
 
     O: 이번 달에 시간이 많으면 다 같이 뭐 마실래요?
-    E: If you have a lot{v} of time this month, what do you want to drink with everyone?
+    E: If you have a lot{v} of time{l} this month, what do you want to drink with everyone?
 
     O: 이번 달에 시간이 많으면 다 같이 어떤 거 마실래요?
-    E: If you have a lot{v} of time this month, what kind of thing{s} do you want to drink with everyone?
+    E: If you have a lot{v} of time{l} this month, what kind of thing{s} do you want to drink with everyone?
 
     O: 이번 달에 시간이 많으면 어디에서 다 같이 마실래요?
-    E: If you have a lot{v} of time this month, where do you want to drink (something) with everyone?
+    E: If you have a lot{v} of time{l} this month, where do you want to drink (something) with everyone?
 
     O: 이번 달에 시간이 조금 밖에 없으면 같이 커피 마실래요?
-    E: If you have only a little bit of time this month, do you want to drink coffee together?
+    E: If you have only a little bit of time{l} this month, do you want to drink coffee together?
 
     O: 이번 달에 시간이 조금 밖에 없으면 같이 뭐 마실래요?
-    E: If you have only a little bit of time this month, what do you want to drink together?
+    E: If you have only a little bit of time{l} this month, what do you want to drink together?
 
     O: 이번 달에 시간이 조금 밖에 없으면 같이 어떤 거 마실래요?
-    E: If you have only a little bit of time this month, what kind of thing{s} do you want to drink together?
+    E: If you have only a little bit of time{l} this month, what kind of thing{s} do you want to drink together?
 
     O: 이번 달에 시간이 조금 밖에 없으면 어디에서 같이 마실래요?
-    E: If you have only a little bit of time this month, where do you want to drink (something) together?
+    E: If you have only a little bit of time{l} this month, where do you want to drink (something) together?
 
     O: 이번 달에 시간이 조금 밖에 없으면 저랑 커피 마실래요?
-    E: If you have only a little bit of time this month, do you want to drink coffee with me?
+    E: If you have only a little bit of time{l} this month, do you want to drink coffee with me?
 
     O: 이번 달에 시간이 조금 밖에 없으면 저랑 뭐 마실래요?
-    E: If you have only a little bit of time this month, what do you want to drink with me?
+    E: If you have only a little bit of time{l} this month, what do you want to drink with me?
 
     O: 이번 달에 시간이 조금 밖에 없으면 저랑 어떤 거 마실래요?
-    E: If you have only a little bit of time this month, what kind of thing{s} do you want to drink with me?
+    E: If you have only a little bit of time{l} this month, what kind of thing{s} do you want to drink with me?
 
     O: 이번 달에 시간이 조금 밖에 없으면 어디에서 저랑 마실래요?
-    E: If you have only a little bit of time this month, where do you want to drink (something) with me?
+    E: If you have only a little bit of time{l} this month, where do you want to drink (something) with me?
 
     O: 이번 달에 시간이 조금 밖에 없으면 저랑 같이 커피 마실래요?
-    E: If you have only a little bit of time this month, do you want to drink coffee together with me?
+    E: If you have only a little bit of time{l} this month, do you want to drink coffee together with me?
 
     O: 이번 달에 시간이 조금 밖에 없으면 저랑 같이 뭐 마실래요?
-    E: If you have only a little bit of time this month, what do you want to drink together with me?
+    E: If you have only a little bit of time{l} this month, what do you want to drink together with me?
 
     O: 이번 달에 시간이 조금 밖에 없으면 저랑 같이 어떤 거 마실래요?
-    E: If you have only a little bit of time this month, what kind of thing{s} do you want to drink together with me?
+    E: If you have only a little bit of time{l} this month, what kind of thing{s} do you want to drink together with me?
 
     O: 이번 달에 시간이 조금 밖에 없으면 어디에서 저랑 같이 마실래요?
-    E: If you have only a little bit of time this month, where do you want to drink (something) together with me?
+    E: If you have only a little bit of time{l} this month, where do you want to drink (something) together with me?
 
     O: 이번 달에 시간이 조금 밖에 없으면 다 같이 커피 마실래요?
-    E: If you have only a little bit of time this month, do you want to drink coffee with everyone?
+    E: If you have only a little bit of time{l} this month, do you want to drink coffee with everyone?
 
     O: 이번 달에 시간이 조금 밖에 없으면 다 같이 뭐 마실래요?
-    E: If you have only a little bit of time this month, what do you want to drink with everyone?
+    E: If you have only a little bit of time{l} this month, what do you want to drink with everyone?
 
     O: 이번 달에 시간이 조금 밖에 없으면 다 같이 어떤 거 마실래요?
-    E: If you have only a little bit of time this month, what kind of thing{s} do you want to drink with everyone?
+    E: If you have only a little bit of time{l} this month, what kind of thing{s} do you want to drink with everyone?
 
     O: 이번 달에 시간이 조금 밖에 없으면 어디에서 다 같이 마실래요?
-    E: If you have only a little bit of time this month, where do you want to drink (something) with everyone?
+    E: If you have only a little bit of time{l} this month, where do you want to drink (something) with everyone?
 
     O: 이번 달에 시간이 전혀 없으면 같이 커피 마실래요?
-    E: If you have no time at all this month, do you want to drink coffee together?
+    E: If you have no time{l} at all this month, do you want to drink coffee together?
 
     O: 이번 달에 시간이 전혀 없으면 같이 뭐 마실래요?
-    E: If you have no time at all this month, what do you want to drink together?
+    E: If you have no time{l} at all this month, what do you want to drink together?
 
     O: 이번 달에 시간이 전혀 없으면 같이 어떤 거 마실래요?
-    E: If you have no time at all this month, what kind of thing{s} do you want to drink together?
+    E: If you have no time{l} at all this month, what kind of thing{s} do you want to drink together?
 
     O: 이번 달에 시간이 전혀 없으면 어디에서 같이 마실래요?
-    E: If you have no time at all this month, where do you want to drink (something) together?
+    E: If you have no time{l} at all this month, where do you want to drink (something) together?
 
     O: 이번 달에 시간이 전혀 없으면 저랑 커피 마실래요?
-    E: If you have no time at all this month, do you want to drink coffee with me?
+    E: If you have no time{l} at all this month, do you want to drink coffee with me?
 
     O: 이번 달에 시간이 전혀 없으면 저랑 뭐 마실래요?
-    E: If you have no time at all this month, what do you want to drink with me?
+    E: If you have no time{l} at all this month, what do you want to drink with me?
 
     O: 이번 달에 시간이 전혀 없으면 저랑 어떤 거 마실래요?
-    E: If you have no time at all this month, what kind of thing{s} do you want to drink with me?
+    E: If you have no time{l} at all this month, what kind of thing{s} do you want to drink with me?
 
     O: 이번 달에 시간이 전혀 없으면 어디에서 저랑 마실래요?
-    E: If you have no time at all this month, where do you want to drink (something) with me?
+    E: If you have no time{l} at all this month, where do you want to drink (something) with me?
 
     O: 이번 달에 시간이 전혀 없으면 저랑 같이 커피 마실래요?
-    E: If you have no time at all this month, do you want to drink coffee together with me?
+    E: If you have no time{l} at all this month, do you want to drink coffee together with me?
 
     O: 이번 달에 시간이 전혀 없으면 저랑 같이 뭐 마실래요?
-    E: If you have no time at all this month, what do you want to drink together with me?
+    E: If you have no time{l} at all this month, what do you want to drink together with me?
 
     O: 이번 달에 시간이 전혀 없으면 저랑 같이 어떤 거 마실래요?
-    E: If you have no time at all this month, what kind of thing{s} do you want to drink together with me?
+    E: If you have no time{l} at all this month, what kind of thing{s} do you want to drink together with me?
 
     O: 이번 달에 시간이 전혀 없으면 어디에서 저랑 같이 마실래요?
-    E: If you have no time at all this month, where do you want to drink (something) together with me?
+    E: If you have no time{l} at all this month, where do you want to drink (something) together with me?
 
     O: 이번 달에 시간이 전혀 없으면 다 같이 커피 마실래요?
-    E: If you have no time at all this month, do you want to drink coffee with everyone?
+    E: If you have no time{l} at all this month, do you want to drink coffee with everyone?
 
     O: 이번 달에 시간이 전혀 없으면 다 같이 뭐 마실래요?
-    E: If you have no time at all this month, what do you want to drink with everyone?
+    E: If you have no time{l} at all this month, what do you want to drink with everyone?
 
     O: 이번 달에 시간이 전혀 없으면 다 같이 어떤 거 마실래요?
-    E: If you have no time at all this month, what kind of thing{s} do you want to drink with everyone?
+    E: If you have no time{l} at all this month, what kind of thing{s} do you want to drink with everyone?
 
     O: 이번 달에 시간이 전혀 없으면 어디에서 다 같이 마실래요?
-    E: If you have no time at all this month, where do you want to drink (something) with everyone?
+    E: If you have no time{l} at all this month, where do you want to drink (something) with everyone?

@@ -317,24 +317,24 @@
     # 이거보다 = compared to this one.
     # 한국어보다 = compared to Korean.
     # 
-    # 훨씬 따뜻한 것 같아요. = I think it is much{s} warmer
-    # 훨씬 좋은 것 같아요. = I think it is much{s} better
-    # 훨씬 재미있는 것 같아요. = I think it is much{s} more interesting
+    # 훨씬 따뜻한 것 같아요. = I think it's much{s} warmer
+    # 훨씬 좋은 것 같아요. = I think it's much{s} better
+    # 훨씬 재미있는 것 같아요. = I think it's much{s} more interesting
     # 훨씬 따뜻해요. = It's much{s} warmer
     # 훨씬 좋아요. = It's much{s} warmer
     # 훨씬 어려워요. = It's much{s} (more) difficult
 
     O: 오늘은 어제보다 훨씬 따뜻한 것 같아요.
-    E: I think it is much{s} warmer today compared to yesterday.
-    F: I think it is much{s} warmer _today_ compared to yesterday.
+    E: I think it's much{s} warmer today compared to yesterday.
+    F: I think it's much{s} warmer _today_ compared to yesterday.
 
     O: 오늘은 어제보다 훨씬 좋은 것 같아요.
-    E: I think it is much{s} better today compared to yesterday.
-    F: I think it is much{s} better _today_ compared to yesterday.
+    E: I think it's much{s} better today compared to yesterday.
+    F: I think it's much{s} better _today_ compared to yesterday.
 
     O: 오늘은 어제보다 훨씬 재미있는 것 같아요.
-    E: I think it is much{s} more interesting today compared to yesterday.
-    F: I think it is much{s} more interesting _today_ compared to yesterday.
+    E: I think it's much{s} more interesting today compared to yesterday.
+    F: I think it's much{s} more interesting _today_ compared to yesterday.
 
     O: 오늘은 어제보다 훨씬 따뜻해요.
     E: It's much{s} warmer today compared to yesterday.
@@ -349,16 +349,16 @@
     F: It's much{s} (more) difficult _today_ compared to yesterday.
 
     O: 오늘은 지난주보다 훨씬 따뜻한 것 같아요.
-    E: I think it is much{s} warmer today compared to last week.
-    F: I think it is much{s} warmer _today_ compared to last week.
+    E: I think it's much{s} warmer today compared to last week.
+    F: I think it's much{s} warmer _today_ compared to last week.
 
     O: 오늘은 지난주보다 훨씬 좋은 것 같아요.
-    E: I think it is much{s} better today compared to last week.
-    F: I think it is much{s} better _today_ compared to last week.
+    E: I think it's much{s} better today compared to last week.
+    F: I think it's much{s} better _today_ compared to last week.
 
     O: 오늘은 지난주보다 훨씬 재미있는 것 같아요.
-    E: I think it is much{s} more interesting today compared to last week.
-    F: I think it is much{s} more interesting _today_ compared to last week.
+    E: I think it's much{s} more interesting today compared to last week.
+    F: I think it's much{s} more interesting _today_ compared to last week.
 
     O: 오늘은 지난주보다 훨씬 따뜻해요.
     E: It's much{s} warmer today compared to last week.
@@ -373,16 +373,16 @@
     F: It's much{s} (more) difficult _today_ compared to last week.
 
     O: 오늘은 지난달보다 훨씬 따뜻한 것 같아요.
-    E: I think it is much{s} warmer today compared to last month.
-    F: I think it is much{s} warmer _today_ compared to last month.
+    E: I think it's much{s} warmer today compared to last month.
+    F: I think it's much{s} warmer _today_ compared to last month.
 
     O: 오늘은 지난달보다 훨씬 좋은 것 같아요.
-    E: I think it is much{s} better today compared to last month.
-    F: I think it is much{s} better _today_ compared to last month.
+    E: I think it's much{s} better today compared to last month.
+    F: I think it's much{s} better _today_ compared to last month.
 
     O: 오늘은 지난달보다 훨씬 재미있는 것 같아요.
-    E: I think it is much{s} more interesting today compared to last month.
-    F: I think it is much{s} more interesting _today_ compared to last month.
+    E: I think it's much{s} more interesting today compared to last month.
+    F: I think it's much{s} more interesting _today_ compared to last month.
 
     O: 오늘은 지난달보다 훨씬 따뜻해요.
     E: It's much{s} warmer today compared to last month.
@@ -397,16 +397,16 @@
     F: It's much{s} (more) difficult _today_ compared to last month.
 
     O: 오늘은 작년보다 훨씬 따뜻한 것 같아요.
-    E: I think it is much{s} warmer today compared to last year.
-    F: I think it is much{s} warmer _today_ compared to last year.
+    E: I think it's much{s} warmer today compared to last year.
+    F: I think it's much{s} warmer _today_ compared to last year.
 
     O: 오늘은 작년보다 훨씬 좋은 것 같아요.
-    E: I think it is much{s} better today compared to last year.
-    F: I think it is much{s} better _today_ compared to last year.
+    E: I think it's much{s} better today compared to last year.
+    F: I think it's much{s} better _today_ compared to last year.
 
     O: 오늘은 작년보다 훨씬 재미있는 것 같아요.
-    E: I think it is much{s} more interesting today compared to last year.
-    F: I think it is much{s} more interesting _today_ compared to last year.
+    E: I think it's much{s} more interesting today compared to last year.
+    F: I think it's much{s} more interesting _today_ compared to last year.
 
     O: 오늘은 작년보다 훨씬 따뜻해요.
     E: It's much{s} warmer today compared to last year.
@@ -421,16 +421,16 @@
     F: It's much{s} (more) difficult _today_ compared to last year.
 
     O: 오늘은 이거보다 훨씬 따뜻한 것 같아요.
-    E: I think it is much{s} warmer today compared to this one.
-    F: I think it is much{s} warmer _today_ compared to this one.
+    E: I think it's much{s} warmer today compared to this one.
+    F: I think it's much{s} warmer _today_ compared to this one.
 
     O: 오늘은 이거보다 훨씬 좋은 것 같아요.
-    E: I think it is much{s} better today compared to this one.
-    F: I think it is much{s} better _today_ compared to this one.
+    E: I think it's much{s} better today compared to this one.
+    F: I think it's much{s} better _today_ compared to this one.
 
     O: 오늘은 이거보다 훨씬 재미있는 것 같아요.
-    E: I think it is much{s} more interesting today compared to this one.
-    F: I think it is much{s} more interesting _today_ compared to this one.
+    E: I think it's much{s} more interesting today compared to this one.
+    F: I think it's much{s} more interesting _today_ compared to this one.
 
     O: 오늘은 이거보다 훨씬 따뜻해요.
     E: It's much{s} warmer today compared to this one.
@@ -445,16 +445,16 @@
     F: It's much{s} (more) difficult _today_ compared to this one.
 
     O: 오늘은 한국어보다 훨씬 따뜻한 것 같아요.
-    E: I think it is much{s} warmer today compared to Korean.
-    F: I think it is much{s} warmer _today_ compared to Korean.
+    E: I think it's much{s} warmer today compared to Korean.
+    F: I think it's much{s} warmer _today_ compared to Korean.
 
     O: 오늘은 한국어보다 훨씬 좋은 것 같아요.
-    E: I think it is much{s} better today compared to Korean.
-    F: I think it is much{s} better _today_ compared to Korean.
+    E: I think it's much{s} better today compared to Korean.
+    F: I think it's much{s} better _today_ compared to Korean.
 
     O: 오늘은 한국어보다 훨씬 재미있는 것 같아요.
-    E: I think it is much{s} more interesting today compared to Korean.
-    F: I think it is much{s} more interesting _today_ compared to Korean.
+    E: I think it's much{s} more interesting today compared to Korean.
+    F: I think it's much{s} more interesting _today_ compared to Korean.
 
     O: 오늘은 한국어보다 훨씬 따뜻해요.
     E: It's much{s} warmer today compared to Korean.
@@ -478,7 +478,7 @@
     # 
     # 어제 산 책을 읽고 있어요. = I am reading the book{l} I bought yesterday.
     # 그제 산 책을 읽고 있어요. = I am reading the book{l} I bought the day before yesterday.
-    # 이번 주에 만난 친구을 대화하고 있어요. = I am conversing with the friend{l} I met up with this week.
+    # 이번 주에 만난 친구를 대화하고 있어요. = I am conversing with the friend{l} I met up with this week.
     # 작년에 찍은 사진을 보고 있어요. = I am looking at the picture{l} I took last year.
     # 책을 읽고 있어요. = I am reading a book{l}.
     # 음악을 듣고 있어요. = I am listening to music{l}.
@@ -491,7 +491,7 @@
     O: 지금 카페에서 그제 산 책을 읽고 있어요.
     E: Right now in a cafe, I am reading the book{l} I bought the day before yesterday.
 
-    O: 지금 카페에서 이번 주에 만난 친구을 대화하고 있어요.
+    O: 지금 카페에서 이번 주에 만난 친구를 대화하고 있어요.
     E: Right now in a cafe, I am conversing with the friend{l} I met up with this week.
 
     O: 지금 카페에서 작년에 찍은 사진을 보고 있어요.
@@ -515,7 +515,7 @@
     O: 지금 한국에서 그제 산 책을 읽고 있어요.
     E: Right now in Korea, I am reading the book{l} I bought the day before yesterday.
 
-    O: 지금 한국에서 이번 주에 만난 친구을 대화하고 있어요.
+    O: 지금 한국에서 이번 주에 만난 친구를 대화하고 있어요.
     E: Right now in Korea, I am conversing with the friend{l} I met up with this week.
 
     O: 지금 한국에서 작년에 찍은 사진을 보고 있어요.
@@ -539,7 +539,7 @@
     O: 지금 여기에서 그제 산 책을 읽고 있어요.
     E: Right now here, I am reading the book{l} I bought the day before yesterday.
 
-    O: 지금 여기에서 이번 주에 만난 친구을 대화하고 있어요.
+    O: 지금 여기에서 이번 주에 만난 친구를 대화하고 있어요.
     E: Right now here, I am conversing with the friend{l} I met up with this week.
 
     O: 지금 여기에서 작년에 찍은 사진을 보고 있어요.
