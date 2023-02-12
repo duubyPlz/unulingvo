@@ -619,19 +619,28 @@ function selectOnlyLesson(lesson) {
     });
     lesson.addClass('selected');
 }
-function doubleTap(latestTap) {
-    var now = Date.now();
-    var timeSince = now - latestTap;
-    return (timeSince < 600) && (timeSince > 0);
-}
 $('.lesson').on('click', function(e) {
+    function doubleTap(latestTap, currentElement) {
+        if (
+            currentElement.attr('lesson-id') !== 
+            latestTap.element.attr('lesson-id')
+        ) {
+            return false;
+        }
+        var now = Date.now();
+        var timeSince = now - latestTap.timestamp;
+        return (timeSince < 300) && (timeSince > 0);
+    }
     if (isMobile) {
-        if (latestTap != null && doubleTap(latestTap)) {
+        if (latestTap != null && doubleTap(latestTap, $(this))) {
             selectOnlyLesson($(this));
         } else {
             selectLesson($(this));
         }
-        latestTap = Date.now();
+        latestTap = {
+            element: $(this),
+            timestamp: Date.now(),
+        };
     } else {
         if (e.metaKey || e.ctrlKey) {
             selectLesson($(this));
