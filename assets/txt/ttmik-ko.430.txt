@@ -1,4 +1,4 @@
-== TTMIK 4.30 - [Sentence Building Drill] #2 ==
+ == TTMIK 4.30 - [Sentence Building Drill] #2 ==
 * s -> short
 * l -> long
 
@@ -314,14 +314,14 @@
     # 지난주보다 = compared to last week.
     # 지난달보다 = compared to last month.
     # 작년보다 = compared to last year.
-    # 이거보다 = compared to this one.
+    # 이거보다 = compared to this one{s}.
     # 한국어보다 = compared to Korean.
     # 
     # 훨씬 따뜻한 것 같아요. = I think it's much{s} warmer
     # 훨씬 좋은 것 같아요. = I think it's much{s} better
     # 훨씬 재미있는 것 같아요. = I think it's much{s} more interesting
     # 훨씬 따뜻해요. = It's much{s} warmer
-    # 훨씬 좋아요. = It's much{s} warmer
+    # 훨씬 좋아요. = It's much{s} better
     # 훨씬 어려워요. = It's much{s} (more) difficult
 
     O: 오늘은 어제보다 훨씬 따뜻한 것 같아요.
@@ -341,8 +341,8 @@
     F: It's much{s} warmer _today_ compared to yesterday.
 
     O: 오늘은 어제보다 훨씬 좋아요.
-    E: It's much{s} warmer today compared to yesterday.
-    F: It's much{s} warmer _today_ compared to yesterday.
+    E: It's much{s} better today compared to yesterday.
+    F: It's much{s} better _today_ compared to yesterday.
 
     O: 오늘은 어제보다 훨씬 어려워요.
     E: It's much{s} (more) difficult today compared to yesterday.
@@ -365,8 +365,8 @@
     F: It's much{s} warmer _today_ compared to last week.
 
     O: 오늘은 지난주보다 훨씬 좋아요.
-    E: It's much{s} warmer today compared to last week.
-    F: It's much{s} warmer _today_ compared to last week.
+    E: It's much{s} better today compared to last week.
+    F: It's much{s} better _today_ compared to last week.
 
     O: 오늘은 지난주보다 훨씬 어려워요.
     E: It's much{s} (more) difficult today compared to last week.
@@ -389,8 +389,8 @@
     F: It's much{s} warmer _today_ compared to last month.
 
     O: 오늘은 지난달보다 훨씬 좋아요.
-    E: It's much{s} warmer today compared to last month.
-    F: It's much{s} warmer _today_ compared to last month.
+    E: It's much{s} better today compared to last month.
+    F: It's much{s} better _today_ compared to last month.
 
     O: 오늘은 지난달보다 훨씬 어려워요.
     E: It's much{s} (more) difficult today compared to last month.
@@ -413,36 +413,36 @@
     F: It's much{s} warmer _today_ compared to last year.
 
     O: 오늘은 작년보다 훨씬 좋아요.
-    E: It's much{s} warmer today compared to last year.
-    F: It's much{s} warmer _today_ compared to last year.
+    E: It's much{s} better today compared to last year.
+    F: It's much{s} better _today_ compared to last year.
 
     O: 오늘은 작년보다 훨씬 어려워요.
     E: It's much{s} (more) difficult today compared to last year.
     F: It's much{s} (more) difficult _today_ compared to last year.
 
     O: 오늘은 이거보다 훨씬 따뜻한 것 같아요.
-    E: I think it's much{s} warmer today compared to this one.
-    F: I think it's much{s} warmer _today_ compared to this one.
+    E: I think it's much{s} warmer today compared to this one{s}.
+    F: I think it's much{s} warmer _today_ compared to this one{s}.
 
     O: 오늘은 이거보다 훨씬 좋은 것 같아요.
-    E: I think it's much{s} better today compared to this one.
-    F: I think it's much{s} better _today_ compared to this one.
+    E: I think it's much{s} better today compared to this one{s}.
+    F: I think it's much{s} better _today_ compared to this one{s}.
 
     O: 오늘은 이거보다 훨씬 재미있는 것 같아요.
-    E: I think it's much{s} more interesting today compared to this one.
-    F: I think it's much{s} more interesting _today_ compared to this one.
+    E: I think it's much{s} more interesting today compared to this one{s}.
+    F: I think it's much{s} more interesting _today_ compared to this one{s}.
 
     O: 오늘은 이거보다 훨씬 따뜻해요.
-    E: It's much{s} warmer today compared to this one.
-    F: It's much{s} warmer _today_ compared to this one.
+    E: It's much{s} warmer today compared to this one{s}.
+    F: It's much{s} warmer _today_ compared to this one{s}.
 
     O: 오늘은 이거보다 훨씬 좋아요.
-    E: It's much{s} warmer today compared to this one.
-    F: It's much{s} warmer _today_ compared to this one.
+    E: It's much{s} better today compared to this one{s}.
+    F: It's much{s} better _today_ compared to this one{s}.
 
     O: 오늘은 이거보다 훨씬 어려워요.
-    E: It's much{s} (more) difficult today compared to this one.
-    F: It's much{s} (more) difficult _today_ compared to this one.
+    E: It's much{s} (more) difficult today compared to this one{s}.
+    F: It's much{s} (more) difficult _today_ compared to this one{s}.
 
     O: 오늘은 한국어보다 훨씬 따뜻한 것 같아요.
     E: I think it's much{s} warmer today compared to Korean.
@@ -461,8 +461,8 @@
     F: It's much{s} warmer _today_ compared to Korean.
 
     O: 오늘은 한국어보다 훨씬 좋아요.
-    E: It's much{s} warmer today compared to Korean.
-    F: It's much{s} warmer _today_ compared to Korean.
+    E: It's much{s} better today compared to Korean.
+    F: It's much{s} better _today_ compared to Korean.
 
     O: 오늘은 한국어보다 훨씬 어려워요.
     E: It's much{s} (more) difficult today compared to Korean.
@@ -482,7 +482,7 @@
     # 작년에 찍은 사진을 보고 있어요. = I am looking at the picture{l} I took last year.
     # 책을 읽고 있어요. = I am reading a book{l}.
     # 음악을 듣고 있어요. = I am listening to music{l}.
-    # 운동을 하고 있어요. = I am exercising{l}.
+    # 운동하고 있어요. = I am exercising.
     # 뭐 하고 있어요? = what are you doing?
 
     O: 지금 카페에서 어제 산 책을 읽고 있어요.
@@ -503,8 +503,8 @@
     O: 지금 카페에서 음악을 듣고 있어요.
     E: Right now in a cafe, I am listening to music{l}.
 
-    O: 지금 카페에서 운동을 하고 있어요.
-    E: Right now in a cafe, I am exercising{l}.
+    O: 지금 카페에서 운동하고 있어요.
+    E: Right now in a cafe, I am exercising.
 
     O: 지금 카페에서 뭐 하고 있어요?
     E: Right now in a cafe, what are you doing?
@@ -527,8 +527,8 @@
     O: 지금 한국에서 음악을 듣고 있어요.
     E: Right now in Korea, I am listening to music{l}.
 
-    O: 지금 한국에서 운동을 하고 있어요.
-    E: Right now in Korea, I am exercising{l}.
+    O: 지금 한국에서 운동하고 있어요.
+    E: Right now in Korea, I am exercising.
 
     O: 지금 한국에서 뭐 하고 있어요?
     E: Right now in Korea, what are you doing?
@@ -551,8 +551,8 @@
     O: 지금 여기에서 음악을 듣고 있어요.
     E: Right now here, I am listening to music{l}.
 
-    O: 지금 여기에서 운동을 하고 있어요.
-    E: Right now here, I am exercising{l}.
+    O: 지금 여기에서 운동하고 있어요.
+    E: Right now here, I am exercising.
 
     O: 지금 여기에서 뭐 하고 있어요?
     E: Right now here, what are you doing?
