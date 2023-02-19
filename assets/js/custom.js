@@ -373,7 +373,9 @@ function generateFancyTagsInHtml(formattedHtml) {
         "plain",
         "i",
         "neutral",
-        "n"
+        "n",
+        "four-words",
+        "c",
     ];
 
     var stringReplaceMap = generateMap(tagNames, prefix);
