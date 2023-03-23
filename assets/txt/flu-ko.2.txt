@@ -23,7 +23,7 @@
     F: _Do you have_ time today{s}? (Gently asking)
 
     O: 네, 있는데 왜 그러세요? 
-    E: Yes, I do, but why do you ask? @honorific
+    E: Yes, I do (have it), but why do you ask? @honorific
 
     O: 요즘 바쁜가요?
     E: Are you busy these days? (Gently asking)
