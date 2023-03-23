@@ -43,3 +43,4 @@
 
     O: 조금 이따가 할 거예요.
     E: I’ll leave (lit. do it) in a little bit.
+    F: _I’ll leave (lit. do it)_ in a little bit.
