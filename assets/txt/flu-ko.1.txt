@@ -8,6 +8,7 @@
 
     O: 지식이 얕다.
     E: (Your) knowledge is shallow. @plain
+    F: (Your) knowledge _is shallow_. @plain
 
     O: 넓고 얕은 구멍을 만들어 봐요.
     E: Let's try making a wide and shallow hole. @impolite
