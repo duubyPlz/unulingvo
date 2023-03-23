@@ -38,3 +38,4 @@
 
     O: 사랑이 얕았어요?
     E: Your love was shallow?
+    F: Your love _was shallow_?
