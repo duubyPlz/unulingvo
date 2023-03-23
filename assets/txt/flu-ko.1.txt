@@ -18,6 +18,7 @@
 
     O: 수심이 얕아요.
     E: The water level's shallow.
+    F: The water level_'s shallow_.
 
     # 淺水潮
     O: 천수조
@@ -29,6 +30,7 @@
 
     O: 바다는 얕은 바다를 좋아해요.
     E: As for the ocean, I like shallow ocean (waters).
+    F: _As for the ocean_, I like shallow ocean (waters).
 
     O: 숨을 얕게 쉬고 있었어요. 
     E: He was breathing shallowly.
