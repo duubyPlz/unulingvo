@@ -16,7 +16,7 @@
     F: _Do you (have) a lot of_ Korean friends? (Gently asking)
 
     O: 나를 사랑하나요?
-    E: Do you love me? (Gently asking) @i
+    E: Do you love me{l}? (Gently asking) @i
 
     O: 오늘 시간이 있나요?
     E: Do you have time today{s}? (Gently asking)
