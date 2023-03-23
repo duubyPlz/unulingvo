@@ -9,8 +9,8 @@
     O: 지식이 얕다.
     E: (Your) knowledge is shallow. @plain
 
-    O: 넓고 얕은 구멍을 하자.
-    E: Let's make a wide and shallow hole. @impolite
+    O: 넓고 얕은 구멍을 만들어 봐요.
+    E: Let's try making a wide and shallow hole. @impolite
 
     O: 얕은 물 
     E: shallow water
