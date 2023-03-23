@@ -1,4 +1,4 @@
-== TTMIK 4.4 - Verb Ending / -지요/-죠 / Right? ==
+== TTMIK 4.4 - -지요/-죠 / Right? ==
 * l -> long
 
     # {#RELATED Level 3 Lesson 25}: -네요

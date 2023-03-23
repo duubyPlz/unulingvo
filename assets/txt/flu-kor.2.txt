@@ -1,0 +1,44 @@
+== 2. A -ㄴ가요 / V -나요 Gently ask ==
+* s -> short
+* l -> long
+
+    # Sentences: https://sayhikorean.blogspot.com/2018/11/korean-grammar-v-additional-endings.html
+
+    O: 이게 천둥소리인가요?
+    E: Is this thunder sound? (Gently asking)
+
+    O: 주말에 재미있게 보내셨나요?
+    E: Did you have a good weekend (lit. Did you spend your weekend funly)? (Gently asking) @honorific
+
+    O: 한국 친구가 많은가요?
+    E: Do you (have) a lot of Korean friends? (Gently asking)
+    F: _Do you (have) a lot of_ Korean friends? (Gently asking)
+
+    O: 나를 사랑하나요?
+    E: Do you love me? (Gently asking) @i
+
+    O: 오늘 시간이 있나요?
+    E: Do you have time today{s}? (Gently asking)
+    F: _Do you have_ time today{s}? (Gently asking)
+
+    O: 네, 있는데 왜 그러세요? 
+    E: Yes, I do, but why do you ask? @honorific
+
+    O: 요즘 바쁜가요?
+    E: Are you busy these days? (Gently asking)
+
+    O: 아니요, 그렇게 많이 바쁘지 않아요. 
+    E: No, I'm not{l} that busy (lit. not{l} like very busy).
+
+    O: 어머님이 언제 서울에 오시나요? 
+    E: When is your mum coming to Seoul? (Gently asking) @honorific
+    F: _When is_ your mum _coming to Seoul_? (Gently asking) @honorific
+
+    O: 다음 주에 오실 거예요.
+    E: She will be coming next week. @honorific
+
+    O: 몇 시에 집에서 출발할 건가요?
+    E: What time will you leave your house? (Gently asking)
+
+    O: 조금 이따가 할 거예요.
+    E: I’ll leave (lit. do it) in a little bit.
