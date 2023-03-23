@@ -28,7 +28,7 @@
     E: Are you busy these days? (Gently asking)
 
     O: 아니요, 그렇게 많이 바쁘지 않아요. 
-    E: No, I'm not{l} that busy (lit. not{l} like very busy).
+    E: No, I'm not{l} that busy (lit. not like very busy).
 
     O: 어머님이 언제 서울에 오시나요? 
     E: When is your mum coming to Seoul? (Gently asking) @honorific
