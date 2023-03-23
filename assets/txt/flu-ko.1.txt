@@ -32,7 +32,7 @@
     E: As for the ocean, I like shallow ocean (waters).
     F: _As for the ocean_, I like shallow ocean (waters).
 
-    O: 숨을 얕게 쉬고 있었어요. 
+    O: 얕게 숨을 쉬고 있었어요. 
     E: He was breathing shallowly.
 
     O: 수영을 하지 않는 사람들을 위한 얕은 풀장 
