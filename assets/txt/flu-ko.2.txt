@@ -12,8 +12,8 @@
     E: Did you have a good weekend (lit. Did you spend your weekend funly)? (Gently asking) @honorific
 
     O: 한국 친구가 많은가요?
-    E: Do you (have) a lot of Korean friends? (Gently asking)
-    F: _Do you (have) a lot of_ Korean friends? (Gently asking)
+    E: Do you (have) a lot of Korean friends{s}? (Gently asking)
+    F: _Do you (have) a lot of_ Korean friends{s}? (Gently asking)
 
     O: 나를 사랑하나요?
     E: Do you love me{l}? (Gently asking) @i
