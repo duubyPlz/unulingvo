@@ -6,6 +6,7 @@
 
     O: 이게 천둥소리인가요?
     E: Is this thunder sound? (Gently asking)
+    F: _Is_ this _thunder sound_? (Gently asking)
 
     O: 주말에 재미있게 보내셨나요?
     E: Did you have a good weekend (lit. Did you spend your weekend funly)? (Gently asking) @honorific
