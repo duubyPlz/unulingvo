@@ -9,7 +9,7 @@
     F: _Is_ this _thunder sound_? (Gently asking)
 
     O: 주말에 재미있게 보내셨나요?
-    E: Did you have a good weekend (lit. Did you spend your weekend funly)? (Gently asking) @honorific
+    E: Did you have a good weekend (lit. On the weekends, did you spend it funly)? (Gently asking) @honorific
 
     O: 한국 친구가 많은가요?
     E: Do you (have) a lot of Korean friends{s}? (Gently asking)
