@@ -39,7 +39,7 @@
     E: She will be coming next week. @honorific
 
     O: 몇 시에 집에서 출발할 건가요?
-    E: What time will you leave your house? (Gently asking)
+    E: What time will you depart from your house? (Gently asking)
 
     O: 조금 이따가 할 거예요.
     E: I’ll leave (lit. do it) in a little bit.
