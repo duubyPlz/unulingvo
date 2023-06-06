@@ -25,8 +25,8 @@
     E: (when tide is shallow)
 
     O: 해달은 얕은 물에서 사는 거를 좋아해요. 
-    E: Sea otters like to live{s} in shallow water. 
-    F: _Sea otters_ like to live{s} in shallow water. 
+    E: Sea otters like to live in shallow water. 
+    F: _Sea otters_ like to live in shallow water. 
 
     O: 바다는 얕은 바다를 좋아해요.
     E: As for the ocean, I like shallow ocean (waters).
