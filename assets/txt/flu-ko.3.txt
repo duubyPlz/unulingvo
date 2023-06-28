@@ -32,3 +32,7 @@
 
     O: 동메달 획득했어요!
     E: I obtained a bronze medal!
+
+    O: 큰 교혼을 하나 얻었습니다
+    E: (We) learnt one{s} important lesson. @formal
+
