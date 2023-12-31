@@ -1,64 +1,38 @@
-== 3.  ==
-    # 今方 - Just a minute ago
-    # * 조금 후에, 곧
-    # * 조금 전에, 막
-    # <https://hinative.com/questions/13721463>
-    #
-    <https://twitter.com/ttmik/status/1071612965994950656>
-    # > 금방 is more colloquial and has a more “immediate” feel
-    O: 금방 오실 거죠?
-    E: You will be coming soon, right?
+== 3. 얻다 to gain ==
+* l -> long
+* s -> short
 
-    O: 금방 사무실에서 나갔어요.
-    E: (He's) just stepped out of the office. 
+    O: 용기를 얻다 
+    E: to take courage
 
-    O: 금방 돌아올게요
-    E: I'll be right back.
+    O: 인기를 얻다
+    E: to win popularity
+ 
+    O: 명성을 얻다
+    E: to win fame (lit: sound of name)
 
-    O: 방금 사당역을 지나쳤어요. 
-    E: You just missed Sadang Station. 
+    O: 세력을 얻다
+    E: to gain influence
 
-    O: 그가 방금 내 차를 몰고 가 버렸어! 
-    E: He just waltzed off with my car!
+    O: 얻다 놔뒀어?
+    E: Did you leave it? @impolite
 
-    O: 방금 보셨나요?
-    E: Did you just see it? (Gently asking)
+    O: 이거는 얻다 둬?
+    E: Should we leave these? @impolite
+    F: E: Should we leave _these_? @impolite
 
-    O: 그들은 차를 몰고 왔다
-    E: They came by car.
+    O: 물을 얻어 마셔요.
+    E: I got water{l} to drink.
 
-    O: 그는 차를 몰아 그녀의 집으로 갔다
-    E: He drove to her house.
+    O: 오늘 많은 걸 얻어갔어요. 
+    E: I learnt a lot today{s}.
 
-    O: 
-    E: 
+    # 몹시 terribly
+    O: 새 차를 몹시 갖고 싶어.
+    E: I badly want a new car. @informal
 
-    O: 
-    E: 
+    O: 동메달 획득했어요!
+    E: I obtained a bronze medal!
 
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
-
-    O: 
-    E: 
+    O: 큰 교혼을 하나 얻었습니다
+    E: (We) learnt one{s} important lesson. @formal

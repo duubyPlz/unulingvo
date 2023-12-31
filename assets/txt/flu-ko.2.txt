@@ -9,11 +9,11 @@
     F: _Is_ this _thunder sound_? (Gently asking)
 
     O: 주말에 재미있게 보내셨나요?
-    E: Did you have a good weekend (lit. Did you spend your weekend funly)? (Gently asking) @honorific
+    E: Did you have a good weekend (lit. On the weekends, did you spend it funly)? (Gently asking) @honorific
 
     O: 한국 친구가 많은가요?
-    E: Do you (have) a lot of Korean friends{s}? (Gently asking)
-    F: _Do you (have) a lot of_ Korean friends{s}? (Gently asking)
+    E: Do you (have) a lot of Korean{s} friends{s}? (Gently asking) (lit. Are there many Korea friends?)
+    F: _Do you (have) a lot of_ Korean{s} friends{s}? (Gently asking) (lit. Are there many Korea friends?)
 
     O: 나를 사랑하나요?
     E: Do you love me{l}? (Gently asking) @i
@@ -39,7 +39,7 @@
     E: She will be coming next week. @honorific
 
     O: 몇 시에 집에서 출발할 건가요?
-    E: What time will you leave your house? (Gently asking)
+    E: What time will you depart from your house? (Gently asking)
 
     O: 조금 이따가 할 거예요.
     E: I’ll leave (lit. do it) in a little bit.

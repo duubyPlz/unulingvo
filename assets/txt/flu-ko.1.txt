@@ -11,7 +11,7 @@
     F: (Your) knowledge _is shallow_. @plain
 
     O: 넓고 얕은 구멍을 만들어 봐요.
-    E: Let's try making a wide and shallow hole. @impolite
+    E: Let's try making a wide and shallow hole.
 
     O: 얕은 물 
     E: shallow water
@@ -25,15 +25,15 @@
     E: (when tide is shallow)
 
     O: 해달은 얕은 물에서 사는 거를 좋아해요. 
-    E: Sea otters like to live{s} in shallow water. 
-    F: _Sea otters_ like to live{s} in shallow water. 
+    E: Sea otters like to live in shallow water. 
+    F: _Sea otters_ like to live in shallow water. 
 
     O: 바다는 얕은 바다를 좋아해요.
     E: As for the ocean, I like shallow ocean (waters).
     F: _As for the ocean_, I like shallow ocean (waters).
 
     O: 얕게 숨을 쉬고 있었어요. 
-    E: He was breathing shallowly.
+    E: He was breathing{l} shallowly.
 
     O: 수영을 하지 않는 사람들을 위한 얕은 풀장 
     E: A shallow pool{e} for non-swimmers{l}
