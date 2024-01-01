@@ -35,4 +35,4 @@
     E: I obtained a bronze medal!
 
     O: 큰 교혼을 하나 얻었습니다
-    E: (We) learnt one{s} important lesson. @formal
+    E: (We) learnt one big lesson. @formal
