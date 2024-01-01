@@ -29,7 +29,7 @@
 
     # 몹시 terribly
     O: 새 차를 몹시 갖고 싶어.
-    E: I badly want a new car. @informal
+    E: I badly want a new car. @impolite
 
     O: 동메달 획득했어요!
     E: I obtained a bronze medal!
