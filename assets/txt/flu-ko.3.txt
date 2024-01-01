@@ -25,7 +25,7 @@
     E: I got water{l} to drink.
 
     O: 오늘 많은 걸 얻어갔어요. 
-    E: I learnt a lot today{s}.
+    E: I learnt a lot today{s}. (Lit. Today I gained a lot of stuff.)
 
     # 몹시 terribly
     O: 새 차를 몹시 갖고 싶어.
