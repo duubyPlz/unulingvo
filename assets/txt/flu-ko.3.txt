@@ -18,8 +18,8 @@
     E: Did you leave it? @impolite
 
     O: 이거는 얻다 둬?
-    E: Should we leave these? @impolite
-    F: E: Should we leave _these_? @impolite
+    E: Should we leave these? (lit. Is this to be left here?) @impolite
+    F: Should we leave _these_? (lit. Is this to be left here?) @impolite
 
     O: 물을 얻어 마셔요.
     E: I got water{l} to drink.
