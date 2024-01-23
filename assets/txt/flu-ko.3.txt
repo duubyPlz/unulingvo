@@ -15,7 +15,7 @@
     E: to gain influence
 
     O: 얻다 놔뒀어?
-    E: Did you leave it? @impolite
+    E: Did you leave it? (Lit. Did you take (but) leave it?) @impolite
 
     O: 이거는 얻다 둬?
     E: Should we leave these? (lit. Is this to be left (here)?) @impolite
