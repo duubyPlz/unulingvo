@@ -32,6 +32,9 @@
     O: 그는 차를 몰아 그녀의 집으로 갔어요.
     E: He drove to her house.
 
+    O: 곧 돌아올게요.
+    E: I'll be back right away.
+
     # > 막
     # * Just
     # * Recklessly
