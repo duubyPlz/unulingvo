@@ -1,4 +1,6 @@
 == 4.  ==
+
+
     # 今方 - Just a minute ago, in no time
     # * 조금 후에, 금벙, 곧
     # * 조금 전에, 방금, 막
@@ -39,14 +41,20 @@
     O: 물이 막 끓으려고 해요.
     E: The water’s just about to boil.
 
-    O: 
-    E: 
+    O: 이거는 집에서 막 입는 옷이에요.
+    E: This{l} is just what I wear around the house.
 
-    O: 
-    E: 
+    O: 글씨를 막 쓰다
+    E: to write carelessly
 
-    O: 
-    E: 
+    O: 그렇게 막 살다가는 언젠가 후회할 거예요.
+    E: You will regret someday if you keep living recklessly like that.
+    F: You will regret someday _if you keep living recklessly like that_.
 
-    O: 
-    E: 
+    # 다루다 - to handle
+    O: 그는 아랫사람을 너무 막 다뤄요.
+    E: He is too harsh on those under him.
+    F: _He_ is too harsh on those under him.
+
+    O: 이거 소중히 다뤄주세요.
+    E: Please handle this{s} with care.
