@@ -1,5 +1,6 @@
 == 4. 금방 / 방금 ==
-
+* l -> long
+* s -> short
 
     # 今方 - Just a minute ago, in no time
     # * 조금 후에, 금벙, 곧
