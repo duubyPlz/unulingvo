@@ -9,7 +9,7 @@
     <https://twitter.com/ttmik/status/1071612965994950656>
     # > 금방 is more colloquial and has a more “immediate” feel
     O: 금방 오실 거죠?
-    E: You will be coming soon, right?
+    E: You will be coming soon, right? @honorific
 
     O: 금방 사무실에서 나갔어요.
     E: (He's) just stepped out of the office. 
