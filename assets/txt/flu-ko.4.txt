@@ -57,8 +57,8 @@
 
     # 다루다 - to handle
     O: 그는 아랫사람을 너무 막 다뤄요.
-    E: He is too harsh on those under him.
-    F: _He_ is too harsh on those under him.
+    E: He is (lit. handles) too harsh on those under him.
+    F: _He_ is (lit. handles) too harsh on those under him.
 
     O: 이거 소중히 다뤄주세요.
     E: Please handle this{s} with care.
